@@ -1,0 +1,24 @@
+# Site Settings
+title: "Android Developer Days 2015"
+email: "contact@androiddeveloperdays.com"
+description: "Android Developer Days is an open conference becoming an international organization every passing years and including developments of mobile, web, server and software technologies and sharing of future foresights about the area."
+enablePreloader: false
+
+# Head
+metaKeywords: "android, event, gdg, google, programming, developers, ankara"
+twitterAccount: "@androiddevdays"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Organizer Info
+organizerName: "GDGs"
+organizerAlternateName: "GDG from around the world"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "contact@androiddeveloperdays.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.androiddeveloperday.com/"
+
+# Documents
+c4pUrl: "/call-for-paper"
+c4pButton: "Become a speaker"

@@ -1,0 +1,21 @@
+title: "Tickets"
+info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+offers:
+ -
+  name: "For International Attendees"
+  price: "Free"
+  priceCurrency: ""
+  ticketsNumber: "unlimited"
+  buyButtonLink: "http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607"
+  buyButtonText: "Get Now"
+  validFrom: "2015-02-01T10:00"
+  validThrough: "2015-05-12T23:59"
+ -
+  name: "Türkiye'den Katılımlar İçin"
+  price: "Free"
+  priceCurrency: ""
+  ticketsNumber: "unlimited"
+  buyButtonLink: "http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607"
+  buyButtonText: "Get Now"
+  validFrom: "2015-02-01T10:00"
+  validThrough: "2015-05-12T23:59"

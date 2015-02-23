@@ -1,0 +1,11 @@
+title: "Find your way here"
+distance: "Distance"
+driving: "DRIVING"
+walking: "WALKING"
+bicycling: "BICYCLING"
+transit: "TRANSIT"
+findFlight: "Find Flight"
+viewOnMap: "View on Google Maps"
+mapCenterCoordinates: "40.334629, 16.483350"
+mapMobileCenterCoordinates: "40.334629, 16.483350"
+mapAutoDirections: false

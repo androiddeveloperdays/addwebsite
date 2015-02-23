@@ -1,0 +1,8 @@
+image: "hero.jpg"
+title: "Android Developer Days 2015"
+eventDate: "May 11-12, 2015"
+typeoutTextValues: '"", "Android", "Lollipop", "Android Wear"'
+typeoutFallback: "Android"
+buttons:
+ - {permalink: "/call-for-papers", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Get tickets"}

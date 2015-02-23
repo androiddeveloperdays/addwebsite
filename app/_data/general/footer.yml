@@ -1,0 +1,19 @@
+socialLinks:
+ - {link: "https://plus.google.com/+Androiddeveloperdays14/", icon: "google-plus"}
+ - {link: "https://twitter.com/androiddevdays", icon: "twitter"}
+ - {link: "https://www.facebook.com/androiddeveloperdays", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+blocks:
+ -
+  title: "Links"
+  links:
+   - {permalink: "/call-for-papers", text: "Call For Papers"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:contact@androiddeveloperdays.com", text: "contact@androiddeveloperdays.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}

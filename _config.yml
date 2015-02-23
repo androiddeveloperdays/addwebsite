@@ -1,0 +1,20 @@
+# Grunt handles images and assets.
+exclude: ['img', 'css', 'js', 'fonts',
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+# Markdown library
+markdown: kramdown
+
+# Site settings
+baseurl: "/add-15"
+url: "http://ozasadnyy.github.io"
+permalink: '/blog/:title'
+
+# Varibles
+googleAnalyticsTrackingId: ""
+webtoolsSiteVerification: ""
+disqusShortName: ""
