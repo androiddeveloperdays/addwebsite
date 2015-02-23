@@ -1,7 +1,7 @@
 Android Developers Days 2015 site. 
 =============
 
-### Live demo http://androiddeveloperdays.github.io/add-15/
+### Live demo http://androiddeveloperdays.github.io/addwebsite/
 
 Original project you can find [here](https://github.com/gdg-x/zeppelin).
 

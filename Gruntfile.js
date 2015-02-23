@@ -12,7 +12,7 @@ module.exports = function(grunt) {
         app: {
             app: 'app',
             dist: 'dist',
-            baseurl: 'add-15'
+            baseurl: 'addwebsite'
         },
         watch: {
             sass: {

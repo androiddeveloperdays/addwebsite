@@ -10,8 +10,8 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/add-15"
-url: "http://ozasadnyy.github.io"
+baseurl: "/addwebsite"
+url: "http://androiddeveloperdays.github.io"
 permalink: '/blog/:title'
 
 # Varibles
