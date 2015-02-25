@@ -5,124 +5,181 @@
     <description></description>
     <link>http://androiddeveloperdays.github.io/addwebsite/</link>
     <atom:link href="http://androiddeveloperdays.github.io/addwebsite/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 24 Feb 2015 00:48:21 +0200</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2015 00:48:21 +0200</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2015 23:49:46 +0200</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2015 23:49:46 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Call for Papers</title>
-        <description>&lt;p&gt;GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.&lt;/p&gt;
+        <title>February Newsletter: Starting to announce Featured Speakers</title>
+        <description>&lt;p&gt;Welcome to the February newsletter :) We will be sharing developments with you in this newsletter.&lt;/p&gt;
 
-&lt;h4 id=&quot;presenters--who-should-speak-at-the-devfest-conference&quot;&gt;Presenters – who should speak at the DevFest Conference?&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/02_statistics.png&quot; /&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;developers (freelance and hired)&lt;/li&gt;
-  &lt;li&gt;companies developing software (apps, tools, frameworks etc.)&lt;/li&gt;
-  &lt;li&gt;research institutions with Google relevant activities&lt;/li&gt;
-  &lt;li&gt;companies, organisations and individuals using Google technologies&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The number of people requesting participation to ADD has passed &lt;strong&gt;650&lt;/strong&gt;. Hurry up to participate and fill &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;this form&lt;/a&gt;. Participation is still free :) Call For Papers is open now. You can submit a talk from &lt;a href=&quot;/addwebsite/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/matt-sullivan.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools.	
+	&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/royi-benyossef.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i&#39;m an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program&#39;s inception which means that i&#39;m not a Google employee but Google believes that i know what i&#39;m talking about as well as how to say it.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/muge-yilmaz.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization &amp;amp; customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/stephan-linzner.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/xavier-hallade.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Xavier Hallade is Developer Evangelist in Intel Software and Service Group in Paris, France.He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, Android TV and dual-displays.
+	&lt;/p&gt;	
+&lt;/div&gt;
 
-&lt;h4 id=&quot;themes-and-topics--what-do-we-expect&quot;&gt;Themes and topics – what do we expect?&lt;/h4&gt;
-&lt;p&gt;Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.&lt;/p&gt;
+&lt;p&gt;The number of &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
+&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/gdg_57.png&quot; /&gt;	
+The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
 
-&lt;h5 id=&quot;android&quot;&gt;Android&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;Google I/O 2014&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Material Design&lt;/li&gt;
-  &lt;li&gt;Migration to ART&lt;/li&gt;
-  &lt;li&gt;New Android Camera API&lt;/li&gt;
-  &lt;li&gt;New Job Scheduler&lt;/li&gt;
-  &lt;li&gt;Storage Access Framework&lt;/li&gt;
-  &lt;li&gt;Elevation &amp;amp; Clipping&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Android Continuous Integration&lt;/li&gt;
-  &lt;li&gt;Loaders, Cursor Adapters&lt;/li&gt;
-  &lt;li&gt;Android Animations&lt;/li&gt;
-  &lt;li&gt;Patterns in Android development&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;web&quot;&gt;Web&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AngularJS (1x and 2.0)&lt;/li&gt;
-  &lt;li&gt;Dart (AngularDart, server-side)&lt;/li&gt;
-  &lt;li&gt;Polymer and WebComponents&lt;/li&gt;
-  &lt;li&gt;Material Design in Web&lt;/li&gt;
-  &lt;li&gt;ChromeOS (apps development)&lt;/li&gt;
-  &lt;li&gt;Web Performance (tools, techniques, approaches)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;cloud&quot;&gt;Cloud&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Google Cloud Platform
-    &lt;ul&gt;
-      &lt;li&gt;Compute Engine&lt;/li&gt;
-      &lt;li&gt;App Engine&lt;/li&gt;
-      &lt;li&gt;Storages (SQL, NoSQL, BigData)&lt;/li&gt;
-      &lt;li&gt;APIs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Go (as a language for a Cloud Ready Apps)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlydfua-c4p&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/dfua-c4p&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is September 1, 2014&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
-&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&quot;&gt;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h5&gt;
+&lt;p&gt;Please look at the &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Jul 2014 12:00:00 +0300</pubDate>
-        <link>http://androiddeveloperdays.github.io/addwebsite/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/call-for-papers</guid>
+        <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
+        <link>http://androiddeveloperdays.github.io/addwebsite/blog/february-newsletter-starting-to-announce-featured-speakers</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/february-newsletter-starting-to-announce-featured-speakers</guid>
         
         
       </item>
     
       <item>
-        <title>Hello World!</title>
-        <description>&lt;p&gt;We’re very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - &lt;a href=&quot;http://devfest.gdg.org.ua/&quot;&gt;GDG DevFest 2014&lt;/a&gt;. &lt;/p&gt;
+        <title>Share Your Knowledge and Experience in ADD</title>
+        <description>&lt;p&gt;Developer events are great places for meeting other developers. You can learn many things from other developers. And also you can share your knowledge and experience with other developers. You can inspire many people with your talk. If you don’t want to miss this opportunity, you can apply and become a speaker at Android Developer Days. Here is the &lt;a href=&quot;https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;amp;w=1&quot;&gt;Android Developer Days Call For Papers Form&lt;/a&gt;. You can submit any subject including the subjects below. Deadline for Call For Papers is &lt;strong&gt;1st April 2015&lt;/strong&gt;. Don’t be late, :) For attendees, register for free on &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;Registration Web Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;So should you also be excited? Well yes… and here’s why!&lt;/p&gt;
+&lt;h5 id=&quot;subjects&quot;&gt;Subjects&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: we’re expecting over 350 attendees&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 48 hours of pure Google technologies &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 24-25 of October, expect hackathon and workshops on a first day and conference on the second&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Kinopalace Cinema - for a first time we’ll make technical event in real cinema directly in the heart of the ancient city of Lviv&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: we’re in the process of finalising the list of speakers&lt;/li&gt;
+  &lt;li&gt;Future Technologies&lt;/li&gt;
+  &lt;li&gt;Mobile World
+    &lt;ul&gt;
+      &lt;li&gt;Future of Mobile World&lt;/li&gt;
+      &lt;li&gt;New Generation Mobile Devices (Wearable products, etc)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Android OS
+    &lt;ul&gt;
+      &lt;li&gt;Future Versions&lt;/li&gt;
+      &lt;li&gt;Android in Different Architectures&lt;/li&gt;
+      &lt;li&gt;Android in Different Areas(Industry, Defense, Home Electronics etc.)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mobile Operating Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)&lt;/li&gt;
+  &lt;li&gt;Android App Development
+    &lt;ul&gt;
+      &lt;li&gt;New Features and Capabilities&lt;/li&gt;
+      &lt;li&gt;App Development Best Practises&lt;/li&gt;
+      &lt;li&gt;Android SDK Tools&lt;/li&gt;
+      &lt;li&gt;UI(User Interface) / UX (User Experience) Design&lt;/li&gt;
+      &lt;li&gt;App Monetization
+        &lt;ul&gt;
+          &lt;li&gt;App Marketing and Growth Hacking&lt;/li&gt;
+          &lt;li&gt;In-app Billing&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;User Statistics&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;App Development in Mobile Operatins Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)&lt;/li&gt;
+  &lt;li&gt;Android NDK&lt;/li&gt;
+  &lt;li&gt;Cross Platform App Development Frameworks&lt;/li&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Game Development&lt;/li&gt;
+  &lt;li&gt;Google TV&lt;/li&gt;
+  &lt;li&gt;Google Playstore&lt;/li&gt;
+  &lt;li&gt;Google Glass&lt;/li&gt;
+  &lt;li&gt;Communication Solutions (NFC, Bluetooth, Wi-fi)&lt;/li&gt;
+  &lt;li&gt;3G, 4G Wide Band Communication&lt;/li&gt;
+  &lt;li&gt;Cloud
+    &lt;ul&gt;
+      &lt;li&gt;Google Cloud Messaging for Android&lt;/li&gt;
+      &lt;li&gt;Google App Engine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Augmented Reality&lt;/li&gt;
+  &lt;li&gt;Social Media&lt;/li&gt;
+  &lt;li&gt;Location Based Services and Maps&lt;/li&gt;
+  &lt;li&gt;Mobile Education&lt;/li&gt;
+  &lt;li&gt;Mobile Payment&lt;/li&gt;
+  &lt;li&gt;Security&lt;/li&gt;
+  &lt;li&gt;Internet of Things&lt;/li&gt;
+  &lt;li&gt;Embedded Systems and Single Board Devices(Arduino, Raspberry PI, BeagleBoard, etc.)&lt;/li&gt;
+  &lt;li&gt;Big Data Processing Optimizations in Mobile Devices&lt;/li&gt;
+  &lt;li&gt;Software Development Methodologies&lt;/li&gt;
+  &lt;li&gt;Success Stories&lt;/li&gt;
+  &lt;li&gt;Entrepreneurship&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;but we’ve already secured a first batch of experts:&lt;/p&gt;
+&lt;p&gt;Moreover we appreciate all different ideas and papers beyond subjects above.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dawid Ostrowski&lt;/strong&gt; - Developer Relation from Google, who excited about cloud technologies&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mateusz Herych&lt;/strong&gt; - Android GDE and GDG organizer from Krakow&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dmytro Danylyk&lt;/strong&gt; - developer, blogger, speaker, author of open source 1000+ star libraries &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Roman Mazur&lt;/strong&gt; - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGLviv&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGLviv&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/b/102444623953913144164&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;amp;id=ae0fb459fc&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://devfest.gdg.org.ua/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any cool stuff about festival.&lt;/p&gt;
+&lt;p&gt;Please let us know via &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt;, if you have any question about call for papers, being attendee or sponsorship packages.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Jul 2014 11:00:00 +0300</pubDate>
-        <link>http://androiddeveloperdays.github.io/addwebsite/blog/hello-world</link>
-        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/hello-world</guid>
+        <pubDate>Sun, 11 Jan 2015 11:00:00 +0200</pubDate>
+        <link>http://androiddeveloperdays.github.io/addwebsite/blog/share-your-knowledge-and-experience-in-add</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/share-your-knowledge-and-experience-in-add</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Android Developer Days 2015 Journey Has Started</title>
+        <description>&lt;p&gt;Challenge has started for Android Developer Days 2015 and lets be together in this journey.
+Android Developer Days is going to take place in METU Cultural and Convention Center, Ankara, Turkey on May 11/12 2015. It is again free and open to everyone. GDGs (İstanbul, Eskişehir, Konya, Ankara, Düzce, Sivas and İzmir) in Turkey and METU IEEE takes part in organization committee of ADD. Moreover, we are again open to add new organizers to conference. Let’s be together and grow this community event together.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.androiddeveloperdays.com/2014/&quot;&gt;How was ADD 2014?&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;fb-root&quot; class=&quot;embed-responsive&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/media/set/?set=a.668204803216292.1073741830.595383730498400&amp;amp;type=1&quot; data-width=&quot;500&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=a.668204803216292.1073741830.595383730498400&amp;amp;type=1&quot;&gt;Post&lt;/a&gt; by &lt;a href=&quot;https://www.facebook.com/androiddeveloperdays&quot;&gt;Android Developer Days&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;International (34) and local (25) speakers shared their knowledge and experiences about current and new mobile technologies. 29 GDGs from all around the world collaborated for this event to make it happen. The event was a blast with 2053+ attendees. Hackathon, sponsored by Turkcell,Nokia Developer and Alcatel One Touch, was organized as a subevent. In addition, hundreds of books, notebooks and bags were given away. 17 smartphones delivered to attendees. Shovel board game, Kinect Games, Virtual Reality Games and Mobile Games were played by attendees which makes the event more fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/add2014_infograph_en.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-time-for-add-2015&quot;&gt;The time for ADD 2015&lt;/h4&gt;
+
+&lt;h5 id=&quot;support-community-to-be-together&quot;&gt;Support Community to Be Together&lt;/h5&gt;
+
+&lt;p&gt;ADD is an &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_conference&quot;&gt;Open Conference&lt;/a&gt;. Support the community and ADD to grow the community. Lets be together ! Bigger and richer ADD will be more beneficial to all of us. This conference is organized by volunteer people to improve the knowledge, experience and also expand the vision of attendees, so in order to make it more beneficial for community, you can support this conference. As a result if you want to be part of this organization and support it just keep in touch via &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt;.
+Lastly, here is the registration page of ADD 2015, you can register for free.&lt;/p&gt;
+
+&lt;iframe src=&quot;//eventbrite.com/tickets-external?eid=14846274607&amp;amp;ref=etckt&quot; width=&quot;100%&quot; height=&quot;260&quot; frameborder=&quot;0&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 11:00:00 +0200</pubDate>
+        <link>http://androiddeveloperdays.github.io/addwebsite/blog/android-developers-days-2015-journey-has-started</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/android-developers-days-2015-journey-has-started</guid>
         
         
       </item>
