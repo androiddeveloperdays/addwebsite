@@ -56,7 +56,9 @@
 
                     {% if include.isStaticPost == false %}
                         <div class="comments">
-                            {% if site.data.blog.blog.сommentsEnabled %} {% include disqus-comments.html %} {% endif %}
+                            {% if site.data.blog.blog.commentsEnabled %}
+                                {% include disqus-comments.html %}
+                            {% endif %}
                         </div>
                     {% endif %}
 

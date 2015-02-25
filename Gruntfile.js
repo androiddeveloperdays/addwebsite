@@ -10,25 +10,25 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         app: {
-            app: 'app',
+            source: 'app',
             dist: 'dist',
             baseurl: 'addwebsite'
         },
         watch: {
             sass: {
-                files: ['<%= app.app %>/_assets/scss/**/*.{scss,sass}'],
+                files: ['<%= app.source %>/_assets/scss/**/*.{scss,sass}'],
                 tasks: ['sass:server', 'autoprefixer']
             },
             scripts: {
-                files: ['<%= app.app %>/_assets/js/**/*'],
+                files: ['<%= app.source %>/_assets/js/**/*'],
                 tasks: ['uglify:server']
             },
             jekyll: {
-                files: ['<%= app.app %>/**/*.{html,yml,md,mkd,markdown}'],
+                files: ['<%= app.source %>/**/*.{html,yml,md,mkd,markdown}'],
                 tasks: ['jekyll:server']
             },
             images: {
-                files: ['<%= app.app %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}'],
+                files: ['<%= app.source %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}'],
                 tasks: ['copy:server']
             },
             livereload: {
@@ -58,7 +58,7 @@ module.exports = function(grunt) {
                     base: [
                         '.jekyll',
                         '.tmp',
-                        '<%= app.app %>'
+                        '<%= app.source %>'
                     ]
                 }
             },
@@ -93,7 +93,7 @@ module.exports = function(grunt) {
         jekyll: {
             options: {
                 config: '_config.yml,_config.build.yml',
-                src: '<%= app.app %>'
+                src: '<%= app.source %>'
             },
             dist: {
                 options: {
@@ -138,12 +138,12 @@ module.exports = function(grunt) {
                         'bower_components/sticky-kit/jquery.sticky-kit.js',
                         'bower_components/typed.js/js/typed.js',
                         'bower_components/waves/dist/waves.js',
-                        '<%= app.app %>/_assets/js/vendor/jquery.appear.js',
-                        '<%= app.app %>/_assets/js/vendor/jquery.countTo.min.js'
+                        '<%= app.source %>/_assets/js/vendor/jquery.appear.js',
+                        '<%= app.source %>/_assets/js/vendor/jquery.countTo.min.js'
                     ],
 
                     '.tmp/<%= app.baseurl %>/js/scripts.js': [
-                        '<%= app.app %>/_assets/js/scripts.js'
+                        '<%= app.source %>/_assets/js/scripts.js'
                     ]
                 }
             },
@@ -158,12 +158,12 @@ module.exports = function(grunt) {
                         'bower_components/sticky-kit/jquery.sticky-kit.js',
                         'bower_components/typed.js/js/typed.js',
                         'bower_components/waves/dist/waves.js',
-                        '<%= app.app %>/_assets/js/vendor/jquery.appear.js',
-                        '<%= app.app %>/_assets/js/vendor/jquery.countTo.min.js'
+                        '<%= app.source %>/_assets/js/vendor/jquery.appear.js',
+                        '<%= app.source %>/_assets/js/vendor/jquery.countTo.min.js'
                     ],
 
                     '<%= app.dist %>/<%= app.baseurl %>/js/scripts.js': [
-                        '<%= app.app %>/_assets/js/scripts.js'
+                        '<%= app.source %>/_assets/js/scripts.js'
                     ]
                 }
             }
@@ -181,7 +181,7 @@ module.exports = function(grunt) {
                 },
                 files: [{
                     expand: true,
-                    cwd: '<%= app.app %>/_assets/scss',
+                    cwd: '<%= app.source %>/_assets/scss',
                     src: '**/*.{scss,sass}',
                     dest: '.tmp/<%= app.baseurl %>/css',
                     ext: '.css'
@@ -193,7 +193,7 @@ module.exports = function(grunt) {
                 },
                 files: [{
                     expand: true,
-                    cwd: '<%= app.app %>/_assets/scss',
+                    cwd: '<%= app.source %>/_assets/scss',
                     src: '**/*.{scss,sass}',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/css',
                     ext: '.css'
@@ -312,7 +312,7 @@ module.exports = function(grunt) {
                 files: [{
                     expand: true,
                     dot: true,
-                    cwd: '<%= app.app %>',
+                    cwd: '<%= app.source %>',
                     src: ['img/**/*'],
                     dest: '.tmp/<%= app.baseurl %>'
                 }]

@@ -1,0 +1,12 @@
+<!-- Begin Team List-->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        {% for about in site.data.about.about %}
+        <div class="col-lg-8 col-lg-offset-2">
+            <h4>{{ about.title }}</h4>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ about.text }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Team List -->

@@ -52,7 +52,7 @@
   company: 'Intel'
   title: 'Developer Evangelist'
   bio: 'Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays.'
-  thumbnailUrl: XavierHallade.jpg
+  thumbnailUrl: xavier-hallade.jpg
   rockstar: true
   social: 
     - {name: 'google-plus', link: 'https://plus.google.com/+XavierHallade'}

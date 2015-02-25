@@ -16,6 +16,18 @@
         font-size: 15px;
         line-height: 26px;
     }
+    .fb_iframe_widget {
+        margin-bottom: 50px;
+        display: block;
+        span {
+            margin: 0 auto;
+            display: block;
+        }
+    }
+    .speaker-row {
+        margin: 20px 0;
+        font-style: italic;
+    }
 }
 .post-header {
     height: 20px;
@@ -45,7 +57,7 @@
     }
     iframe, img {
         display: block;
-        margin: 16px 0;
+        margin: 16px auto;
     }
 }
 .page-navigation {

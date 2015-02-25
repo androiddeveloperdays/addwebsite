@@ -17,4 +17,4 @@ permalink: '/blog/:title'
 # Varibles
 googleAnalyticsTrackingId: ""
 webtoolsSiteVerification: ""
-disqusShortName: ""
+disqusShortName: "AndroidDevDays"
