@@ -1,4 +1,10 @@
 .partners  {
+    h3 {
+        margin-top: 90px;
+        &:first-child {
+            margin-top: 20px;
+        }
+    }
     h5 {
        margin-top: 30px;
     }
