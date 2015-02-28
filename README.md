@@ -11,7 +11,7 @@ Original project you can find [here](https://github.com/gdg-x/zeppelin).
 4.  `$cd` to the directory and run `bundle install`
 5.  Run `npm install` to install the necessary "npm" dependencies
 6.  Then run `bower install` to install the front-end dependencies
-7.  **That's all. You template is ready**
+7.  **That's all. Your template is ready**
 
 ### Contributors
 Created by [Oleh Zasadnyy](https://github.com/ozasadnyy), [GDG Lviv](https://plus.google.com/102444623953913144164).

@@ -301,9 +301,33 @@ module.exports = function(grunt) {
             dist: {
                 files: [{
                     expand: true,
-                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img',
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms',
                     src: '**/*.svg',
-                    dest: '<%= app.dist %>/<%= app.baseurl %>/img'
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms'
+                },
+                {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/organizers',
+                    src: '**/*.svg',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/organizers'
+                },
+                {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/other',
+                    src: '**/*.svg',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/other'
+                },
+                {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/partners',
+                    src: '**/*.svg',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/partners'
+                },
+                {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs',
+                    src: '**/*.svg',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs'
                 }]
             }
         },
