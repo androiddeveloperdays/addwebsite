@@ -2,10 +2,10 @@
 <section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.data.index.tickets.title }}</h3>
+			<h3>{{ site.data.[site.lang].index.tickets.title }}</h3>
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
-            {% for ticketsOffer in site.data.index.tickets.offers %}
+            {% for ticketsOffer in site.data.[site.lang].index.tickets.offers %}
 	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 	            	<div class="row">
 						<div class="col-sm-6 col-xs-12">
@@ -34,7 +34,7 @@
 			{% assign animationDelay = animationDelay | plus:250 %}
             {% endfor %}
             </div>
-            <span class="tickets-info">{{ site.data.index.tickets.info }}</span>
+            <span class="tickets-info">{{ site.data.[site.lang].index.tickets.info }}</span>
 		</div>
 	</div>
 </section>

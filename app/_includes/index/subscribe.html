@@ -1,11 +1,11 @@
 <!-- Begin Subscribe Section -->
-<section id="subscribe" class="subscribe image-section parallax" style="background-image: url({{ site.baseurl_root }}/img/sections-background/{{ site.data.index.subscribe.image }});">
+<section id="subscribe" class="subscribe image-section parallax" style="background-image: url({{ site.baseurl_root }}/img/sections-background/{{ site.data.[site.lang].index.subscribe.image }});">
     <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2 animated hiding" data-animation="fadeInUp" data-delay="0">
-            <h3>{{ site.data.index.subscribe.title }}</h3>
+            <h3>{{ site.data.[site.lang].index.subscribe.title }}</h3>
             <div id="mc_embed_signup" class="col-lg-8 col-sm-8 col-lg-offset-2 col-sm-offset-2">
-                <form action="{{site.data.index.subscribe.action}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <form action="{{site.data.[site.lang].index.subscribe.action}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <div class="mc-field-group col-lg-9 col-sm-9 col-xs-12">
                         <i class="email bordered required waves-effect waves-light waves-input-wrapper">
                             <input type="email" value="" name="EMAIL" class="waves-button-input" id="mce-EMAIL" placeholder="your@email.com" autocomplete="off">
@@ -25,7 +25,7 @@
                         </i>
                     </div>
                 </form>
-                <span class="subscribe-info">{{ site.data.index.subscribe.info }}</span>
+                <span class="subscribe-info">{{ site.data.[site.lang].index.subscribe.info }}</span>
             </div>
         </div>
     </div>

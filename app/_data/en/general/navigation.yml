@@ -4,7 +4,6 @@ links:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {link: "http://www.androiddeveloperdays.com/2014/", text: "ADD 2014"}
 bottomLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightButtons:

@@ -2,8 +2,8 @@
 <section id="tickets" class="tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.data.index.tickets.title }}</h3>
-            {% for ticketsOffer in site.data.index.tickets.offers %}
+			<h3>{{ site.data.[site.lang].index.tickets.title }}</h3>
+            {% for ticketsOffer in site.data.[site.lang].index.tickets.offers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
 	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">

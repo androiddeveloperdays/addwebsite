@@ -1,0 +1,52 @@
+- 
+  group: "Sponsors"
+  showIndex: true
+  elements: 
+    - {name: "CyanogenMod", description: "Android Community Operating System", link: "http://www.cyanogenmod.org/", imageUrl: "cyanogenmod.png"}
+    - {name: "4pps", description: "4pps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+- 
+  group: "Book sponsors"
+  showIndex: true
+  elements: 
+    - {name: "Abaküs Kitap", description: "Abaküs Kitap", link: "http://www.abakuskitap.com/tr", imageUrl: "abakus.jpg"}
+    - {name: "Smashing Magazine", description: "For Professional Web Designers and Developers", link: "http://www.smashingmagazine.com/", imageUrl: "smashing-conference.png"}
+- 
+  group: "Media sponsors"
+  elements: 
+    - {name: "Android Weekly", description: "Free weekly Android development newsletter", link: "http://androidweekly.net/", imageUrl: "android-weekly.png"}
+    - {name: "Webrazzi", description: "Teknoloji, Web Girişimleri, Online Pazarlama", link: "http://webrazzi.com/", imageUrl: "webrazzi.png"}
+    - {name: "ShiftDelete.Net", description: "En güncel teknoloji haberleri, ürün incelemeleri, oyun incelemeleri günlük olarak yayınlanmaktadır.", link: "http://shiftdelete.net/", imageUrl: "sdn.jpg"}
+- 
+  group: "Press sponsors"
+  elements: 
+    - {name: "kodcu.com", description: "Kodcu.com yazılım teknolojilerinde özgün içerik barındıran, eğitimler düzenleyen, birçok etkinliğin yapıldığı açık bir ortamdır.", link: "http://www.kodcu.com/", imageUrl: "kodcu-com.png"}
+    - {name: "GazeteBilkent", description: "Türkiye'nin En Büyük Öğrenci Gazetesi", link: "http://www.gazetebilkent.com/", imageUrl: "gazete-bilkent.jpg"}
+    - {name: "Radyo ODTÜ", description: "Radyo ODTÜ", link: "http://www.radyoodtu.com.tr/", imageUrl: "radyoodtu.png"}
+    - {name: "BTnet Teknoloji Haber Portalı", description: "BTnet Teknoloji Haber Portalı", link: "http://www.btnet.com.tr/", imageUrl: "btnet.png"}
+    - {name: "BThaber", description: "BThaber", link: "http://www.bthaber.com/", imageUrl: "bthaber.png"}
+    - {name: "PCnet Dergisi Online", description: "Teknoloji İnternet Portali Bilgisayar Haberleri", link: "http://www.pcnet.com.tr/", imageUrl: "pcnet.png"}
+    - {name: "Biltek Haber", description: "Bilişim ve İletişimin Net Haber Merkezi olmayı hedefleyen BİLTEKHABER, en güncel Bilişim Teknoloji haberlerini veriyor.", link: "http://www.biltekhaber.net/", imageUrl: "biltekhaber.png"}
+    - {name: "BT Yaşam", description: "Bilgi Teknolojileri, İnternet, Güvenllik, Donanım, Yazılım", link: "http://www.btyasam.com/", imageUrl: "btyasam.png"}
+- 
+  group: "Entertainment sponsors"
+  elements: 
+    - {name: "Codemodeon", description: "Innovative Digital Works", link: "http://www.codemodeon.com/", imageUrl: "codemodeon.png"}
+- 
+  group: "Promotion sponsors"
+  elements: 
+    - {name: "Vidobu", description: "Alanında uzman eğitmenlerin anlatımı ile istediğin konuyu öğren ve sertifikasını al.", link: "http://www.vidobu.com/", imageUrl: "vidobu.png"}
+    - {name: "ReklamMobi", description: "ReklamMobi", link: "http://www.reklammobi.com/", imageUrl: "reklammobi.png"}
+    - {name: "Business Ankara", description: "Business Ankara", link: "http://www.businessankara.com/", imageUrl: "ankara-business.png"}
+    - {name: "indir.com - Bedava program indir", description: "Hızlı ve güvenli bir biçimde program, oyun ve mobil uygulamaları (iPhone, iPad, Android, Windows Phone) indir. Aradıklarınıza kolayca ulaşın.", link: "http://www.indir.com/", imageUrl: "indir.png"}
+    - {name: "btburada", description: "btburada", link: "http://www.btburada.com/", imageUrl: "btburada.png"}
+    - {name: "REKMOB", description: "Reach your target audience with Rekmob. Effective targeting at mobile for advertiser, mobile monetization, maximum ad revenue for publishers.", link: "https://www.rekmob.com/", imageUrl: "rekmob.png"}
+    - {name: "HyperAD", description: "HyperAD", link: "http://hyper.net.tr/", imageUrl: "hyperad.jpg"}
+    - {name: "Merakli Maymunn", description: "Merakli Maymunn", link: "https://www.youtube.com/user/MerakliMaymunn", imageUrl: "merakli.png"}
+- 
+  group: "Digital media sponsors"
+  elements: 
+    - {name: "Girişim Haber", description: "Girişimcilik ekosistemimiz ile ilgili tüm gelişmeleri takip edebileceğiniz Girişim odaklı haber kaynağı. Takibe alın, takipte kalın...", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg"}
+- 
+  group: "Youth and communication sponsors"
+  elements: 
+    - {name: "Üniaktivite", description: "Üniaktivite, Türkiye’nin en popüler üniversite kampüsü. Üniaktivite’de gençlik etkinlikleri ve üniversite kulüplerini takip edebilir, kariyerine yön verecek bir çok haberi bulabilir, sana ulaşmak isteyen markalara kolayca ulaşabilirsin. Ayrıca sevdiğin kategorilerdeki blog yazılarını okuyabilir, yazar olarak kendini gösterebilir, bir çok yeni arkadaşlıklar kurabilirsin.", link: "http://uniaktivite.com/", imageUrl: "uniaktivite.png"}

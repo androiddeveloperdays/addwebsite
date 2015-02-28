@@ -2,10 +2,10 @@
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.data.index.about.title }}</h3>
+            <h3>{{ site.data.[site.lang].index.about.title }}</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
-                {% for about in site.data.index.about.blocks %}
+                {% for about in site.data.[site.lang].index.about.blocks %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">

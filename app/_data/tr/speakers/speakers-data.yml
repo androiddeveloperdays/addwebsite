@@ -1,0 +1,61 @@
+- 
+  id: 0
+  name: "Matt"
+  surname: "Sullivan"
+  company: "Google"
+  title: "Developer advocate"
+  bio: "Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools."
+  thumbnailUrl: matt-sullivan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
+- 
+  id: 1
+  name: "Royi"
+  surname: "Benyossef"
+  company: ""
+  title: "Android Developer"
+  bio: "Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i'm an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program's inception which means that i'm not a Google employee but Google believes that i know what i'm talking about as well as how to say it."
+  thumbnailUrl: royi-benyossef.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RoyiBenyossef"}
+    - {name: "facebook", link: "https://www.facebook.com/Royi.Benyossef"}
+- 
+  id: 2
+  name: "Muge"
+  surname: "Yilmaz"
+  company: "Google"
+  title: "Strategic Partner Manager"
+  bio: "As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently."
+  thumbnailUrl: muge-yilmaz.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
+- 
+  id: 3
+  name: "Stephan"
+  surname: "Linzner"
+  company: "Google"
+  title: "Senior Developer Platform Engineer Android"
+  bio: "Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests."
+  thumbnailUrl: stephan-linzner.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+StephanLinzner"}
+    - {name: "twitter", link: "https://twitter.com/onlythoughtwork"}
+    - {name: "facebook", link: "https://www.facebook.com/stephan.linzner"}
+- 
+  id: 4
+  name: 'Xavier'
+  surname: 'Hallade'
+  company: 'Intel'
+  title: 'Developer Evangelist'
+  bio: 'Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays.'
+  thumbnailUrl: xavier-hallade.jpg
+  rockstar: true
+  social: 
+    - {name: 'google-plus', link: 'https://plus.google.com/+XavierHallade'}
+    - {name: 'twitter', link: 'https://twitter.com/ph0b'}
+    - {name: 'github', link: 'https://github.com/ph0b'}
+    - {name: 'linkedin', link: 'https://www.linkedin.com/in/xavierhallade/en'}

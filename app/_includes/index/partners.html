@@ -2,8 +2,8 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.data.index.partners.title }}</h3>
-            {% for partner in site.data.index.partners-data %}
+            <h3>{{ site.data.[site.lang].index.partners.title }}</h3>
+            {% for partner in site.data.[site.lang].index.partners-data %}
             {% if partner.showIndex %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
@@ -17,11 +17,11 @@
             </ul>
             {% endif %}
             {% endfor %}
-            <a href="{{ '/sponsors/' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.index.partners.showSponsorsButton }}</a>
-            <a href="{{ site.data.index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.index.partners.c4sponsorsButton }}</a>
+            <a href="{{ '/sponsors/' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.showSponsorsButton }}</a>
+            <a href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
             
-            <h3>{{ site.data.index.partners.organizersTitle }}</h3>
-            {% for organizer in site.data.index.organizers-data %}
+            <h3>{{ site.data.[site.lang].index.partners.organizersTitle }}</h3>
+            {% for organizer in site.data.[site.lang].index.organizers-data %}
             {% if organizer.showIndex %}
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
@@ -35,8 +35,8 @@
             </ul>
             {% endif %}
             {% endfor %}
-            <a href="{{ '/organizers' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.index.partners.showOrganizersButton }}</a>
-            <a href="{{ site.data.index.partners.c4organizersUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.index.partners.c4organizersButton }}</a>
+            <a href="{{ '/organizers' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.showOrganizersButton }}</a>
+            <a href="{{ site.data.[site.lang].index.partners.c4organizersUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4organizersButton }}</a>
         </div>
     </div> 
 </section>

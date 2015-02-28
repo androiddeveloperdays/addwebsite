@@ -22,3 +22,7 @@ organizerLink: "http://www.androiddeveloperday.com/"
 # Documents
 c4pUrl: "/call-for-paper"
 c4pButton: "Become a speaker"
+
+languages:
+  en: English
+  tr: Türkçe

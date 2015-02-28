@@ -1,14 +1,14 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section enable-overlay" style="background-image: url('{{ site.baseurl_root }}/img/sections-background/{{ site.data.index.hero.image }}');">
+<section id="top-section-hero" class="top-section-hero top-section image-section enable-overlay" style="background-image: url('{{ site.baseurl_root }}/img/sections-background/{{ site.data.[site.lang].index.hero.image }}');">
     <div class="overlay full-overlay"></div>
     {% include general/navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        {% assign heroText = site.data.index.hero.title | split:"<typeout>" %}
-        <h1 class="text-shadow">{{ site.data.index.hero.title }}</h1>
-        <h3 class="slogan text-shadow">{{ site.data.index.hero.slogan }}</h3>
-        <p class="text-shadow">{{ site.data.index.hero.eventDate }}</p>
-            {% for button in site.data.index.hero.buttons %}
+        {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
+        <h1 class="text-shadow">{{ site.data.[site.lang].index.hero.title }}</h1>
+        <h3 class="slogan text-shadow">{{ site.data.[site.lang].index.hero.slogan }}</h3>
+        <p class="text-shadow">{{ site.data.[site.lang].index.hero.eventDate }}</p>
+            {% for button in site.data.[site.lang].index.hero.buttons %}
         <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
         {% endfor %}
     </div>

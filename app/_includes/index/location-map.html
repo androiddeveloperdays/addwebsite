@@ -5,15 +5,15 @@
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>{{ site.data.index.location-map.title }}</h3>
+                    <h3>{{ site.data.[site.lang].index.location-map.title }}</h3>
                     <ul>
-                        {% if site.data.index.location-map.name %}<li>{{ site.data.index.location-map.name }}</li>{% endif %}
-                        <li>{{ site.data.index.location-map.streetAddress }}, {{ site.data.index.location-map.addressLocality }}</li>
-                        <li><a href="mailto:{{ site.data.general.basic.email }}">{{ site.data.general.basic.email }}</a></li>
+                        {% if site.data.[site.lang].index.location-map.name %}<li>{{ site.data.[site.lang].index.location-map.name }}</li>{% endif %}
+                        <li>{{ site.data.[site.lang].index.location-map.streetAddress }}, {{ site.data.[site.lang].index.location-map.addressLocality }}</li>
+                        <li><a href="mailto:{{ site.data.[site.lang].general.basic.email }}">{{ site.data.[site.lang].general.basic.email }}</a></li>
                         <li>
-                            {% assign startTime = site.data.index.location-map.startTime | split: "T" %}
+                            {% assign startTime = site.data.[site.lang].index.location-map.startTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
-                            {% assign endTime = site.data.index.location-map.endTime | split: "T" %}
+                            {% assign endTime = site.data.[site.lang].index.location-map.endTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
                         </li>
                     </ul>
