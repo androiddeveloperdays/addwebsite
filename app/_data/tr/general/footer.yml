@@ -18,7 +18,6 @@ blocks:
    - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
    - {permalink: "/banners-for-supporters/", text: "Banners for Supporters"}
  -
-  title: "FAQ"
+  title: "Contacts"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
    - {link: "mailto:contact@androiddeveloperdays.com", text: "contact@androiddeveloperdays.com"}

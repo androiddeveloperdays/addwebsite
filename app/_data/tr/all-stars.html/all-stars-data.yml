@@ -1,0 +1,51 @@
+- 
+  id: 0
+  name: "Matt"
+  surname: "Sullivan"
+  talks: 1
+  company: "Google"
+  thumbnailUrl: matt-sullivan.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
+- 
+  id: 1
+  name: "Royi"
+  surname: "Benyossef"
+  talks: 3
+  company: "Company"
+  thumbnailUrl: royi-benyossef.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RoyiBenyossef"}
+    - {name: "facebook", link: "https://www.facebook.com/Royi.Benyossef"}
+- 
+  id: 2
+  name: "Muge"
+  surname: "Yilmaz"
+  talks: 2
+  company: "Google"
+  thumbnailUrl: muge-yilmaz.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
+- 
+  id: 3
+  name: "Stephan"
+  surname: "Linzner"
+  talks: 4
+  company: "Google"
+  thumbnailUrl: stephan-linzner.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+StephanLinzner"}
+    - {name: "twitter", link: "https://twitter.com/onlythoughtwork"}
+    - {name: "facebook", link: "https://www.facebook.com/stephan.linzner"}
+- 
+  id: 4
+  name: 'Xavier'
+  surname: 'Hallade'
+  talks: 2
+  company: 'Intel'
+  thumbnailUrl: xavier-hallade.jpg
+  social: 
+    - {name: 'google-plus', link: 'https://plus.google.com/+XavierHallade'}
+    - {name: 'twitter', link: 'https://twitter.com/ph0b'}
+    - {name: 'github', link: 'https://github.com/ph0b'}
+    - {name: 'linkedin', link: 'https://www.linkedin.com/in/xavierhallade/en'}

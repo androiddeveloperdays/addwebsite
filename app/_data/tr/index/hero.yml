@@ -1,7 +1,7 @@
 image: "hero.jpg"
-title: "Android Geliştirici Günleri"
-slogan: "Kendini Geliştir, Dünyayı Değiştir"
-eventDate: "11-12 Mayıs 2015"
+title: "Android Developer Days 2015"
+slogan: "Challenge yourself change the world"
+eventDate: "May 11-12, 2015"
 typeoutTextValues: '"", "Android", "Lollipop", "Android Wear"'
 typeoutFallback: "Android"
 buttons:
