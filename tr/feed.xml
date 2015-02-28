@@ -3,19 +3,19 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://androiddeveloperdays.github.io/addwebsite/</link>
-    <atom:link href="http://androiddeveloperdays.github.io/addwebsite/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Feb 2015 14:16:45 +0200</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 14:16:45 +0200</lastBuildDate>
+    <link>http://androiddeveloperdays.github.io/addwebsite/tr/</link>
+    <atom:link href="http://androiddeveloperdays.github.io/addwebsite/tr/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 28 Feb 2015 14:16:46 +0200</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 14:16:46 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>February Newsletter: Starting to announce Featured Speakers</title>
-        <description>&lt;p&gt;Welcome to the February newsletter :) We will be sharing developments with you in this newsletter.&lt;/p&gt;
+        <title>Şubat Bülteni: Öne çıkan Konuşmacıları Duyurmaya Başlıyoruz</title>
+        <description>&lt;p&gt;Şubat bültenine hoş geldiniz :) Bu bültende sizlere gelişmelerden bahsedeceğiz.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/02_statistics.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The number of people requesting participation to ADD has passed &lt;strong&gt;650&lt;/strong&gt;. Hurry up to participate and fill &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;this form&lt;/a&gt;. Participation is still free :) Call For Papers is open now. You can submit a talk from &lt;a href=&quot;/addwebsite/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;AGG’ye kayıt olan katılımcı sayısı &lt;strong&gt;650&lt;/strong&gt;yi geçti. Kayıt olmak için acele edin ve &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;bu formu&lt;/a&gt;. Participation is still free :) doldurun. Katılım hala ücretsiz :) Etkin katılım çağrısı açıldı. &lt;a href=&quot;/addwebsite/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;Buradan&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
@@ -58,21 +58,21 @@
 	&lt;/p&gt;	
 &lt;/div&gt;
 
-&lt;p&gt;The number of &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
+&lt;p&gt;The number of &lt;a href=&quot;/addwebsite/tr/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
 &lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/gdg_57.png&quot; /&gt;	
-The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
+The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite/tr/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
 
 &lt;h5 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h5&gt;
-&lt;p&gt;Please look at the &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
+&lt;p&gt;Please look at the &lt;a href=&quot;/addwebsite/tr/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
-        <link>http://androiddeveloperdays.github.io/addwebsite/blog/february-newsletter-starting-to-announce-featured-speakers</link>
-        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/february-newsletter-starting-to-announce-featured-speakers</guid>
+        <link>http://androiddeveloperdays.github.io/addwebsite/tr/blog/february-newsletter-starting-to-announce-featured-speakers</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/tr/blog/february-newsletter-starting-to-announce-featured-speakers</guid>
         
         
         <category>_i18n</category>
         
-        <category>en</category>
+        <category>tr</category>
         
       </item>
     
@@ -80,7 +80,7 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite
         <title>Share Your Knowledge and Experience in ADD</title>
         <description>&lt;p&gt;Developer events are great places for meeting other developers. You can learn many things from other developers. And also you can share your knowledge and experience with other developers. You can inspire many people with your talk. If you don’t want to miss this opportunity, you can apply and become a speaker at Android Developer Days. Here is the &lt;a href=&quot;https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;amp;w=1&quot;&gt;Android Developer Days Call For Papers Form&lt;/a&gt;. You can submit any subject including the subjects below. Deadline for Call For Papers is &lt;strong&gt;1st April 2015&lt;/strong&gt;. Don’t be late, :) For attendees, register for free on &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;Registration Web Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/tr/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;subjects&quot;&gt;Subjects&lt;/h5&gt;
 
@@ -151,13 +151,13 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite
 &lt;p&gt;Please let us know via &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt;, if you have any question about call for papers, being attendee or sponsorship packages.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jan 2015 11:00:00 +0200</pubDate>
-        <link>http://androiddeveloperdays.github.io/addwebsite/blog/share-your-knowledge-and-experience-in-add</link>
-        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/share-your-knowledge-and-experience-in-add</guid>
+        <link>http://androiddeveloperdays.github.io/addwebsite/tr/blog/share-your-knowledge-and-experience-in-add</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/tr/blog/share-your-knowledge-and-experience-in-add</guid>
         
         
         <category>_i18n</category>
         
-        <category>en</category>
+        <category>tr</category>
         
       </item>
     
@@ -174,7 +174,7 @@ Android Developer Days is going to take place in METU Cultural and Convention Ce
 
 &lt;p&gt;International (34) and local (25) speakers shared their knowledge and experiences about current and new mobile technologies. 29 GDGs from all around the world collaborated for this event to make it happen. The event was a blast with 2053+ attendees. Hackathon, sponsored by Turkcell,Nokia Developer and Alcatel One Touch, was organized as a subevent. In addition, hundreds of books, notebooks and bags were given away. 17 smartphones delivered to attendees. Shovel board game, Kinect Games, Virtual Reality Games and Mobile Games were played by attendees which makes the event more fun.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/add2014_infograph_en.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/tr/img/posts/add2014_infograph_en.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;the-time-for-add-2015&quot;&gt;The time for ADD 2015&lt;/h4&gt;
 
@@ -186,13 +186,13 @@ Lastly, here is the registration page of ADD 2015, you can register for free.&lt
 &lt;iframe src=&quot;//eventbrite.com/tickets-external?eid=14846274607&amp;amp;ref=etckt&quot; width=&quot;100%&quot; height=&quot;260&quot; frameborder=&quot;0&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 11:00:00 +0200</pubDate>
-        <link>http://androiddeveloperdays.github.io/addwebsite/blog/android-developers-days-2015-journey-has-started</link>
-        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/android-developers-days-2015-journey-has-started</guid>
+        <link>http://androiddeveloperdays.github.io/addwebsite/tr/blog/android-developers-days-2015-journey-has-started</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/tr/blog/android-developers-days-2015-journey-has-started</guid>
         
         
         <category>_i18n</category>
         
-        <category>en</category>
+        <category>tr</category>
         
       </item>
     
