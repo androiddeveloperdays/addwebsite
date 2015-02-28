@@ -2,7 +2,7 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% for organizer in site.data.[site.lang].index.organizers-data %}
+            {% for organizer in site.data.[site.lang].organizers.organizers-data %}
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}

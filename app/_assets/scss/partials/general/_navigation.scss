@@ -39,7 +39,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     transform: translateY(20px);
     transition: $base-transition;
     @media (max-width: 767px) {
-        transform: translateX(-45px);
+        transform: translate(-25px, 5px);
     }
     .top-header.after-scroll & {
         transform: translateY(1px);
@@ -57,18 +57,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         float: left;
         margin-right: 20px;
         transition: $base-transition;
-        // transform: scale(.7);
-        // @media (max-width: 767px) {
-        //     transform: scale(.6);
-        // }
     }
 }
 .logo-navbar {
-    width: 185px;
-    height: 60px;
-    margin: 8px 20px 0 -10px;
-    transform: scale(.6);
-    vertical-align: middle;
+    margin: 10px 0 0 20px;
 }
 nav {
     @media (max-width: 767px) {

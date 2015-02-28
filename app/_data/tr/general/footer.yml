@@ -8,13 +8,17 @@ blocks:
  -
   title: "Links"
   links:
-   - {permalink: "/call-for-papers", text: "Call For Papers"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Become a Sponsor"}
+   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Call For Papers"}
+   - {link: "http://www.androiddeveloperdays.com/2014/", text: "ADD 2014"}
  -
-  title: "Contacts"
+  title: "Supporters"
   links:
-   - {link: "mailto:contact@androiddeveloperdays.com", text: "contact@androiddeveloperdays.com"}
+   - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
+   - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
+   - {permalink: "/banners-for-supporters/", text: "Banners for Supporters"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:contact@androiddeveloperdays.com", text: "contact@androiddeveloperdays.com"}

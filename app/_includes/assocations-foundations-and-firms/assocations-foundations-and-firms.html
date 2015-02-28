@@ -1,0 +1,20 @@
+<!-- Begin Web Sites and Blogs Section -->
+<section id="assocations-foundations-and-firms" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for partner in site.data.[site.lang].assocations-foundations-and-firms.assocations-foundations-and-firms-data %}
+            <ul class="list-inline">
+                {% for element in partner.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl_root }}/img/assocations-foundations-and-firms/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Web Sites and Blogs Section -->
+

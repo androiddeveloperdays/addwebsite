@@ -7,7 +7,7 @@
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: speaker.thumbnailUrl }})">
                                 <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
                                 <ul class="ribbon-wrapper">
@@ -50,7 +50,7 @@
                 </div>
                 {% endfor %}
             </div> 
-            <a href="{{ site.data.[site.lang].general.basic.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.data.[site.lang].general.basic.c4pButton }}</a>     
+            <a href="{{ site.data.[site.lang].general.basic.c4pUrl | prepend: baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.data.[site.lang].general.basic.c4pButton }}</a>     
         </div>
     </div>
 </section>

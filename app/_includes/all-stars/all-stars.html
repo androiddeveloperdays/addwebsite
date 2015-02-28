@@ -1,0 +1,35 @@
+<!-- Begin All Stars List-->
+<section id="all-stars" class="all-stars">
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2">
+            <div class="row appear-animation-trigger">
+                {% for star in site.data.[site.lang].all-stars.all-stars-data %}
+                <div class="all-star effect-wrapper appear-animation col-md-3 col-sm-6 col-xs-6">
+                    <div class="flow-img img-circle stars-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: star.thumbnailUrl }})"></div>
+                    <div class="stars" title="{{ star.talks }} talks">
+                    {% for i in (1..star.talks) %}
+                        <svg class="icon icon-star" viewBox="0 0 30 32">
+                            <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-star"></use>
+                        </svg>
+                    {% endfor %}
+                    </div>
+                    <span class="name">{{ star.name }} {{ star.surname }}</span>
+                    <div class="clearfix"></div>
+                    <span class="position">{{ star.company }}</span>
+                    <div class="social-links">
+                    {% for social in star.social %}
+                        <a class="social-link" href="{{ social.link }}" target="_blank">
+                            <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
+                                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
+                            </svg>
+                        </a>
+                    {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div> 
+            <a href="{{ site.data.[site.lang].general.basic.c4pUrl | prepend: baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ site.data.[site.lang].general.basic.c4pButton }}</a>     
+        </div>
+    </div>
+</section>
+<!-- End All Stars List -->

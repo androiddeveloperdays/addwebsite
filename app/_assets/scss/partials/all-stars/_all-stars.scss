@@ -1,0 +1,47 @@
+$star-image-size: 140px;
+$small-star-image-size: 120px;
+
+.all-stars {
+    .name {
+        font-size: $base-font-size * 1.8;
+        @media (max-width: 767px) {
+            font-size: 20px;
+        }
+    }
+    .position {
+        font-size: $base-font-size * 1.4;
+        line-height: 1;
+        color: $link-color;
+        @media (max-width: 767px) {
+            font-size: 16px;
+        }
+    }
+    .social-links {
+        margin-top: 5px;
+    }
+    .social-link {
+        margin: 0 2px;
+    }
+    .stars {
+        margin-top: 10px;
+    }
+    .icon-star {
+        cursor: default;
+        width: 20px;
+        height: 20px;
+    	fill: $main-color;
+    }
+}
+.all-star {
+    margin-top: 50px;
+    padding-bottom: 13px;
+}
+.stars-img {
+    width: $star-image-size;
+    height: $star-image-size;
+    margin: 0 auto;
+    @media (max-width: 767px) {
+        width: $small-star-image-size;
+        height: $small-star-image-size;
+    }
+}

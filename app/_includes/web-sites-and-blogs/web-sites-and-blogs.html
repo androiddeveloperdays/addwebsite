@@ -1,0 +1,20 @@
+<!-- Begin Web Sites and Blogs Section -->
+<section id="web-sites-and-blogs" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for partner in site.data.[site.lang].web-sites-and-blogs.web-sites-and-blogs-data %}
+            <ul class="list-inline">
+                {% for element in partner.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl_root }}/img/web-sites-and-blogs/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div> 
+</section>
+<!-- End Web Sites and Blogs Section -->
+
