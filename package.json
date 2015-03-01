@@ -1,7 +1,7 @@
 {
-    "name": "zeppelin-grunt",
+    "name": "zeppelin-grunt-add15",
     "version": "0.0.1",
-    "description": "Dependencies of Project Zeppelin-grunt",
+    "description": "Dependencies of Project Zeppelin-grunt-add15",
     "author": "Oleh Zasadnyy",
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -18,10 +18,10 @@
         "grunt-critical": "~0.1.1",
         "grunt-jekyll": "~0.4.2",
         "grunt-sass": "~0.18.0",
-        "grunt-svgmin": "~2.0.0",
+        "grunt-svgmin": "~2.0.1",
         "grunt-uncss": "~0.4.0",
         "jit-grunt": "~0.9.1",
-        "time-grunt": "~1.0.0"
+        "time-grunt": "~1.1.0"
     },
     "engines": {
         "node": ">=0.10.0"

@@ -23,6 +23,12 @@ organizerLink: "http://www.androiddeveloperday.com/"
 c4pUrl: "/blog/share-your-knowledge-and-experience-in-add/"
 c4pButton: "Become a speaker"
 
+# Varibles
+googleAnalyticsTrackingId: ""
+webtoolsSiteVerification: ""
+disqusShortName: "AndroidDevDays"
+
+# i18n
 languages:
   en: English
   tr: Türkçe

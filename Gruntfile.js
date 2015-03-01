@@ -12,7 +12,8 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'addwebsite'
+            baseurl: 'addwebsite',
+            git_repo: 'git@github.com:androiddeveloperdays/addwebsite.git'
         },
         watch: {
             sass: {
@@ -172,7 +173,8 @@ module.exports = function(grunt) {
             options: {
                 includePaths: [
                     'bower_components/animate-sass',
-                    'bower_components/bootstrap-sass/assets/stylesheets'
+                    'bower_components/bootstrap-sass/assets/stylesheets',
+                    'bower_components/waves/src/scss'
                 ]
             },
             server: {
@@ -346,7 +348,7 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     dir: '<%= app.dist %>/<%= app.baseurl %>',
-                    remote: 'git@github.com:androiddeveloperdays/addwebsite.git',
+                    remote: '<%= app.git_repo %>',
                     branch: 'gh-pages',
                     commit: true,
                     push: true,

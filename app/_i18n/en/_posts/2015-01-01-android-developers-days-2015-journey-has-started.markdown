@@ -14,7 +14,7 @@ Android Developer Days is going to take place in METU Cultural and Convention Ce
 
 International (34) and local (25) speakers shared their knowledge and experiences about current and new mobile technologies. 29 GDGs from all around the world collaborated for this event to make it happen. The event was a blast with 2053+ attendees. Hackathon, sponsored by Turkcell,Nokia Developer and Alcatel One Touch, was organized as a subevent. In addition, hundreds of books, notebooks and bags were given away. 17 smartphones delivered to attendees. Shovel board game, Kinect Games, Virtual Reality Games and Mobile Games were played by attendees which makes the event more fun.
 
-<img class="img-responsive" src="{{ site.baseurl }}/img/posts/add2014_infograph_en.png"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/add2014_infograph_en.png"/>
 
 ####The time for ADD 2015
 

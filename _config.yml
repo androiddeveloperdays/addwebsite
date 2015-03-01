@@ -17,8 +17,3 @@ permalink: '/blog/:title'
 # i18n
 languages: ["en", "tr"]
 exclude_from_localizations: ["js", "img", "css"]
-
-# Varibles
-googleAnalyticsTrackingId: ""
-webtoolsSiteVerification: ""
-disqusShortName: "AndroidDevDays"
