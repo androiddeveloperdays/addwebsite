@@ -1,12 +1,12 @@
 links:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Ana Sayfa"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/all-stars/", text: "All stars"}
- - {permalink: "/contact/", text: "Contact"}
- - {permalink: "/about/", text: "About"}
+ - {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/logistics/", text: "Ulaşım"}
+ - {permalink: "/all-stars/", text: "Tüm Yıldızlar"}
+ - {permalink: "/contact/", text: "İletişim"}
+ - {permalink: "/about/", text: "Hakkında"}
 bottomLinks:
- - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Become a speaker"}
+ - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
 rightButtons:
- - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Become a speaker"}
+ - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
