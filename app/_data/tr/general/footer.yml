@@ -1,4 +1,4 @@
-languagesTitle: "Languages"
+languagesTitle: "Diller"
 socialLinks:
  - {link: "https://plus.google.com/+Androiddeveloperdays14/", icon: "google-plus"}
  - {link: "https://twitter.com/androiddevdays", icon: "twitter"}
@@ -6,19 +6,19 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Links"
+  title: "Bağlantılar"
   links:
-   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Become a Sponsor"}
-   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Call For Papers"}
+   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Sponsor olun"}
+   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
    - {link: "http://www.androiddeveloperdays.com/2014/", text: "ADD 2014"}
  -
-  title: "Supporters"
+  title: "Destekleyenler"
   links:
-   - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
-   - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
-   - {permalink: "/banners-for-supporters/", text: "Banners for Supporters"}
+   - {permalink: "/web-sites-and-blogs/", text: "Web Siteleri and Bloglar"}
+   - {permalink: "/assocations-foundations-and-firms/", text: "STK'lar, Dernekler ve Firmalar"}
+   - {permalink: "/banners-for-supporters/", text: "Destekleyenler için Görseller"}
  -
-  title: "FAQ"
+  title: "SSS"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
    - {link: "mailto:contact@androiddeveloperdays.com", text: "contact@androiddeveloperdays.com"}
