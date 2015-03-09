@@ -1,9 +1,9 @@
 image: "direction-details.jpg"
-title: "Get around Ankara"
+title: "Ankara'da yolunuzu bulun"
 cards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Havaalanından", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Toplu Taşıma", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Oteller", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 wideCards:
  -
   title: "Questions?"
