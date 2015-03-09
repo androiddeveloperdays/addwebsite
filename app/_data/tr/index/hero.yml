@@ -1,9 +1,9 @@
 image: "hero.jpg"
-title: "Android Developer Days 2015"
-slogan: "Challenge yourself change the world"
-eventDate: "May 11-12, 2015"
+title: "Android Geliştirici Günleri 2015"
+slogan: "Kendini geliştir, dünyayı değiştir"
+eventDate: "Mayıs 11-12, 2015"
 typeoutTextValues: '"", "Android", "Lollipop", "Android Wear"'
 typeoutFallback: "Android"
 buttons:
- - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Get tickets"}
+ - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
+ - {permalink: "/#tickets", text: "Kayıt olun"}
