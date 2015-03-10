@@ -13,6 +13,12 @@ Original project you can find [here](https://github.com/gdg-x/zeppelin).
 6.  Then run `bower install` to install the front-end dependencies
 7.  **That's all. Your template is ready**
 
+Following commands are available:
+
+1.  `grunt` (by default it runs `grunt serve`) - build and start your site for **development** (with livereload, js uglifing and sass compilation) 
+2.  `grunt serve:dist` - build and start your site with **production** configs (this is how it will look online)
+3.  `grunt deploy` - build and deploy your site into a repository you defined in previous steps
+
 ### Contributors
 Created by [Oleh Zasadnyy](https://github.com/ozasadnyy), [GDG Lviv](https://plus.google.com/102444623953913144164).
 
