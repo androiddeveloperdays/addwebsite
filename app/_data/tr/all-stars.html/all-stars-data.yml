@@ -3,7 +3,7 @@
   name: "Dr. Naci"
   surname: "Dai"
   talks: 3
-  company: "Eteration"
+  company: ""
   thumbnailUrl: naci.jpeg
   social: 
 - 
@@ -11,7 +11,7 @@
   name: "Benjamin"
   surname: "Weiss"
   talks: 3
-  company: "Google"
+  company: ""
   thumbnailUrl: image06-150x150.jpg
   social: 
 - 
@@ -19,7 +19,7 @@
   name: "Görkem"
   surname: "Çetin"
   talks: 3
-  company: "Turkcell"
+  company: ""
   thumbnailUrl: gorkemcetin-150x150.jpg
   social: 
 - 
@@ -27,7 +27,7 @@
   name: "Murat"
   surname: "Yener"
   talks: 3
-  company: "Intel"
+  company: ""
   thumbnailUrl: yener-150x150.png
   social: 
 - 
@@ -35,7 +35,7 @@
   name: 'Muzaffer'
   surname: 'Gölcü'
   talks: 2
-  company: 'General Mobile'
+  company: ''
   thumbnailUrl: genmob.jpg
   social: 
 - 
@@ -43,7 +43,7 @@
   name: 'Murat'
   surname: 'Aydin'
   talks: 2
-  company: 'STM'
+  company: ''
   thumbnailUrl: maydin.png
   social: 
 - 
@@ -51,7 +51,7 @@
   name: 'Burak'
   surname: 'Aydin'
   talks: 2
-  company: '4pps'
+  company: ''
   thumbnailUrl: burak-e1368168141199-150x150.png
   social: 
 - 
@@ -59,7 +59,7 @@
   name: 'Orhun Mert'
   surname: 'Simsek'
   talks: 2
-  company: '4pps'
+  company: ''
   thumbnailUrl: mert.png
   social: 
 - 
@@ -340,7 +340,7 @@
   surname: 'Hassan'
   talks: 1
   company: ''
-  thumbnailUrl: Kamal-Hassan-e1368614098972-150x150.jpg
+  thumbnailUrl: Kamal-Hassan.jpg
   social: 
 - 
   id: 43
