@@ -1,12 +1,11 @@
 - 
   id: 0
-  name: "Matt"
-  surname: "Sullivan"
-  talks: 1
-  company: "Google"
-  thumbnailUrl: matt-sullivan.jpg
+  name: "Dr. Naci"
+  surname: "Dai"
+  talks: 4
+  company: "Eteration"
+  thumbnailUrl: http://www.androiddeveloperdays.com/2014/wp-content/uploads/2014/04/naci.jpeg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
 - 
   id: 1
   name: "Royi"
