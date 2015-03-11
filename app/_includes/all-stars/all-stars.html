@@ -1,11 +1,12 @@
-<!-- Begin All Stars List-->
+<!--Begin All Stars List-->
 <section id="all-stars" class="all-stars">
     <div class="content-wrapper">
         <div class="col-lg-8 col-lg-offset-2">
-            <div class="row appear-animation-trigger">
-                {% for star in site.data.[site.lang].all-stars.all-stars-data %}
+            <div class="row appear-animation-trigger flex-container">
+                {% assign items = site.data.[site.lang].all-stars.all-stars-data | sort: 'talks' %}
+                {% for star in items reversed %}
                 <div class="all-star effect-wrapper appear-animation col-md-3 col-sm-6 col-xs-6">
-                    <div class="flow-img img-circle stars-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: star.thumbnailUrl }})"></div>
+                    <div class="flow-img img-circle stars-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' }}{% if star.thumbnailUrl %}{{ star.thumbnailUrl }}{% else %}default.png{% endif %})"></div>
                     <div class="stars" title="{{ star.talks }} talks">
                     {% for i in (1..star.talks) %}
                         <svg class="icon icon-star" viewBox="0 0 30 32">
