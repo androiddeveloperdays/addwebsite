@@ -12,8 +12,12 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
+						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+						{% endif %}
+						{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+						{% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
@@ -30,7 +34,7 @@
 									{% if session_speaker == speaker.id %}
 									<div class="row">
 										<div class="col-md-2 col-sm-2">
-											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/'}}{% if speaker.thumbnailUrl %}{{ speaker.thumbnailUrl }}{% else %}default.png{% endif %})"></div>
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
