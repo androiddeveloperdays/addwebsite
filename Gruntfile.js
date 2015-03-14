@@ -342,6 +342,20 @@ module.exports = function(grunt) {
                     src: ['img/**/*'],
                     dest: '.tmp/<%= app.baseurl %>'
                 }]
+            },
+            dist: {
+                files: [{
+                    expand: true,
+                    cwd: 'bower_components/bootstrap-sass/assets/javascripts',
+                    src: 'bootstrap.min.js',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/js'
+                },
+                {
+                    expand: true,
+                    cwd: 'bower_components/jquery/dist',
+                    src: ['jquery.min.js', 'jquery.min.map'],
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/js'
+                }]
             }
         },
         buildcontrol: {
@@ -391,6 +405,7 @@ module.exports = function(grunt) {
         'autoprefixer:dist',
         'cssmin',
         'critical',
+        'copy:dist',
         'htmlmin'
     ]);
 

@@ -69,7 +69,6 @@
                 }
                 equalheight('.same-height');
             }
-            console.log($(window).height());
             if ($(window).height() < 650) {
                 $('.st-menu').addClass('scrollable');
                 $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
@@ -185,6 +184,7 @@
         $('.st-pusher').click(function(e) {
             if (container.hasClass('st-menu-open') && e.pageX > 256) {
                 container.removeClass('st-menu-open');
+                $('.dropdown.open .dropdown-toggle').dropdown('toggle');
             }
         });
 
