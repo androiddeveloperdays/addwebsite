@@ -6,6 +6,12 @@ links:
  - {permalink: "/all-stars/", text: "Tüm Yıldızlar"}
  - {permalink: "/contact/", text: "İletişim"}
  - {permalink: "/about/", text: "Hakkında"}
+ - 
+   subText: "Submenu"
+   links:
+    - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
+    - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
+    - {permalink: "/banners-for-supporters/", text: "Banners for Supporters"}
 bottomLinks:
  - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
 rightButtons:

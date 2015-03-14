@@ -70,6 +70,10 @@
         background: linear-gradient(to bottom, rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .4) 32%, rgba(0, 0, 0, .64) 100%);
     }
 }
+.horizontal-center {
+    left: 50%;
+    transform: translateX(-50%);
+}
 .col-centered {
     float: none;
     margin: 0 auto;

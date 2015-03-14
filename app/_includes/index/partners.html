@@ -1,5 +1,6 @@
 <!-- Begin Partners Section -->
-<section id="partners" class="partners">
+<section id="partners" class="partners image-section parallax" style="background-image: url({{ site.baseurl_root }}/img/sections-background/{{ site.data.[site.lang].index.partners.image }});">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.data.[site.lang].index.partners.title }}</h3>
@@ -19,24 +20,6 @@
             {% endfor %}
             <a href="{{ '/sponsors/' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.showSponsorsButton }}</a>
             <a href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
-            
-            <h3>{{ site.data.[site.lang].index.partners.organizersTitle }}</h3>
-            {% for organizer in site.data.[site.lang].organizers.organizers-data %}
-            {% if organizer.showIndex %}
-            <h5>{{ organizer.group }}</h5>
-            <ul class="list-inline">
-                {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl_root }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
-            {% endif %}
-            {% endfor %}
-            <a href="{{ '/organizers' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.showOrganizersButton }}</a>
-            <a href="{{ site.data.[site.lang].index.partners.c4organizersUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4organizersButton }}</a>
         </div>
     </div> 
 </section>

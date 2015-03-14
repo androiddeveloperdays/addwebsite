@@ -2,7 +2,9 @@
 <section id="organizers" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.data.[site.lang].index.organizers.title }}</h3>
             {% for organizer in site.data.[site.lang].organizers.organizers-data %}
+            {% if organizer.showIndex %}
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
@@ -13,7 +15,9 @@
                 </li>
                 {% endfor %}
             </ul>
+            {% endif %}
             {% endfor %}
+            <a href="{{ '/organizers' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.organizers.showOrganizersButton }}</a>
             <a href="{{ site.data.[site.lang].index.organizers.c4organizersUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.organizers.c4organizersButton }}</a>
         </div>
     </div> 

@@ -1,6 +1,9 @@
+title: "ADD 2014"
 image: "statistic.jpg"
 blocks:
  - {count: "2000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of Android"}
  - {count: "40", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+buttonText: "See ADD 2014"
+buttonLink: "http://www.androiddeveloperdays.com/2014/"

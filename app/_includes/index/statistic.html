@@ -3,6 +3,7 @@
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
+            <h3 id="statistics-title">{{ site.data.[site.lang].index.statistics.title }}</h3>
 			{% assign animationDelay = 0 %}
             {% for statistic in site.data.[site.lang].index.statistics.blocks %}
             {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -18,6 +19,10 @@
             {% assign check = forloop.index | modulo:2 %}
             {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
             {% endfor %}
+            <div class="clearfix"></div> 
+            <span class="bordered">
+                <a href="{{ site.data.[site.lang].index.statistics.buttonLink }}" class="bottom-section-link waves-effect waves-button waves-light" target="_blank">{{ site.data.[site.lang].index.statistics.buttonText }}</a>
+            </span>
 		</div>
 	</div>
 </section>

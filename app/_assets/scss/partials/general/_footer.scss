@@ -1,6 +1,5 @@
 $footer-background-color: #fcfcfc;
 $footer-links-color: #8b8b8b;
-
 .footer {
     padding: 40px 52px 13px;
     border-top: 1px solid #e7e7e7;
@@ -35,5 +34,7 @@ $footer-links-color: #8b8b8b;
     }
 }
 .logo-footer {
-    margin: -13px -13px 0;
+    @media (min-width: 768px) {
+        margin: -13px -13px 0;
+    }
 }
