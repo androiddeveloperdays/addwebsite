@@ -1,9 +1,9 @@
 $star-image-size: 140px;
 $small-star-image-size: 120px;
-
 .all-stars {
     .name {
         font-size: $base-font-size * 1.8;
+        line-height: 1;
         @media (max-width: 767px) {
             font-size: 20px;
         }
@@ -23,13 +23,16 @@ $small-star-image-size: 120px;
         margin: 0 2px;
     }
     .stars {
-        margin-top: 10px;
+        font-size: 14px;
+        span {
+            display: block;
+        }
     }
     .icon-star {
         cursor: default;
         width: 20px;
         height: 20px;
-    	fill: $main-color;
+        fill: $main-color;
     }
 }
 .all-star {
@@ -39,7 +42,7 @@ $small-star-image-size: 120px;
 .stars-img {
     width: $star-image-size;
     height: $star-image-size;
-    margin: 0 auto;
+    margin: 0 auto 10px;
     @media (max-width: 767px) {
         width: $small-star-image-size;
         height: $small-star-image-size;

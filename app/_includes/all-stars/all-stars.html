@@ -7,16 +7,17 @@
                 {% for star in items reversed %}
                 <div class="all-star effect-wrapper appear-animation col-md-3 col-sm-6 col-xs-6">
                     <div class="flow-img img-circle stars-img" style="background-image: url({{ site.baseurl_root | append: '/img/people/' }}{% if star.thumbnailUrl %}{{ star.thumbnailUrl }}{% else %}default.png{% endif %})"></div>
-                    <div class="stars" title="{{ star.talks }} talks">
-                    {% for i in (1..star.talks) %}
-                        <svg class="icon icon-star" viewBox="0 0 30 32">
-                            <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-star"></use>
-                        </svg>
-                    {% endfor %}
-                    </div>
                     <span class="name">{{ star.name }} {{ star.surname }}</span>
                     <div class="clearfix"></div>
                     <span class="position">{{ star.company }}</span>
+                    <div class="stars talks" title="{{ star.talks }} talks">
+                        <span>{{ site.data.[site.lang].all-stars.all-stars.starsTitle }}</span>
+                        {% for i in (1..star.talks) %}
+                            <svg class="icon icon-star" viewBox="0 0 30 32">
+                                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-star"></use>
+                            </svg>
+                        {% endfor %}
+                    </div>
                     <div class="social-links">
                     {% for social in star.social %}
                         <a class="social-link" href="{{ social.link }}" target="_blank">
