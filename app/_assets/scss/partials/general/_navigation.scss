@@ -177,6 +177,26 @@ nav {
         transform: translateY(-50px);
     }
 }
+.top-right-logo {
+    height: 40px;
+    width: 180px;
+    margin: 0 11px;
+    position: relative;
+    transform: translateY(30px);
+    transition: transform .3s;
+    .top-header.after-scroll & {
+        transform: translateY(12px);
+    }
+}
+.g-dev-logo {
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-position-y: -45px;
+    background-size: cover;
+    .top-header.after-scroll & {
+        background-position-y: initial;
+    }
+}
 .icon-menu {
     width: 20px;
     height: 20px;

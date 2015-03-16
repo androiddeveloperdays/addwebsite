@@ -51,6 +51,7 @@
             {% endif %}
         {% endfor %}
         </ul>
+        <a href="https://developers.google.com/" class=" g-dev-logo top-right-logo pull-right" target="_blank" style="background-image: url({{site.baseurl_root}}/img/partners/google_developers.png)"></a>
         {% for rightNavigationButton in site.data.[site.lang].general.navigation.rightButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
