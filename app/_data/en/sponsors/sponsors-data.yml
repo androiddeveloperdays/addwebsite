@@ -2,12 +2,12 @@
   group: "Altın Sponsorlar"
   showIndex: true
   elements:
-    - {name: "Google", description: "Google", link: "http://www.google.com/", imageUrl: ".png"}
+    - {name: "Google", description: "Google", link: "http://www.google.com/", imageUrl: "google.png"}
 -
   group: "Gümüş Sponsorlar"
   showIndex: true
   elements:
-    - {name: "PayPal", description: "Braintree_Dev.", link: "https://www.paypal.com/", imageUrl: ".png"}
+    - {name: "PayPal", description: "Braintree_Dev.", link: "https://www.paypal.com/", imageUrl: "paypal.png"}
 -
   group: "Sponsorlar"
   elements: 
