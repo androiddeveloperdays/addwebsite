@@ -7,7 +7,7 @@ links:
  - {permalink: "/contact/", text: "İletişim"}
  - {permalink: "/about/", text: "Hakkında"}
  - 
-   subText: "Submenu"
+   subText: "Destekleyenler"
    links:
     - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
     - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}

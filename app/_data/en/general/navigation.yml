@@ -7,7 +7,7 @@ links:
  - {permalink: "/contact/", text: "Contact"}
  - {permalink: "/about/", text: "About"}
  - 
-   subText: "Submenu"
+   subText: "Supporters"
    links:
     - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
     - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
