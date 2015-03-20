@@ -1,11 +1,17 @@
 - 
-  group: "Main organizer"
+  group: "Organizers"
   showIndex: true
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Ankara", description: "", link: "http://www.gdgankara.org/", imageUrl: "gdgAnkara.png"}
+    - {name: "IEEE METU", description: "", link: "http://www.ieee.metu.edu.tr/", imageUrl: "ieeeOdtu.png"}
+    - {name: "GDG İstanbul", description: "", link: "http://www.gdgistanbul.com/", imageUrl: "gdgIstanbul.png"}
+    - {name: "GDG Konya", description: "", link: "https://plus.google.com/100230700168794599054/posts", imageUrl: "gdgKonya.png"}
+    - {name: "GDG Eskişehir", description: "", link: "https://plus.google.com/115602346615910585045/posts/", imageUrl: "gdgEskisehir.png"}
+    - {name: "GDG Sivas", description: "", link: "https://plus.google.com/u/0/101286320088797470515/posts", imageUrl: "gdgSivas.png"}
+    - {name: "GDG Kütahya", description: "", link: "https://plus.google.com/u/0/+GoogleDeveloperGroupK%C3%BCtahyaGDG/posts", imageUrl: "gdgKutahya.png"}
+    - {name: "GDG İzmir", description: "", link: "https://plus.google.com/u/0/+GdgizmirOrg/about", imageUrl: "gdgIzmir.png"}
+    - {name: "GDG Düzce", description: "", link: "http://gdgduzce.duzce.edu.tr/", imageUrl: "gdgDuzce.png"}
 - 
-  group: "Co-organizers"
+  group: "Co-Organizers"
   elements: 
-    - {name: "GDG Kyiv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GDG Ahmedabad", description: "", link: "https://plus.google.com/+Gdgahmedabad/posts", imageUrl: "gdgAhmedabad.png"}
