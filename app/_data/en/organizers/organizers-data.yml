@@ -1,61 +1,66 @@
 - 
   group: "Organizers"
-  elements:
-    - {name: "GDG Ankara", description: "GDG Ankara", link: "", imageUrl: "gdg-ankara.png"}
-    - {name: "IEEE METU", description: "IEEE METU", link: "", imageUrl: "ieee-metu.png"}
-    - {name: "GDG Istanbul", description: "GDG Istanbul", link: "", imageUrl: "gdg-istanbul.png"}
-    - {name: "GDG Konya", description: "GDG Konya", link: "", imageUrl: "gdg-konya.png"}
-    - {name: "GDG Eskisehir", description: "GDG Eskisehir", link: "", imageUrl: "gdg-eskisehir.png"}
-    - {name: "GDG Sivas", description: "GDG Sivas", link: "", imageUrl: "gdg-sivas.png"}
-    - {name: "GDG Kutahya", description: "GDG Kutahya", link: "", imageUrl: "gdg-kutahya.png"}
-    - {name: "GDG Izmir", description: "GDG Izmir", link: "", imageUrl: "gdg-izmir.png"}
-    - {name: "GDG Düzce", description: "GDG Düzce", link: "", imageUrl: "gdg-duzce.png"}
-    - {name: "GDG Ahmedabad", description: "GDG Ahmedabad", link: "", imageUrl: "gdg-ahmedabad.png"}
-    - {name: "GDG Stuttgart", description: "GDG Stuttgart", link: "", imageUrl: "gdg-stuttgart.png"}
-    - {name: "GDG Ufa", description: "GDG Ufa", link: "", imageUrl: "gdg-ufa.png"}
-    - {name: "GDG Multimedia University Of Kenya", description: "GDG Multimedia University Of Kenya", link: "", imageUrl: "gdg-multimediauniofkenya.png"}
-    - {name: "GDG Locride", description: "GDG Locride", link: "", imageUrl: "gdg-locride.png"}
-    - {name: "GDG Lviv", description: "GDG Lviv", link: "", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG Blida", description: "GDG Blida", link: "", imageUrl: "gdg-blida.png"}
-    - {name: "GDG Rajkot", description: "GDG Rajkot", link: "", imageUrl: "gdg-rajkot.jpg"}
-    - {name: "BLR Droid", description: "BLR Droid", link: "", imageUrl: "blrdroid.png"}
-    - {name: "GDG Chlef", description: "GDG Chlef", link: "", imageUrl: "gdg-chlef.png"}
-    - {name: "GDG Mbarara", description: "GDG Mbarara", link: "", imageUrl: "gdg-mbarara.jpg"}
-    - {name: "GDG Dhaka", description: "GDG Dhaka", link: "", imageUrl: "gdg-dhaka.png"}
-    - {name: "GDG Pune", description: "GDG Pune", link: "", imageUrl: "gdg-pune.jpg"}
-    - {name: "GDG Bahia", description: "GDG Bahia", link: "", imageUrl: "gdg-bahia.png"}
-    - {name: "GDG Sfax", description: "GDG Sfax", link: "", imageUrl: "gdg-sfax.jpg"}
-    - {name: "GDG Minia", description: "GDG Minia", link: "", imageUrl: "gdg-minia.png"}
-    - {name: "GDG New Delhi", description: "GDG New Delhi", link: "", imageUrl: "gdg-newdelhi.jpg"}
-    - {name: "GDG Inphb", description: "GDG Inphb", link: "", imageUrl: "gdg-inphb.png"}
-    - {name: "GDG Manipal", description: "GDG Manipal", link: "", imageUrl: "gdg-manipal.jpg"}
-    - {name: "GDG Allahabad", description: "GDG Allahabad", link: "", imageUrl: "gdg-allahabad.png"}
-    - {name: "GDG Porto Alegre", description: "GDG Porto Alegre", link: "", imageUrl: "gdg-portoalegre.png"}
-    - {name: "GDG Oran", description: "GDG Oran", link: "", imageUrl: "gdg-oran.png"}
-    - {name: "GDG Univ of Cape Coast", description: "GDG Univ of Cape Coast", link: "", imageUrl: "gdg-univofcapecoast.png"}
-    - {name: "GDG Yamoussoukro", description: "GDG Yamoussoukro", link: "", imageUrl: "gdg-yamoussoukro.jpg"}
-    - {name: "GDG Ebolowa", description: "GDG Ebolowa", link: "", imageUrl: "gdg-ebolowa.png"}
-    - {name: "GDG Mombasa", description: "GDG Mombasa", link: "", imageUrl: "gdg-mombasa.png"}
-    - {name: "GDG Bangangté", description: "GDG Bangangté", link: "", imageUrl: "gdg-bangangte.png"}
-    - {name: "GDG Kpi", description: "GDG Kpi", link: "", imageUrl: "gdg-kpi.png"}
-    - {name: "GDG Settat", description: "GDG Settat", link: "", imageUrl: "gdg-settat.jpg"}
-    - {name: "GDG Lafia", description: "GDG Lafia", link: "", imageUrl: "gdg-lafia.png"}
-    - {name: "GDG Kasu", description: "GDG Kasu", link: "", imageUrl: "gdg-kasu.jpg"}
-    - {name: "GDG Ibadan", description: "GDG Ibadan", link: "", imageUrl: "gdg-ibadan.png"}
-    - {name: "GDG Ekaterinburg", description: "GDG Ekaterinburg", link: "", imageUrl: "gdg-ekaterinburg.png"}
-    - {name: "GDG Birgunj", description: "GDG Birgunj", link: "", imageUrl: "gdg-birgunj.png"}
-    - {name: "GDG Bingham University", description: "GDG Bingham University", link: "", imageUrl: "gdg-binghamuniversity.png"}
-    - {name: "Dutch AUG", description: "Dutch AUG", link: "", imageUrl: "dutchaug.png"}
-    - {name: "GDG Jsiit", description: "GDG Jsiit", link: "", imageUrl: "gdg-jsiit.jpg"}
-    - {name: "GDG Mwanza", description: "GDG Mwanza", link: "", imageUrl: "gdg-mwanza.png"}
-    - {name: "GDG Moldowa", description: "GDG Moldowa", link: "", imageUrl: "gdg-moldowa.png"}
-    - {name: "GDG Fortaleza", description: "GDG Fortaleza", link: "", imageUrl: "gdg-fortaleza.png"}
-    - {name: "GDG Lleida", description: "GDG Lleida", link: "", imageUrl: "gdg-lleida.png"}
-    - {name: "GDG Dubai", description: "GDG Dubai", link: "", imageUrl: "gdg-dubai.png"}
-    - {name: "GDG Soongsil University", description: "GDG Soongsil University", link: "", imageUrl: "gdg-soongsiluniversity.png"}
-    - {name: "GDG Kathmandu", description: "GDG Kathmandu", link: "", imageUrl: "gdg-kathmandu.jpg"}
-    - {name: "GDG Maroua", description: "GDG Maroua", link: "", imageUrl: "gdg-maroua.png"}
-    - {name: "GDG Agitel University", description: "GDG Agitel University", link: "", imageUrl: "gdg-agiteluniversity.png"}
-    - {name: "GDG Thessaloniki", description: "GDG Thessaloniki", link: "", imageUrl: "gdg-thessaloniki.png"}
-    - {name: "GDG Monastir", description: "GDG Monastir", link: "", imageUrl: "gdg-monastir.png"}
-    - {name: "GDG Haifa", description: "GDG Haifa", link: "", imageUrl: "gdg-haifa.png"}
+  showIndex: true
+  elements: 
+    - {name: "GDG Ankara", description: "", link: "http://www.gdgankara.org/", imageUrl: "gdgAnkara.png"}
+    - {name: "IEEE METU", description: "", link: "http://www.ieee.metu.edu.tr/", imageUrl: "ieeeOdtu.png"}
+    - {name: "GDG İstanbul", description: "", link: "http://www.gdgistanbul.com/", imageUrl: "gdgIstanbul.png"}
+    - {name: "GDG Konya", description: "", link: "https://plus.google.com/100230700168794599054/posts", imageUrl: "gdgKonya.png"}
+    - {name: "GDG Eskişehir", description: "", link: "https://plus.google.com/115602346615910585045/posts/", imageUrl: "gdgEskisehir.png"}
+    - {name: "GDG Sivas", description: "", link: "https://plus.google.com/u/0/101286320088797470515/posts", imageUrl: "gdgSivas.png"}
+    - {name: "GDG Kütahya", description: "", link: "https://plus.google.com/u/0/+GoogleDeveloperGroupK%C3%BCtahyaGDG/posts", imageUrl: "gdgKutahya.png"}
+    - {name: "GDG İzmir", description: "", link: "https://plus.google.com/u/0/+GdgizmirOrg/about", imageUrl: "gdgIzmir.png"}
+    - {name: "GDG Düzce", description: "", link: "http://gdgduzce.duzce.edu.tr/", imageUrl: "gdgDuzce.png"}
+- 
+  group: "Co-Organizers"
+  elements: 
+    - {name: "GDG Ahmedabad", description: "", link: "https://plus.google.com/+Gdgahmedabad/posts", imageUrl: "gdgAhmedabad.png"}
+    - {name: "GDG Stuttgart", description: "", link: "http://stuttgart.gtugs.org/", imageUrl: "gdgStuttgart.png"}
+    - {name: "GDG ", description: "", link: "http://gdgufa.blogspot.com.tr/", imageUrl: "gdgUfa.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+GdgmmuBlogspotmmu/posts", imageUrl: "gdgMmkenya.png"}
+    - {name: "GDG ", description: "", link: "http://www.gdglocride.org/", imageUrl: "gdgLocride.png"}
+    - {name: "GDG ", description: "", link: "http://lviv.gdg.org.ua/", imageUrl: "gdgLviv.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/107630357199337939894/posts", imageUrl: "gdgBlida.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+Gdgrajkot/", imageUrl: "gdgRajkot.jpg"}
+    - {name: "GDG ", description: "", link: "http://www.blrdroid.org/", imageUrl: "gdgBlrdroid.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+GDGChlef/posts", imageUrl: "gdgChlef.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/u/0/110391140569788670287/posts", imageUrl: "gdgMbarara.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+Gdgdhaka/posts", imageUrl: "gdgDhaka.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/117099251731858299644/posts", imageUrl: "gdgPune.jpg"}
+    - {name: "GDG ", description: "", link: "http://bahia.gtugs.org/", imageUrl: "gdgBahia.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/110277621604181263838/posts", imageUrl: "gdgSfax.jpg"}
+    - {name: "GDG ", description: "", link: "http://minia.gtugs.org/", imageUrl: "gdgMinia.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/114576537688641864561/posts", imageUrl: "gdgNewDelhi.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/107477192157293930542/posts", imageUrl: "gdgInhb.png"}
+    - {name: "GDG ", description: "", link: "http://plus.google.com/101309722229928080208", imageUrl: "gdgManipal.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/102753048484564707718", imageUrl: "gdgAllahabad.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/115208153258516101187/posts", imageUrl: "gdgPorto.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/111014690552387711428/posts", imageUrl: "gdgOran.png"}
+    - {name: "GDG ", description: "", link: "http://ucc.gtugs.org/", imageUrl: "gdgUnivCapeCost.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/118223038911854465408/posts", imageUrl: "gdgYamoussoukro.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/111178393301647569325/posts", imageUrl: "gdgEbolowa.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/105153400962376532068/posts", imageUrl: "gdgMombasa.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/100229901424981095401", imageUrl: "gdgBangangte.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+Gdg-constantineOrg", imageUrl: "gdgConstantine.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/116061413353713362213", imageUrl: "gdgKpi.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/116781374290268208620", imageUrl: "gdgSettat.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/118120768718238554452", imageUrl: "gdgLafia.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/u/0/115104800342352806608/posts", imageUrl: "gdgKasu.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/109813433389926474050", imageUrl: "gdgIbadan.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/114084643357707707218", imageUrl: "gdgEkaterinburg.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/112807703637841959875", imageUrl: "gdgBirgunj.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/117679563240292641304", imageUrl: "gdgBinghamUniversity.png"}
+    - {name: "GDG ", description: "", link: "https://twitter.com/dutchaug", imageUrl: "gdgDutchAUG.png"}
+    - {name: "GDG ", description: "", link: "http://www.gdg-jsiit.appspot.com/index.jsp", imageUrl: "gdgJSIIT.jpg"}
+    - {name: "GDG ", description: "", link: "http://plus.google.com/113901864922964546168", imageUrl: "gdgMwanza.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/102745134847043369252", imageUrl: "gdgMoldova.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/116566149088641717001", imageUrl: "gdgFortaleza.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+Gdglleida/", imageUrl: "gdgLleida.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/+GdgdubaiDXB/", imageUrl: "gdgDubai.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/communities/101463090584658665422", imageUrl: "gdgSSU.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/104003514155874791868/posts", imageUrl: "gdgKathmandu.jpg"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/110116525587398034065", imageUrl: "gdgMaroua.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/101872998859027833640", imageUrl: "gdgAgitel.png"}
+    - {name: "GDG ", description: "", link: "http://plus.google.com/103424383114732336071", imageUrl: "gdgThese.png"}
+    - {name: "GDG ", description: "", link: "http://plus.google.com/103429150782052657644", imageUrl: "gdgMonastir.png"}
+    - {name: "GDG ", description: "", link: "https://plus.google.com/113389230669974437854/posts", imageUrl: "gdgHaifa.png"}

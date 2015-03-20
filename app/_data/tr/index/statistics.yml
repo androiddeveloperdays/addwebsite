@@ -1,9 +1,9 @@
 title: "ADD 2014"
 image: "statistic.jpg"
 blocks:
- - {count: "2000", specialCharacter: "+", info: "katılımcı", detail: "her yerden"}
+ - {count: "2053", specialCharacter: "+", info: "katılımcı", detail: "her yerden"}
  - {count: "48", specialCharacter: "+", info: "saat", detail: "Android"}
- - {count: "40", specialCharacter: "+", info: "konuşmacı", detail: "ülke içi ve dışından"}
- - {count: "5", specialCharacter: "", info: "paralel oturum", detail: "ve eğlence salonu"}
+ - {count: "59", specialCharacter: "+", info: "konuşmacı", detail: "ülke içi ve dışından"}
+ - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve eğlence salonu"}
 buttonText: "See ADD 2014"
 buttonLink: "http://www.androiddeveloperdays.com/2014/"

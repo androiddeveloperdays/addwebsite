@@ -47,109 +47,109 @@
     - {name: "facebook", link: "https://www.facebook.com/stephan.linzner"}
 - 
   id: 4
-  name: 'Xavier'
-  surname: 'Hallade'
-  company: 'Intel'
-  title: 'Developer Evangelist'
-  bio: 'Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays.'
+  name: "Xavier"
+  surname: "Hallade"
+  company: "Intel"
+  title: "Developer Evangelist"
+  bio: "Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays."
   thumbnailUrl: xavier-hallade.jpg
   rockstar: true
   social: 
-    - {name: 'google-plus', link: 'https://plus.google.com/+XavierHallade'}
-    - {name: 'twitter', link: 'https://twitter.com/ph0b'}
-    - {name: 'github', link: 'https://github.com/ph0b'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/in/xavierhallade/en'}
+    - {name: "google-plus", link: "https://plus.google.com/+XavierHallade"}
+    - {name: "twitter", link: "https://twitter.com/ph0b"}
+    - {name: "github", link: "https://github.com/ph0b"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/xavierhallade/en"}
 - 
   id: 5
-  name: 'Tim'
-  surname: 'Messerschmidt'
-  company: 'PayPal'
-  title: 'Head of Developer Advocacy'
+  name: "Tim"
+  surname: "Messerschmidt"
+  company: "PayPal"
+  title: "Head of Developer Advocacy"
   bio: "As a long time mobile and web developer, Tim Messerschmidt channels his knowledge and experience as Braintree's Head of Developer Relation. He is passionate about startups and served as mentor at multiple incubators and accelerators.\nPrior to joining PayPal, Tim worked with Neofonie Mobile and Samsung focusing on several mobile projects. In his spare time, he leads and creates training classes in all sorts of developer-oriented topics, contributes to Open Source projects and is one of the authors of the Mobile Developer’s Guide to the Galaxy. In addition, he authored numerous articles published in print magazines."
   thumbnailUrl: tim-messerschmidt.jpg
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+TimMesserschmidt'}
-    - {name: 'twitter', link: 'https://twitter.com/seraandroid'}
-    - {name: 'github', link: 'https://github.com/SeraphimSerapis'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/in/timmesserschmidt/en'}
+    - {name: "google-plus", link: "https://plus.google.com/+TimMesserschmidt"}
+    - {name: "twitter", link: "https://twitter.com/seraandroid"}
+    - {name: "github", link: "https://github.com/SeraphimSerapis"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/timmesserschmidt/en"}
 - 
   id: 6
-  name: 'Abhisek'
-  surname: 'Devkota'
-  company: 'Cyanogen Inc.'
-  title: 'Community Manager'
-  bio: 'Abhisek Devkota is the Community Manager and project manager for Cyanogen Inc. The CyanogenMod Project is an openÂ­source distribution that is community driven and created in collaboration with volunteers around the world, with the goal to allow users to truly own their phone through customization, functionality and enhanced security over their personal data.'
+  name: "Abhisek"
+  surname: "Devkota"
+  company: "Cyanogen Inc."
+  title: "Community Manager"
+  bio: "Abhisek Devkota is the Community Manager and project manager for Cyanogen Inc. The CyanogenMod Project is an openÂ­source distribution that is community driven and created in collaboration with volunteers around the world, with the goal to allow users to truly own their phone through customization, functionality and enhanced security over their personal data."
   thumbnailUrl: abhisek-devkota.png
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+AbhisekDevkota'}
-    - {name: 'twitter', link: 'https://twitter.com/ciwrl'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/pub/abhisek-devkota/73/25/416?trk=pub-pbmap'}
+    - {name: "google-plus", link: "https://plus.google.com/+AbhisekDevkota"}
+    - {name: "twitter", link: "https://twitter.com/ciwrl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/abhisek-devkota/73/25/416?trk=pub-pbmap"}
 - 
   id: 7
-  name: 'Wiebe'
-  surname: 'Elsinga'
-  company: 'Itude Mobile'
-  title: ''
-  bio: 'Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.\nMainly focused on the design and development of mobile applications.'
+  name: "Wiebe"
+  surname: "Elsinga"
+  company: "Itude Mobile"
+  title: ""
+  bio: "Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.\nMainly focused on the design and development of mobile applications."
   thumbnailUrl: wiebe-elsinga.jpg
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+WiebeElsinga'}
-    - {name: 'twitter', link: 'https://twitter.com/welsinga'}
-    - {name: 'github', link: 'https://github.com/welsinga'}
-    - {name: 'linkedin', link: 'https://nl.linkedin.com/in/welsinga'}
+    - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
+    - {name: "twitter", link: "https://twitter.com/welsinga"}
+    - {name: "github", link: "https://github.com/welsinga"}
+    - {name: "linkedin", link: "https://nl.linkedin.com/in/welsinga"}
 - 
   id: 8
-  name: 'Markus'
-  surname: 'Eisele'
-  company: 'Red Hat'
-  title: 'Developer Advocate'
+  name: "Markus"
+  surname: "Eisele"
+  company: "Red Hat"
+  title: "Developer Advocate"
   bio: "Markus Eisele is a Developer Advocate at Red Hat and focuses on JBoss Middleware. He is working with Java EE servers from different vendors since more than 14 years and talks about his favorite topics around Java EE on conferences all over the world. He has been a principle consultant and worked with different customers on all kinds of Java EE related applications and solutions. Beside that he has always been a prolific blogger, writer and tech editor for different Java EE related books. He is an active member of the German DOAG e.V. and it's representative on the iJUG e.V. He is well known in the community as a Java Champion."
   thumbnailUrl: markus-eisele.jpg
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+MarkusEisele'}
-    - {name: 'twitter', link: 'https://twitter.com/myfear'}
-    - {name: 'github', link: 'https://github.com/myfear'}
+    - {name: "google-plus", link: "https://plus.google.com/+MarkusEisele"}
+    - {name: "twitter", link: "https://twitter.com/myfear"}
+    - {name: "github", link: "https://github.com/myfear"}
 - 
   id: 9
-  name: 'Cyril'
-  surname: 'Mottier'
-  company: 'Capitaine Train'
-  title: 'Mobile Software Engineer'
-  bio: 'Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: “Do less, but do it insanely great”'
+  name: "Cyril"
+  surname: "Mottier"
+  company: "Capitaine Train"
+  title: "Mobile Software Engineer"
+  bio: "Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: Do less, but do it insanely great."
   thumbnailUrl: cyril-mottier.jpg
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+CyrilMottier'}
-    - {name: 'twitter', link: 'https://twitter.com/cyrilmottier'}
-    - {name: 'github', link: 'https://github.com/cyrilmottier'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/in/cyrilmottier'}
+    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
+    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
+    - {name: "github", link: "https://github.com/cyrilmottier"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cyrilmottier"}
 - 
   id: 10
-  name: 'Prajyot'
-  surname: 'Mainkar'
-  company: 'Androcid Media Pvt. Ltd.'
-  title: 'Director'
+  name: "Prajyot"
+  surname: "Mainkar"
+  company: "Androcid Media Pvt. Ltd."
+  title: "Director"
   bio: "Mr. Prajyot Mainkar is the director at Androcid Media Pvt. Ltd, an app engineering firm based out of India. He is the manager of Google's Developer Group - GAUG ( Goa Android users Group) - one of the oldest android developer community in India. Being android developer himself, he has been active in the Android community and been assisting Android developers build new, compelling and well-received apps. He has spoken at several conferences including Droidcon India, GDG DevFest, Silicon India Mobile Conference and many more."
   thumbnailUrl: prajyot-mainkar.jpg
   rockstar: true
   social:
-    - {name: 'google-plus', link: 'https://plus.google.com/+prajyotmainkar'}
-    - {name: 'twitter', link: 'https://twitter.com/prajyotm'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/in/prajyotm'}
+    - {name: "google-plus", link: "https://plus.google.com/+prajyotmainkar"}
+    - {name: "twitter", link: "https://twitter.com/prajyotm"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/prajyotm"}
 - 
   id: 11
-  name: 'Orhan'
-  surname: 'Obut'
-  company: 'Rocket-Internet'
-  title: 'Android Developer'
+  name: "Orhan"
+  surname: "Obut"
+  company: "Rocket-Internet"
+  title: "Android Developer"
   bio: "Orhan Obut is android developer at Rocket-Internet in Berlin. Since he is enthusiastic about android development and open-source, he is trying to learn as much as possible on these topics. He is also a big fan of open-source and constantly supports it. He has been worked on various projects from m-banking applications to m-commerce applications.  He always aims to use the software principles, the best practices and share the knowledge with the community."
   thumbnailUrl: orhan-obut.jpg
   rockstar: true
   social:
-    - {name: 'twitter', link: 'https://twitter.com/orhanobut'}
-    - {name: 'github', link: 'https://github.com/orhanobut'}
-    - {name: 'linkedin', link: 'https://www.linkedin.com/in/orhanobut'}
+    - {name: "twitter", link: "https://twitter.com/orhanobut"}
+    - {name: "github", link: "https://github.com/orhanobut"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/orhanobut"}
