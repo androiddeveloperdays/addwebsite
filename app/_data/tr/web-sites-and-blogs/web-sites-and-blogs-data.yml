@@ -7,7 +7,7 @@
     - {name: "Hüseyin Bodur", description: "bugüne en uzak gün DÜN'dür, yarına en yakın gün BUGÜN'dür.", link: "http://huseyinbodur.net/", imageUrl: "huseyin_bodur.png"}
     - {name: "Murat Aydın", description: "", link: "http://www.ottodroid.net/", imageUrl: "ottodroid.png"}
     - {name: "KodArge", description: "", link: "http://kodarge.com/", imageUrl: "kod_arge.png"}
-    - {name: "KODLAOYNA", description: "AKIL OYUNLARI, BİLİM VE YAZILIM MERKEZİ", link: "http://kodlaoyna.com/", imageUrl: "kod_arge.png"}
+    - {name: "KODLAOYNA", description: "AKIL OYUNLARI, BİLİM VE YAZILIM MERKEZİ", link: "http://kodlaoyna.com/", imageUrl: "kodla_oyna.png"}
     - {name: "eGirisim", description: "", link: "http://www.egirisim.com/", imageUrl: "e_girisim.jpg"}
     - {name: "Mehmet İnce", description: "Siber Güvenlik & Linux Blog", link: "https://www.mehmetince.net/", imageUrl: "mdi_security.png"}
     - {name: "Styling Android", description: "A techical guide to to improving the UI and UX Android apps“", link: "http://blog.stylingandroid.com/", imageUrl: "styling_android.png"}
