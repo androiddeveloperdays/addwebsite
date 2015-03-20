@@ -42,7 +42,7 @@
   elements: 
     - {name: "Codemodeon", description: "Innovative Digital Works", link: "http://www.codemodeon.com/", imageUrl: "codemodeon.png"}
 - 
-  group: "Promosyon Sponsorlaro"
+  group: "Promosyon Sponsorları"
   elements: 
     - {name: "Vidobu", description: "Alanında uzman eğitmenlerin anlatımı ile istediğin konuyu öğren ve sertifikasını al.", link: "http://www.vidobu.com/", imageUrl: "vidobu.png"}
     - {name: "ReklamMobi", description: "ReklamMobi", link: "http://www.reklammobi.com/", imageUrl: "reklammobi.png"}
