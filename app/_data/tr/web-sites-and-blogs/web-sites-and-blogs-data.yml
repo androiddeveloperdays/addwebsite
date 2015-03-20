@@ -1,17 +1,17 @@
 - 
   elements: 
-    - {name: "Mustafa Özlü", description: "", link: "http://mustafaozlu.com.tr/", imageUrl: "mustafaOzlu.png"}
-    - {name: "F. Oğuz ÖZKEROĞLU", description: "Web Günlüğü", link: "http://www.oguzozkeroglu.com/", imageUrl: "fOguzOzkeroglu.png"}
+    - {name: "Mustafa Özlü", description: "", link: "http://mustafaozlu.com.tr/", imageUrl: "mustafa_ozlu.png"}
+    - {name: "F. Oğuz ÖZKEROĞLU", description: "Web Günlüğü", link: "http://www.oguzozkeroglu.com/", imageUrl: "f_oguz_ozkeroglu.png"}
     - {name: "Androcid", description: "We publish Android News in India, Event News , App reviews and Android Phones information. Get best and real time Android Update.", link: "http://www.androcid.com/", imageUrl: "androcid.png"}
-    - {name: "Oğuz Özkaraca", description: "BİLGİNİN EFENDİSİ OLMAK İÇİN, ÇALIŞMANIN KÖLESİ OLMAK GEREKİR", link: "http://oguzozkaraca.com/", imageUrl: "oguzOzkaraca.png"}
-    - {name: "Hüseyin Bodur", description: "bugüne en uzak gün DÜN'dür, yarına en yakın gün BUGÜN'dür.", link: "http://huseyinbodur.net/", imageUrl: "huseyinBodur.png"}
+    - {name: "Oğuz Özkaraca", description: "BİLGİNİN EFENDİSİ OLMAK İÇİN, ÇALIŞMANIN KÖLESİ OLMAK GEREKİR", link: "http://oguzozkaraca.com/", imageUrl: "oguz_ozkaraca.png"}
+    - {name: "Hüseyin Bodur", description: "bugüne en uzak gün DÜN'dür, yarına en yakın gün BUGÜN'dür.", link: "http://huseyinbodur.net/", imageUrl: "huseyin_bodur.png"}
     - {name: "Murat Aydın", description: "", link: "http://www.ottodroid.net/", imageUrl: "ottodroid.png"}
-    - {name: "KodArge", description: "", link: "http://kodarge.com/", imageUrl: "kodArge.png"}
-    - {name: "KODLAOYNA", description: "AKIL OYUNLARI, BİLİM VE YAZILIM MERKEZİ", link: "http://kodlaoyna.com/", imageUrl: "kodlaOyna.png"}
-    - {name: "eGirisim", description: "", link: "http://www.egirisim.com/", imageUrl: "eGirisim.jpg"}
-    - {name: "Mehmet İnce", description: "Siber Güvenlik & Linux Blog", link: "https://www.mehmetince.net/", imageUrl: "mdiSecurity.png"}
-    - {name: "Styling Android", description: "A techical guide to to improving the UI and UX Android apps“", link: "http://blog.stylingandroid.com/", imageUrl: "stylingAndroid.png"}
-    - {name: "mobil istanbul", description: "", link: "http://mobilistanbul.com/", imageUrl: "mobilIstanbul.png"}
+    - {name: "KodArge", description: "", link: "http://kodarge.com/", imageUrl: "kod_arge.png"}
+    - {name: "KODLAOYNA", description: "AKIL OYUNLARI, BİLİM VE YAZILIM MERKEZİ", link: "http://kodlaoyna.com/", imageUrl: "kod_arge.png"}
+    - {name: "eGirisim", description: "", link: "http://www.egirisim.com/", imageUrl: "e_girisim.jpg"}
+    - {name: "Mehmet İnce", description: "Siber Güvenlik & Linux Blog", link: "https://www.mehmetince.net/", imageUrl: "mdi_security.png"}
+    - {name: "Styling Android", description: "A techical guide to to improving the UI and UX Android apps“", link: "http://blog.stylingandroid.com/", imageUrl: "styling_android.png"}
+    - {name: "mobil istanbul", description: "", link: "http://mobilistanbul.com/", imageUrl: "mobil_istanbul.png"}
     - {name: "Androidliyim", description: "APK İndirme Merkezi", link: "http://www.androidliyim.com/", imageUrl: "androidliyim.png"}
     - {name: "Mobilhanem", description: "", link: "http://www.mobilhanem.com/", imageUrl: "mobilhanem.png"}
-    - {name: "Şeref Akyüz", description: "programlama - oyun programlama", link: "http://www.serefakyuz.com/", imageUrl: "serefAkyuz.jpg"}
+    - {name: "Şeref Akyüz", description: "programlama - oyun programlama", link: "http://www.serefakyuz.com/", imageUrl: "seref_akyuz.jpg"}

@@ -3,20 +3,38 @@
     <div class="overlay full-overlay"></div>
     {% include general/navigation.html %}
     <div class="content-wrapper">
-    <div class="jumbotron">
-        {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
-        <h1 class="text-shadow">{{ site.data.[site.lang].index.hero.title }}</h1>
-        <h3 class="slogan text-shadow">{{ site.data.[site.lang].index.hero.slogan }}</h3>
-        <p class="text-shadow">{{ site.data.[site.lang].index.hero.eventDate }}</p>
-            {% for button in site.data.[site.lang].index.hero.buttons %}
-        <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-        {% endfor %}
-    </div>
-    <a href="#about" class="explore">
-        <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-            <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-        </svg>
-    </a>
+        <div class="jumbotron">
+            {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
+            <h1 class="text-shadow">{{ site.data.[site.lang].index.hero.title }}</h1>
+            <h3 class="slogan text-shadow">{{ site.data.[site.lang].index.hero.slogan }}</h3>
+            <p class="text-shadow">{{ site.data.[site.lang].index.hero.eventDate }}</p>
+                {% for button in site.data.[site.lang].index.hero.buttons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
+        <div class="hero-sponsors">
+            {% for partner in site.data.[site.lang].sponsors.sponsors-data %}
+            {% if partner.showIndex %}
+            <div class="col-sm-4">
+                <h6>{{ partner.group }}</h6>
+                <ul class="list-inline">
+                    {% for element in partner.elements %}
+                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl_root }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <a href="#about" class="explore">
+            <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
+                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-arrow-down"></use>
+            </svg>
+        </a>
     </div>
 </section>
 <!-- End Hero Section -->
