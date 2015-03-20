@@ -9,6 +9,7 @@ links:
  - 
    subText: "Supporters"
    links:
+    - {permalink: "/communities/", text: "Communities"}
     - {permalink: "/web-sites-and-blogs/", text: "Web Sites and Blogs"}
     - {permalink: "/assocations-foundations-and-firms/", text: "Assocations, Foundations and Firms"}
     - {permalink: "/banners-for-supporters/", text: "Banners for Supporters"}
