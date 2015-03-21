@@ -1,68 +1,68 @@
 ---
 layout: post
-title:  "Share Your Knowledge and Experience in ADD"
+title:  "Bilgi ve Tecrübelerini AGG’de Paylaş"
 date:   2015-01-11 09:00:00
 isStaticPost: false
 ---
 
-Developer events are great places for meeting other developers. You can learn many things from other developers. And also you can share your knowledge and experience with other developers. You can inspire many people with your talk. If you don’t want to miss this opportunity, you can apply and become a speaker at Android Developer Days. 
+Geliştirici etkinlikleri diğer geliştiricilerle karşılaşmak için çok güzel bir fırsattır. Diğer geliştiricilerden bir çok şey öğrenebilirsiniz. Aynı zamanda siz de bilgi ve tecrübelerinizi diğer geliştiriciler ile paylaşabilirsiniz. Bir çok insana yapacağınız konuşma ile ilham olabilirsiniz. Böyle bir fırsatı kaçırmak istemiyorsanız, AGG’de konuşmacı olmak için başvurabilir ve konuşmacı olabilirsiniz. 
 <div class="clearfix"></div>
-<a href="https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;w=1" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Make Submission</a>
+<a href="https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;w=1" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Konuşmacı Ol</a>
 <div class="clearfix"></div>
-You can submit any subject including the subjects below. Deadline for Call For Papers is **1st April 2015**. Don’t be late, :) For attendees, register for free on:
+Aşağıdaki konuları da içeren istediğiniz bir konuda 1 Nisan 2015 tarihine kadar Etkin Katılım Çağrınızı gönderebilirsiniz. Geç kalmayın :) Bedava olan etkinliğe katılmak için ise tıklayın:
 <div class="clearfix"></div>
-<a href="http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Registration Web Page</a>
+<a href="http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Kayıt Ol</a>
 <div class="clearfix"></div>
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/share-your-knowledge.jpg"/>
 
-#####Subjects
+#####Konular
 
-* Future Technologies
-* Mobile World
-  * Future of Mobile World
-  * New Generation Mobile Devices (Wearable products, etc)
-* Android OS
-  * Future Versions
-  * Android in Different Architectures
-  * Android in Different Areas(Industry, Defense, Home Electronics etc.)
-* Mobile Operating Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)
-* Android App Development
-  * New Features and Capabilities
-  * App Development Best Practises
-  * Android SDK Tools
-  * UI(User Interface) / UX (User Experience) Design
-  * App Monetization
-    * App Marketing and Growth Hacking
-    * In-app Billing
-  * User Statistics
-* App Development in Mobile Operatins Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)
+* Geleceğin Teknolojileri
+* Mobil Dünya
+  * Mobil Dünyanın Geleceği
+  * Yeni Nesil Mobil Cihazlar (Giyilebilir Ürünler, vb.)
+* Android İşletim Sistemi
+  * Gelecek Versiyonlar
+  * Farklı Platformlarda Çalışabilirlik
+  * Farklı Alanlarda Kullanım (Endüstri, Savunma, Ev Elektroniği)
+* Mobil İşletim Sistemleri (iOS, Tizen, Firefox OS, Windows Phone vb.)
+* Android Uygulama Geliştirme
+  * Yeni Kabiliyetler ve Özellikler
+  * Uygulama Geliştirme Pratikleri
+  * Android SDK Araçları
+  * Kullanıcı Arayüzü / Kullanıcı Deneyimi (UI/UX) Tasarımı
+  * Uygulamalardan Gelir Elde Etme Modelleri
+    * Uygulama Pazarlama ve Yığın Çekme(Growth Hacking)
+    * Uygulama İçi Faturalandırma(In-app Billing)
+  	* Kullanıcı İstatistikleri
+* Mobil İşletim Sistemlerinde Uygulama Geliştirme(iOS, Tizen, Firefox OS, Windows Phone vb.)
 * Android NDK
-* Cross Platform App Development Frameworks
+* Tüm Platformlar(Android, iPhone, Berry vb.) için Ortak Uygulama Geliştirme Altyapıları
 * HTML5
 * Javascript
-* Game Development
+* Oyun Geliştirme
 * Google TV
 * Google Playstore
 * Google Glass
-* Communication Solutions (NFC, Bluetooth, Wi-fi)
-* 3G, 4G Wide Band Communication
-* Cloud
-  * Google Cloud Messaging for Android
-  * Google App Engine
-* Augmented Reality
-* Social Media
-* Location Based Services and Maps
-* Mobile Education
-* Mobile Payment
-* Security
-* Internet of Things
-* Embedded Systems and Single Board Devices(Arduino, Raspberry PI, BeagleBoard, etc.)
-* Big Data Processing Optimizations in Mobile Devices
-* Software Development Methodologies
-* Success Stories
-* Entrepreneurship
+* İletişim Çözümleri(NFC, Bluetooth, Wi-fi)
+* 3G, 4G Geniş Band Kablosuz İletişim ve Etkileri
+* Bulut Bilişim
+  * Bulut Üzerinden Cihazlarla Mesajlaşma(GCM)
+  * Google Uygulama Motoru (Google App Engine)
+* Artırılmış Gerçeklik (Augmented Reality)
+* Sosyal Ağlar
+* Konum Tabanlı Servisler ve Haritalar
+* Mobil Eğitim (Fatih Projesi)
+* Mobil Ödeme
+* Güvenlik
+* Nesnelerin İnterneti
+* Gömülü Sistemler ve Tek Kart Cihazlar(Arduino, Raspberry PI, BeagleBoard, vb.)
+* Mobil Cihazlarda Büyük Veri İşleme Optimizasyonları
+* Yazılım Geliştirme Metotları
+* Başarı Hikayeleri
+* Girişimcilik
 
-Moreover we appreciate all different ideas and papers beyond subjects above.
+Bu konuların dışında ilgili yeni konularla bildiri gönderebilirsiniz.
 
-Please let us know via <a href="mailto:contact@androiddeveloperdays.com">contact@androiddeveloperdays.com</a>, if you have any question about call for papers, being attendee or sponsorship packages.
+Her türlü etkin katılım, dinleyici olarak katılım veya sponsor seçenekleri ile ilgili sorularınız için <a href="mailto:contact@androiddeveloperdays.com">contact@androiddeveloperdays.com</a> adresinden iletişime geçebilirsiniz.
