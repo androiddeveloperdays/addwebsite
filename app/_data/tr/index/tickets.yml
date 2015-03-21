@@ -3,19 +3,19 @@ info: "Konferans tamamen ücretsizdir. Toplu veya bireysel kayıt olabilirsiniz.
 offers:
  -
   name: "For International Attendees"
-  price: "Free"
+  price: "Ücretsiz"
   priceCurrency: ""
   ticketsNumber: "unlimited"
   buyButtonLink: "http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607"
-  buyButtonText: "Get Now"
+  buyButtonText: "Kayıt Ol"
   validFrom: "2015-02-01T10:00"
   validThrough: "2015-05-12T23:59"
  -
   name: "Türkiye'den Katılımlar İçin"
-  price: "Free"
+  price: "Ücretsiz"
   priceCurrency: ""
   ticketsNumber: "unlimited"
   buyButtonLink: "http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607"
-  buyButtonText: "Get Now"
+  buyButtonText: "Kayıt Ol"
   validFrom: "2015-02-01T10:00"
   validThrough: "2015-05-12T23:59"
