@@ -7,7 +7,7 @@ isStaticPost: false
 
 Welcome to the March newsletter :) We will be sharing updates with you in this newsletter.
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_en.png"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_en.jpg"/>
 
 Call For Papers is still open. You can submit a talk from [here]({{ site.baseurl }}/blog/share-your-knowledge-and-experience-in-add/).
 
