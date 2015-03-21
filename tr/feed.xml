@@ -5,9 +5,109 @@
     <description></description>
     <link>http://androiddeveloperdays.github.io/addwebsite/tr/</link>
     <atom:link href="http://androiddeveloperdays.github.io/addwebsite/tr/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Mar 2015 12:34:44 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2015 12:34:44 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 12:56:53 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 12:56:53 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>March Newsletter: Continuing to announce Featured Speakers</title>
+        <description>&lt;p&gt;Welcome to the March newsletter :) We will be sharing updates with you in this newsletter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/deadline_en.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Call For Papers is still open. You can submit a talk from &lt;a href=&quot;/addwebsite/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We listen to you. What do you want to see at ADD? Please share your ideas with this &lt;a href=&quot;https://docs.google.com/forms/d/16RB2PM-ifAxv4HqTOXWO72DlgYEEWc0f9SB921smTBs/viewform&quot;&gt;this form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The number of people requesting participation to ADD has passed &lt;strong&gt;1175&lt;/strong&gt;. Hurry up to participate and fill &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;this form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/tim-messerschmidt.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+    As a long time mobile and web developer, Tim Messerschmidt channels his knowledge and experience as Braintree&#39;s Head of Developer Relation. He is passionate about startups and served as mentor at multiple incubators and accelerators.
+    Prior to joining PayPal, Tim worked with Neofonie Mobile and Samsung focusing on several mobile projects. In his spare time, he leads and creates training classes in all sorts of developer-oriented topics, contributes to Open Source projects and is one of the authors of the Mobile Developer’s Guide to the Galaxy. In addition, he authored numerous articles published in print magazines.	
+	&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/abhisek-devkota.png&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Abhisek Devkota is the Community Manager and project manager for Cyanogen Inc. The CyanogenMod Project is an openÂ­source distribution that is community driven and created in collaboration with volunteers around the world, with the goal to allow users to truly own their phone through customization, functionality and enhanced security over their personal data.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/wiebe-elsinga.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+    Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.
+    Mainly focused on the design and development of mobile applications.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/markus-eisele.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Markus Eisele is a Developer Advocate at Red Hat and focuses on JBoss Middleware. He is working with Java EE servers from different vendors since more than 14 years and talks about his favorite topics around Java EE on conferences all over the world. He has been a principle consultant and worked with different customers on all kinds of Java EE related applications and solutions. Beside that he has always been a prolific blogger, writer and tech editor for different Java EE related books. He is an active member of the German DOAG e.V. and it&#39;s representative on the iJUG e.V. He is well known in the community as a Java Champion.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/cyril-mottier.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: Do less, but do it insanely great.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/prajyot-mainkar.jpg&quot; /&gt;	
+    &lt;/div&gt;
+    &lt;p class=&quot;col-md-9&quot;&gt;
+    Mr. Prajyot Mainkar is the director at Androcid Media Pvt. Ltd, an app engineering firm based out of India. He is the manager of Google&#39;s Developer Group - GAUG ( Goa Android users Group) - one of the oldest android developer community in India. Being android developer himself, he has been active in the Android community and been assisting Android developers build new, compelling and well-received apps. He has spoken at several conferences including Droidcon India, GDG DevFest, Silicon India Mobile Conference and many more.
+    &lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/orhan-obut.jpg&quot; /&gt;	
+    &lt;/div&gt;
+    &lt;p class=&quot;col-md-9&quot;&gt;
+    Orhan Obut is android developer at Rocket-Internet in Berlin. Since he is enthusiastic about android development and open-source, he is trying to learn as much as possible on these topics. He is also a big fan of open-source and constantly supports it. He has been worked on various projects from m-banking applications to m-commerce applications.  He always aims to use the software principles, the best practices and share the knowledge with the community.
+    &lt;/p&gt;	
+&lt;/div&gt;
+
+&lt;p&gt;The number of &lt;a href=&quot;/addwebsite/tr/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 28. Do not miss sponsorship opportunity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/support_en.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can support ADD by a blog post or any way you want. Just send us an email and we will put your logo among supporters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/indirmobil_en.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;indir.com Mobile App Contest finalists will present their apps at Android Developer Days. Application to contest is still open and final date is 20 April. Winners will be announced in a Mobile Event organized by indir.com in Bahcesehir University on 23 May 2015. There are great prizes for the winners. For details click  &lt;a href=&quot;http://www.indir.com/yarisma/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/gdg_57.png&quot; /&gt;	
+The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite/tr/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
+
+&lt;h5 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h5&gt;
+&lt;p&gt;Please look at the &lt;a href=&quot;/addwebsite/tr/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
+        <link>http://androiddeveloperdays.github.io/addwebsite/tr/blog/march-newsletter</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/tr/blog/march-newsletter</guid>
+        
+        
+        <category>_i18n</category>
+        
+        <category>tr</category>
+        
+      </item>
     
       <item>
         <title>Şubat Bülteni: Öne çıkan Konuşmacıları Duyurmaya Başlıyoruz</title>
