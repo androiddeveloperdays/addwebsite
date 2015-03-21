@@ -18,7 +18,7 @@ Mart bültenine hoş geldiniz :) Bu bültende sizlere gelişmelerden bahsedeceğ
 * [TechnoTalkative:](http://www.technotalkative.com/) Çeşitli Android programlama ile ilgili yazıların olduğu bir site.
 * [Codepath Android:](https://github.com/codepath/android_guides/wiki) Android için güzel bir kaynak.
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_tr.jpg"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_tr.jpg" style="max-width: 300px"/>
 
 Etkin katılım çağrısı hala açık. [Buradan]({{ site.baseurl }}/blog/share-your-knowledge-and-experience-in-add/) konuşmacı olmak için başvurabilirsiniz.
 
