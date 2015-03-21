@@ -10,7 +10,6 @@
     - {name: "KODLAOYNA", description: "AKIL OYUNLARI, BİLİM VE YAZILIM MERKEZİ", link: "http://kodlaoyna.com/", imageUrl: "kodla_oyna.png"}
     - {name: "eGirisim", description: "", link: "http://www.egirisim.com/", imageUrl: "e_girisim.jpg"}
     - {name: "Mehmet İnce", description: "Siber Güvenlik & Linux Blog", link: "https://www.mehmetince.net/", imageUrl: "mdi_security.png"}
-    - {name: "Styling Android", description: "A techical guide to to improving the UI and UX Android apps“", link: "http://blog.stylingandroid.com/", imageUrl: "styling_android.png"}
     - {name: "mobil istanbul", description: "", link: "http://mobilistanbul.com/", imageUrl: "mobil_istanbul.png"}
     - {name: "Androidliyim", description: "APK İndirme Merkezi", link: "http://www.androidliyim.com/", imageUrl: "androidliyim.png"}
     - {name: "Mobilhanem", description: "", link: "http://www.mobilhanem.com/", imageUrl: "mobilhanem.png"}
