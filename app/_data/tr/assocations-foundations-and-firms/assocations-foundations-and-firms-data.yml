@@ -1,7 +1,0 @@
-- 
-  elements: 
-- {name: "TMMOB Bilgisayar Mühendisleri Odası", description: "IKU IEEE Öğrenci Kulübü Computer Society Komitesi ile ortak düzenlediğimiz TROUG etkinliğimize 75′e yakın katılımcı ile İstanbul Kültür Üniversitesi Prof. Dr. Önder Öztunalı Konferans Salonunda gerçekleşti. BMO İstanbul Koordinatörü Fatih Çiftçi’nin açılış konuşması ile başlayan etkinlikte ilk konuşmayı Gökhan Atıl yaptı. Oracle 12c Database In-Memory ile ilgili bilgilerin verildiği sunumdan sonra Baki Şahin Real Application.", link: "http://bimo.org.tr/", imageUrl: "bmo.jpg"}
-- {name: "Bilkent Cyberpark", description: "", link: "http://www.cyberpark.com.tr/", imageUrl: "cyberpark.jpg"}
-- {name: "Bilgi Güvenliği Derneği", description: "", link: "http://www.bilgiguvenligi.org.tr/", imageUrl: "BGD_logo.jpg"}
-- {name: "Kagider", description: "", link: "http://www.kagider.org/", imageUrl: "Kagider.jpg"}
-- {name: "Proje Yönetim Derneği", description: "", link: "http://www.pyd.org.tr/", imageUrl: "pyd_logo.png"}

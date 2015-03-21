@@ -34,6 +34,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transition: $base-transition;
     }
 }
+
 .logo-header {
     display: block;
     transform: translateY(20px);
@@ -59,9 +60,11 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transition: $base-transition;
     }
 }
+
 .logo-navbar {
     margin: 20px;
 }
+
 nav {
     @media (max-width: 767px) {
         position: fixed;
@@ -123,7 +126,10 @@ nav {
                 color: rgba(0, 0, 0, .3);
                 outline: 0;
             }
-            &.current, &:hover, &:active, &:focus {
+            &.current,
+            &:hover,
+            &:active,
+            &:focus {
                 text-decoration: none;
                 color: $nav-color-hover;
                 @media (max-width: 767px) {
@@ -135,7 +141,8 @@ nav {
                 @media (max-width: 767px) {
                     top: 20px;
                 }
-                &.current, &:hover {
+                &.current,
+                &:hover {
                     color: $nav-scroll-color-hover;
                     @media (max-width: 767px) {
                         color: $main-color;
@@ -163,6 +170,7 @@ nav {
         margin-top: -2px;
     }
 }
+
 .right-nav-button {
     margin: 11px 11px 0 0;
     transition: $base-transition;
@@ -179,6 +187,7 @@ nav {
         transform: translateY(-50px);
     }
 }
+
 .top-right-logo {
     height: 40px;
     width: 180px;
@@ -190,35 +199,42 @@ nav {
         transform: translateY(12px);
     }
 }
+
 .g-dev-logo {
-    background-repeat: no-repeat;
     display: inline-block;
-    background-position-y: -45px;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -45px;
+    @media (max-width: 767px) {
+        margin: 30px 0 0 25px;
+        display: block;
+        background-position-y: initial;
+        float: left !important;
+        transform: translateY(0);
+    }
     .top-header.after-scroll & {
         background-position-y: initial;
+        transform: translateY(10px) scale(.7);
     }
 }
+
 .icon-menu {
-    width: 20px;
-    height: 20px;
+    width: 20px !important;
+    height: 20px !important;
     fill: #e6e6e6;
     .top-header.after-scroll & {
         fill: #464646;
     }
 }
+
 .menu-trigger {
     float: right;
-    transform: translateY(25px);
+    transform: translateY(20px);
     right: 45px;
     transition: $base-transition;
 }
+
 .bottom-navlinks {
-    position: absolute;
-    bottom: 26px;
-    z-index: -1;
-}
-.bottom-navlinks-small {
     margin-top: 75px !important;
     position: relative;
     bottom: 26px;

@@ -27,6 +27,7 @@
     }
     img {
         width: 100%;
+        max-height: 90px;
         transition: $base-transition;
         filter: grayscale(1);
         &:hover {

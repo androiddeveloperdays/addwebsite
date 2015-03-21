@@ -11,8 +11,7 @@ links:
    links:
     - {permalink: "/communities/", text: "Topluluklar"}
     - {permalink: "/web-sites-and-blogs/", text: "Web Sitesi ve Bloglar"}
-    - {permalink: "/assocations-foundations-and-firms/", text: "STK’lar, Dernekler ve Firmalar"}
-    - {permalink: "/banners-for-supporters/", text: "Destekleyenler için Görseller"}
+    - {permalink: "/associations-foundations-and-firms/", text: "STK’lar, Dernekler ve Firmalar"}
 bottomLinks:
  - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
 rightButtons:

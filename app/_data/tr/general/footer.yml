@@ -15,8 +15,7 @@ blocks:
   title: "Destekleyenler"
   links:
    - {permalink: "/web-sites-and-blogs/", text: "Web Siteleri and Bloglar"}
-   - {permalink: "/assocations-foundations-and-firms/", text: "STK'lar, Dernekler ve Firmalar"}
-   - {permalink: "/banners-for-supporters/", text: "Destekleyenler için Görseller"}
+   - {permalink: "/associations-foundations-and-firms/", text: "STK'lar, Dernekler ve Firmalar"}
  -
   title: "SSS"
   links:

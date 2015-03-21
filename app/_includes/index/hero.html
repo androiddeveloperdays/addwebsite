@@ -12,22 +12,22 @@
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
         </div>
-        <div class="hero-sponsors">
+        <div class="hero-sponsors row">
             {% for partner in site.data.[site.lang].sponsors.sponsors-data %}
-            {% if partner.showIndex %}
-            <div class="col-sm-4">
-                <h6>{{ partner.group }}</h6>
-                <ul class="list-inline">
-                    {% for element in partner.elements %}
-                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                        <a href="{{ element.link }}" target="_blank">
-                            <img src="{{ site.baseurl_root }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                        </a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            {% endif %}
+                {% if partner.showHero %}
+                <div class="col-xs-6 col-sm-4">
+                    <h6>{{ partner.group }}</h6>
+                    <ul class="list-inline">
+                        {% for element in partner.elements %}
+                        <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                            <a href="{{ element.link }}" target="_blank">
+                                <img src="{{ site.baseurl_root }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
             {% endfor %}
         </div>
         <a href="#about" class="explore">
