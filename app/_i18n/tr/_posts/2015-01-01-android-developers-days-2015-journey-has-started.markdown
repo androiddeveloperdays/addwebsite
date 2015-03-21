@@ -13,7 +13,7 @@ Android Geliştirici Günleri 2015 için eğlenceli ve mücadele dolu süreç ba
 
 Android Geliştirici Günlerinde geçen yıl yurt içinden(25) ve yurt dışından(34) konuşmacılar yeni ve var olan mobil teknolojiler üzerinde gelişmeleri ve tecrübelerini paylaştılar. Tüm dünyadan 29 GDG bu etkinliğin gerçekleşmesi için iş birliği yaptı. 2053+ katılımcı ile güzel bir etkinlik gerçekleşti. Turkcell,Nokia Developer ve Alcatel One Touch sponsorluğunda ödüllü mobil uygulama geliştirme yarışması(hackathon) düzenlendi. Yüzlerce ücretsiz kitap, tshirt, defter ve çanta dağıtıldı.Ayrıca 17 adet akıllı telefon dağıtıldı. Telefon kaydırma, Kinect, Sanal Gerçeklik ve Mobil oyunlar ile etkinliğe eğlence katıldı.
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/add2014_infograph_tr.png"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/add2015_infograph_tr.png"/>
 
 ####Şimdi sıra AGG 2015’de
 
