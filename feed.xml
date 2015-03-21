@@ -5,9 +5,76 @@
     <description></description>
     <link>http://androiddeveloperdays.github.io/addwebsite/</link>
     <atom:link href="http://androiddeveloperdays.github.io/addwebsite/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Mar 2015 12:11:28 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2015 12:11:28 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 12:34:42 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 12:34:42 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>February Newsletter: Starting to announce Featured Speakers</title>
+        <description>&lt;p&gt;Welcome to the February newsletter :) We will be sharing developments with you in this newsletter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/02_statistics.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The number of people requesting participation to ADD has passed &lt;strong&gt;650&lt;/strong&gt;. Hurry up to participate and fill &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;this form&lt;/a&gt;. Participation is still free :) Call For Papers is open now. You can submit a talk from &lt;a href=&quot;/addwebsite/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/matt-sullivan.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools.	
+	&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/royi-benyossef.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i&#39;m an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program&#39;s inception which means that i&#39;m not a Google employee but Google believes that i know what i&#39;m talking about as well as how to say it.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/muge-yilmaz.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization &amp;amp; customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/stephan-linzner.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests.
+	&lt;/p&gt;	
+&lt;/div&gt;
+&lt;div class=&quot;row speaker-row&quot;&gt;
+	&lt;div class=&quot;col-md-3&quot;&gt;
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/addwebsite/img/people/xavier-hallade.jpg&quot; /&gt;	
+	&lt;/div&gt;
+	&lt;p class=&quot;col-md-9&quot;&gt;
+	Xavier Hallade is Developer Evangelist in Intel Software and Service Group in Paris, France.He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, Android TV and dual-displays.
+	&lt;/p&gt;	
+&lt;/div&gt;
+
+&lt;p&gt;The number of &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
+&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/gdg_57.png&quot; /&gt;	
+The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
+
+&lt;h5 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h5&gt;
+&lt;p&gt;Please look at the &lt;a href=&quot;/addwebsite/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
+        <link>http://androiddeveloperdays.github.io/addwebsite/blog/march-newsletter</link>
+        <guid isPermaLink="true">http://androiddeveloperdays.github.io/addwebsite/blog/march-newsletter</guid>
+        
+        
+        <category>_i18n</category>
+        
+        <category>en</category>
+        
+      </item>
     
       <item>
         <title>February Newsletter: Starting to announce Featured Speakers</title>
