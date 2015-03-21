@@ -15,6 +15,8 @@ We listen to you. What do you want to see at ADD? Please share your ideas with t
 
 The number of people requesting participation to ADD has passed **1175**. Hurry up to participate and fill [this form](http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607).
 
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/AttendeegeoWMarch7.png"/>
+
 <div class="row speaker-row">
 	<div class="col-md-3">
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/tim-messerschmidt.jpg"/>	
@@ -83,7 +85,7 @@ You can support ADD by a blog post or any way you want. Just send us an email an
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/indirmobil_en.jpg"/>
 
 
-2. indir.com Mobile App Contest finalists will present their apps at Android Developer Days. Application to contest is still open and final date is 20 April. Winners will be announced in a Mobile Event organized by indir.com in Bahcesehir University on 23 May 2015. There are great prizes for the winners. For details click  [here](http://www.indir.com/yarisma/).
+2.indir.com Mobile App Contest finalists will present their apps at Android Developer Days. Application to contest is still open and final date is 20 April. Winners will be announced in a Mobile Event organized by indir.com in Bahcesehir University on 23 May 2015. There are great prizes for the winners. For details click  [here](http://www.indir.com/yarisma/).
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/gdg_57.png"/>	
 The number of GDGs as organizer has reached 57. The [organizers]({{ site.baseurl }}/organizers) of ADD are from the cities of very different countries.

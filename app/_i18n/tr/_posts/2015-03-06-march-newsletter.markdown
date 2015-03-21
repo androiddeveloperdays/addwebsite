@@ -1,27 +1,39 @@
 ---
 layout: post
-title:  "March Newsletter: Continuing to announce Featured Speakers"
+title:  "Mart Bülteni: Öne çıkan Konuşmacıları Duyurmaya Devam Ediyoruz"
 date:   2015-02-17 09:00:00
 isStaticPost: false
 ---
 
-Welcome to the March newsletter :) We will be sharing updates with you in this newsletter.
+Mart bültenine hoş geldiniz :) Bu bültende sizlere gelişmelerden bahsedeceğiz. Ayrıca bazı ücretsiz Android programlama kaynakları ve siteleri paylaşacağız.
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_en.png"/>
+* [Turkcell Geleceği Yazanlar Android Eğitimleri](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
+* [Programlama Defteri:](http://www.programlamadefteri.com/android-programlama-dersleri) Android geliştirme ortamının kurulumu, ilk Android uygulaması geliştirme, Listview, Özel Listview, SQLLite veritabanı işlemleri gibi konuların anlatıldığı 17 dersin olduğu bir site.
+* [Androidce:](http://androidce.blogspot.com.tr/) Yeni başlayanlar için bir çok blog yazısı olan bir site.
+* [Unity 3D Android Oyun Yapımı](https://www.youtube.com/watch?v=2xxqCefW2g4) anlatan bir video dersi.
+* [Android ile ilgili 21 adet video dersi](https://www.youtube.com/playlist?list=PL5Kp8m5lL8isKrO52KYH5DR6BylEZKc1C)
+* [Android Uygulamalı Dersler ve Bilgi Paylaşım Platformu](http://www.androidevreni.com/)
+* [Android Weekly:](http://androidweekly.net/) Her hafta seçilmiş Android ile ilgili blog yazıların paylaşıldığı ve açık kaynak kütüphanelerin tanıtıldığı platform.
+* [Android ikon oluşturucu:](http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) Hazır Android ikonlarını kolayca değişik boyutlarda oluşturun.
+* [TechnoTalkative:](http://www.technotalkative.com/) Çeşitli Android programlama ile ilgili yazıların olduğu bir site.
+* [Codepath Android:](https://github.com/codepath/android_guides/wiki) Android için güzel bir kaynak.
 
-Call For Papers is still open. You can submit a talk from [here]({{ site.baseurl }}/blog/share-your-knowledge-and-experience-in-add/).
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/deadline_tr.jpg"/>
 
-We listen to you. What do you want to see at ADD? Please share your ideas with this [this form](https://docs.google.com/forms/d/16RB2PM-ifAxv4HqTOXWO72DlgYEEWc0f9SB921smTBs/viewform).
+Etkin katılım çağrısı hala açık. [Buradan]({{ site.baseurl }}/blog/share-your-knowledge-and-experience-in-add/) konuşmacı olmak için başvurabilirsiniz.
 
-The number of people requesting participation to ADD has passed **1175**. Hurry up to participate and fill [this form](http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607).
+Sizi dinliyoruz. ADD'de ne görmek istiyorsunuz? Lütfen düşünce ve önerilerinizi [bu form](https://docs.google.com/forms/d/16RB2PM-ifAxv4HqTOXWO72DlgYEEWc0f9SB921smTBs/viewform) ile paylaşın.
+
+AGG’ye kayıt olan katılımcı sayısı **1175**’yi geçti. Kayıt olmak için acele edin ve [bu form](http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607) doldurun. Katılım hala ücretsiz :) 
+
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/Attendee-geoMarch_tr.png"/>
 
 <div class="row speaker-row">
 	<div class="col-md-3">
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/tim-messerschmidt.jpg"/>	
 	</div>
 	<p class="col-md-9">
-    As a long time mobile and web developer, Tim Messerschmidt channels his knowledge and experience as Braintree's Head of Developer Relation. He is passionate about startups and served as mentor at multiple incubators and accelerators.
-    Prior to joining PayPal, Tim worked with Neofonie Mobile and Samsung focusing on several mobile projects. In his spare time, he leads and creates training classes in all sorts of developer-oriented topics, contributes to Open Source projects and is one of the authors of the Mobile Developer’s Guide to the Galaxy. In addition, he authored numerous articles published in print magazines.	
+    Mobil ve web geliştiricisi olan Tim Messerschmidt,  bunun yanısıra Braintree'de  Geliştirici İlişkilerinin Başkanı olarak bilgi ve tecrübelerini paylaşıyor. Birçok start up  inkübatör ve hızlandırıcı oluşumunda danışmanlık yapan Tim'in  tutkusu start uplar.Tim Paypal 'a katılmadan önce Neofonie ve Samsung da birçok mobil projeye odaklandı. Boş zamanlarında geliştirici odaklı konularda çalışma grupları  kurup yönlendiren Tim aynı zamanda açık kaynak projelere de katkı sağlıyor. The Mobile Developer’s Guide to the Galaxy yazarlarından biri olan Tim'in bunlara ek olarak dergilerde bir çok makalesi bulunmaktadır.	
 	</p>
 </div>
 <div class="row speaker-row">
@@ -29,7 +41,7 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/abhisek-devkota.png"/>	
 	</div>
 	<p class="col-md-9">
-	Abhisek Devkota is the Community Manager and project manager for Cyanogen Inc. The CyanogenMod Project is an openÂ­source distribution that is community driven and created in collaboration with volunteers around the world, with the goal to allow users to truly own their phone through customization, functionality and enhanced security over their personal data.
+	Abhisek Devkota CyanogenMod kurucularının yürüttüğü Cyanogen Inc.'de proje ve topluluk yöneticisidir. CyanogenMod projesi son kullanıcılara daha fazla güvenlik, özelleştirme ve fonksiyonellik sunmayı amaçlayan, tüm dünyadan gönüllü geliştiriciler tarafından yürütülen açık kaynak bir dağıtımdır.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -37,8 +49,7 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/wiebe-elsinga.jpg"/>	
 	</div>
 	<p class="col-md-9">
-    Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.
-    Mainly focused on the design and development of mobile applications.
+    UX ve Design tutkusu olan Wiebe Elsinga bir Android geliştiricisi olmakla beraber, android üzerine bir  GDE (Google Developer Expert) olarak kabul edilmiştir. GDG Dutch Android Kullanıcı grubu organizatörlerinden biri olan Wiebe Itude Mobile şirketinde çalışmaktadır.  Temelde bir EntrepreNerd olmakla beraber, mobil uygulama geliştirme ve dizayn üzerine odaklanmıştır.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -46,7 +57,7 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/markus-eisele.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Markus Eisele is a Developer Advocate at Red Hat and focuses on JBoss Middleware. He is working with Java EE servers from different vendors since more than 14 years and talks about his favorite topics around Java EE on conferences all over the world. He has been a principle consultant and worked with different customers on all kinds of Java EE related applications and solutions. Beside that he has always been a prolific blogger, writer and tech editor for different Java EE related books. He is an active member of the German DOAG e.V. and it's representative on the iJUG e.V. He is well known in the community as a Java Champion.
+	Markus Eisele, Red Hat'de Geliştirici Savunucusu olarak çalışmaktadır ve JBoss Middleware konusuna odaklanmıştır.14 yıldan fazla bir zamandır değişik sağlayıcılardan Java EE sunucuları ile çalışmaktadır ve dünyanın değişik yerlerinde Java EE konuları üzerine konferanslarda sunumlar yapmaktadır. Kendisi baş danışman olarak değişik müşteriler ile  Java EE uygulamaları ve çözümleri üzerine çalışmıştır. Ayrıca üretken bir blogcu,yazar ve Java EE konuları üzerine değişik kitaplarda teknik editördür. German DOAG e.V. aktif üyelerindendir ve iJUG e.V. temsilcidir. Toplulukta Java Şampiyonu olarak bilinmektedir.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -54,7 +65,7 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/cyril-mottier.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: Do less, but do it insanely great.
+	Cyril Mottier, Captain Train'de yazılım mühendisidir ve Android Google Geliştirici Uzmanıdır. Dizayn ve teknoloji konularında tutkuludur, Android'i çok sever ve çok  yetenekli bir mühendistir. Android topluluklarında aktif olarak yer almaktadır ve  bilgilerini blog yazarak, açık kaynak kodlu projeler geliştirerek ve konuşmalar yaparak paylaşmaktadır. Sloganı: Az ama çok iyi yap
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -62,7 +73,7 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
         <img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/prajyot-mainkar.jpg"/>	
     </div>
     <p class="col-md-9">
-    Mr. Prajyot Mainkar is the director at Androcid Media Pvt. Ltd, an app engineering firm based out of India. He is the manager of Google's Developer Group - GAUG ( Goa Android users Group) - one of the oldest android developer community in India. Being android developer himself, he has been active in the Android community and been assisting Android developers build new, compelling and well-received apps. He has spoken at several conferences including Droidcon India, GDG DevFest, Silicon India Mobile Conference and many more.
+    Prajyot Mainkar Hindistandaki app engineering üzerine bir firma olan  Androcid Media Pvt. de çalışmaktadır. Hindistandaki en eski gruplardan olan Goa Android Kullanıcı Grubu Organizatörüdür. Android Geliştirici olan Prajyot Droidcon India,GDG Devfest, Silcon India Mobile  da dahil olmak üzere pek çok konferansa konuşmacı olarak katılmıştır. Android topluluğunda aktif rol almakla beraber, Android geliştiricileri yeni,rekabetçi ve iyi uygulamalar geliştirmeleri için yönlendirmektir. Droidcon India,GDG Devfest,Silicon India Mobile Conference gibi bir çok etkinlikte konuşmacı olmuştur.
     </p>	
 </div>
 <div class="row speaker-row">
@@ -70,23 +81,23 @@ The number of people requesting participation to ADD has passed **1175**. Hurry 
         <img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/orhan-obut.jpg"/>	
     </div>
     <p class="col-md-9">
-    Orhan Obut is android developer at Rocket-Internet in Berlin. Since he is enthusiastic about android development and open-source, he is trying to learn as much as possible on these topics. He is also a big fan of open-source and constantly supports it. He has been worked on various projects from m-banking applications to m-commerce applications.  He always aims to use the software principles, the best practices and share the knowledge with the community.
+    Orhan Obut, Berlin’de Rocket-Internet’de android gelistiricisi olarak calismaktadir. Android development ve acik-kaynak konusunda oldukca hevesli oldugundan, bu konularda kendini mumkun oldugu kadar gelistirmeye calismaktadir. Acik-kaynak konusunda da surekli olarak destek vermektedir. Mobil alisveristen mobil bankaciliga cesitli bir cok konuda gelistirme yapmistir. Surekli olarak yazilim prensiplerini, en iyi pratiklerini uygulamayi ve ogrendiklerini de digerleriyle paylasmayi hedeflemektedir.
     </p>	
 </div>
 
-The number of [sponsors]({{ site.baseurl }}/sponsors) support ADD has reached 28. Do not miss sponsorship opportunity.
+AGG’yi destekleyen [sponsorlar]({{ site.baseurl }}/sponsors) sayısı 28’e ulaştı. Sponsor olma fırsatını kaçırmayın.
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/support_en.jpg"/>
 
-You can support ADD by a blog post or any way you want. Just send us an email and we will put your logo among supporters.
+AGG'yi bir blog yazısı veya istediğiniz bir şekilde destekleyebilirsiniz. Yaptığınızda bize haber verin ve logonuzu destekleyenler arasına koyalım.
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/indirmobil_en.jpg"/>
 
+2.indir.com Mobil Uygulama Ödülleri finalistleri uygulamalarını Android Geliştirici Günleri'nde tanıtacaklar. Yarışmaya başvurular hala açık ve 20 Nisan başvurular için son gün. Kazananlar 23 Mayıs'ta indir.com tarafından Bahçeşehir Üniversitesi'nde düzenlenecek olan Mobil Etkinlikte duyurulacaktır. Kazanlara bir çok güzel ödül verilecektir. Detaylar için [burayı](http://www.indir.com/yarisma/) tıklayınız.
 
-2. indir.com Mobile App Contest finalists will present their apps at Android Developer Days. Application to contest is still open and final date is 20 April. Winners will be announced in a Mobile Event organized by indir.com in Bahcesehir University on 23 May 2015. There are great prizes for the winners. For details click  [here](http://www.indir.com/yarisma/).
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/gdg_57.png"/>
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/gdg_57.png"/>	
-The number of GDGs as organizer has reached 57. The [organizers]({{ site.baseurl }}/organizers) of ADD are from the cities of very different countries.
+Organizatör GDG sayısı 57’ye ulaştı.[Organizatörler]({{ site.baseurl }}/organizers) dünyanın bir çok değişik şehir ve ülkesinden.
 
-#####Sponsors
-Please look at the [Sponsors page]({{ site.baseurl }}/sponsors) to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.
+#####Sponsorlar
+Güncel sponsorlar için lütfen bu sayfaya[bu sayfaya]({{ site.baseurl }}/sponsors) bakın. Tüm sponsorlar haber bülteninin email versiyonunda burada listelenmektedir.
