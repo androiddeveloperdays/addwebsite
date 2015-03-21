@@ -5,8 +5,8 @@
     <description></description>
     <link>http://androiddeveloperdays.github.io/addwebsite/tr/</link>
     <atom:link href="http://androiddeveloperdays.github.io/addwebsite/tr/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 21 Mar 2015 11:46:21 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2015 11:46:21 +0200</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 12:00:34 +0200</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 12:00:34 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -77,85 +77,88 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/addwebsite
       </item>
     
       <item>
-        <title>Share Your Knowledge and Experience in ADD</title>
-        <description>&lt;p&gt;Developer events are great places for meeting other developers. You can learn many things from other developers. And also you can share your knowledge and experience with other developers. You can inspire many people with your talk. If you don’t want to miss this opportunity, you can apply and become a speaker at Android Developer Days.&lt;/p&gt;
+        <title>Bilgi ve Tecrübelerini AGG’de Paylaş</title>
+        <description>&lt;p&gt;Geliştirici etkinlikleri diğer geliştiricilerle karşılaşmak için çok güzel bir fırsattır. Diğer geliştiricilerden bir çok şey öğrenebilirsiniz. Aynı zamanda siz de bilgi ve tecrübelerinizi diğer geliştiriciler ile paylaşabilirsiniz. Bir çok insana yapacağınız konuşma ile ilham olabilirsiniz. Böyle bir fırsatı kaçırmak istemiyorsanız, AGG’de konuşmacı olmak için başvurabilir ve konuşmacı olabilirsiniz.&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;amp;w=1&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center&quot; target=&quot;blank&quot;&gt;Make Submission&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;amp;w=1&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center&quot; target=&quot;blank&quot;&gt;Konuşmacı Ol&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-&lt;p&gt;You can submit any subject including the subjects below. Deadline for Call For Papers is &lt;strong&gt;1st April 2015&lt;/strong&gt;. Don’t be late, :) For attendees, register for free on:&lt;/p&gt;
+&lt;p&gt;Aşağıdaki konuları da içeren istediğiniz bir konuda 1 Nisan 2015 tarihine kadar Etkin Katılım Çağrınızı gönderebilirsiniz. Geç kalmayın :) Bedava olan etkinliğe katılmak için ise tıklayın:&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center&quot; target=&quot;blank&quot;&gt;Registration Web Page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center&quot; target=&quot;blank&quot;&gt;Kayıt Ol&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/addwebsite/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;subjects&quot;&gt;Subjects&lt;/h5&gt;
+&lt;h5 id=&quot;konular&quot;&gt;Konular&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Future Technologies&lt;/li&gt;
-  &lt;li&gt;Mobile World
+  &lt;li&gt;Geleceğin Teknolojileri&lt;/li&gt;
+  &lt;li&gt;Mobil Dünya
     &lt;ul&gt;
-      &lt;li&gt;Future of Mobile World&lt;/li&gt;
-      &lt;li&gt;New Generation Mobile Devices (Wearable products, etc)&lt;/li&gt;
+      &lt;li&gt;Mobil Dünyanın Geleceği&lt;/li&gt;
+      &lt;li&gt;Yeni Nesil Mobil Cihazlar (Giyilebilir Ürünler, vb.)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Android OS
+  &lt;li&gt;Android İşletim Sistemi
     &lt;ul&gt;
-      &lt;li&gt;Future Versions&lt;/li&gt;
-      &lt;li&gt;Android in Different Architectures&lt;/li&gt;
-      &lt;li&gt;Android in Different Areas(Industry, Defense, Home Electronics etc.)&lt;/li&gt;
+      &lt;li&gt;Gelecek Versiyonlar&lt;/li&gt;
+      &lt;li&gt;Farklı Platformlarda Çalışabilirlik&lt;/li&gt;
+      &lt;li&gt;Farklı Alanlarda Kullanım (Endüstri, Savunma, Ev Elektroniği)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Mobile Operating Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)&lt;/li&gt;
-  &lt;li&gt;Android App Development
+  &lt;li&gt;Mobil İşletim Sistemleri (iOS, Tizen, Firefox OS, Windows Phone vb.)&lt;/li&gt;
+  &lt;li&gt;Android Uygulama Geliştirme
     &lt;ul&gt;
-      &lt;li&gt;New Features and Capabilities&lt;/li&gt;
-      &lt;li&gt;App Development Best Practises&lt;/li&gt;
-      &lt;li&gt;Android SDK Tools&lt;/li&gt;
-      &lt;li&gt;UI(User Interface) / UX (User Experience) Design&lt;/li&gt;
-      &lt;li&gt;App Monetization
+      &lt;li&gt;Yeni Kabiliyetler ve Özellikler&lt;/li&gt;
+      &lt;li&gt;Uygulama Geliştirme Pratikleri&lt;/li&gt;
+      &lt;li&gt;Android SDK Araçları&lt;/li&gt;
+      &lt;li&gt;Kullanıcı Arayüzü / Kullanıcı Deneyimi (UI/UX) Tasarımı&lt;/li&gt;
+      &lt;li&gt;Uygulamalardan Gelir Elde Etme Modelleri
         &lt;ul&gt;
-          &lt;li&gt;App Marketing and Growth Hacking&lt;/li&gt;
-          &lt;li&gt;In-app Billing&lt;/li&gt;
+          &lt;li&gt;Uygulama Pazarlama ve Yığın Çekme(Growth Hacking)&lt;/li&gt;
+          &lt;li&gt;Uygulama İçi Faturalandırma(In-app Billing)
+            &lt;ul&gt;
+              &lt;li&gt;Kullanıcı İstatistikleri&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;User Statistics&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;App Development in Mobile Operatins Systems(iOS, Tizen, Firefox OS, Windows Phone etc.)&lt;/li&gt;
+  &lt;li&gt;Mobil İşletim Sistemlerinde Uygulama Geliştirme(iOS, Tizen, Firefox OS, Windows Phone vb.)&lt;/li&gt;
   &lt;li&gt;Android NDK&lt;/li&gt;
-  &lt;li&gt;Cross Platform App Development Frameworks&lt;/li&gt;
+  &lt;li&gt;Tüm Platformlar(Android, iPhone, Berry vb.) için Ortak Uygulama Geliştirme Altyapıları&lt;/li&gt;
   &lt;li&gt;HTML5&lt;/li&gt;
   &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Game Development&lt;/li&gt;
+  &lt;li&gt;Oyun Geliştirme&lt;/li&gt;
   &lt;li&gt;Google TV&lt;/li&gt;
   &lt;li&gt;Google Playstore&lt;/li&gt;
   &lt;li&gt;Google Glass&lt;/li&gt;
-  &lt;li&gt;Communication Solutions (NFC, Bluetooth, Wi-fi)&lt;/li&gt;
-  &lt;li&gt;3G, 4G Wide Band Communication&lt;/li&gt;
-  &lt;li&gt;Cloud
+  &lt;li&gt;İletişim Çözümleri(NFC, Bluetooth, Wi-fi)&lt;/li&gt;
+  &lt;li&gt;3G, 4G Geniş Band Kablosuz İletişim ve Etkileri&lt;/li&gt;
+  &lt;li&gt;Bulut Bilişim
     &lt;ul&gt;
-      &lt;li&gt;Google Cloud Messaging for Android&lt;/li&gt;
-      &lt;li&gt;Google App Engine&lt;/li&gt;
+      &lt;li&gt;Bulut Üzerinden Cihazlarla Mesajlaşma(GCM)&lt;/li&gt;
+      &lt;li&gt;Google Uygulama Motoru (Google App Engine)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Augmented Reality&lt;/li&gt;
-  &lt;li&gt;Social Media&lt;/li&gt;
-  &lt;li&gt;Location Based Services and Maps&lt;/li&gt;
-  &lt;li&gt;Mobile Education&lt;/li&gt;
-  &lt;li&gt;Mobile Payment&lt;/li&gt;
-  &lt;li&gt;Security&lt;/li&gt;
-  &lt;li&gt;Internet of Things&lt;/li&gt;
-  &lt;li&gt;Embedded Systems and Single Board Devices(Arduino, Raspberry PI, BeagleBoard, etc.)&lt;/li&gt;
-  &lt;li&gt;Big Data Processing Optimizations in Mobile Devices&lt;/li&gt;
-  &lt;li&gt;Software Development Methodologies&lt;/li&gt;
-  &lt;li&gt;Success Stories&lt;/li&gt;
-  &lt;li&gt;Entrepreneurship&lt;/li&gt;
+  &lt;li&gt;Artırılmış Gerçeklik (Augmented Reality)&lt;/li&gt;
+  &lt;li&gt;Sosyal Ağlar&lt;/li&gt;
+  &lt;li&gt;Konum Tabanlı Servisler ve Haritalar&lt;/li&gt;
+  &lt;li&gt;Mobil Eğitim (Fatih Projesi)&lt;/li&gt;
+  &lt;li&gt;Mobil Ödeme&lt;/li&gt;
+  &lt;li&gt;Güvenlik&lt;/li&gt;
+  &lt;li&gt;Nesnelerin İnterneti&lt;/li&gt;
+  &lt;li&gt;Gömülü Sistemler ve Tek Kart Cihazlar(Arduino, Raspberry PI, BeagleBoard, vb.)&lt;/li&gt;
+  &lt;li&gt;Mobil Cihazlarda Büyük Veri İşleme Optimizasyonları&lt;/li&gt;
+  &lt;li&gt;Yazılım Geliştirme Metotları&lt;/li&gt;
+  &lt;li&gt;Başarı Hikayeleri&lt;/li&gt;
+  &lt;li&gt;Girişimcilik&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Moreover we appreciate all different ideas and papers beyond subjects above.&lt;/p&gt;
+&lt;p&gt;Bu konuların dışında ilgili yeni konularla bildiri gönderebilirsiniz.&lt;/p&gt;
 
-&lt;p&gt;Please let us know via &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt;, if you have any question about call for papers, being attendee or sponsorship packages.&lt;/p&gt;
+&lt;p&gt;Her türlü etkin katılım, dinleyici olarak katılım veya sponsor seçenekleri ile ilgili sorularınız için &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt; adresinden iletişime geçebilirsiniz.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jan 2015 11:00:00 +0200</pubDate>
         <link>http://androiddeveloperdays.github.io/addwebsite/tr/blog/share-your-knowledge-and-experience-in-add</link>
