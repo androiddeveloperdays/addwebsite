@@ -1,26 +1,26 @@
 ---
 layout: post
-title:  "Android Developer Days 2015 Journey Has Started"
+title:  "Android Geliştirici Günleri 2015 Yolculuğu Başladı"
 date:   2015-01-01 09:00:00
 isStaticPost: false
 ---
 
-Challenge has started for Android Developer Days 2015 and lets be together in this journey.
-Android Developer Days is going to take place in METU Cultural and Convention Center, Ankara, Turkey on May 11/12 2015. It is again free and open to everyone. GDGs (İstanbul, Eskişehir, Konya, Ankara, Düzce, Sivas and İzmir) in Turkey and METU IEEE takes part in organization committee of ADD. Moreover, we are again open to add new organizers to conference. Let’s be together and grow this community event together.
+Android Geliştirici Günleri 2015 için eğlenceli ve mücadele dolu süreç başladı, gelin bu yolculukta birlikte olalım. Android Geliştici Günleri 11/12 Mayıs 2015 tarihlerinde ODTÜ Kültür ve Kongre Merkezinde herkese açık ve ücretsiz olarak tekrar düzenlenecektir. Konferansın düzenleme komitesinde Türkiye’den Google Developer Grouplar(İstanbul, Eskişehir, Konya, Ankara, Düzce, Sivas ve İzmir) ve ODTÜ IEEE yer almakta olup yeni organizatörlere açık bir yapımız vardır. Gelin birlikte olalım ve bu topluluk etkinliğini büyütelim.
 
-[How was ADD 2014?](http://www.androiddeveloperdays.com/2014/)
+[AGG 2014 Nasıldı?](http://www.androiddeveloperdays.com/2014/)
 
 <div id="fb-root" class="embed-responsive"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.668204803216292.1073741830.595383730498400&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/media/set/?set=a.668204803216292.1073741830.595383730498400&amp;type=1">Post</a> by <a href="https://www.facebook.com/androiddeveloperdays">Android Developer Days</a>.</div></div>
 
-International (34) and local (25) speakers shared their knowledge and experiences about current and new mobile technologies. 29 GDGs from all around the world collaborated for this event to make it happen. The event was a blast with 2053+ attendees. Hackathon, sponsored by Turkcell,Nokia Developer and Alcatel One Touch, was organized as a subevent. In addition, hundreds of books, notebooks and bags were given away. 17 smartphones delivered to attendees. Shovel board game, Kinect Games, Virtual Reality Games and Mobile Games were played by attendees which makes the event more fun.
+Android Geliştirici Günlerinde geçen yıl yurt içinden(25) ve yurt dışından(34) konuşmacılar yeni ve var olan mobil teknolojiler üzerinde gelişmeleri ve tecrübelerini paylaştılar. Tüm dünyadan 29 GDG bu etkinliğin gerçekleşmesi için iş birliği yaptı. 2053+ katılımcı ile güzel bir etkinlik gerçekleşti. Turkcell,Nokia Developer ve Alcatel One Touch sponsorluğunda ödüllü mobil uygulama geliştirme yarışması(hackathon) düzenlendi. Yüzlerce ücretsiz kitap, tshirt, defter ve çanta dağıtıldı.Ayrıca 17 adet akıllı telefon dağıtıldı. Telefon kaydırma, Kinect, Sanal Gerçeklik ve Mobil oyunlar ile etkinliğe eğlence katıldı.
 
-<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/add2014_infograph_en.png"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/add2014_infograph_tr.png"/>
 
-####The time for ADD 2015
+####Şimdi sıra AGG 2015’de
 
-#####Support Community to Be Together
+#####Birlik Olmak İçin Topluluğa Destek Olun
 
-ADD is an [Open Conference](http://en.wikipedia.org/wiki/Open_conference). Support the community and ADD to grow the community. Lets be together ! Bigger and richer ADD will be more beneficial to all of us. This conference is organized by volunteer people to improve the knowledge, experience and also expand the vision of attendees, so in order to make it more beneficial for community, you can support this conference. As a result if you want to be part of this organization and support it just keep in touch via <a href="mailto:contact@androiddeveloperdays.com">contact@androiddeveloperdays.com</a>.
-Lastly, here is the registration page of ADD 2015, you can register for free.
+AGG bir [Açık Konferans](http://en.wikipedia.org/wiki/Open_conference).AGG ve topluluğa destek olarak bu topluluğun büyümesini sağlayabilirsiniz. Gelin birlikte olalım! Daha büyük ve zengin bir AGG hepimize daha faydalı olacaktır. Biz bu konferansı başta katılımcılar olmak üzere, çevremize, ülkemize ve dünyaya faydamız olsun diye yapıyoruz. O zaman katılımcılar isterlerse bu konferansa destek verebilsinler ve Android Geliştirici Günlerini onlara çok daha faydalı bir organizasyon haline gelebilsin. Eğer siz de katılımcı iseniz veya çevrenize bu anlamda faydalı bir şeyler katmak istiyorsanız <a href="mailto:contact@androiddeveloperdays.com">contact@androiddeveloperdays.com</a> adresinden iletişime geçin ve neler yapabileceğimizi konuşalım. Unutmayın bir retweet bile bir destektir.
+
+AGG 2015 kayıtları açılmış olup aşağıdan da kayıt olabilirsiniz.
 
 <iframe src="//eventbrite.com/tickets-external?eid=14846274607&amp;ref=etckt" width="100%" height="260" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
