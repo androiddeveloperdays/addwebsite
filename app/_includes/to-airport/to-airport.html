@@ -1,0 +1,19 @@
+<!-- Begin To Airport Section-->
+<section id="to-airport" class="team">
+    <div class="content-wrapper">
+
+            {% for element in site.data.[site.lang].to-airport.to-airport %}
+            <div class="col-lg-6 col-lg-offset-3">
+                <h4>{{ element.title }}</h4>
+                <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ element.text }}</p>
+                {% if element.imageUrl != null %}
+                <img src="{{ site.baseurl_root }}/img/ankara/{{ element.imageUrl }}" title="" alt="">
+                {% endif %}
+            </div>
+            
+            {% endfor %}
+    </div>
+    
+</section>
+
+<!-- End To-Airport Section -->

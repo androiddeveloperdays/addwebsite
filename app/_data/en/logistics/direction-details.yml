@@ -1,10 +1,10 @@
 image: "direction-details.jpg"
 title: "Get around Ankara"
 cards:
- - {title: "Venue", information: 'Venue is in Middle East Technical University. Here is the details about the venue.'}
- - {title: "From the Airport", information: 'It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "To the Airport", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Ankara Attractions", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Venue", information: 'Venue is in Middle East Technical University. <a href="/2015/metu-ccm/">Here</a> is the details about the venue.'}
+ - {title: "From the Airport", information: 'Venue is easily reachable by car, public transport or taxi to the venue. More information is available <a href="/2015/from-airport/">here</a>.'}
+ - {title: "To the Airport", information: 'Airport is easily reachable by car, public transport or taxi from the venue. More information is available <a href="/2015/to-airport/">here</a>.'}
+ - {title: "Ankara Attractions", information: '<a href="/2015/ankara/">Here</a> is the info about what you can in Ankara.'}
 wideCards:
  -
   title: "Questions?"

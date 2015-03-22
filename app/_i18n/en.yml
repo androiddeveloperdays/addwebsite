@@ -6,7 +6,7 @@ titles:
     cod: "Don't be a jerk policy"
     contact: Contact
     hackathon: Hackathon
-    logistics: Logistics
+    logistics: "Venue"
     organizers: Organizers
     schedule: Schedule
     speakers: Speakers
@@ -14,3 +14,7 @@ titles:
     web-sites-and-blogs: "Web Sites and Blogs"
     communities: Communities
     become-a-sponsor: "Become a Sponsor"
+    metu-ccm: "METU CCC"
+    from-airport: "From the Airport"
+    to-airport: "To the Airport"
+    ankara: "Ankara Attractions"

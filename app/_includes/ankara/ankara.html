@@ -1,0 +1,20 @@
+<!-- Begin Ankara Section-->
+<section id="ankara" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-6 col-lg-offset-3">
+            {% for attractions in site.data.[site.lang].ankara.ankara1 %}
+            <h4>{{attractions.title}}</h4>
+                {% for element in attractions.elements %}
+                <div>
+                    <p class="text-left">{{ element.title }}</p>
+                    <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ element.text }}</p>
+                    <img src="{{ site.baseurl_root }}/img/ankara/{{ element.imageUrl }}" title="" alt="">
+                </div>
+
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div> 
+
+</section>
+<!-- End Ankara Section -->

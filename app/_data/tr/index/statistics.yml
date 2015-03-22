@@ -5,5 +5,5 @@ blocks:
  - {count: "48", specialCharacter: "+", info: "saat", detail: "Android"}
  - {count: "59", specialCharacter: "+", info: "konuşmacı", detail: "ülke içi ve dışından"}
  - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve eğlence salonu"}
-buttonText: "See ADD 2014"
+buttonText: "ADD 2014'e Bak"
 buttonLink: "http://www.androiddeveloperdays.com/2014/"

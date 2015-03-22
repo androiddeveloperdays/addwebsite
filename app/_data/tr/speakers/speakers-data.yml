@@ -3,8 +3,8 @@
   name: "Matt"
   surname: "Sullivan"
   company: "Google"
-  title: "Developer advocate"
-  bio: "Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools."
+  title: "Geliştirici Savunucusu"
+  bio: "Matt Sullivan, Google’da geliştirici savunucusu olarak insanlara sağlık ve fitness uygulamaları geliştirmelerinde yardımcı olmaktadır. Google Fit, Android, Wear, Glass ve diğer teknolojileri kullanarak kullanıcıların ilgisini çekmek ve sağlıklı kalmalarını sağlamak için yeni yollar bulmayı çok seviyor. Önceki hayatında bir çok farklı alanda çalıştı.Bunlar arasında sinema ve tiyatro yazılımları, bioinformatik ve çevrimiçi işbirliği araçları yer almaktadır."
   thumbnailUrl: matt-sullivan.jpg
   rockstar: true
   social: 
@@ -14,8 +14,8 @@
   name: "Royi"
   surname: "Benyossef"
   company: ""
-  title: "Android Developer"
-  bio: "Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i'm an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program's inception which means that i'm not a Google employee but Google believes that i know what i'm talking about as well as how to say it."
+  title: "Android Geliştiricisi"
+  bio: "Royi Benyossef ilk Androidli telefon çıktığından bu yana Android Geliştiricisidir. Android tabanlı tabletler ve TVler çıkmadan önce onlar üzerinde çalışmıştır ve Android’in öncülerinden biridir. Açık Kaynak kod taraftarıdır. 2008’den bu yana Android ile ilgili etkinlikler düzenlemekte ,blog yazmakta ve dersler vermektedir. Bütün bunlar onun Google Developer Expert programının başından beri GDE olmasını sağlamıştır. Bu şu demektir, kendisi Google çalışanı değildir fakat Google onun ne dediklerine ve nasıl dediğine inanmaktadır."
   thumbnailUrl: royi-benyossef.jpg
   rockstar: true
   social: 
@@ -26,8 +26,8 @@
   name: "Muge"
   surname: "Yilmaz"
   company: "Google"
-  title: "Strategic Partner Manager"
-  bio: "As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently."
+  title: "Stratejik Partner Yöneticisi"
+  bio: "Müge Google’da Stratejik Partner Yöneticisi olarak uygulama içi reklamcılığını tek başına ya da uygulama içi satınalmaya ek olarak gelir için kullanan uygulama geliştiricileri ile çalışmaktadır. mApp reklam geliri, Uygulama Arayüz Deneyimi, Play Store Optimizasyonu ve müşteri tutma ve Uygulama Analitiği konularına yoğunlaşmıştır. Google’dan önce 4 yıl boyunca IBM Türkiye Yazılım Grubu’nda satış ve satış danışmanlığı pozisyonlarında çalışmıştır. Müge, Boğaziçi Üniversitesi İşletme Bilişim Sistemleri bölümünde yüksek lisansını tamamlamıştır. Şu an Dublin’de yaşamaktadır ve İstanbul’a da sık sık gitmektedir."
   thumbnailUrl: muge-yilmaz.jpg
   rockstar: true
   social: 
@@ -37,8 +37,8 @@
   name: "Stephan"
   surname: "Linzner"
   company: "Google"
-  title: "Senior Developer Platform Engineer Android"
-  bio: "Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests."
+  title: "Kıdemli Android Platfromu Geliştirici Mühendisi"
+  bio: "Stephan Linzner Google’da Kıdemli Android Platfromu Geliştirici Mühendisi olarak çalışmaktadır. Tecrübeli bir yazılım mühendisi olarak Android Platformunda 6 seneden fazla çalışmıştır. Android Destek Test Kütüphanesinin geliştiricisidir ve Espresso’ya da katkıda bulunmaktadır. Görevi Android geliştiricilerine testler ile kaliteli uygulamalar geliştirmelerinde yardımcı olmaktır."
   thumbnailUrl: stephan-linzner.jpg
   rockstar: true
   social: 
@@ -50,8 +50,8 @@
   name: "Xavier"
   surname: "Hallade"
   company: "Intel"
-  title: "Developer Evangelist"
-  bio: "Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays."
+  title: "Geliştirici Misyoneri"
+  bio: "Xavier Hallade, Paris Fransa’da Intel Software ve Service Grubu’nda Geliştirici Misyoneri olarak çalışıyor. Android NDK, Android TV ve çift-görüntü alanlarında geliştiricilere Intel tabanlı donanım ve teknolojilerde destek olmaktadır."
   thumbnailUrl: xavier-hallade.jpg
   rockstar: true
   social: 
@@ -64,8 +64,8 @@
   name: "Tim"
   surname: "Messerschmidt"
   company: "PayPal"
-  title: "Head of Developer Advocacy"
-  bio: "As a long time mobile and web developer, Tim Messerschmidt channels his knowledge and experience as Braintree's Head of Developer Relation. He is passionate about startups and served as mentor at multiple incubators and accelerators.\nPrior to joining PayPal, Tim worked with Neofonie Mobile and Samsung focusing on several mobile projects. In his spare time, he leads and creates training classes in all sorts of developer-oriented topics, contributes to Open Source projects and is one of the authors of the Mobile Developer’s Guide to the Galaxy. In addition, he authored numerous articles published in print magazines."
+  title: "Geliştirici Savunucuları Başı"
+  bio: "Mobil ve web geliştiricisi olan Tim Messerschmidt,  bunun yanısıra Braintree'de  Geliştirici İlişkilerinin Başkanı olarak bilgi ve tecrübelerini paylaşıyor. Birçok start up  inkübatör ve hızlandırıcı oluşumunda danışmanlık yapan Tim'in  tutkusu start uplar.Tim Paypal 'a katılmadan önce Neofonie ve Samsung da birçok mobil projeye odaklandı. Boş zamanlarında geliştirici odaklı konularda çalışma grupları  kurup yönlendiren Tim aynı zamanda açık kaynak projelere de katkı sağlıyor. The Mobile Developer’s Guide to the Galaxy yazarlarından biri olan Tim'in bunlara ek olarak dergilerde bir çok makalesi bulunmaktadır."
   thumbnailUrl: tim-messerschmidt.jpg
   rockstar: true
   social:
@@ -78,8 +78,8 @@
   name: "Abhisek"
   surname: "Devkota"
   company: "Cyanogen Inc."
-  title: "Community Manager"
-  bio: "Abhisek Devkota is the Community Manager and project manager for Cyanogen Inc. The CyanogenMod Project is an openÂ­source distribution that is community driven and created in collaboration with volunteers around the world, with the goal to allow users to truly own their phone through customization, functionality and enhanced security over their personal data."
+  title: "Topluluk Yöneticisi"
+  bio: "Abhisek Devkota CyanogenMod kurucularının yürüttüğü Cyanogen Inc.'de proje ve topluluk yöneticisidir. CyanogenMod projesi son kullanıcılara daha fazla güvenlik, özelleştirme ve fonksiyonellik sunmayı amaçlayan, tüm dünyadan gönüllü geliştiriciler tarafından yürütülen açık kaynak bir dağıtımdır."
   thumbnailUrl: abhisek-devkota.png
   rockstar: true
   social:
@@ -91,8 +91,8 @@
   name: "Wiebe"
   surname: "Elsinga"
   company: "Itude Mobile"
-  title: ""
-  bio: "Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.\nMainly focused on the design and development of mobile applications."
+  title: "Android Geliştiricisi"
+  bio: "UX ve Design tutkusu olan Wiebe Elsinga bir Android geliştiricisi olmakla beraber, android üzerine bir  GDE (Google Developer Expert) olarak kabul edilmiştir. GDG Dutch Android Kullanıcı grubu organizatörlerinden biri olan Wiebe Itude Mobile şirketinde çalışmaktadır.  Temelde bir EntrepreNerd olmakla beraber, mobil uygulama geliştirme ve dizayn üzerine odaklanmıştır."
   thumbnailUrl: wiebe-elsinga.jpg
   rockstar: true
   social:
@@ -105,8 +105,8 @@
   name: "Markus"
   surname: "Eisele"
   company: "Red Hat"
-  title: "Developer Advocate"
-  bio: "Markus Eisele is a Developer Advocate at Red Hat and focuses on JBoss Middleware. He is working with Java EE servers from different vendors since more than 14 years and talks about his favorite topics around Java EE on conferences all over the world. He has been a principle consultant and worked with different customers on all kinds of Java EE related applications and solutions. Beside that he has always been a prolific blogger, writer and tech editor for different Java EE related books. He is an active member of the German DOAG e.V. and it's representative on the iJUG e.V. He is well known in the community as a Java Champion."
+  title: "Geliştirici Savunucusu"
+  bio: "Markus Eisele, Red Hat'de Geliştirici Savunucusu olarak çalışmaktadır ve JBoss Middleware konusuna odaklanmıştır.14 yıldan fazla bir zamandır değişik sağlayıcılardan Java EE sunucuları ile çalışmaktadır ve dünyanın değişik yerlerinde Java EE konuları üzerine konferanslarda sunumlar yapmaktadır. Kendisi baş danışman olarak değişik müşteriler ile  Java EE uygulamaları ve çözümleri üzerine çalışmıştır. Ayrıca üretken bir blogcu,yazar ve Java EE konuları üzerine değişik kitaplarda teknik editördür. German DOAG e.V. aktif üyelerindendir ve iJUG e.V. temsilcidir. Toplulukta Java Şampiyonu olarak bilinmektedir."
   thumbnailUrl: markus-eisele.jpg
   rockstar: true
   social:
@@ -118,8 +118,8 @@
   name: "Cyril"
   surname: "Mottier"
   company: "Capitaine Train"
-  title: "Mobile Software Engineer"
-  bio: "Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: Do less, but do it insanely great."
+  title: "Mobil Yazılım Mühendisi"
+  bio: "Cyril Mottier, Captain Train'de yazılım mühendisidir ve Android Google Geliştirici Uzmanıdır. Dizayn ve teknoloji konularında tutkuludur, Android'i çok sever ve çok  yetenekli bir mühendistir. Android topluluklarında aktif olarak yer almaktadır ve  bilgilerini blog yazarak, açık kaynak kodlu projeler geliştirerek ve konuşmalar yaparak paylaşmaktadır. Sloganı: Az ama çok iyi yap"
   thumbnailUrl: cyril-mottier.jpg
   rockstar: true
   social:
@@ -132,8 +132,8 @@
   name: "Prajyot"
   surname: "Mainkar"
   company: "Androcid Media Pvt. Ltd."
-  title: "Director"
-  bio: "Mr. Prajyot Mainkar is the director at Androcid Media Pvt. Ltd, an app engineering firm based out of India. He is the manager of Google's Developer Group - GAUG ( Goa Android users Group) - one of the oldest android developer community in India. Being android developer himself, he has been active in the Android community and been assisting Android developers build new, compelling and well-received apps. He has spoken at several conferences including Droidcon India, GDG DevFest, Silicon India Mobile Conference and many more."
+  title: "Yönetici"
+  bio: "Prajyot Mainkar Hindistandaki app engineering üzerine bir firma olan  Androcid Media Pvt. de çalışmaktadır. Hindistandaki en eski gruplardan olan Goa Android Kullanıcı Grubu Organizatörüdür. Android Geliştirici olan Prajyot Droidcon India,GDG Devfest, Silcon India Mobile  da dahil olmak üzere pek çok konferansa konuşmacı olarak katılmıştır. Android topluluğunda aktif rol almakla beraber, Android geliştiricileri yeni,rekabetçi ve iyi uygulamalar geliştirmeleri için yönlendirmektir. Droidcon India,GDG Devfest,Silicon India Mobile Conference gibi bir çok etkinlikte konuşmacı olmuştur."
   thumbnailUrl: prajyot-mainkar.jpg
   rockstar: true
   social:
@@ -145,8 +145,8 @@
   name: "Orhan"
   surname: "Obut"
   company: "Rocket-Internet"
-  title: "Android Developer"
-  bio: "Orhan Obut is android developer at Rocket-Internet in Berlin. Since he is enthusiastic about android development and open-source, he is trying to learn as much as possible on these topics. He is also a big fan of open-source and constantly supports it. He has been worked on various projects from m-banking applications to m-commerce applications.  He always aims to use the software principles, the best practices and share the knowledge with the community."
+  title: "Android Geliştiricisi"
+  bio: "Orhan Obut, Berlin’de Rocket-Internet’de android gelistiricisi olarak calismaktadir. Android development ve acik-kaynak konusunda oldukca hevesli oldugundan, bu konularda kendini mumkun oldugu kadar gelistirmeye calismaktadir. Acik-kaynak konusunda da surekli olarak destek vermektedir. Mobil alisveristen mobil bankaciliga cesitli bir cok konuda gelistirme yapmistir. Surekli olarak yazilim prensiplerini, en iyi pratiklerini uygulamayi ve ogrendiklerini de digerleriyle paylasmayi hedeflemektedir."
   thumbnailUrl: orhan-obut.jpg
   rockstar: true
   social:
