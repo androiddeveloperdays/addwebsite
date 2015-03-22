@@ -16,7 +16,7 @@ AGG’ye kayıt olan katılımcı sayısı **650**yi geçti. Kayıt olmak için 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/matt-sullivan.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools.	
+	Matt Sullivan, Google’da geliştirici savunucusu olarak insanlara sağlık ve fitness uygulamaları geliştirmelerinde yardımcı olmaktadır. Google Fit, Android, Wear, Glass ve diğer teknolojileri kullanarak kullanıcıların ilgisini çekmek ve sağlıklı kalmalarını sağlamak için yeni yollar bulmayı çok seviyor. Önceki hayatında bir çok farklı alanda çalıştı.Bunlar arasında sinema ve tiyatro yazılımları, bioinformatik ve çevrimiçi işbirliği araçları yer almaktadır.	
 	</p>
 </div>
 <div class="row speaker-row">
@@ -24,7 +24,7 @@ AGG’ye kayıt olan katılımcı sayısı **650**yi geçti. Kayıt olmak için 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/royi-benyossef.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i'm an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program's inception which means that i'm not a Google employee but Google believes that i know what i'm talking about as well as how to say it.
+	Royi Benyossef ilk Androidli telefon çıktığından bu yana Android Geliştiricisidir. Android tabanlı tabletler ve TVler çıkmadan önce onlar üzerinde çalışmıştır ve Android’in öncülerinden biridir. Açık Kaynak kod taraftarıdır. 2008’den bu yana Android ile ilgili etkinlikler düzenlemekte ,blog yazmakta ve dersler vermektedir. Bütün bunlar onun Google Developer Expert programının başından beri GDE olmasını sağlamıştır. Bu şu demektir, kendisi Google çalışanı değildir fakat Google onun ne dediklerine ve nasıl dediğine inanmaktadır.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -32,7 +32,7 @@ AGG’ye kayıt olan katılımcı sayısı **650**yi geçti. Kayıt olmak için 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/muge-yilmaz.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently.
+	Müge Google’da Stratejik Partner Yöneticisi olarak uygulama içi reklamcılığını tek başına ya da uygulama içi satınalmaya ek olarak gelir için kullanan uygulama geliştiricileri ile çalışmaktadır. mApp reklam geliri, Uygulama Arayüz Deneyimi, Play Store Optimizasyonu ve müşteri tutma ve Uygulama Analitiği konularına yoğunlaşmıştır. Google’dan önce 4 yıl boyunca IBM Türkiye Yazılım Grubu’nda satış ve satış danışmanlığı pozisyonlarında çalışmıştır. Müge, Boğaziçi Üniversitesi İşletme Bilişim Sistemleri bölümünde yüksek lisansını tamamlamıştır. Şu an Dublin’de yaşamaktadır ve İstanbul’a da sık sık gitmektedir.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -40,7 +40,7 @@ AGG’ye kayıt olan katılımcı sayısı **650**yi geçti. Kayıt olmak için 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/stephan-linzner.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests.
+	Stephan Linzner Google’da Kıdemli Android Platfromu Geliştirici Mühendisi olarak çalışmaktadır. Tecrübeli bir yazılım mühendisi olarak Android Platformunda 6 seneden fazla çalışmıştır. Android Destek Test Kütüphanesinin geliştiricisidir ve Espresso’ya da katkıda bulunmaktadır. Görevi Android geliştiricilerine testler ile kaliteli uygulamalar geliştirmelerinde yardımcı olmaktır.
 	</p>	
 </div>
 <div class="row speaker-row">
@@ -48,7 +48,7 @@ AGG’ye kayıt olan katılımcı sayısı **650**yi geçti. Kayıt olmak için 
 		<img class="img-responsive img-circle" src="{{ site.baseurl_root }}/img/people/xavier-hallade.jpg"/>	
 	</div>
 	<p class="col-md-9">
-	Xavier Hallade is Developer Evangelist in Intel Software and Service Group in Paris, France.He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, Android TV and dual-displays.
+	Xavier Hallade, Paris Fransa’da Intel Software ve Service Grubu’nda Geliştirici Misyoneri olarak çalışıyor. Android NDK, Android TV ve çift-görüntü alanlarında geliştiricilere Intel tabanlı donanım ve teknolojilerde destek olmaktadır.
 	</p>	
 </div>
 
