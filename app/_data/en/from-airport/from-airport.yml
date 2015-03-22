@@ -1,0 +1,8 @@
+-
+    title: "From Airport to KIZILAY (City Center)"
+    text:   "There are Belko busses in order to go to the city center from airport.This bus departs in every 20 minutes from 06:20 to 23:40 every day (Saturday and Sunday included). Bus number is 442. Cost is 5.5 TL. You can pay to the bus driver. You should ask driver or a person to make you get off the bus in Kizilay. This <a href='https://maps.google.com/maps?q=39.919325,32.854292&num=1&t=h&vpsrc=0&ie=UTF8&z=19&iwloc=A'>link</a> is the bus stop where you should get of the bus:"
+    imageUrl: "otobus.png"
+-
+    title: "From KIZILAY to Venue"
+    text:   "After transferring with BelkoAir Bus, you get off the bus in Kizilay. Then you should walk 4 minutes to the Minibus station. Below you can see the route that you need to walk from A to B.You use the underground way to pass the road and then you reach the MiniBus Station. There are many MiniBuses. You should ask and find the Minibus that goes to ODTÜ (Turkish name of METU, Middle East Technical University). There is a security check in the entrance of the university. Only university students can enter the university. So you should say that you came for the Android Developer Days Conference. Then you should get off the minibus at ODTÜ KKM (name of the Venue)."
+    imageUrl: "map1.png"

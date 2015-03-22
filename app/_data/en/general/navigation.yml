@@ -2,7 +2,7 @@ links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Venue"}
  - {permalink: "/all-stars/", text: "All stars"}
  - {permalink: "/contact/", text: "Contact"}
  - {permalink: "/about/", text: "About"}

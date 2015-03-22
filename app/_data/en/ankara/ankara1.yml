@@ -1,0 +1,35 @@
+-
+    title: "I Love Nightlife"
+    elements:
+        - {title: "<b>Bomonti</b>  – <a href='https://tr.foursquare.com/v/brasserie-bomonti-ankara/4bdc5621fed22d7f6fb157c9'>Foursquare Link</a>",text:   "You can talk with really good musics and great concept at Bomonti.",imageUrl: "bomonti.png"}
+        - {title: "<b>Hayal Kahvesi</b>  – <a href='https://tr.foursquare.com/hayalkahvesiank'>Foursquare Link</a>",text:   "If you want to enjoy by dancing, Hayal Kahvesi is the best choice.",imageUrl: "hayal-kahvesi.png"}
+-
+    title: "I Want to Eat Something That I Will Never Forget the Taste!"
+    elements:
+        - {title: "<b>Özçelik Aspava</b>  – <a href='https://tr.foursquare.com/v/%C3%B6z%C3%A7elik-aspava/4bdb569c383276b0b2ad7369'>Foursquare Link</a>",text:   "Just sit down at table and say that 'sauce-onion.'",imageUrl: "aspava.jpg"}
+        - {title: "<b>Bayram Usta Yaprak Kebap</b>  – <a href='https://tr.foursquare.com/v/bayram-usta-yaprak-kebap/4f8ec2cce4b0e25286993fa6'>Foursquare Link</a>",text:   "Bayram Chief’s yaprak kebap is really so much tasteful, you should try!",imageUrl: "bayram-usta.png"}
+-
+    title: "Nightlife is not for me, also I can always eat"
+    elements:
+        - {title: "<b>Anıtkabir</b>  – <a href='https://tr.foursquare.com/v/an%C4%B1tkabir/4c0e115bc700c9b6ce42a3dd'>Foursquare Link</a>",text:   "Do not forget to visit Atatürk’s Mausoleum when you come to Ankara.",imageUrl: "anitkabir.jpg"}
+        - {title: "<b>Hamam Önü</b>  – <a href='https://tr.foursquare.com/v/hamam%C3%B6n%C3%BC/4c64758c558db7131f7cb76b'>Foursquare Link</a>",text:   "You will like Hamam Önü’ s good ambiance. You may find Bacchus and eat chicken with honey and mustard. Delicious!",imageUrl: "hamam.jpg"}
+-
+    title: "I am still in Ankara on Sunday, let’s go to breakfast"
+    elements:
+        - {title: "<b>Seyir</b>  – <a href='https://tr.foursquare.com/v/seyir-cafe/4c2cd31777cfe21e80a0b6f1'>Foursquare Link</a>",text:   "Seyir Cafe is ideal for brunch with extensive breakfast varieties. It may be hard to find free place.",imageUrl: "seyir.png"}
+        - {title: "<b>Papazın Bağı</b>  – <a href='https://tr.foursquare.com/v/papaz%C4%B1n-ba%C4%9F%C4%B1/4c1f9e19b4e62d7f0eeadf93'>Foursquare Link</a>",text:   "If you want to have breakfast in nature, here is the best for you.",imageUrl: "papaz.png"}
+-
+    title: "ADD was so live, I need to have some rest in quiet place"
+    elements:
+        - {title: "<b>Cafe Lins </b>  – <a href='https://tr.foursquare.com/v/cafe-lins'>Foursquare Link</a>",text:   "If you look for peaceful place with musics, You can visit Cafe Lins.",imageUrl: "cafe-lins.png"}
+        - {title: "<b>Cafemiz</b>  – <a href='https://tr.foursquare.com/v/cafemiz/'>Foursquare Link</a>",text:   "Cafemiz has very delicious meals and pretty good ambiance.",imageUrl: "cafemiz.png"}
+-
+    title: "It is good to chat with my friends at beautiful cafe"
+    elements:
+        - {title: "<b>Coffee Lab</b>  – <a href='https://tr.foursquare.com/v/coffee-lab/506a8730e4b09a4647d3e277'>Foursquare Link</a>",text:   "Coffee Lab is an ideal place to chat with different concept design.",imageUrl: "caffelab.png"}
+        - {title: "<b>Kocatepe Coffe House</b>  – <a href='https://tr.foursquare.com/v/kocatepe-kahve-evi-ankara-t%C3%BCrkiye'>Foursquare Link</a>",text:   "If you want to taste Turkish Coffee while talking with friends, here is a good choice for you.",imageUrl: "kocatepe.png"}
+-
+    title: "First, I go to mall in every city"
+    elements:
+        - {title: "<b>Cepa – Kentpark</b>  – <a href='https://tr.foursquare.com/cepaavm'>Foursquare Link</a>",text:   "",imageUrl: "cepa.png"}
+        - {title: "<b>Ankamall</b>  – <a href='https://tr.foursquare.com/v/ankamall'>Foursquare Link</a>",text:   "",imageUrl: "ankamall.png"}

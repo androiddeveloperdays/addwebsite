@@ -1,0 +1,8 @@
+-
+    title: "Havaalanından Kızılay’ a"
+    text:   "Havaalanından Kızılay’a gitmek için Belko otobuslerini kullanabilirsiniz. Ücreti 5.5 TL ve her 20dk bir kalkmaktadır. Otobüs numarası 442’dir. Bileti sürücüden alabilirsiniz. Haftanın her günü sabah 6:20’den 23:40’a kadar otobüs vardır. Bu <a href='https://maps.google.com/maps?q=39.919325,32.854292&num=1&t=h&vpsrc=0&ie=UTF8&z=19&iwloc=A'>otobüs</a> ile direk Kızılay’a gidebilirsiniz. Şöförden Kızılay’da indirmesini söyleyebilirsiniz."
+    imageUrl: "otobus.png"
+-
+    title: "Kızılay’ dan ODTÜ’ ye"
+    text:   "Kızılay’da indikten sonra ODTÜ dolmuşlarına gitmek için 4 dk yürümeniz gerekiyor. Aşağıda Belko Kızılay durağından indikten sonra dolmuş duraklarına A’dan B’ye yol tarifi vardır.Dolmuş duraklarına gitmek için alt geçitten geçerek gitmeniz gerekiyor. Dolmuş duraklarında ODTÜ dolmuşlarını bulunuz. ODTÜ girişinde güvenlik kontrolü yapılmaktadır. Android Geliştirici Günlerine geldiğinizi söyleyerek giriş yapabilirsiniz. ODTÜ KKM’de dolmuştan inebilirsiniz. Dönüş için de yine ODTÜ KKM önündeki duraktan dolmuşları kullanarak Kızılay’a gidebilirsiniz. Havalanına gitmek için yine gelirken indiğiniz Belko Kızılay durağından otobüse binebilirsiniz. Otobüs her 20 dk. bir geçmektedir."
+    imageUrl: "map1.png"

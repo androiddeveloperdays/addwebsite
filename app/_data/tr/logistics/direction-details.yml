@@ -1,10 +1,10 @@
 image: "direction-details.jpg"
 title: "Ankara ve Ulaşım"
 cards:
- - {title: "Konferans Mekanı", information: 'Konferans mekanı ODTÜ içerisinde. Ayrıntılı bilgi için tıklayınız.'}
- - {title: "Havaalanından Konferans Mekanına", information: 'Havaalanından konferans mekanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için tıklayınız.'}
- - {title: "Konferans Mekanından Havaalanına", information: 'Konferans mekanından havaalanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için tıklayınız.'}
- - {title: "Ankara Attractions", information: 'Ankarada hakkında bilgiler ve yapabileceğiniz aktiviteler bu sayfada.'}
+ - {title: "Konferans Mekanı", information: 'Konferans mekanı ODTÜ içerisinde. Ayrıntılı bilgi için <a href="/2015/tr/metu-ccm/">tıklayınız</a>.'}
+ - {title: "Havaalanından Konferans Mekanına", information: 'Havaalanından konferans mekanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için <a href="/2015/tr/from-airport/">tıklayınız</a>.'}
+ - {title: "Konferans Mekanından Havaalanına", information: 'Konferans mekanından havaalanına ulaşım araba,toplu taşıma ve taksi ile kolaylıkla yapılabilmektedir. Ayrıntılar için <a href="/2015/tr/to-airport/">tıklayınız</a>.'}
+ - {title: "Ankara Attractions", information: 'Ankarada hakkında bilgiler ve yapabileceğiniz aktiviteler bu <a href="/2015/tr/ankara/">sayfada</a>.'}
 wideCards:
  -
   title: "Sorularınız?"
