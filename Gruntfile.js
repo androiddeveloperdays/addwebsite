@@ -12,7 +12,7 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'addwebsite',
+            baseurl: 'github2015',
             git_repo: 'git@github.com:androiddeveloperdays/addwebsite.git'
         },
         watch: {

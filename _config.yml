@@ -10,8 +10,8 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/addwebsite"
-url: "http://androiddeveloperdays.github.io"
+baseurl: "/github2015"
+url: "http://www.androiddeveloperdays.com"
 permalink: '/blog/:title'
 
 # i18n

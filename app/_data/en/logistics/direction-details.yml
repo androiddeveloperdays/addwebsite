@@ -1,9 +1,10 @@
 image: "direction-details.jpg"
 title: "Get around Ankara"
 cards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Venue", information: 'Venue is in Middle East Technical University. Here is the details about the venue.'}
+ - {title: "From the Airport", information: 'It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "To the Airport", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Ankara Attractions", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 wideCards:
  -
   title: "Questions?"
@@ -11,21 +12,8 @@ wideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.moevenpick-hotels.com/en/europe/turkey/ankara/hotel-ankara/overview/", text: "Mövenpick"}
+     - {link: "http://www.gaziparkhotel.com/", text: "Gazi Park Hotel"}
+     - {link: "http://www.deepshostelankara.com/contact/", text: "Deeps Hostel"}
+     - {link: "", text: "Tedaş Misafirhanesi"}
+     - {link: "http://www.baskentogretmenevi.com/", text: "Başkent Öğretmenevi"}
