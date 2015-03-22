@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://www.androiddeveloperdays.com/github2015/tr/</link>
-    <atom:link href="http://www.androiddeveloperdays.com/github2015/tr/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 22 Mar 2015 21:24:25 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2015 21:24:25 +0200</lastBuildDate>
+    <link>http://www.androiddeveloperdays.com/2015/tr/</link>
+    <atom:link href="http://www.androiddeveloperdays.com/2015/tr/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 22 Mar 2015 21:31:10 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2015 21:31:10 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,19 +26,19 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/codepath/android_guides/wiki&quot;&gt;Codepath Android:&lt;/a&gt; Android için güzel bir kaynak.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/deadline_tr.jpg&quot; style=&quot;max-width: 300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/deadline_tr.jpg&quot; style=&quot;max-width: 300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Etkin katılım çağrısı hala açık. &lt;a href=&quot;/github2015/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;Buradan&lt;/a&gt; konuşmacı olmak için başvurabilirsiniz.&lt;/p&gt;
+&lt;p&gt;Etkin katılım çağrısı hala açık. &lt;a href=&quot;/2015/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;Buradan&lt;/a&gt; konuşmacı olmak için başvurabilirsiniz.&lt;/p&gt;
 
 &lt;p&gt;Sizi dinliyoruz. ADD’de ne görmek istiyorsunuz? Lütfen düşünce ve önerilerinizi &lt;a href=&quot;https://docs.google.com/forms/d/16RB2PM-ifAxv4HqTOXWO72DlgYEEWc0f9SB921smTBs/viewform&quot;&gt;bu form&lt;/a&gt; ile paylaşın.&lt;/p&gt;
 
 &lt;p&gt;AGG’ye kayıt olan katılımcı sayısı &lt;strong&gt;1175&lt;/strong&gt;’yi geçti. Kayıt olmak için acele edin ve &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;bu form&lt;/a&gt; doldurun. Katılım hala ücretsiz :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/Attendee-geoMarch_tr.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/Attendee-geoMarch_tr.png&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/tim-messerschmidt.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/tim-messerschmidt.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
     Mobil ve web geliştiricisi olan Tim Messerschmidt,  bunun yanısıra Braintree&#39;de  Geliştirici İlişkilerinin Başkanı olarak bilgi ve tecrübelerini paylaşıyor. Birçok start up  inkübatör ve hızlandırıcı oluşumunda danışmanlık yapan Tim&#39;in  tutkusu start uplar.Tim Paypal &#39;a katılmadan önce Neofonie ve Samsung da birçok mobil projeye odaklandı. Boş zamanlarında geliştirici odaklı konularda çalışma grupları  kurup yönlendiren Tim aynı zamanda açık kaynak projelere de katkı sağlıyor. The Mobile Developer’s Guide to the Galaxy yazarlarından biri olan Tim&#39;in bunlara ek olarak dergilerde bir çok makalesi bulunmaktadır.	
@@ -46,7 +46,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/abhisek-devkota.png&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/abhisek-devkota.png&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Abhisek Devkota CyanogenMod kurucularının yürüttüğü Cyanogen Inc.&#39;de proje ve topluluk yöneticisidir. CyanogenMod projesi son kullanıcılara daha fazla güvenlik, özelleştirme ve fonksiyonellik sunmayı amaçlayan, tüm dünyadan gönüllü geliştiriciler tarafından yürütülen açık kaynak bir dağıtımdır.
@@ -54,7 +54,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/wiebe-elsinga.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/wiebe-elsinga.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
     UX ve Design tutkusu olan Wiebe Elsinga bir Android geliştiricisi olmakla beraber, android üzerine bir  GDE (Google Developer Expert) olarak kabul edilmiştir. GDG Dutch Android Kullanıcı grubu organizatörlerinden biri olan Wiebe Itude Mobile şirketinde çalışmaktadır.  Temelde bir EntrepreNerd olmakla beraber, mobil uygulama geliştirme ve dizayn üzerine odaklanmıştır.
@@ -62,7 +62,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/markus-eisele.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/markus-eisele.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Markus Eisele, Red Hat&#39;de Geliştirici Savunucusu olarak çalışmaktadır ve JBoss Middleware konusuna odaklanmıştır.14 yıldan fazla bir zamandır değişik sağlayıcılardan Java EE sunucuları ile çalışmaktadır ve dünyanın değişik yerlerinde Java EE konuları üzerine konferanslarda sunumlar yapmaktadır. Kendisi baş danışman olarak değişik müşteriler ile  Java EE uygulamaları ve çözümleri üzerine çalışmıştır. Ayrıca üretken bir blogcu,yazar ve Java EE konuları üzerine değişik kitaplarda teknik editördür. German DOAG e.V. aktif üyelerindendir ve iJUG e.V. temsilcidir. Toplulukta Java Şampiyonu olarak bilinmektedir.
@@ -70,7 +70,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/cyril-mottier.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/cyril-mottier.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Cyril Mottier, Captain Train&#39;de yazılım mühendisidir ve Android Google Geliştirici Uzmanıdır. Dizayn ve teknoloji konularında tutkuludur, Android&#39;i çok sever ve çok  yetenekli bir mühendistir. Android topluluklarında aktif olarak yer almaktadır ve  bilgilerini blog yazarak, açık kaynak kodlu projeler geliştirerek ve konuşmalar yaparak paylaşmaktadır. Sloganı: Az ama çok iyi yap
@@ -78,7 +78,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
     &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/prajyot-mainkar.jpg&quot; /&gt;	
+        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/prajyot-mainkar.jpg&quot; /&gt;	
     &lt;/div&gt;
     &lt;p class=&quot;col-md-9&quot;&gt;
     Prajyot Mainkar Hindistandaki app engineering üzerine bir firma olan  Androcid Media Pvt. de çalışmaktadır. Hindistandaki en eski gruplardan olan Goa Android Kullanıcı Grubu Organizatörüdür. Android Geliştirici olan Prajyot Droidcon India,GDG Devfest, Silcon India Mobile  da dahil olmak üzere pek çok konferansa konuşmacı olarak katılmıştır. Android topluluğunda aktif rol almakla beraber, Android geliştiricileri yeni,rekabetçi ve iyi uygulamalar geliştirmeleri için yönlendirmektir. Droidcon India,GDG Devfest,Silicon India Mobile Conference gibi bir çok etkinlikte konuşmacı olmuştur.
@@ -86,33 +86,33 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
     &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/orhan-obut.jpg&quot; /&gt;	
+        &lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/orhan-obut.jpg&quot; /&gt;	
     &lt;/div&gt;
     &lt;p class=&quot;col-md-9&quot;&gt;
     Orhan Obut, Berlin’de Rocket-Internet’de android gelistiricisi olarak calismaktadir. Android development ve acik-kaynak konusunda oldukca hevesli oldugundan, bu konularda kendini mumkun oldugu kadar gelistirmeye calismaktadir. Acik-kaynak konusunda da surekli olarak destek vermektedir. Mobil alisveristen mobil bankaciliga cesitli bir cok konuda gelistirme yapmistir. Surekli olarak yazilim prensiplerini, en iyi pratiklerini uygulamayi ve ogrendiklerini de digerleriyle paylasmayi hedeflemektedir.
     &lt;/p&gt;	
 &lt;/div&gt;
 
-&lt;p&gt;AGG’yi destekleyen &lt;a href=&quot;/github2015/tr/sponsors&quot;&gt;sponsorlar&lt;/a&gt; sayısı 28’e ulaştı. Sponsor olma fırsatını kaçırmayın.&lt;/p&gt;
+&lt;p&gt;AGG’yi destekleyen &lt;a href=&quot;/2015/tr/sponsors&quot;&gt;sponsorlar&lt;/a&gt; sayısı 28’e ulaştı. Sponsor olma fırsatını kaçırmayın.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/support_en.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/support_en.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;AGG’yi bir blog yazısı veya istediğiniz bir şekilde destekleyebilirsiniz. Yaptığınızda bize haber verin ve logonuzu destekleyenler arasına koyalım.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/indirmobil_en.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/indirmobil_en.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2.indir.com Mobil Uygulama Ödülleri finalistleri uygulamalarını Android Geliştirici Günleri’nde tanıtacaklar. Yarışmaya başvurular hala açık ve 20 Nisan başvurular için son gün. Kazananlar 23 Mayıs’ta indir.com tarafından Bahçeşehir Üniversitesi’nde düzenlenecek olan Mobil Etkinlikte duyurulacaktır. Kazanlara bir çok güzel ödül verilecektir. Detaylar için &lt;a href=&quot;http://www.indir.com/yarisma/&quot;&gt;burayı&lt;/a&gt; tıklayınız.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/gdg_57.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/gdg_57.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Organizatör GDG sayısı 57’ye ulaştı.&lt;a href=&quot;/github2015/tr/organizers&quot;&gt;Organizatörler&lt;/a&gt; dünyanın bir çok değişik şehir ve ülkesinden.&lt;/p&gt;
+&lt;p&gt;Organizatör GDG sayısı 57’ye ulaştı.&lt;a href=&quot;/2015/tr/organizers&quot;&gt;Organizatörler&lt;/a&gt; dünyanın bir çok değişik şehir ve ülkesinden.&lt;/p&gt;
 
 &lt;h5 id=&quot;sponsorlar&quot;&gt;Sponsorlar&lt;/h5&gt;
-&lt;p&gt;Güncel sponsorlar için lütfen bu sayfaya&lt;a href=&quot;/github2015/tr/sponsors&quot;&gt;bu sayfaya&lt;/a&gt; bakın. Tüm sponsorlar haber bülteninin email versiyonunda burada listelenmektedir.&lt;/p&gt;
+&lt;p&gt;Güncel sponsorlar için lütfen bu sayfaya&lt;a href=&quot;/2015/tr/sponsors&quot;&gt;bu sayfaya&lt;/a&gt; bakın. Tüm sponsorlar haber bülteninin email versiyonunda burada listelenmektedir.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
-        <link>http://www.androiddeveloperdays.com/github2015/tr/blog/march-newsletter</link>
-        <guid isPermaLink="true">http://www.androiddeveloperdays.com/github2015/tr/blog/march-newsletter</guid>
+        <link>http://www.androiddeveloperdays.com/2015/tr/blog/march-newsletter</link>
+        <guid isPermaLink="true">http://www.androiddeveloperdays.com/2015/tr/blog/march-newsletter</guid>
         
         
         <category>_i18n</category>
@@ -125,13 +125,13 @@
         <title>Şubat Bülteni: Öne çıkan Konuşmacıları Duyurmaya Başlıyoruz</title>
         <description>&lt;p&gt;Şubat bültenine hoş geldiniz :) Bu bültende sizlere gelişmelerden bahsedeceğiz.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/02_statistics.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/02_statistics.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;AGG’ye kayıt olan katılımcı sayısı &lt;strong&gt;650&lt;/strong&gt;yi geçti. Kayıt olmak için acele edin ve &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;bu formu&lt;/a&gt;. Participation is still free :) doldurun. Katılım hala ücretsiz :) Etkin katılım çağrısı açıldı. &lt;a href=&quot;/github2015/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;Buradan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;AGG’ye kayıt olan katılımcı sayısı &lt;strong&gt;650&lt;/strong&gt;yi geçti. Kayıt olmak için acele edin ve &lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot;&gt;bu formu&lt;/a&gt;. Participation is still free :) doldurun. Katılım hala ücretsiz :) Etkin katılım çağrısı açıldı. &lt;a href=&quot;/2015/tr/blog/share-your-knowledge-and-experience-in-add/&quot;&gt;Buradan&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/matt-sullivan.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/matt-sullivan.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools.	
@@ -139,7 +139,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/royi-benyossef.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/royi-benyossef.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i&#39;m an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program&#39;s inception which means that i&#39;m not a Google employee but Google believes that i know what i&#39;m talking about as well as how to say it.
@@ -147,7 +147,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/muge-yilmaz.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/muge-yilmaz.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization &amp;amp; customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently.
@@ -155,7 +155,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/stephan-linzner.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/stephan-linzner.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests.
@@ -163,23 +163,23 @@
 &lt;/div&gt;
 &lt;div class=&quot;row speaker-row&quot;&gt;
 	&lt;div class=&quot;col-md-3&quot;&gt;
-		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/github2015/img/people/xavier-hallade.jpg&quot; /&gt;	
+		&lt;img class=&quot;img-responsive img-circle&quot; src=&quot;/2015/img/people/xavier-hallade.jpg&quot; /&gt;	
 	&lt;/div&gt;
 	&lt;p class=&quot;col-md-9&quot;&gt;
 	Xavier Hallade is Developer Evangelist in Intel Software and Service Group in Paris, France.He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, Android TV and dual-displays.
 	&lt;/p&gt;	
 &lt;/div&gt;
 
-&lt;p&gt;The number of &lt;a href=&quot;/github2015/tr/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
-&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/gdg_57.png&quot; /&gt;	
-The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/github2015/tr/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
+&lt;p&gt;The number of &lt;a href=&quot;/2015/tr/sponsors&quot;&gt;sponsors&lt;/a&gt; support ADD has reached 21. Do not miss sponsorship opportunity.
+&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/gdg_57.png&quot; /&gt;	
+The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/2015/tr/organizers&quot;&gt;organizers&lt;/a&gt; of ADD are from the cities of very different countries.&lt;/p&gt;
 
 &lt;h5 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h5&gt;
-&lt;p&gt;Please look at the &lt;a href=&quot;/github2015/tr/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
+&lt;p&gt;Please look at the &lt;a href=&quot;/2015/tr/sponsors&quot;&gt;Sponsors page&lt;/a&gt; to see the latest updates. All sponsors are listed here in e-mail version of this press bulletin.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 11:00:00 +0200</pubDate>
-        <link>http://www.androiddeveloperdays.com/github2015/tr/blog/february-newsletter-starting-to-announce-featured-speakers</link>
-        <guid isPermaLink="true">http://www.androiddeveloperdays.com/github2015/tr/blog/february-newsletter-starting-to-announce-featured-speakers</guid>
+        <link>http://www.androiddeveloperdays.com/2015/tr/blog/february-newsletter-starting-to-announce-featured-speakers</link>
+        <guid isPermaLink="true">http://www.androiddeveloperdays.com/2015/tr/blog/february-newsletter-starting-to-announce-featured-speakers</guid>
         
         
         <category>_i18n</category>
@@ -199,7 +199,7 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/github2015
 &lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center&quot; target=&quot;blank&quot;&gt;Kayıt Ol&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/share-your-knowledge.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;konular&quot;&gt;Konular&lt;/h5&gt;
 
@@ -273,8 +273,8 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/github2015
 &lt;p&gt;Her türlü etkin katılım, dinleyici olarak katılım veya sponsor seçenekleri ile ilgili sorularınız için &lt;a href=&quot;mailto:contact@androiddeveloperdays.com&quot;&gt;contact@androiddeveloperdays.com&lt;/a&gt; adresinden iletişime geçebilirsiniz.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jan 2015 11:00:00 +0200</pubDate>
-        <link>http://www.androiddeveloperdays.com/github2015/tr/blog/share-your-knowledge-and-experience-in-add</link>
-        <guid isPermaLink="true">http://www.androiddeveloperdays.com/github2015/tr/blog/share-your-knowledge-and-experience-in-add</guid>
+        <link>http://www.androiddeveloperdays.com/2015/tr/blog/share-your-knowledge-and-experience-in-add</link>
+        <guid isPermaLink="true">http://www.androiddeveloperdays.com/2015/tr/blog/share-your-knowledge-and-experience-in-add</guid>
         
         
         <category>_i18n</category>
@@ -295,7 +295,7 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/github2015
 
 &lt;p&gt;Android Geliştirici Günlerinde geçen yıl yurt içinden(25) ve yurt dışından(34) konuşmacılar yeni ve var olan mobil teknolojiler üzerinde gelişmeleri ve tecrübelerini paylaştılar. Tüm dünyadan 29 GDG bu etkinliğin gerçekleşmesi için iş birliği yaptı. 2053+ katılımcı ile güzel bir etkinlik gerçekleşti. Turkcell,Nokia Developer ve Alcatel One Touch sponsorluğunda ödüllü mobil uygulama geliştirme yarışması(hackathon) düzenlendi. Yüzlerce ücretsiz kitap, tshirt, defter ve çanta dağıtıldı.Ayrıca 17 adet akıllı telefon dağıtıldı. Telefon kaydırma, Kinect, Sanal Gerçeklik ve Mobil oyunlar ile etkinliğe eğlence katıldı.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/github2015/img/posts/add2015_infograph_tr.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/2015/img/posts/add2015_infograph_tr.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;imdi-sra-agg-2015de&quot;&gt;Şimdi sıra AGG 2015’de&lt;/h4&gt;
 
@@ -308,8 +308,8 @@ The number of GDGs as organizer has reached 57. The &lt;a href=&quot;/github2015
 &lt;iframe src=&quot;//eventbrite.com/tickets-external?eid=14846274607&amp;amp;ref=etckt&quot; width=&quot;100%&quot; height=&quot;260&quot; frameborder=&quot;0&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 11:00:00 +0200</pubDate>
-        <link>http://www.androiddeveloperdays.com/github2015/tr/blog/android-developers-days-2015-journey-has-started</link>
-        <guid isPermaLink="true">http://www.androiddeveloperdays.com/github2015/tr/blog/android-developers-days-2015-journey-has-started</guid>
+        <link>http://www.androiddeveloperdays.com/2015/tr/blog/android-developers-days-2015-journey-has-started</link>
+        <guid isPermaLink="true">http://www.androiddeveloperdays.com/2015/tr/blog/android-developers-days-2015-journey-has-started</guid>
         
         
         <category>_i18n</category>
