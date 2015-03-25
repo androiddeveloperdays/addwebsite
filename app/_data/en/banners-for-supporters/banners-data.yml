@@ -1,6 +1,16 @@
-- 
-  elements: 
-    - {imageUrl: "add_2015_120_600_black.jpg" ,size: "120x600 Black"}
-    - {imageUrl: "add_2015_120_600_green.jpg" ,size: "120x600 Green"}
-    - {imageUrl: "add_2015_160_160_black.jpg" ,size: "160x160 Black"}
-    - {imageUrl: "add_2015_160_160_green.jpg" ,size: "160x160 Green"}
+-
+    elements:
+      - {imageUrl: "add_2015_120_600_black.jpg",width: "120" , size: "120x600 Black"}
+      - {imageUrl: "add_2015_120_600_green.jpg",width: "120" , size: "120x600 Green"}
+      - {imageUrl: "add_2015_160_160_black.jpg",width: "160" , size: "160x160 Black"}
+      - {imageUrl: "add_2015_160_160_green.jpg",width: "160" , size: "160x160 Green"}
+      - {imageUrl: "add_2015_200_200_black.jpg",width: "200" , size: "200x200 Black"}
+      - {imageUrl: "add_2015_200_200_green.jpg",width: "200" , size: "200x200 Green"}
+      - {imageUrl: "add_2015_300_150_black.jpg",width: "300" , size: "300x150 Black"}
+      - {imageUrl: "add_2015_300_150_green.jpg",width: "300" , size: "300x150 Green"}
+      - {imageUrl: "add_2015_300_300_black.jpg",width: "300" , size: "300x300 Black"}
+      - {imageUrl: "add_2015_300_300_green.jpg",width: "300" , size: "300x300 Green"}
+      - {imageUrl: "add_2015_460_60_black.jpg",width: "460" , size: "460x60 Black"}
+      - {imageUrl: "add_2015_460_60_green.jpg",width: "460" , size: "460x60 Green"}
+      - {imageUrl: "add_2015_728_90_black.jpg",width: "728" , size: "728x90 Black"}
+      - {imageUrl: "add_2015_728_90_green.jpg",width: "728" , size: "728x90 Green"}
