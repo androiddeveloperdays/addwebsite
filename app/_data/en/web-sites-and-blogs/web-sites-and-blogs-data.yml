@@ -14,3 +14,7 @@
     - {name: "Androidliyim", description: "APK İndirme Merkezi", link: "http://www.androidliyim.com/", imageUrl: "androidliyim.png"}
     - {name: "Mobilhanem", description: "", link: "http://www.mobilhanem.com/", imageUrl: "mobilhanem.png"}
     - {name: "Şeref Akyüz", description: "programlama - oyun programlama", link: "http://www.serefakyuz.com/", imageUrl: "seref_akyuz.jpg"}
+    - {name: "İlker Bilişim.NET", description: "İlker Bilişim.NET", link: "http://www.ilkerbilisim.net", imageUrl: "ilkerbilisim.png"}
+    - {name: "Elektrik Port", description: "Elektrik Port", link: "http://www.elektrikport.com/", imageUrl: "elektrikport.png"}
+    - {name: "Java Techic", description: "Java Techic", link: "http://javatechic.com", imageUrl: "javatechig.com2.png"}
+    - {name: "Cyberedges", description: "Cyberedges", link: "http://www.cyberedges.com", imageUrl: "www.cyberedges.com.jpg"}

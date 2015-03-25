@@ -15,8 +15,9 @@
   showIndex: true
   elements: 
     - {name: "CyanogenMod", description: "Android Community Operating System", link: "http://www.cyanogenmod.org/", imageUrl: "cyanogenmod.png"}
-    - {name: "4pps", description: "4pps", link: "http://4pps.co/", imageUrl: "4pps.png"}
     - {name: "STM", description: "STM", link: "http://www.stm.com.tr/", imageUrl: "stm.jpg"}
+    - {name: "4pps", description: "4pps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+    - {name: "", description: "", link: "", imageUrl: "lookvrlogo.png"}
 -
   group: "Kitap Sponsorları"
   elements: 
@@ -55,6 +56,7 @@
     - {name: "REKMOB", description: "Reach your target audience with Rekmob. Effective targeting at mobile for advertiser, mobile monetization, maximum ad revenue for publishers.", link: "https://www.rekmob.com/", imageUrl: "rekmob.png"}
     - {name: "HyperAD", description: "HyperAD", link: "http://hyper.net.tr/", imageUrl: "hyperad.jpg"}
     - {name: "Merakli Maymunn", description: "Merakli Maymunn", link: "https://www.youtube.com/user/MerakliMaymunn", imageUrl: "merakli.png"}
+    - {name: "Silikon Vadisi", description: "Silikon Vadisi", link: "http://www.silikonvadisi.tv/", imageUrl: "svadisi.jpg"}
 - 
   group: "Dijital Medya Sponsorları"
   elements: 
@@ -63,3 +65,7 @@
   group: "Gençlik and İletişim Sponsorları"
   elements: 
     - {name: "Üniaktivite", description: "Üniaktivite, Türkiye’nin en popüler üniversite kampüsü. Üniaktivite’de gençlik etkinlikleri ve üniversite kulüplerini takip edebilir, kariyerine yön verecek bir çok haberi bulabilir, sana ulaşmak isteyen markalara kolayca ulaşabilirsin. Ayrıca sevdiğin kategorilerdeki blog yazılarını okuyabilir, yazar olarak kendini gösterebilir, bir çok yeni arkadaşlıklar kurabilirsin.", link: "http://uniaktivite.com/", imageUrl: "uniaktivite.png"}
+-
+  group: "İletişim Sponsorları"
+  elements:
+    - {name: "Kampüs Etkinlikleri", description: "", link: "http://www.kampusetkinlikleri.com/", imageUrl: "kampus.png"}
