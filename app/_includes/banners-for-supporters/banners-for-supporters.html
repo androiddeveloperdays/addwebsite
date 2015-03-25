@@ -1,0 +1,21 @@
+<!-- Begin banners-for-supporters Section -->
+<section id="banners-for-supporters" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for banners in site.data.[site.lang].banners-for-supporters.banners-data %}
+            <ul class="list-inline">
+                {% for element in banners.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <div class="img-with-text">
+                        <img src="{{ site.baseurl_root }}/img/banners-for-supporters/{{ element.imageUrl }}" title="" alt="">
+                         <p>{{ element.size}}</p>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End banners-for-supporters Section -->
+

@@ -1,0 +1,6 @@
+- 
+  elements: 
+    - {imageUrl: "add_2015_120_600_black.jpg", size: "120x600 Black"}
+    - {imageUrl: "add_2015_120_600_green.jpg", size: "120x600 Green"}
+    - {imageUrl: "add_2015_160_160_black.jpg", size: "160x160 Black"}
+    - {imageUrl: "add_2015_160_160_green.jpg" ,size: "160x160 Green"}
