@@ -13,3 +13,4 @@
     - {name: "BAU IEEE SB", description: "Balıkesir University - BAU IEEE SB", link: "https://www.facebook.com/bauieeesb", imageUrl: "bau-ieee-sb.png"}
     - {name: "İYTE IEEE", description: "İzmir Yüksek Teknoloji Enstitüsü IEEE Öğrenci Kolu", link: "http://ieee.iyte.edu.tr/", imageUrl: "iyte-ieee.png"}
     - {name: "Hacettepe IEEE", description: "Hacettepe IEEE Öğrenci Kolu", link: "https://www.facebook.com/hacettepehaber", imageUrl: "hacettepe-ieee.png"}
+    - {name: "PAÜ Özgür Yazılım Toplulugu", description: "PAÜ Özgür Yazılım Toplulugu", link: "http://ozguryazilim.pau.edu.tr/", imageUrl: "pau.png"}

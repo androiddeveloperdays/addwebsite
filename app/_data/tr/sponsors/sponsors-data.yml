@@ -58,6 +58,7 @@
     - {name: "HyperAD", description: "HyperAD", link: "http://hyper.net.tr/", imageUrl: "hyperad.jpg"}
     - {name: "Merakli Maymunn", description: "Merakli Maymunn", link: "https://www.youtube.com/user/MerakliMaymunn", imageUrl: "merakli.png"}
     - {name: "Silikon Vadisi", description: "Silikon Vadisi", link: "http://www.silikonvadisi.tv/", imageUrl: "svadisi.jpg"}
+    - {name: "teknosektör", description: "teknosektör", link: "http://teknosektor.com/", imageUrl: "teknosektor.png"}
 - 
   group: "Dijital Medya Sponsorları"
   elements: 
