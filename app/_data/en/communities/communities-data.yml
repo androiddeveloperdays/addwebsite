@@ -9,3 +9,7 @@
     - {name: "MEF IEEE", description: "MEF Üniversitesi IEEE Öğrenci Kulübü", link: "https://www.facebook.com/mefieee", imageUrl: "mef-ieee.png"}
     - {name: "SDU IEEE", description: "Süleyman Demirel Üniversitesi IEEE Öğrenci Topluluğu", link: "http://sduieee.com/", imageUrl: "sdu-ieee.jpg"}
     - {name: "THK IEEE", description: "Türk Hava Kurumu Üniversitesi IEEE Öğrenci Kolu ", link: "http://ieee.thk.edu.tr/", imageUrl: "thk-ieee.jpg"}
+    - {name: "KOU IEEE", description: "KOU IEEE Öğrenci Kulübü", link: "http://www.kouieee.com/", imageUrl: "kou-ieee.jpg"}
+    - {name: "BAU IEEE SB", description: "Balıkesir University - BAU IEEE SB", link: "https://www.facebook.com/bauieeesb", imageUrl: "bau-ieee-sb.png"}
+    - {name: "İYTE IEEE", description: "İzmir Yüksek Teknoloji Enstitüsü IEEE Öğrenci Kolu", link: "http://ieee.iyte.edu.tr/", imageUrl: "iyte-ieee.png"}
+    - {name: "Hacettepe IEEE", description: "Hacettepe IEEE Öğrenci Kolu", link: "https://www.facebook.com/hacettepehaber", imageUrl: "hacettepe-ieee.png"}
