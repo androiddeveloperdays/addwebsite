@@ -1,15 +1,15 @@
-<!-- Begin banners-for-supporters Section -->
-<section id="banners-for-supporters">
+<!-- Begin Banners For Supporters Section -->
+<section id="banners-for-supporters" class="banners-for-supporters">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             {% for banners in site.data.[site.lang].banners-for-supporters.banners-data %}
             <ul class="list-inline">
                 {% for element in banners.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <div class="img-with-text">
-                        <img src="{{ site.baseurl_root }}/img/banners-for-supporters/{{ element.imageUrl }}" title="" alt="">
-                         <p>{{ element.size}}</p>
-                    </div>
+                <li {% if element.width != null %}style="width: {{ element.width }}px;"{% endif %}>
+                    <a href="{{ site.baseurl_root }}/img/banners-for-supporters/{{ element.imageUrl }}" target="_blank">
+                        <img src="{{ site.baseurl_root }}/img/banners-for-supporters/{{ element.imageUrl }}" title="{{ element.size }}">
+                         <p class="sub-text">{{ element.size }}</p>
+                    </a>
                 </li>
                 {% endfor %}
             </ul>
@@ -17,5 +17,5 @@
         </div>
     </div>
 </section>
-<!-- End banners-for-supporters Section -->
+<!-- End Banners For Supporters Section -->
 

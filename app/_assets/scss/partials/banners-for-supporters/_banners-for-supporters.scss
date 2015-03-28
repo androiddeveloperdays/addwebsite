@@ -1,0 +1,22 @@
+.banners-for-supporters {
+	.list-inline {
+        margin-bottom: 65px;
+        li {
+            // width: 16%;
+            max-width: 400px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    img {
+        max-width: 100%;
+        max-height: 160px;
+    }
+    .sub-text {
+	  line-height: 1.1;
+	  margin-top: 5px;
+    }
+}
