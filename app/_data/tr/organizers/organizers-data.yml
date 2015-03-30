@@ -11,7 +11,8 @@
     - {name: "GDG Kütahya", description: "", link: "https://plus.google.com/u/0/+GoogleDeveloperGroupK%C3%BCtahyaGDG/posts", imageUrl: "gdgKutahya.png"}
     - {name: "GDG İzmir", description: "", link: "https://plus.google.com/u/0/+GdgizmirOrg/about", imageUrl: "gdgIzmir.png"}
     - {name: "GDG Düzce", description: "", link: "http://gdgduzce.duzce.edu.tr/", imageUrl: "gdgDuzce.png"}
-- 
+    - {name: "GDG Tekirdağ", description: "", link: "http://gdgtekirdag.org/", imageUrl: "gdgTekirdag.jpg"}
+-
   group: "Co-Organizers"
   elements: 
     - {name: "GDG Ahmedabad", description: "", link: "https://plus.google.com/+Gdgahmedabad/posts", imageUrl: "gdgAhmedabad.png"}
