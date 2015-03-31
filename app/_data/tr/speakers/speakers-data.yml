@@ -153,3 +153,16 @@
     - {name: "twitter", link: "https://twitter.com/orhanobut"}
     - {name: "github", link: "https://github.com/orhanobut"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/orhanobut"}
+-
+  id: 12
+  name: "Hugo"
+  surname: "Visser"
+  company: "Little Robots"
+  title: "Android Geliştiricisi"
+  bio: "Hugo'nun sunucu tarafından masaüstüne, webden mobile yazılım mühendisi olarak 15 yıllık tecrübesi vardır. İlk duyurulmasından bu yana Android platformunu yakından takip etmiş ve bu sayede 1 000 000 kez indirilmiş olan Rainy Days uygulamasını geliştirmiştir. Kendi şirketi olan Little Robots'da uygulamalar geliştirmekte ve Android'in akıllı kullanımlarına yönelik çalışmalar yapmaktadır. Geliştiricilerin toplanıp bilgi paylaşımında bulunduğu aylık toplantıların düzenlendiği Dutch Android User Group organizatörü ve Android için Google Developer Expert'tir."
+  thumbnailUrl: hugo-visser.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "github", link: "https://github.com/hvisser"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/visserh"}
