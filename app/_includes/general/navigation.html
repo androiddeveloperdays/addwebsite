@@ -40,7 +40,7 @@
             {% elsif lang != site.lang %}
                 <li><a href="{{ site.baseurl_root | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ site.data.[lang].general.basic.languages[lang] }}</a></li>
             {% endif %}
-        {% endfor %}
+            {% endfor %}
         </ul>
         <ul class="pull-right hidden-xs">
         {% for lang in site.languages %}
