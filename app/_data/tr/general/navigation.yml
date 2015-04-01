@@ -5,7 +5,7 @@ links:
  - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/all-stars/", text: "Tüm Yıldızlar"}
  - {permalink: "/contact/", text: "İletişim"}
- - {permalink: "/about/", text: "Hakkında"}
+ - {permalink: "/sponsors/", text: "Sponsorlar"}
  - 
    subText: "Destekleyenler"
    links:

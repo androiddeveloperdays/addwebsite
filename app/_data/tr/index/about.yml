@@ -1,4 +1,5 @@
 title: "Android Geliştirici Günleri Hakkında"
+showMoreButton: "Daha Fazlası için Tıkla "
 blocks:
     - {title: "AGG 2015’in Hedefi Nedir?", image: "conference.jpg", text: "Android Geliştirici Günlerini herkesin bildiği ve duyduğu, eğlenceli ve yeni teknolojileri öğrenebileceğiniz kaliteli bir konferans haline getirmeyi hedefliyoruz. Ayrıca katılımcıların konferanstan çıktıktan sonra belli konularda kod yazabilecek seviyede konuları öğrenmelerini hedefliyoruz.Böylece çevremize ve dünyamıza daha çok katkı sağlayacağımızı düşünüyoruz." }
     - {title: "AGG 2015’in İçeriği Nelerden Oluşacaktır?", image: "workshop.jpg", text: "Konu ile ilgili seminerler, çalıştaylar, hackathonlar, paneller, eğlenceli aktiveler, yarışmalar ve networking ortamlarından oluşması planlanmaktadır. Ignito sunumlar (2 dklık kısa sunumlar) ve girişimcilik ile ilgili içerik sağlanması da planlanmaktadır." }

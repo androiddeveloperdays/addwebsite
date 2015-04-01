@@ -5,7 +5,7 @@ links:
  - {permalink: "/logistics/", text: "Venue"}
  - {permalink: "/all-stars/", text: "All stars"}
  - {permalink: "/contact/", text: "Contact"}
- - {permalink: "/about/", text: "About"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
  - 
    subText: "Supporters"
    links:

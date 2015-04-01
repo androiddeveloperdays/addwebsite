@@ -166,3 +166,16 @@
     - {name: "twitter", link: "https://twitter.com/botteaap"}
     - {name: "github", link: "https://github.com/hvisser"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/visserh"}
+-
+    id: 13
+    name: "Hasan"
+    surname: "Hosgel"
+    company: "ImmobilienScout24"
+    title: "Android Developer"
+    bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
+    thumbnailUrl: image10-150x150.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/alosdev"}
+        - {name: "github", link: "https://github.com/alosdev"}
+        - {name: "linkedin", link: "http://de.linkedin.com/in/hosgel/en"}

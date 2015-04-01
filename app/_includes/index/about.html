@@ -3,6 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.data.[site.lang].index.about.title }}</h3>
+            <a href="{{ '/about' | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.about.showMoreButton }}</a>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.data.[site.lang].index.about.blocks %}
