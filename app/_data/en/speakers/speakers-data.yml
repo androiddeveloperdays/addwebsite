@@ -179,3 +179,16 @@
         - {name: "twitter", link: "https://twitter.com/alosdev"}
         - {name: "github", link: "https://github.com/alosdev"}
         - {name: "linkedin", link: "http://de.linkedin.com/in/hosgel/en"}
+-
+    id: 14
+    name: "Paresh"
+    surname: "Mayani"
+    company: "InfoStretch Solutions"
+    title: "Android Developer"
+    bio: "Paresh is a mobile application developer with 5 years of apps development experience. Currently he is Senior Software Engineer at InfoStretch Solutions Pvt. Ltd, India. He has been exploring android development since Android 1.5. His passion for Google Technologies brought him to lead Google Developers Group Ahmedabad, India. He is very active in supporting Android developers community in India and worldwide be it through his tech blog “TechnoTalkative” http://www.technotalkative.com/ (published >150 articles) or through StackOverflow http://stackoverflow.com/users/379693/paresh-mayani (holder of >50,000 reputation)."
+    thumbnailUrl: paresh2.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/pareshmayani"}
+        - {name: "github", link: "https://github.com/PareshMayani"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}

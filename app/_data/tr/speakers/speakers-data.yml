@@ -179,3 +179,16 @@
         - {name: "twitter", link: "https://twitter.com/alosdev"}
         - {name: "github", link: "https://github.com/alosdev"}
         - {name: "linkedin", link: "http://de.linkedin.com/in/hosgel/en"}
+-
+    id: 14
+    name: "Paresh"
+    surname: "Mayani"
+    company: "InfoStretch Solutions"
+    title: "Android Geliştiricisi"
+    bio: "Paresh 5 yıllık uygulama geliştirme tecrübesi olan mobil uygulama geliştiricisidir. Şu an InfoStretch Solutions Pvt. Ltd, Hindistan, şirketinde uzman yazılım geliştiricidir. Android 1.5 versiyonundan beri Android üzerinde geliştirme yapma ile ilgili araştırmalar yapıyor. Google teknolojilerine olan hayranılı onu GDG Ahmedabad’in liderliğine götürdü. Hindistandaki android geliştiricilerini destekleme konusunda çok aktif olan Paresh, “TechnoTalkative” http://www.technotalkative.com/ (150'den fazla makale) adlı blogunda ve StackOverFlow’da http://stackoverflow.com/users/379693/paresh-mayani (50000'den fazla puan ile) Dünya’daki geliştiricilere de yardımcı olmaya çalışıyor."
+    thumbnailUrl: paresh2.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/pareshmayani"}
+        - {name: "github", link: "https://github.com/PareshMayani"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
