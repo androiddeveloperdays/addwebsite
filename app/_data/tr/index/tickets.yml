@@ -1,5 +1,6 @@
 title: "Kayıt"
 info: "Konferans tamamen ücretsizdir. Toplu veya bireysel kayıt olabilirsiniz."
+warning: "Android Geliştirici Günlerinde Kayıt 5000 ile sınırlandırılmıştır. Etkinliğe katılan ilk 2000 kişiye konferans materyalleri dağıtılacaktır.Geç kalmayın!"
 offers:
  -
   name: "For International Attendees"
