@@ -6,7 +6,7 @@ module.exports = function(grunt) {
     // Load all Grunt tasks
     require('jit-grunt')(grunt, {
         buildcontrol: 'grunt-build-control'
-        });
+    });
 
     grunt.initConfig({
         app: {
@@ -297,32 +297,61 @@ module.exports = function(grunt) {
                     cwd: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms',
                     src: '**/*.svg',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: '<%= app.dist %>/<%= app.baseurl %>/img/organizers',
                     src: '**/*.svg',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/img/organizers'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: '<%= app.dist %>/<%= app.baseurl %>/img/other',
                     src: '**/*.svg',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/img/other'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: '<%= app.dist %>/<%= app.baseurl %>/img/partners',
                     src: '**/*.svg',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/img/partners'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs',
                     src: '**/*.svg',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs'
                 }]
             }
+        },
+        image_resize: {
+            options: {
+                width: 300
+            },
+            dist: {
+                files: [{
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms',
+                    src: '**/*.{jpg,jpeg,png,gif}',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/assocations-foundations-and-firms'
+                }, {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/organizers',
+                    src: '**/*.{jpg,jpeg,png,gif}',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/organizers'
+                }, {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/other',
+                    src: '**/*.{jpg,jpeg,png,gif}',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/other'
+                }, {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/partners',
+                    src: '**/*.{jpg,jpeg,png,gif}',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/partners'
+                }, {
+                    expand: true,
+                    cwd: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs',
+                    src: '**/*.{jpg,jpeg,png,gif}',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/img/web-sites-and-blogs'
+                }]
+            },
         },
         copy: {
             server: {
@@ -340,8 +369,7 @@ module.exports = function(grunt) {
                     cwd: 'bower_components/bootstrap-sass/assets/javascripts',
                     src: 'bootstrap.min.js',
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
-                },
-                {
+                }, {
                     expand: true,
                     cwd: 'bower_components/jquery/dist',
                     src: ['jquery.min.js', 'jquery.min.map'],
@@ -389,6 +417,7 @@ module.exports = function(grunt) {
     grunt.registerTask('build', [
         'clean:dist',
         'jekyll:dist',
+        'image_resize',
         'imagemin',
         'svgmin',
         'uglify:dist',
