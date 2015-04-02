@@ -1,34 +1,40 @@
 ---
 layout: post
-title: "Interview with Royi Benyossef"
+title: "Royi Benyossef ile Ropörtaj"
 date:   2015-04-01 09:00:00
 isStaticPost: false
 ---
-We start a new interview series with our speakers. First interview is done with Royi Benyossef by Aygul Zagidullina. Thank you very much Aygul for the interviews :)
+Konuşmacılarımız ile bir ropörtaj serisine başlıyoruz. İlk ropörtajımız Royi Benyossef ile yapıldı. Aygul Zagidullina'ya ropörtajlar için teşekkür ederiz :)
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/people/royi-benyossef.jpg" style="max-width: 300px"/>
 
-__Tell us a little bit about your average Android development day or your work day :)__
+**Bize genel olarak bir Android geliştirme gününüzü ya da çalışma gününüzü biraz anlatabilir misiniz?**
 
-My working day is very unique in the Android developer ecosystem, as a part of a wonderful company called Vidmind (http://www.vidmind.com/). I start my day really early (6:00 in the office) in order to talk to our hardware manufacturer in China, then I make sure that all my developers have all that they need to deliver what we planned (we work in the agile SCRUM methodology) and performing code reviews for the past day's commits to make sure all is according to the guidelines. After that is done I have time for technical research and POCs for future features and versions. When the day is done and I get back home I work on my community content such as lectures, open source code contributions, blog posts, and tutorials.
+Vidmind (http://www.vidmind.com/) gibi mükemmel bir şirketin bir parçası olarak Android geliştirme ekosisteminde bir çalışma günüm çok eşsiz. Çin’deki donanım üreticimizle irtibata geçebilmek için güne çok erken (saat 6:00’da ofiste olacak şekilde) başlarım. Sonrasında ise, tüm geliştiricilerimizin planladığımız işleri (çevik SCRUM yöntemiyle çalışıyoruz) yetiştirebilmek için gereken her şeye sahip olduklarından emin olurum ve bir önceki gün teslim edilen kodların yönetmeliklere uygun olup olmadığını kontrol ederim. Bunlar tamamlandıktan sonra, teknik araştırmalarıma ve gelecek versiyonlar için POC’lere vakit ayırırım. Gün sona erdiğinde evime geri döner ve ders notları, açık kaynak kod çalışmaları, blog yazıları ve eğitimler gibi grup çalışmalarım ile ilgilenirim.
 
-**What would you say are the ingredients for a successful app?**
-Creation of a successful app is not science, an app could be perfectly designed and engineered to display a beautiful and flawlessly performing UI without any hiccups but still fail. I believe that the most basic prerequisite to success is in knowing your audience and making a product tailored to what they want without them asking for it in a flawless way.
+**Başarılı bir uygulamanın içeriği neler olmalıdır, bu konuda neler söyleyebilirsiniz?**
 
-**What your talk at ADD this year will be about?**
-I have a recurring theme in all of my created content which is areas of the Android ecosystem which are useful and important but not well covered because they're not flashy or sexy which means that most developers fail to understand how to use them correctly or even what these components are capable of, one of these areas is the Android Monitor toolkit.
+Başarılı bir uygulama yaratmak bir bilim değildir. Bir uygulama hiç aksamadan kusursuz bir şekilde işleyen güzel bir kullanıcı arayüzüne (UI) sahip olarak dizayn edilip tasarlanabilir, ancak yine de başarısız olabilir. Bence başarı için en temel koşul, kullanıcıyı tanımak ve kullanıcının istediği şeyi ona sormadan kusursuz bir şekilde ona sunan bir ürün yapmak.
 
-**You’ll be sharing some useful tips and tricks on how stability and performance of the apps can and should be improved. What are some most common pitfalls?**
-Pitfalls are aplenty, I do a lot of mentoring sessions for developers and startups and I see a lot of mistakes, mostly caused by knowledge gaps, here are some of the biggest:
-Documentation; Google created a few checklists and guidelines backed by many UI/UX user tests, application case-studies and a lot of market research which makes them excellent learning tools.
-Testing and QA; you have many tools to test and analyze your app's performance and stability - use them.
-Test your users usage of the app in the field with Google analytics or any other 3rd party tools (like TestFailry) to see what the users actually use and how much they use it.
-Google Play A/B testing - use your analytics data to give different users different experience to test which one works best.
-Version as many resources as possible by language, screen size, dpi, form factor and more to give the best experience to every user on every device.
+**Bu yıl ADD’deki konuşmanız ne hakkında olacak?**
 
-**You were selected by Google as one of the Android GDEs. What your developer life was like since then: projects, conferences - we want to hear!**
-Being part of the developer's expert program is wonderful, I've given many sessions in events such as DroidCon, CodeMotion, appsWorld, AppsMania and, of course, GDG events, I have held many mentoring sessions with hundreds of startups and developers and have written many posts and tutorials but the best thing are the people that you meet, be it at Google, fellow GDEs or developers I'm always humbled and inspired by the amount of talent and passion I find in almost everyone I meet which is also what drives me to try and give a little bit more every day.
+Android ekosisteminde önemli ve faydalı olacak konulara dair oluşturulmuş eğitimlerimde tekrar ettiğim bir konu var ancak pek ilgi çekici olmadığı için henüz tam anlaşılmış	 değil, yani birçok geliştirici bu yöntemleri doğru bir şekilde kullanmada ve bu bileşenlerin neler yapabileceğini anlamada başarısız oluyor. Bu konulardan bir tanesi de Android Monitor aracı.
 
-**What are you most looking forward to at ADD?**
-Building on my response to the last question, what I'm looking forward to the most is to meet the people.
-As your neighbor in the Middle East I have the utmost respect and a lot of appreciation to Turkey and its amazing people which makes me brimming with excitement at all the wonderful things that your community must have and that I'm dying to know and learn.
+**Uygulamaların tutarlılığı ve performansının nasıl iyileştirilebileceği hakkında yararlı ipuçları vereceksiniz. Bu konuda en genel güçlükler nelerdir?**
+
+Güçlükler oldukça fazla, geliştiriciler ve yeni başlayanlar için birçok danışma programı yapıyorum ve bilgi eksiklerinden kaynaklanan çok fazla sayıda hata görüyorum. Bunlardan birkaçı:
+
+1. Dokümantasyon: Google, oldukça faydalı öğrenme araçları haline gelen, UI/UX kullanıcı testleri ışığında hazırlanmış kontrol listeleri ve yönergeler, uygulama durum çalışmaları ve birçok pazar araştırması oluşturmuş durumda.
+2. Test ve kalite güvencesi (QA): Uygulamanızın performansını ve tutarlılığını test etmek için birçok araca sahipsiniz, bunları kullanın.
+3. Kullanıcıların neleri gerçekten kullandığını ve ne kadar kullandığını görmek için Google Analytics ya da diğer
+3.parti araçları (TestFailry gibi) ile uygulamanızın kullanımını ölçün.
+4. Google Play A/B Testi: Analitik verilerinizi, farklı kullanıcılara farklı deneyimler sunmak ve hangisinin en çok işe yaradığını test etmek için kullanın.
+5. Her kullanıcıya her cihazda en iyi deneyimi sağlamak için dil, ekran boyutu, DPI ve daha fazlasıyla mümkün olduğu kadar fazla kaynağı uygulamanıza uyarlayın.
+
+**Google tarafından Android GDE’lerinden biri olarak seçildiniz. O günden beri geliştirici hayatınız nasıl: Projeleriniz, konferanslarınız?**
+
+Geliştirici uzman programının bir parçası olmak muhteşem; DroidCon, CodeMotion, appsWorld, AppsMania, ve tabi ki GDG gibi organizasyonlarda birçok eğitim verdim. Yüzlerce geliştirici ve yeni başlayanlarla danışma oturumlarına katıldım ve çok fazla sayıda yazı ve eğitici materyal hazırladım. Ancak en iyi yanı tanıştığınız insanlar: Google’da olan, diğer GDE arkadaşlar ve geliştiriciler gibi… Her zaman insanlarda gördüğüm yetenek ve tutkudan ilham aldım ve bu da benim geliştirmeme ve her geçen gün daha da fazla yararlı olmama sebep oldu.
+
+**ADD’de sabırsızlıkla beklediğiniz şey nedir?**
+
+Son soruya verdiğim cevaba dayanarak, sabırsızlıkla beklediğim şey yeni insanlarla tanışmak. Orta Doğu’daki bir komşunuz olarak, Türkiye’ye ve bu ülkenin müthiş insanlarına çok fazla saygı duyuyor ve onları takdir ediyorum ve bu beni ülkenizin sahip olduğu şeyler hakkında heyecanlandırıyor. Öğrenmek için can atıyorum.
