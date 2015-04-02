@@ -184,7 +184,7 @@
     name: "Paresh"
     surname: "Mayani"
     company: "InfoStretch Solutions"
-    title: "Android Developer"
+    title: "Senior Software Engineer"
     bio: "Paresh is a mobile application developer with 5 years of apps development experience. Currently he is Senior Software Engineer at InfoStretch Solutions Pvt. Ltd, India. He has been exploring android development since Android 1.5. His passion for Google Technologies brought him to lead Google Developers Group Ahmedabad, India. He is very active in supporting Android developers community in India and worldwide be it through his tech blog “TechnoTalkative” http://www.technotalkative.com/ (published >150 articles) or through StackOverflow http://stackoverflow.com/users/379693/paresh-mayani (holder of >50,000 reputation)."
     thumbnailUrl: paresh2.jpg
     rockstar: true
@@ -192,3 +192,16 @@
         - {name: "twitter", link: "https://twitter.com/pareshmayani"}
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
+-
+    id: 15
+    name: "Martin"
+    surname: "Liersch"
+    company: "papierprintit GmbH"
+    title: "Android Developer"
+    bio: "I started developing Android apps when I got my first Android device (Motorola Milestone). Now I have > 50 apps published on the Play Store, some with > 1 million downloads."
+    thumbnailUrl: martin.jpg
+    rockstar: true
+    social:
+    - {name: "twitter", link: "https://twitter.com/goddchen"}
+    - {name: "github", link: "https://github.com/Goddchen"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/martin-liersch/17/461/35a"}

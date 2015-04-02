@@ -184,7 +184,7 @@
     name: "Paresh"
     surname: "Mayani"
     company: "InfoStretch Solutions"
-    title: "Android Geliştiricisi"
+    title: "Kıdemli Yazılım Mühendisi"
     bio: "Paresh 5 yıllık uygulama geliştirme tecrübesi olan mobil uygulama geliştiricisidir. Şu an InfoStretch Solutions Pvt. Ltd, Hindistan, şirketinde uzman yazılım geliştiricidir. Android 1.5 versiyonundan beri Android üzerinde geliştirme yapma ile ilgili araştırmalar yapıyor. Google teknolojilerine olan hayranılı onu GDG Ahmedabad’in liderliğine götürdü. Hindistandaki android geliştiricilerini destekleme konusunda çok aktif olan Paresh, “TechnoTalkative” http://www.technotalkative.com/ (150'den fazla makale) adlı blogunda ve StackOverFlow’da http://stackoverflow.com/users/379693/paresh-mayani (50000'den fazla puan ile) Dünya’daki geliştiricilere de yardımcı olmaya çalışıyor."
     thumbnailUrl: paresh2.jpg
     rockstar: true
@@ -192,3 +192,16 @@
         - {name: "twitter", link: "https://twitter.com/pareshmayani"}
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
+-
+    id: 15
+    name: "Martin"
+    surname: "Liersch"
+    company: "papierprintit GmbH"
+    title: "Android Geliştiricisi"
+    bio: "Android uygulamaları geliştirmeye ilk telefonu olan Motorola Milestone aldıktan sonra başladı. Şimdi Google Play Store'da 50 den fazla uygulaması var ve bunların bir kısmı 1 milyondan fazla indirilmiş durumda."
+    thumbnailUrl: martin.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/goddchen"}
+        - {name: "github", link: "https://github.com/Goddchen"}
+        - {name: "linkedin", link: "https://www.linkedin.com/pub/martin-liersch/17/461/35a"}
