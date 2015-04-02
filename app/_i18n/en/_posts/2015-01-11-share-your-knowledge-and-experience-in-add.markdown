@@ -7,8 +7,6 @@ isStaticPost: false
 
 Developer events are great places for meeting other developers. You can learn many things from other developers. And also you can share your knowledge and experience with other developers. You can inspire many people with your talk. If you don’t want to miss this opportunity, you can apply and become a speaker at Android Developer Days. 
 <div class="clearfix"></div>
-<a href="https://docs.google.com/forms/d/1YAAZMIJDBLwL55_Z0ZsHfgjkAJ47-FMSNzk8PL4ffB8/viewform?c=0&amp;w=1" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Make Submission</a>
-<div class="clearfix"></div>
 You can submit any subject including the subjects below. Deadline for Call For Papers is **1st April 2015**. Don’t be late, :) For attendees, register for free on:
 <div class="clearfix"></div>
 <a href="http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Registration Web Page</a>

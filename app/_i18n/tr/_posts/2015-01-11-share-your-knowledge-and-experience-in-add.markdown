@@ -7,8 +7,6 @@ isStaticPost: false
 
 Geliştirici etkinlikleri diğer geliştiricilerle karşılaşmak için çok güzel bir fırsattır. Diğer geliştiricilerden bir çok şey öğrenebilirsiniz. Aynı zamanda siz de bilgi ve tecrübelerinizi diğer geliştiriciler ile paylaşabilirsiniz. Bir çok insana yapacağınız konuşma ile ilham olabilirsiniz. Böyle bir fırsatı kaçırmak istemiyorsanız, AGG’de konuşmacı olmak için başvurabilir ve konuşmacı olabilirsiniz. 
 <div class="clearfix"></div>
-<a href="https://docs.google.com/forms/d/1QjO0pFRwwu_ykN25a1Re5lcUwQyyrHlPp5zwCKB9Slc/viewform?c=0&w=1" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Konuşmacı Ol</a>
-<div class="clearfix"></div>
 Aşağıdaki konuları da içeren istediğiniz bir konuda 1 Nisan 2015 tarihine kadar Etkin Katılım Çağrınızı gönderebilirsiniz. Geç kalmayın :) Bedava olan etkinliğe katılmak için ise tıklayın:
 <div class="clearfix"></div>
 <a href="http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607" class="btn btn-primary waves-effect waves-button waves-light waves-float horizontal-center" target="blank">Kayıt Ol</a>

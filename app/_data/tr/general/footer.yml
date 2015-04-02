@@ -9,7 +9,6 @@ blocks:
   title: "Bağlantılar"
   links:
    - {permalink: "/become-a-sponsor/", text: "Sponsor olun"}
-   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
    - {link: "http://www.androiddeveloperdays.com/2014/", text: "ADD 2014"}
  -
   title: "Destekleyenler"

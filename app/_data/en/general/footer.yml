@@ -9,7 +9,6 @@ blocks:
   title: "Links"
   links:
    - {permalink: "/become-a-sponsor/", text: "Become a Sponsor"}
-   - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Call For Papers"}
    - {link: "http://www.androiddeveloperdays.com/2014/", text: "ADD 2014"}
  -
   title: "Supporters"

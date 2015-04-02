@@ -5,5 +5,4 @@ eventDate: "Mayıs 11-12, 2015"
 typeoutTextValues: '"", "Android", "Lollipop", "Android Wear"'
 typeoutFallback: "Android"
 buttons:
- - {permalink: "/blog/share-your-knowledge-and-experience-in-add/", text: "Konuşmacı olun"}
  - {permalink: "/#tickets", text: "Kayıt olun"}
