@@ -11,7 +11,8 @@ Original project you can find [here](https://github.com/gdg-x/zeppelin).
 4.  `$cd` to the directory and run `bundle install`
 5.  Run `npm install` to install the necessary "npm" dependencies
 6.  Then run `bower install` to install the front-end dependencies
-7.  **That's all. Your template is ready**
+7.  Install [ImageMagick](http://www.imagemagick.org/script/binary-releases.php) to resize images during building
+8.  **That's all. Your template is ready**
 
 Following commands are available:
 
