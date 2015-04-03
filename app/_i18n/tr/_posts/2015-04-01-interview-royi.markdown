@@ -27,7 +27,7 @@ Güçlükler oldukça fazla, geliştiriciler ve yeni başlayanlar için birçok 
 1. Dokümantasyon: Google, oldukça faydalı öğrenme araçları haline gelen, UI/UX kullanıcı testleri ışığında hazırlanmış kontrol listeleri ve yönergeler, uygulama durum çalışmaları ve birçok pazar araştırması oluşturmuş durumda.
 2. Test ve kalite güvencesi (QA): Uygulamanızın performansını ve tutarlılığını test etmek için birçok araca sahipsiniz, bunları kullanın.
 3. Kullanıcıların neleri gerçekten kullandığını ve ne kadar kullandığını görmek için Google Analytics ya da diğer
-3.parti araçları (TestFailry gibi) ile uygulamanızın kullanımını ölçün.
+3.parti araçları (TestFairy gibi) ile uygulamanızın kullanımını ölçün.
 4. Google Play A/B Testi: Analitik verilerinizi, farklı kullanıcılara farklı deneyimler sunmak ve hangisinin en çok işe yaradığını test etmek için kullanın.
 5. Her kullanıcıya her cihazda en iyi deneyimi sağlamak için dil, ekran boyutu, DPI ve daha fazlasıyla mümkün olduğu kadar fazla kaynağı uygulamanıza uyarlayın.
 
