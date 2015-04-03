@@ -25,7 +25,7 @@ I have a recurring theme in all of my created content which is areas of the Andr
 Pitfalls are aplenty, I do a lot of mentoring sessions for developers and startups and I see a lot of mistakes, mostly caused by knowledge gaps, here are some of the biggest:
 Documentation; Google created a few checklists and guidelines backed by many UI/UX user tests, application case-studies and a lot of market research which makes them excellent learning tools.
 Testing and QA; you have many tools to test and analyze your app's performance and stability - use them.
-Test your users usage of the app in the field with Google analytics or any other 3rd party tools (like TestFailry) to see what the users actually use and how much they use it.
+Test your users usage of the app in the field with Google analytics or any other 3rd party tools (like TestFairy) to see what the users actually use and how much they use it.
 Google Play A/B testing - use your analytics data to give different users different experience to test which one works best.
 Version as many resources as possible by language, screen size, dpi, form factor and more to give the best experience to every user on every device.
 

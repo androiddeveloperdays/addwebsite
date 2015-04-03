@@ -4,8 +4,8 @@
     - {name: "EMU IEEE", description: "Doğu Akdeniz Üniversitesi IEEE Kulübü", link: "http://ieee.emu.edu.tr/", imageUrl: "emu-ieee.jpg"}
     - {name: "Fırat IEEE", description: "Fırat IEEE Öğrenci Kolu", link: "http://firatieee.com/blog/", imageUrl: "firat-ieee.png"}
     - {name: "IKU IEEE", description: "İstanbul Kültür Üniversitesi IEEE Öğrenci Kulübü", link: "http://ikuieee.org/", imageUrl: "iku-ieee.png"}
-    - {name: "ITU IEEE", description: "İstanbul Teknik Üniversitesi IEEE Öğrenci Kolu", link: "http://www.iuieee.com/", imageUrl: "itu-ieee.png"}
-    - {name: "IU IEEE", description: "İstanbul Üniversitesi Elektrik-Elektronik ve IEEE kulübü", link: "http://www.ituieee.com/", imageUrl: "iu-ieee.png"}
+    - {name: "ITU IEEE", description: "İstanbul Teknik Üniversitesi IEEE Öğrenci Kolu", link: "http://www.ituieee.com/", imageUrl: "itu-ieee.png"}
+    - {name: "IU IEEE", description: "İstanbul Üniversitesi Elektrik-Elektronik ve IEEE kulübü", link: "http://www.iuieee.com/", imageUrl: "iu-ieee.png"}
     - {name: "MEF IEEE", description: "MEF Üniversitesi IEEE Öğrenci Kulübü", link: "https://www.facebook.com/mefieee", imageUrl: "mef-ieee.png"}
     - {name: "SDU IEEE", description: "Süleyman Demirel Üniversitesi IEEE Öğrenci Topluluğu", link: "http://sduieee.com/", imageUrl: "sdu-ieee.jpg"}
     - {name: "THK IEEE", description: "Türk Hava Kurumu Üniversitesi IEEE Öğrenci Kolu ", link: "http://ieee.thk.edu.tr/", imageUrl: "thk-ieee.jpg"}
