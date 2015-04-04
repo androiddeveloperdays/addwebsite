@@ -61,6 +61,7 @@
     - {name: "Silikon Vadisi", description: "Silikon Vadisi", link: "http://www.silikonvadisi.tv/", imageUrl: "svadisi.jpg"}
     - {name: "teknosektör", description: "teknosektör", link: "http://teknosektor.com/", imageUrl: "teknosektor.png"}
     - {name: "Teknolo", description: "Teknolo", link: "http://www.teknolo.com/", imageUrl: "teknolo.png"}
+    - {name: "Webmasto", description: "Webmasto", link: "http://www.webmasto.com/", imageUrl: "webmasto.png"}
 - 
   group: "Digital Media Sponsors"
   elements: 

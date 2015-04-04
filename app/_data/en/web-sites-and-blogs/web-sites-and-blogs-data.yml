@@ -21,3 +21,8 @@
     - {name: "Techfeebz", description: "Techfeebz", link: "http://www.techfeebz.com", imageUrl: "techfeebzcom.jpg"}
     - {name: "BİLİM ŞENLİĞİ", description: "BİLİM ŞENLİĞİ", link: "http://www.bilimsenligi.com/", imageUrl: "bilimsenligi.png"}
     - {name: "Bulanca", description: "Bulanca", link: "http://www.bulanca.com/", imageUrl: "bulanca.png"}
+    - {name: "Forzamad", description: "Forzamad", link: "http://www.forzamad.com/", imageUrl: "forzamadcom.jpg"}
+    - {name: "Mustafa Koksal", description: "", link: "http://www.mustafakoksal.com/", imageUrl: "mustafakoksalcom.png"}
+    - {name: "Onur Sendere", description: "", link: "http://www.onursendere.com/", imageUrl: "onursenderecom.png"}
+    - {name: "Suskumru", description: "", link: "http://www.suskumru.com/", imageUrl: "suskumrucom.png"}
+    - {name: "Yunus Bassahan", description: "", link: "http://www.yunusbassahan.com/", imageUrl: "yunusbassahancom.png"}
