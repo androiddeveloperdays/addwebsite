@@ -205,3 +205,28 @@
         - {name: "twitter", link: "https://twitter.com/goddchen"}
         - {name: "github", link: "https://github.com/Goddchen"}
         - {name: "linkedin", link: "https://www.linkedin.com/pub/martin-liersch/17/461/35a"}
+-
+    id: 16
+    name: "Andreu"
+    surname: "Ibanez"
+    company: "GDG Lleida"
+    title: "GDG Lider Organizatör"
+    bio: "Andreu Ibanez GDG Lleida kurucusu ve lider organizatörüdür, aynı zamanda GDG İspanya üyesi, Google Glass Kaşifi, Google Summer of Code Mentörü, Google Liquid Galaxy LAB kurucusu, Lleida Drone kurucusu, ve Ponent 2002'de proje yöneticisidir. Ponent 2002 Lleida, İspanya'da bulunan R+D+i projelerinde uzmanlaşmış bir SMB'dir."
+    thumbnailUrl: andreu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/andreuibanez"}
+        - {name: "google-plus", link: "https://plus.google.com/113812464225961962994"}
+-
+    id: 17
+    name: "Oleh"
+    surname: "Zasadnyy"
+    company: "Optigra"
+    title: "Yazılım Mühendisi"
+    bio: "Oleh Java geliştiricisi ve GDG Lviv yöneticisidir. Bunun dışında web tasarımı ve geliştirme ile topluluk yönetimi konularına ilgi duymaktadır."
+    thumbnailUrl: oleh.jpg
+    rockstar: true
+    social:
+        - {name: "google-plus", link: "https://www.google.com/+OlehZasadnyy"}
+        - {name: "github", link: "https://github.com/ozasadnyy"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ozasadnyy"}

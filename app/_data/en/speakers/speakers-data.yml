@@ -205,3 +205,28 @@
     - {name: "twitter", link: "https://twitter.com/goddchen"}
     - {name: "github", link: "https://github.com/Goddchen"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/martin-liersch/17/461/35a"}
+-
+    id: 16
+    name: "Andreu"
+    surname: "Ibanez"
+    company: "GDG Lleida"
+    title: "GDG Lead organizer"
+    bio: "Andreu Ibanez is GDG Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor Google Summer of Code, Founder Google Liquid Galaxy LAB, Founder Lleida Drone, and for the living Project Manager at Ponent 2002, a SMB located in Lleida, SPain, specyalized in IT R+D+i projects."
+    thumbnailUrl: andreu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/andreuibanez"}
+        - {name: "google-plus", link: "https://plus.google.com/113812464225961962994"}
+-
+    id: 17
+    name: "Oleh"
+    surname: "Zasadnyy"
+    company: "Optigra"
+    title: "Software Engineer"
+    bio: "Oleh is a Java developer and Google Developers Group Lviv manager. Besides that he is interested in web development, design and community management."
+    thumbnailUrl: oleh.jpg
+    rockstar: true
+    social:
+        - {name: "google-plus", link: "https://www.google.com/+OlehZasadnyy"}
+        - {name: "github", link: "https://github.com/ozasadnyy"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ozasadnyy"}
