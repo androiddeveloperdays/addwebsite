@@ -295,3 +295,21 @@
     thumbnailUrl: alpermermer.jpg
     rockstar: true
     social:
+-
+    id: 25
+    name: "Redi"
+    surname: "Gokaj"
+    title: "Co-Founder, Innovation and Technology Director at Codemodeon"
+    bio: "Previously, Redi has been working in a wide range of software products. He is an experienced professional on airline software, e-commerce, mobile applications, cloud-computing and interactive game development. Now he is Co-Founder, Innovation and Technology Director at Codemodeon. He gets to design and produce interactive games. His mission is to produce great experiences that entertain people. Mainly he is focused on Virtual Reality applications that nowadays are becoming very popular."
+    thumbnailUrl: redi.jpg
+    rockstar: true
+    social:
+-
+    id: 26
+    name: "Kenan"
+    surname: "Sevindik"
+    title: "Consultant"
+    bio: "Kenan Sevindik is specialized on architecting and developing enterprise applications using various Java technologies for more than 15 years. His experience with Java dates back to 1998 in which he started developing Java applets for online education programs. He has been working with various enterprise Java frameworks, such as Spring Application Framework, Spring Security Framework, Hibernate Persistence Framework since their early days. Currently he develops enterprise software, gives trainings, mentoring and consultancy services about Java, OOP, AOP, Spring, Spring Security and Hibernate all over the world. He is regularly invited to give public speeches about his experiences in various conferences and organizations. He is also co-author of 'Beginning Spring' book, which was published by Wiley Publishing in February 2015. He has bachelor degree in Computer Engineering. You can reach at his technical writings from http://blog.harezmi.com.tr."
+    thumbnailUrl: kenansevindik.png
+    rockstar: true
+    social:

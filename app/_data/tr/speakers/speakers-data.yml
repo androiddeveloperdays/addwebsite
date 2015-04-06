@@ -295,3 +295,21 @@
     thumbnailUrl: alpermermer.jpg
     rockstar: true
     social:
+-
+    id: 25
+    name: "Redi"
+    surname: "Gokaj"
+    title: "Kurucu Ortak, Codemodeon'da Yenilik ve Teknoloji Direktörü"
+    bio: "Redi, ilk başlarda birçok yazılım ürünlerinde çalışmıştır. Havayolu yazılımları,e-ticaret, mobil uygulamalar,bulut bilişim ve interaktif oyun geliştirme gibi konularda tecrübeli bir profesyoneldir. Şimdi Codemodeon'da Kurucu Ortak, Yenilik ve Teknoloji Direktörüdür. İnteraktif oyunlar tasarlayıp üretmektedir. Görevi insanları eğlendiren müthiş deneyimler üretmektir. Bugünlerde genel olarak popülerleşen Sanal Gerçeklik uygulamalarına yönelmiştir."
+    thumbnailUrl: redi.jpg
+    rockstar: true
+    social:
+-
+    id: 26
+    name: "Kenan"
+    surname: "Sevindik"
+    title: "Danışman"
+    bio: "Kenan Sevindik farklı Java teknolojilerini kullanarak kurumsal uygulama geliştirme konusunda 15 yıldan fazla bir deneyime sahiptir. Java ile tanışıklığı 1998 yılına kadar uzanmaktadır. Java ile çalışmaya o dönemde uzaktan eğitim programları için geliştirdiği Java applet'ları ile başlamıştır. Spring Application Framework, Spring Security Framework, Hibernate Persistence Framework gibi çeşitli kurumsal Java teknoloji ve frameworkleri ile ilk çıktıkları dönemden bu yana çalışmalarını sürdürmektedir. Hali hazırda, kurumsal yazılım geliştirme faaliyetlerine devam etmenin yanında, Java, OOP, Tasarım Örüntüleri, AOP, Spring, Spring Security, Hibernate gibi konularda eğitim ve danışmanlık hizmetleri de vermektedir. Teknoloji içerikli seminerlerde ve organizasyonlarda konuşmacı olarak yer almaktadır. 2015 Şubat ayında Wiley Publishing tarafından yayımlanan “Beginning Spring” isimli kitabın yazarlarındandır. Bilgisayar Mühendisliği diplomasına sahip olan Kenan Sevindik'in teknik içerikli paylaşımlarına http://blog.harezmi.com.tr adresinden ulaşabilirsiniz."
+    thumbnailUrl: kenansevindik.png
+    rockstar: true
+    social:
