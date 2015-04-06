@@ -268,3 +268,12 @@
     rockstar: true
     social:
         - {name: "twitter", link: "https://twitter.com/kaldiroglu"}
+-
+    id: 22
+    name: "Can"
+    surname: "Elmas"
+    title: "Software Development Manager"
+    bio: "Can Elmas is the Software Development Manager at Monitise, based out of Istanbul. Since starting his tenure as an intern 6 years ago at Pozitron (acquired in 2014 by Monitise), Can now heads the Istanbul-based Android and Windows development team – over 25 engineers recruited from the top universities in Turkey. Under Can’s leadership, this team has led cutting-innovation for a myriad of mobile banking, payments and commerce solutions. In addition to overseeing the development process, Can advises the team on Android standards and best practices, while providing personal mentorship. Can led the Monitise team responsible for launching Turkey’s first mobile developer bootcamp, CodeCamp Istanbul, in 2014. Throughout the 1.5 week CodeCamp program, Can facilitated a rigorous courseload of subjects spanning topics across Android design and development best practices, garnering attention from leading media including Hurriyet and Webrazzi. Through this and other initiatives outside of the office, including roles as a speaker at Android Developer Days, teacher for Galarasaray’s Computer Engineering curriculum, and lecturer at various Google-related workshops, Can has had a tremendous impact on the upskilling of developers across Turkey’s Android ecosystem as both a lecturer as well as a hands-on mentor. After graduating from Saint-Joseph French High School, Can completed his Bachelor’s Degree in Software Engineering at the prestigious Galatasaray University."
+    thumbnailUrl: canelmas.jpg
+    rockstar: true
+    social:
