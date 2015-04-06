@@ -26,4 +26,7 @@
     - {name: "Onur Sendere", description: "", link: "http://www.onursendere.com/", imageUrl: "onursenderecom.png"}
     - {name: "Suskumru", description: "", link: "http://www.suskumru.com/", imageUrl: "suskumrucom.png"}
     - {name: "Yunus Bassahan", description: "", link: "http://www.yunusbassahan.com/", imageUrl: "yunusbassahancom.png"}
+    - {name: "izni Burak", description: "", link: "http://burakdemirtas.org", imageUrl: "burakdemirtasorg.png"}
+    - {name: "Genc Bilisim", description: "", link: "http://gencbilisim.net", imageUrl: "gencbilisimnet.png"}
+    - {name: "mridvano", description: "", link: "http://mridvano.com", imageUrl: "mridvanocom.jpg"}
 
