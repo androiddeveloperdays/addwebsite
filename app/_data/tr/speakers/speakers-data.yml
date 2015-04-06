@@ -230,3 +230,41 @@
         - {name: "google-plus", link: "https://www.google.com/+OlehZasadnyy"}
         - {name: "github", link: "https://github.com/ozasadnyy"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/ozasadnyy"}
+-
+    id: 18
+    name: "Turhan"
+    surname: "Oz"
+    title: "Girişimci ve Geliştirici"
+    bio: "Turhan OZ (@TurhanOz),Paris'te bulunan seri bir girişimci ve geliştiricidir. Bütün gücünü insanlara bir değer oluşturan B2B ve B2C uygulamaları geliştirmeye harcamaktadır. Geliştirmeyi ciddiye alan insanların yapacağı gibi kendini geliştirmek için sürekli yeni teknolojileri öğrenmektedir. IoT çağına inanmaktadır ve zaman ve boşluğa karşı koyacak birbirine bağlı cihazlar oluşturmaktadır."
+    thumbnailUrl: turhan.jpeg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/TurhanOz"}
+-
+    id: 19
+    name: "Mustafa"
+    surname: "Tan"
+    title: "Genel Müdür"
+    bio: "İTÜ Endüstri Mühendisliği mezunu. 2000 yılından bu yana başta Finans ve Telekom olmak üzere IT dünyasındaki çeşitli kurumsal yazılım geliştirme projelerinde yer aldı. 2008 yılından itibaren ise Apple ile başlayan akıllı telefon dünyasına girerek native mobil uygulama geliştirme projelerinde yer almaya başladı. 2012 yılından bu yana da kurucu ortak olarak OBSS Mobile’ın Genel Müdürlüğünü ve 2015'in başında kurulan OBSS Robotics'in de yöneticiliğini yapıyor."
+    thumbnailUrl: mtan.png
+    rockstar: true
+    social:
+-
+    id: 20
+    name: "Naci"
+    surname: "Dai"
+    title: "Baş Bilim Adamı ve Kurucu"
+    bio: "Naci Eteration A.Ş’nin kurucusu ve baş bilim adamıdır. Kendisi hem mentör hem de eğitimcidir. Naci ObjectLearn kurucusudur ve 2000 yılında Açık Kaynak kodlu olan ve JavaEE geliştirme için kullanılan ObjectWeb Lomboz™ ‘u yazmıştır. Açık kaynaklara aktif katkıda bulunmaktadır, özellikle ObjectWeb Consortium ve Eclipse Foundation. Eteration’dan önce BEA Systems Inc. ve The Object People’de profesyonel servislerde yönetici müdür olarak çalışmıştır. Carleton University, Ottawa, Canada’dan doktora derecesini güçlü bir tabanla Applied Engineering and Computational Physics’den almıştır. Sabancı Üniversitesinde fakülte üyesi olarak nesne teknolojileri,web geliştirme ve dağıtık hesaplama konularında ders vermektedir. Eteration, ObjectWeb Consortium ve Eclispe Web Tools Platform Project (WTP), Proje yönetim komitesi üyesidir. Naci WTP PMC üyesidir ve ObjectWeb’i temsil etmektedir ve Eclipse Java Standart Araçları alt projesine liderlik yapmaktadır. Eteration ayrıca WTP projesine araçlar,geliştirici kaynakları ve sunucu altyapısı sağlamaktadır. Eclipse Community Education Project (ECESIS projesine de kaynak eğitimi araçları ve derslerle ilgili materyaller sağlamaktadır."
+    thumbnailUrl: naci.jpeg
+    rockstar: true
+    social:
+-
+    id: 21
+    name: "Akın"
+    surname: "Kaldıroğlu"
+    title: "Yazılım Mühendisliği ve Java Danışmanı"
+    bio: "Akin Kaldiroglu, İstanbul, Türkiye'de yerleşik bir Yazılım Mühendisliği ve Java danışmanıdır. 90'lı yılların ortalarından bu yana pek çok kurumsal projede farklı rollerle çalışmıştır. C ve C++ kullanarak başladığı kariyerine çıkışıyla birlikte Java kullanarak devam etmiştir. Akin Kaldiroglu yazılım geliştirmeyi ve Java'da kod yazmayı sevmektedir. Kendisi hem temiz hem de nesne-merkezli kodun savunucusudur. Bildiklerini http://www.javaturk.org adresindeki blogunda paylaşmakta ve developerlara profesyonel eğitim vermektedir. Kendisine akinjavaturk.org ya da @kaldiroglu ile ulaşılabilirsiniz."
+    thumbnailUrl: akinkaldiroglu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/kaldiroglu"}

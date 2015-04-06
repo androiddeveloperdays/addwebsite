@@ -230,3 +230,41 @@
         - {name: "google-plus", link: "https://www.google.com/+OlehZasadnyy"}
         - {name: "github", link: "https://github.com/ozasadnyy"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/ozasadnyy"}
+-
+    id: 18
+    name: "Turhan"
+    surname: "Oz"
+    title: "Entrepreneur and Developer"
+    bio: "Turhan OZ (@TurhanOz) is a serial entrepreneur as well as a highly convinced developer currently located in Paris, France. His entire effort and energy go to effectively bring value to people by creating high quality B2B and B2C android applications. Although having a solid technical background, he is always looking for new practices and technologies to improve himself, a life long quest for anyone taking development for serious. Highly convinced by the IoT era, he also creates connected devices to brave time and space constraints."
+    thumbnailUrl: turhan.jpeg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/TurhanOz"}
+-
+    id: 19
+    name: "Mustafa"
+    surname: "Tan"
+    title: "General Manager"
+    bio: "Graduated from ITU Industrial Engineering. Primarily in the IT world, including Finance and Telecom, he took place in various enterprise software development project since 2000. He has been General Manager of OBSS Mobile as co-founder since 2012 and manager of OBSS Robotics that is founded in 2015."
+    thumbnailUrl: mtan.png
+    rockstar: true
+    social:
+-
+    id: 20
+    name: "Naci"
+    surname: "Dai"
+    title: "Chief Scientist and Founder"
+    bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics, Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
+    thumbnailUrl: naci.jpeg
+    rockstar: true
+    social:
+-
+    id: 21
+    name: "Akın"
+    surname: "Kaldıroğlu"
+    title: "Software Engineering and Java Consultant"
+    bio: "Akin Kaldiroglu is a Software Engineering and Java consultant based in İstanbul Turkey. He has been involved in many enterprise projects in different roles since mid 90s. He started using C and C++ and kept using Java since its arrival. He loves developing software and writing code in Java. He is a fan of clean and object-oriented code. He shares what he discovers at his blog at http://www.javaturk.org and gives professional training to developers. He can be reached at akinjavaturk.org or @kaldiroglu."
+    thumbnailUrl: akinkaldiroglu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/kaldiroglu"}
