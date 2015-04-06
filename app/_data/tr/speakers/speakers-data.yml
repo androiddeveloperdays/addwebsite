@@ -277,3 +277,21 @@
     thumbnailUrl: canelmas.jpg
     rockstar: true
     social:
+-
+    id: 23
+    name: "Selim"
+    surname: "Ekizoğlu"
+    title: "Software Developer"
+    bio: "Selim Ekizoğlu kariyerine 2008 yılında web tabanlı 3B dünyalar tasarlayarak başladı. 2010 yılında Palo Alto merkezli bir startup takımında full stack developer olarak görev alarak web ve mobil platformlarda deneyim edindi. 2014 yılı itibariyle Thoughtworks Türkiye'de consultant olarak çalışmaktadır."
+    thumbnailUrl: selimekizoglu.jpg
+    rockstar: true
+    social:
+-
+    id: 24
+    name: "Alper"
+    surname: "Mermer"
+    title: "Senior QA Consultant"
+    bio: "Hacettepe Üniversitesi Bilgisayar Mühendisliği mezunu Alper Mermer 7 yılı aşan bir süredir Türk şirketlerinde ve uluslararası firmalarda test yapmaktadır. TELCO, Finans ve e-commerce sektörlerinde test süreçlerinin her aşamasında görev yapmış ve şu anda ThoughtWorks Türkiye’de Senior QA Consultant olarak çalışmaktadır."
+    thumbnailUrl: alpermermer.jpg
+    rockstar: true
+    social:
