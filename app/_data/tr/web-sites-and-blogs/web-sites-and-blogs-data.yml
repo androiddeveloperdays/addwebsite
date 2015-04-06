@@ -29,4 +29,9 @@
     - {name: "izni Burak", description: "", link: "http://burakdemirtas.org", imageUrl: "burakdemirtasorg.png"}
     - {name: "Genc Bilisim", description: "", link: "http://gencbilisim.net", imageUrl: "gencbilisimnet.png"}
     - {name: "mridvano", description: "", link: "http://mridvano.com", imageUrl: "mridvanocom.jpg"}
+    - {name: "Alemicihan", description: "", link: "http://alemicihan.com", imageUrl: "alemicihancom.png"}
+    - {name: "Gercek Bilim", description: "", link: "http://gercekbilim.com", imageUrl: "gercekbilimcom.jpg"}
+    - {name: "Isa Ates", description: "", link: "http://isaates.com", imageUrl: "isaatescom.png"}
+    - {name: "Melih Guney", description: "", link: "http://melihguney.com", imageUrl: "melihguneycom.jpg"}
+    - {name: "Protechman", description: "", link: "http://protechman.net", imageUrl: "protechmannet.png"}
 
