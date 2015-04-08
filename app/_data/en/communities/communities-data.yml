@@ -15,3 +15,4 @@
     - {name: "Hacettepe IEEE", description: "Hacettepe IEEE Öğrenci Kolu", link: "https://www.facebook.com/hacettepehaber", imageUrl: "hacettepe-ieee.png"}
     - {name: "PAÜ Özgür Yazılım Toplulugu", description: "PAÜ Özgür Yazılım Toplulugu", link: "http://ozguryazilim.pau.edu.tr/", imageUrl: "pau.png"}
     - {name: "TEDÜ Bilişim Topluluğu", description: "TEDÜ Bilişim Topluluğu", link: "https://www.facebook.com/groups/tedubilisim/", imageUrl: "tedu.png"}
+    - {name: "Celal Bayar Üniversitesi Yazılım Kulübü", description: "", link: "http://yazilimmuhendisiyiz.biz/", imageUrl: "cbayar.png"}
