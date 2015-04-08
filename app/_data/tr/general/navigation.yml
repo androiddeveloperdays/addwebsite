@@ -2,6 +2,7 @@ links:
  - {permalink: "/", text: "Ana Sayfa"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/add-hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/all-stars/", text: "Tüm Yıldızlar"}
  - {permalink: "/contact/", text: "İletişim"}

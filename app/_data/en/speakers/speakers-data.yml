@@ -322,3 +322,12 @@
     thumbnailUrl: mateusz.png
     rockstar: true
     social:
+-
+    id: 28
+    name: "Bruce C "
+    surname: "Jenkins"
+    title: "AppSec Program Strategist"
+    bio: "Bruce C Jenkins leads HP Fortify’s security program and works regularly with customers on Software Security Assurance (SSA) program design, measurement and reporting.  Since 2007 he has been building SSA solutions and collecting data on security assessments across all industry sectors.  Bruce is a 28-year US Air Force veteran with experience in managing development and operations, and he has held CISO-, CSO- and CIO-equivalent positions.  Bruce is a CISSP, CSSLP and CISM, and he holds a BS in computer science and MS in management science."
+    thumbnailUrl: bcjenkins.png
+    rockstar: true
+    social:

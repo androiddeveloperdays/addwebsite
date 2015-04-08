@@ -2,6 +2,7 @@ links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/add-hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Venue"}
  - {permalink: "/all-stars/", text: "All stars"}
  - {permalink: "/contact/", text: "Contact"}

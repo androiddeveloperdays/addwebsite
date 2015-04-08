@@ -322,3 +322,12 @@
     thumbnailUrl: mateusz.png
     rockstar: true
     social:
+-
+    id: 28
+    name: "Bruce C "
+    surname: "Jenkins"
+    title: "AppSec Program Strategist"
+    bio: "Bruce C Jenkins HP Fortify güvenlik programına liderlik etmektedir ve müşterilerle sık sık Yazılım Güvenlik Güvencesi (YGG) program tasarımı,ölçümü ve raporlaması üzerine çalışmaktadır. 2007'den beri YGG çözümleri oluşturmaktadır ve birçok endüstri sektörü için güvenlik ölçüm verileri toplamaktadır. Bruce 28 yıllık geliştirmeyi ve operasyonları yöneten US Hava Kuvvetleri emektarıdır ve CISO-, CSO- and CIO-dengi pozisyonlarda bulunmuştur. Bruce bir CISSP, CSSLP ve CISM'dır, ve Bilgisayar Bilimleri mezunu ve yönetim bilimi Yüksek lisansı sahibidir."
+    thumbnailUrl: bcjenkins.png
+    rockstar: true
+    social:
