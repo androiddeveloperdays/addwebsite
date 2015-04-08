@@ -37,11 +37,11 @@ Bu sene 11-12 Mayıs tarihlerinde 4. düzenlenecek olan Android Geliştirici Gü
 
 Böyle bir etkinliğe katılıp tecrübe ve sürpriz ödüller kazanmak, yeni insanlarla tanışmak ve bu heyecana ortak olmak istersen sen de Mobil Hackathon’a başvurunu hemen yap!
 
-<a href="https://www.eventbrite.com/e/hackingfest-ankara-mobil-hackathonu-registration-16459262096"><img class="img-responsive" src="https://cascade.madmimi.com/promotion_images/0914/2328/original/button__4_.png?1428460372" style="max-width: 200px"/></a>
+<a href="https://www.eventbrite.com/e/hackingfest-ankara-mobil-hackathonu-registration-16459262096"><img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/hackathonbasvur.png" style="max-width: 200px"/></a>
 
 #### Yeni Öne Çıkan Konuşmacılar
 
-<img class="img-responsive" src="https://cascade.madmimi.com/promotion_images/0914/2494/original/spsond2.png?1428462505" style="max-width: 600px"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/featuredapril.png" style="max-width: 600px"/>
 
 Şu ana kadar duyurulan tüm konuşmacıları görmek için [tıklayınız](http://www.androiddeveloperdays.com/2015/speakers/)  !
 

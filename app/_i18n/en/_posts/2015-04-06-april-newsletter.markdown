@@ -37,11 +37,11 @@ On 11-12 May at Android Developer Days there will a hachathon in Ankara which is
 
 If you want to attend this event and gain experience and win surprise prizes do not forget to register !
 
-<a href="https://www.eventbrite.com/e/hackingfest-ankara-mobil-hackathonu-registration-16459262096"><img class="img-responsive" src="https://cascade.madmimi.com/promotion_images/0914/2310/original/button__2_.png?1428460043" style="max-width: 200px"/></a>
+<a href="https://www.eventbrite.com/e/hackingfest-ankara-mobil-hackathonu-registration-16459262096"><img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/joinhackathon.png" style="max-width: 200px"/></a>
 
 #### New Featured Speakers
 
-<img class="img-responsive" src="https://cascade.madmimi.com/promotion_images/0914/2494/original/spsond2.png?1428462505" style="max-width: 600px"/>
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/featuredapril.png" style="max-width: 600px"/>
 
 To view all speakers announced till now, please [click here](http://www.androiddeveloperdays.com/2015/speakers/) !
 
