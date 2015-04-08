@@ -313,3 +313,12 @@
     thumbnailUrl: kenansevindik.png
     rockstar: true
     social:
+-
+    id: 27
+    name: "Mateusz"
+    surname: "Herych"
+    title: "Android Engineer"
+    bio: "Mateusz works as an Android Engineer at Base CRM where he uses his android-abracadabras to make enterprise software users 10 times more productive. Apart from that he's a Google Developer Expert for Android and a GDG Kraków co-organizer."
+    thumbnailUrl: mateusz.png
+    rockstar: true
+    social:
