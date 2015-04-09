@@ -9,6 +9,7 @@
   showHero: true
   showIndex: true
   elements:
+    - {name: "IBM", description: "IBM", link: "https://www.ibm.com/", imageUrl: "IBM.jpg"}
     - {name: "PayPal", description: "Braintree_Dev.", link: "https://www.paypal.com/", imageUrl: "paypal.png"}
 -
   group: "Sponsors"
@@ -21,6 +22,7 @@
     - {name: "", description: "", link: "", imageUrl: "lookvrlogo.png"}
     - {name: "Robotistan", description: "", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
     - {name: "Mobillium", description: "", link: "http://www.mobillium.com/", imageUrl: "mobilium.png"}
+    - {name: "Makey", description: "", link: "http://makey.com.tr/", imageUrl: "makey.jpg"}
 -
   group: "Book Sponsors"
   elements: 
