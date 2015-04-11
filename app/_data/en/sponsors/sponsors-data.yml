@@ -11,6 +11,7 @@
   elements:
     - {name: "IBM", description: "IBM", link: "https://www.ibm.com/", imageUrl: "IBM.jpg"}
     - {name: "PayPal", description: "Braintree_Dev.", link: "https://www.paypal.com/", imageUrl: "paypal.png"}
+    - {name: "Samsung Business", description: "Samsung Business", link: "http://www.samsung.com/us/business/", imageUrl: "samsung.png"}
 -
   group: "Sponsors"
   elements:
@@ -46,6 +47,8 @@
     - {name: "PCnet Dergisi Online", description: "Teknoloji İnternet Portali Bilgisayar Haberleri", link: "http://www.pcnet.com.tr/", imageUrl: "pcnet.png"}
     - {name: "Biltek Haber", description: "Bilişim ve İletişimin Net Haber Merkezi olmayı hedefleyen BİLTEKHABER, en güncel Bilişim Teknoloji haberlerini veriyor.", link: "http://www.biltekhaber.net/", imageUrl: "biltekhaber.png"}
     - {name: "BT Yaşam", description: "Bilgi Teknolojileri, İnternet, Güvenllik, Donanım, Yazılım", link: "http://www.btyasam.com/", imageUrl: "btyasam.png"}
+    - {name: "Detail Haber", description: "Detail Haber", link: "http://www.detailhaber.com/", imageUrl: "detail.png"}
+    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chip.png"}
 - 
   group: "Entertainment Sponsors"
   elements: 
