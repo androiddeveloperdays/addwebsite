@@ -347,7 +347,7 @@
     title: "Uzman Yazilim Muhendisi"
     bio: "Alperen Eraslan 2 yıl tecrübeli web ve mobil uygulama geliştiricisidir ve savunma sanayi alanında 3 yıl yazılım geliştirme tecrübesine sahiptir. En çok ilgilendiği alan iOS uygulama geliştirmedir. Halen S.T.M. A.Ş. şirketinde uzman yazılım mühendisi olarak görev yapmaktadır."
     thumbnailUrl: alperen.png
-    rockstar: false
+    rockstar: true
     social:
 -
     id: 31
@@ -356,5 +356,23 @@
     title: "Uzman Yazilim Muhendisi"
     bio: "Doruk Pancaroğlu 1989 yılında doğdu. 2010 yılında Sabancı Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldu. 2014 yılında TOBB ETÜ Bilgisayar Mühendisliği bölümünde yüksek lisansını bitirdi. 2012 yılından beri STM A.Ş’de Uzman Yazılım Mühendisi olarak çalışmaktadır."
     thumbnailUrl: doruk.png
-    rockstar: false
+    rockstar: true
+    social:
+-
+    id: 32
+    name: "Vitaliy"
+    surname: "Zasadnyy"
+    title: "Kıdemli Unity 3D Geliştiricisi"
+    bio: "Vitaliy bir mobil yazılım geliştirici olup GDG Lviv ve GameDev Community Lviv kurucuları arasındadır. Oyun geliştirme, Android, iOS, Google AppEngine ve topluluk yönetimi konularına ilgilidir. EPAM gibi kurumsal firmalarda çalıştığı gibi NRavo gibi yeni kurulan firmalarda da çalışmıştır. Son zamanlarda Unity 3D’ye odaklanmış bir ekibin başındadır ve aynı zamanda TEDx konuşmacısıdır."
+    thumbnailUrl: vitalik.jpg
+    rockstar: true
+    social:
+-
+    id: 33
+    name: "Haluk"
+    surname: "Altunel"
+    title: "Dr. Program Yöneticisi"
+    bio: "Softtech'te Program Yöneticisi ve ODTÜ Enformatik Enstitüsünde Yarı Zamanlı Fakülte Üyesi."
+    thumbnailUrl: haluk.jpg
+    rockstar: true
     social:

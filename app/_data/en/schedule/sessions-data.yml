@@ -10,7 +10,7 @@
   service: true
 -
   id: 001
-  title: "Opening Keynote"
+  title: "Opening Keynote-Room A-B"
   description: "Welcome and Opening"
   subtype: keynote
   speakers: []
@@ -18,7 +18,7 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "Google-Keynote"
+  title: "Google-Keynote-Room A-B"
   description: "Google Keynote"
   subtype: presentation
   speakers: [29]
@@ -140,15 +140,24 @@
     description2: ""
     subtype2: presentation
     speakers2: [29]
-    language2: en
+    language2: tr
     complexity2: "Beginner"
+    id2: 017
 -
     id: 017
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: [29]
+    language: en
+    complexity: "Beginner"
+-
+    id: 018
     title: "STM AeroTab™ iOS – Electronic Flight Bag and Used Libraries"
     description: "Electronic flight bag(EFB) is an electronic information system that is used to help flight crew and reduce paper-based reference material. In this presentation, we will talk about EFB that has been developed by STM since 2011 with Atlasjet cooperation, management method of libraries that are used in Aerotab EFB and the libraries such as Mapbox, PSPDFKit, AFNetworking, CocoaLumberjack, Cocoasecurity, FMDB, ZipArchive, GData XML-HTML, AKSlidecks, BLWebSocketServer, JSQMessagesViewController."
     subtype: presentation
     speakers: [30,31]
-    language: en
+    language: tr
     complexity: "Beginner"
     title2: "Waiting for Details"
     description2: ""
@@ -156,11 +165,163 @@
     speakers2: []
     language2: en
     complexity2: "Beginner"
+    id2: 019
 -
-    id: 018
+    id: 019
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 020
     title: "Clean Code"
     description: "Writing clean code: How understandable and focused code can be written is the topic of the session. With counter examples and their rehabilitated version dirty and clean code will be explained. All code examples will be presented in Java."
     subtype: presentation
     speakers: [21]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 021
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
     language: en
     complexity: "Beginner"
+-
+    id: 022
+    title: "Making Mobile Security Matter in a Go-To-Market World"
+    description: "Android was designed to build feature-rich applications for an increasingly demanding mobile society. With the power and flexibility of the Android platform comes the risk of overlooking essential security precautions as applications are moved rapidly to market.  Referencing substantial mobile security research lead by Hewlett-Packard, this presentation outlines the most common oversights in mobile security and how to leverage your organization’s business goals to build security into the mobile development process."
+    subtype: presentation
+    speakers: [28]
+    language: en
+    complexity: "Beginner"
+-
+    id: 023
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 024
+    title: "How to Continuously Deliver in Mobile Platforms"
+    description: "What is Continuous integration, delivery and deployment, how to implement the infrastructure, how is it applied to mobile apps, best practices and tools"
+    subtype: presentation
+    speakers: [23]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 025
+    title: "VR Technologies"
+    description: "Lately Virtual Reality has become a popular topic in the game industry. It is becoming a powerful marketing tool also. VR is an already known technology in decades but why did VR become so popular very fast? What happened in technology that allowed VR hardware to be accessible by end users in reasonable prices? What lays behind this technology? What are the difficulties and problems that can be caused? How is it used as a marketing tool? What do we expect in the future? These are some of the topics that will be covered in the 'VR Technologies' session. Detailed explanation about the hardware and SDK will be given for developers."
+    subtype: presentation
+    speakers: [25]
+    language: en
+    complexity: "Beginner"
+-
+    id: 026
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 027
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 028
+    title: "Reach 4 million Unity developers with your Android library"
+    description: "Reach 4 million Unity developers with your Android library With the 45% market share, Unity is the most popular game engine in the world. Featuring reach API exposed in C# and JavaScript, a tremendous amount of assets and libraries available and Asset Store - an open platform to sell or share them. While talk will discuss why it is time to make your Android library or SDK available to Unity developers. How to expose it to C# using Unity API, JNI and a bit of magic. What problems you'll face with while porting. And last but not least, how to publish your work to Unity Asset Store."
+    subtype: presentation
+    speakers: [32]
+    language: en
+    complexity: "Beginner"
+    title2: "Mobile Health"
+    description2: "Integration of mobile technologies and healthcare informatics sets the stage for innovative emerging research discipline titled as ‘mhealth’ or ‘mobile health’. This talk will include the basic ideas, tools, case studies and contributions of mobile in healthcare sector. Brief information will be given on Mobile Health course at METU and the projects prepared in the course."
+    subtype2: presentation
+    speakers2: [33]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 029
+-
+    id: 029
+    title: "Mobile Health"
+    description: "Integration of mobile technologies and healthcare informatics sets the stage for innovative emerging research discipline titled as ‘mhealth’ or ‘mobile health’. This talk will include the basic ideas, tools, case studies and contributions of mobile in healthcare sector. Brief information will be given on Mobile Health course at METU and the projects prepared in the course."
+    subtype: presentation
+    speakers: [33]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 030
+    title: "GDG Panel-Room C"
+    description: "GDG Panel"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 031
+    title: "Microsoft Keynote-Room A-B"
+    description: "Microsoft Keynote-Room A-B"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 032
+    title: "The Android NDK"
+    description: "The Android NDK is used to integrate asm/C/C++ code into Android applications and libraries. Learn how to use it as well as NDK-based libraries with Android Studio. Discover what changes from the new Android Runtime (ART) may break your integration, and what you need to do in order to take advantage of 64-bit architectures."
+    subtype: presentation
+    speakers: [4]
+    language: en
+    complexity: "Beginner"
+-
+    id: 033
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 034
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 035
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+    title2: "Add a Touch of Fitness to Your Apps"
+    description2: "Fitness in apps used to be dominated by sports companies, device manufacturers and dedicated health tracking startups. Now with the advent of platforms like Google Fit and HealthKit, the ability to incorporate fitness elements into apps has never been simpler.In this talk we will explore how to access and use fitness data in novel ways – in apps that may not be fitness focussed – to better engage users and promote healthier lifestyles."
+    subtype2: presentation
+    speakers2: [0]
+    language2: en
+    complexity2: "Beginner"
+    id2: 036
+-
+    id: 036
+    title: "Add a Touch of Fitness to Your Apps"
+    description: "Fitness in apps used to be dominated by sports companies, device manufacturers and dedicated health tracking startups. Now with the advent of platforms like Google Fit and HealthKit, the ability to incorporate fitness elements into apps has never been simpler.In this talk we will explore how to access and use fitness data in novel ways – in apps that may not be fitness focussed – to better engage users and promote healthier lifestyles."
+    subtype: presentation
+    speakers: [0]
+    language: en
+    complexity: "Beginner"
+

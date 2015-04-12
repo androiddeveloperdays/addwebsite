@@ -347,7 +347,7 @@
     title: "Expert Software Developer"
     bio: "Alperen Eraslan is a mobile and web application developer with 2 years of app development experience and 3 years of experience in software development in defense industry. His main focus area is iOS application development. Currently he is an expert software engineer at S.T.M. A.Ş."
     thumbnailUrl: alperen.png
-    rockstar: false
+    rockstar: true
     social:
 -
     id: 31
@@ -356,5 +356,24 @@
     title: "Expert Software Developer"
     bio: "Doruk Pancaroğlu is born in 1989. He graduated from Sabanci University in 2010, majoring in Computer Engineering. In 2014, he completed his graduate studies at TOBB ETU, again majoring in Computer Engineering. He is working as an Expert Software Engineer at STM A.S. since 2012."
     thumbnailUrl: doruk.png
-    rockstar: false
+    rockstar: true
     social:
+-
+    id: 32
+    name: "Vitaliy"
+    surname: "Zasadnyy"
+    title: "Senior Unity 3D Developer"
+    bio: "Mobile developer, Google Developers Group and Gamedev Community Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management. Used to work for enterprise giants like as well as for product companies and startups. Nowadays leading Unity 3D development at GetSocial. TEDx speaker."
+    thumbnailUrl: vitalik.jpg
+    rockstar: true
+    social:
+-
+    id: 33
+    name: "Haluk"
+    surname: "Altunel"
+    title: "Dr. Program Manager"
+    bio: "Program Manager at Softtech and Part Time Faculty at METU Informatics Institute."
+    thumbnailUrl: haluk.jpg
+    rockstar: true
+    social:
+

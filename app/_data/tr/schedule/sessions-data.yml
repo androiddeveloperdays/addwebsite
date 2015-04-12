@@ -10,7 +10,7 @@
     service: true
 -
     id: 001
-    title: "Açılış Konuşması"
+    title: "Açılış Konuşması-Salon A-B"
     description: "Hoşgeldin ve Açılış"
     subtype: keynote
     speakers: []
@@ -18,7 +18,7 @@
     complexity: "Beginner"
 -
     id: 002
-    title: "Google-Açılış Konuşması"
+    title: "Google-Açılış Konuşması-Salon A-B"
     description: "Google Açılış Konuşması"
     subtype: presentation
     speakers: [29]
@@ -157,7 +157,7 @@
     description: "Elektronik uçuş çantası(EFB) uçuş ekibine uçuş süreçlerinde yardımcı olmak ve daha az basılı kağıt kullanılmasını sağlamak amacıyla kullanılan elektronik bilgi sistemidir. Bu sunumda STM’nin 2011 yılından beri Atlasjet ile yapılan ortak çalışma anlaşmasıyla iOS platformunda geliştirdiği EFB ve Aerotab EFB’de kullanılan kütüphanelerin nasıl yönetildiği anlatılacak; kullanılan Mapbox, PSPDFKit, AFNetworking, CocoaLumberjack, Cocoasecurity, FMDB, ZipArchive, GData XML-HTML, AKSlidecks, BLWebSocketServer, JSQMessagesViewController kütüphaneleri hakkında bilgi verilecektir."
     subtype: presentation
     speakers: [30,31]
-    language: en
+    language: tr
     complexity: "Beginner"
     title2: "Detaylar Bekleniyor"
     description2: ""
@@ -180,7 +180,148 @@
     description: "Bu oturumun konusu anlaşılabilir ve odaklanmış kodun nasıl yazılabileceğidir.Karşı örnekler ve onların rehabilite edilmiş versiyoları ile kirli ve temiz kod açıklanacaktır.Bütün kod örnekleri Java da olacaktır."
     subtype: presentation
     speakers: [21]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 021
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
     language: en
     complexity: "Beginner"
-
+-
+    id: 022
+    title: "Markete Giden Yolda Mobil Güvenliği Önemsemek"
+    description: "Android giderek ihtiyacı artan bir toplumda özellik bakımından zengin uygulamalar geliştirmek için tasarlandı. Uygulamalar hızla markete giderken güvenlik önlemleri önem kazandı. Hewlett-Packard'ın yaptığı mobil güvenlik ile ilgili çalışmaları da baz alarak, bu konuşmada mobil güvenlik hatalarından bahsedilecek ve mobil geliştirme sürecinde güvenlik nasıl sağlanabilir bahsedilecektir."
+    subtype: presentation
+    speakers: [28]
+    language: en
+    complexity: "Beginner"
+-
+    id: 023
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 024
+    title: "Mobil Platformlarda Sürekli Dağıtım Nasıl Yapılır"
+    description: "Continuous integration, delivery, deployment avantajları nelerdir, altyapı nasıl hazırlanır, mobil uygulama geliştirme sürecine nasıl adapte edilir, önerilen yöntem ve araçlar nelerdir"
+    subtype: presentation
+    speakers: [23]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 025
+    title: "VR Teknolojileri"
+    description: "Son zamanlarda oyun endüstrisinde sanal gerçeklik oldkça popüler bir hale geldi. Aynı zamanda pazarlamada da güçlü bir araç halini aldı. Sanal gerçeklik, son yıllarda ortaya çıkmasına ragmen nasıl bu kadar hızlı popüler oldu.  Sanal gerçeklik donanımlarını son kullanıcıya bu kadar ucuz bir şekilde sağlanabilmesini sağlayan teknoloji gelişim nedir? Bu teknolojinin altında yatan nedir? Çözülmesi gereken zorluklar nelerdir? Pazarlama aracı olarak nasıl kullanıldı? Geleceke ne bekliyoruz? Bu soruların bir kısmının cevabını Sanal Gerçeklik Teknolojisi oturumunda bulabilirsiniz. Geliştiriciler için  SDK ve detaylı açıklamaları bulabilirsiniz."
+    subtype: presentation
+    speakers: [25]
+    language: en
+    complexity: "Beginner"
+-
+    id: 026
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 027
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 028
+    title: "4 Milyon Unity Geliştiricisine Android Kütüphanen ile Ulaş"
+    description: "%45 pazar payı ile Unity dünyadaki en popüler oyun motoru. Asset Store'da zengin C# ve JavaScript API'lerinin ön plana çıktığı, çok sayıda assetler ve kütüphaneler bulunuyor. Asset Store, assetleri paylaşabildiğiniz veya satış yapabildiğiniz açık bir platform. Konuşma sırasında neden kendi Android kütüphenenize veya Unity geliştiricilerine açık SDK' ya sahip olmanızın tam zamanı olduğunu tartışacağız. Unity API, JNI ve biraz sihir kullanarak C# ile nasıl kullanırsınız. Taşırken karşılaşabileceğiniz problemler. Ve son olarak ama en önemlisi yaptığınız işi Unity Asset Store' da nasıl yayınlarsınız."
+    subtype: presentation
+    speakers: [32]
+    language: en
+    complexity: "Beginner"
+    title2: "Mobil Sağlık"
+    description2: "Mobil teknolojiler ile sağlık enformatiğinin entegrasyonu mhealth ya da mobil sağlık isimli araştırma disiplininin çıkmasını sağlamıştır. Bu konuşmada mobilin sağlık sektörüne katkıları ile temel fikirler,araçlar,örnek vakalardan bahsedilecektir.ODTÜ'deki Mobil Sağlık dersi ve bu derste hazırlanan projeler hakkında kısa bilgi de verilecektir."
+    subtype2: presentation
+    speakers2: [33]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 029
+-
+    id: 029
+    title: "Mobil Sağlık"
+    description: "Mobil teknolojiler ile sağlık enformatiğinin entegrasyonu mhealth ya da mobil sağlık isimli araştırma disiplininin çıkmasını sağlamıştır. Bu konuşmada mobilin sağlık sektörüne katkıları ile temel fikirler,araçlar,örnek vakalardan bahsedilecektir.ODTÜ'deki Mobil Sağlık dersi ve bu derste hazırlanan projeler hakkında kısa bilgi de verilecektir."
+    subtype: presentation
+    speakers: [33]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 030
+    title: "GDG Paneli-Salon C"
+    description: "GDG Paneli"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 031
+    title: "Microsoft Açılış Konuşması-Salon A-B"
+    description: "Microsoft Açılış Konuşması-Salon A-B"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 032
+    title: "Android NDK"
+    description: "asm/C/C++ kodunu Android uygulamaları ve kütüphaneleri ile entegre etmekte kullanılmaktadır. Android Studio ile NDK tabanlı kütüphaneleri nasıl kullanacağınızı öğrenin. Yeni Android Runtime (ART) daki hangi değişikliklerin entegrayonunuzu bozabileceğini ve 64-bit mimarilerin avantajlarınından yararlanmak için ne yapmak gerektiğini keşfedin. "
+    subtype: presentation
+    speakers: [4]
+    language: en
+    complexity: "Beginner"
+-
+    id: 033
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 034
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 035
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+    title2: "Uygulamanıza Fitness Dokunuşu Ekleyin"
+    description2: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları,cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı. Bu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
+    subtype2: presentation
+    speakers2: [0]
+    language2: en
+    complexity2: "Beginner"
+    id2: 036
+-
+    id: 036
+    title: "Uygulamanıza Fitness Dokunuşu Ekleyin"
+    description: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları,cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı. Bu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
+    subtype: presentation
+    speakers: [0]
+    language: en
+    complexity: "Beginner"
 
