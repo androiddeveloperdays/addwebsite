@@ -10,49 +10,157 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Opening Keynote"
+  description: "Welcome and Opening"
+  subtype: keynote
+  speakers: []
+  language: tr
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Google-Keynote"
+  description: "Google Keynote"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [29]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "What's new in Android Testing"
+  description: "Unit Test Support in Gradle, the new Android Testing Support Library, Espresso 2.1, JUnit4 ... everyone talks of testing in 2015 ! We will review what is new and what is coming from Google. Happy Testing!"
   subtype: presentation
-  speakers: [4]
+  speakers: [3]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Intermediate"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  title: "Why Java EE needs the Community and Open Source?"
+  description: "Did you ever find the time to look into what the industry-standard Java EE really means? The reality is that few people really know how Java and Java EE are governed and how these ideas effect their own professional lives in the long and short term.This session will aim to introduce the audience to open standards like Java and Java EE and how they are governed. It also discusses what being an open standard really means as well as why and how you should contribute to them yourself."
+  subtype: presentation
+  speakers: [8]
+  language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Waiting For Details"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: tr
+  complexity: "Beginner"
+-
+    id: 006
+    title: "Monetize, Promote and Analyze Your App with Google AdMob"
+    description: "How to use AdMob to earn money from your app to help you build a great app business. General understanding of mobile application monetization: Develop, Distribute, Monetize. Monetizing with Scale and Quality. Analyzing Users with Google Analytics and leveraging the opportunity. Exploring Mediation and latest offerings of Google Mobile Ads."
+    subtype: presentation
+    speakers: [2]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 007
+    title: "Mobile Security: Death to Passwords"
+    description: "User authentication in mobile and web applications is a very common and integral use case. Implementing basic authentication is an easy solution for developers but comes with several pitfalls that impair user experience like (re-)entering passwords, the need to create a new unique password or even just the input of personal data on a flaky keyboard while registering a new account.In this talk the security flaws and UX implications of passwords will be discussed and Tim will highlight which different techniques exist that are able to offer a more mobile friendly flow. Highlighting authorization and authentication techniques like OAuth, OpenID Connect and even hardware features like Bluetooth Low Energy this talk will be interesting for anyone who's facing a situation where creating and storing user accounts matters."
+    subtype: presentation
+    speakers: [5]
+    language: en
+    complexity: "Beginner"
+-
+    id: 008
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 009
+    title: "CyanogenMod Workshop - Building your own Android OS"
+    description: "Learn to build the CyanogenMod based Android OS on your own - no experience required. A step by step guide will be provided to build Lollipop for some of the most popular devices from HTC, LG, Sony and more. Learn how to setup a build environment, sync the Android source, an overview of the Android build system and how to compile the OS for yourself. All you need to bring is an SSH capable laptop and enthusiasm! "
+    subtype: workshop
+    speakers: [6]
+    language: en
+    complexity: "Beginner"
+-
+    id: 010
+    title: "Getting started with BLE development for Android"
+    description: "In the current era of wearable products, all the products are coming with Bluetooth Low Energy feature, so called BLE. Some of the wearable products are doing amazing in the market, which are Android Wear, FitBit, Runtastic. All of these fitness devices measure data using their tracker device and then later it communicates with the connected handheld devices through BLE. Beacon is another cool technology which is dependent on BLE, so knowing about BLE is necessary! During this talk, I will be exploring about BLE, terms being used in BLE APIs, connecting BLE devices, difficulties/issues, possibilities, usage of BLE in android applications and many more things!"
+    subtype: presentation
+    speakers: [14]
+    language: en
+    complexity: "Beginner"
+-
+    id: 011
+    title: "Android Tools of the Trade"
+    description: "A presentation covering common performance and stability pitfalls in Android along with a runthrough over some of the testing and analysis tools offered by the new device monitor including battery historian, traceView, DDMS and dumpsys followed by a live demonstration of analysis with a demo application and concluding with tips and tricks on improving stability and performance in you Android application. "
+    subtype: presentation
+    speakers: [1]
+    language: en
+    complexity: "Beginner"
+-
+    id: 012
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 013
+    title: "Developing for Android Wear"
+    description: "In this session, I will give an overview of Android Wear and the underlying basic design principles. We will go through the platform capabilities and talk about how it can be integrated in your existing app by looking at some code examples."
+    subtype: presentation
+    speakers: [22]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 014
+    title: "Story of PiriBot"
+    description: "This is the story of unmanned and autonomous sea device controlled by an Android smartphone which will try to pass Mediterranean sea in 2015 summer."
+    subtype: presentation
+    speakers: [19]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 015
+    title: "Efficient sync on Android"
+    description: "Your users want their emails, contacts and notes being available all the time, even if they are offline. On the other hand, they want all their data synced across all their devices. Instantly. Obviously – all of this needs to be battery and network efficient. While developing the Base app, Mateusz and his teammates had to face those problems. During this session he’ll give you some advices directly from the battlefield."
+    subtype: presentation
+    speakers: [27]
+    language: en
+    complexity: "Beginner"
+-
+    id: 016
+    title: "The Physical Web by Google"
+    description: "The Physical Web is an approach to unleash the core superpower of the web: interaction on demand. People should be able to walk up to any smart device - a vending machine, a poster, a toy, a bus stop, a rental car - and not have to download an app first. Everything should be just a tap away. The talk will introduce to the audience to the basics of the Internet of Things and some of the impressively growing stadistics, going after to the core of the speech: The Physical Web, the approach Google is proposing for the Smartobjects in the Internet of Things. A live demo with PW beacons will be issued."
+    subtype: presentation
+    speakers: [16]
+    language: en
+    complexity: "Beginner"
+    title2: "Waiting for Details"
+    description2: ""
+    subtype2: presentation
+    speakers2: [29]
+    language2: en
+    complexity2: "Beginner"
+-
+    id: 017
+    title: "STM AeroTab™ iOS – Electronic Flight Bag and Used Libraries"
+    description: "Electronic flight bag(EFB) is an electronic information system that is used to help flight crew and reduce paper-based reference material. In this presentation, we will talk about EFB that has been developed by STM since 2011 with Atlasjet cooperation, management method of libraries that are used in Aerotab EFB and the libraries such as Mapbox, PSPDFKit, AFNetworking, CocoaLumberjack, Cocoasecurity, FMDB, ZipArchive, GData XML-HTML, AKSlidecks, BLWebSocketServer, JSQMessagesViewController."
+    subtype: presentation
+    speakers: [30,31]
+    language: en
+    complexity: "Beginner"
+    title2: "Waiting for Details"
+    description2: ""
+    subtype2: presentation
+    speakers2: []
+    language2: en
+    complexity2: "Beginner"
+-
+    id: 018
+    title: "Clean Code"
+    description: "Writing clean code: How understandable and focused code can be written is the topic of the session. With counter examples and their rehabilitated version dirty and clean code will be explained. All code examples will be presented in Java."
+    subtype: presentation
+    speakers: [21]
+    language: en
+    complexity: "Beginner"

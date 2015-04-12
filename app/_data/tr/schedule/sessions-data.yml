@@ -1,58 +1,186 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
+    id: 307
+    title: "Kahve Arası"
+    place: "Fuaye Alanı"
+    service: true
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+    id: 503
+    title: "Öğlen Arası"
+    place: "Fuaye Alanı"
+    service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+    id: 001
+    title: "Açılış Konuşması"
+    description: "Hoşgeldin ve Açılış"
+    subtype: keynote
+    speakers: []
+    language: tr
+    complexity: "Beginner"
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+    id: 002
+    title: "Google-Açılış Konuşması"
+    description: "Google Açılış Konuşması"
+    subtype: presentation
+    speakers: [29]
+    language: en
+    complexity: "Beginner"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+    id: 003
+    title: "Android Test Yenilikleri"
+    description: "Gradle'daki Unit Test desteği, yeni Android Test Support kütüphanesi, Espresso 2.1, JUnit4 ...2015'te herkes test hakkında konuşuyor! Yenilikleri ve Google gelenleri gözden geçireceğiz.Mutlu testler!"
+    subtype: presentation
+    speakers: [3]
+    language: en
+    complexity: "Intermediate"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+    id: 004
+    title: "Neden Java EE Bir Topluluğa ve Açık Kaynağa İhtiyaç Duyar?"
+    description: "Daha önce hiç endüstri standardı olan Java EE ‘nin gerçekte ne anlama geldiğini araştırmışmıydınız? Gerçek şu ki , gerçekten çok az sayıda insan Java ve Java EE’nin nasıl yönetildiğini, uzun ve kısa dönemde kendi profesyonel hayatlarına  nasıl  yansınıdığını  biliyor. Bu bölümde seyircilere Java ve Java  EE gibi açık standartları ve bunların nasıl yönetildiğinin tanıtımı hedeflenecektir.Ayrıca  açık standartın gerçekten ne anlama geldiği ve bunlara neden ve nasıl katıkıda bulunmanız gerektiği tartışılacaktır."
+    subtype: presentation
+    speakers: [8]
+    language: en
+    complexity: "Beginner"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+    id: 005
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 006
+    title: "Google AdMob ile Uygulamanızı Analiz  Edin,Tanıtın ve Gelir Elde Edin"
+    description: "AdMob kullanarak nasıl iyi bir uygulama işi geliştirir ve para kazanırsınız? Mobil uygulamalardan gelir elde etmeye genel bir bakış:Geliştir,Dağıt,Gelir Elde Et. Büyüyen ve kaliteli bir gelir etme. Kullanıcıları Google Analytics ile analiz etme ve fırsatları değerlendirme. Google Mobil Reklamların sunduğu son fırsatlar ve dengeleme. "
+    subtype: presentation
+    speakers: [2]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 007
+    title: "Mobil Güvenlik: Şifrelere Ölüm"
+    description: "Kullanıcı doğrulaması mobil ve web uygulamalarında çok yaygındır. Temel bir kullanıcı doğrulama geliştirmek geliştiriciler için kolay bir işlemdir fakat bir çok problemle birlikte gelmektedir. Kullanıcı deneyimini bozan tekrar şifre girmelek, benzersiz bir şifre oluşturmak veya kişisel bilgilerin girilerek yeni hesap oluşturmak gibi işlemler gerektirebilir. Bu sunumda güvenlik açıkları ve şifrelerin UX etkileri tartışılacaktır ve Tim daha kullanıcı dostu bir akış yaratabilmek için farklı neler var belirtecektir. OAuth,OpenID Connect ve hatta donanımsal tekniklerden Bluetooth Low Energy hakkında bilgi verilecektir. Kullanıcı hesaplarının oluşturulması ve kayıt edilmesi gibi konuları önemseyen kişiler için bu konuşma ilgi çekici olacaktır."
+    subtype: presentation
+    speakers: [5]
+    language: en
+    complexity: "Beginner"
+-
+    id: 008
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 009
+    title: "Cyanogen Çalıştayı - Kendi Android İşletim Sisteminizi Derleyin"
+    description: "Kendi başınıza tecrübeniz olmasa bile CyanogenMod tabanlı Android işletim sisteminizi derleyin. Android Lollipop versiyonunu HTC,Sony,LG gibi bir çok cihaza uygun derlemenizi sağlayacak işlemler adım adım anlatılacaktır. Geliştirme ortamının hazırlanması, Android kaynak kodu ile senkronize olunması,Android derleme sistemine genel bakış ve işletim sistemini kendinizin nasıl derleyeceği gibi konuları öğrenceksiniz. Tek ihtiyacınız olan SSH destekli laptopunuzu ve heyecanınızı getirmeniz!"
+    subtype: workshop
+    speakers: [6]
+    language: en
+    complexity: "Beginner"
+-
+    id: 010
+    title: "Android için BLE Geliştirmeye Giriş"
+    description: "Giyilebilir teknolojilerde, Bluetooth Low Energy özelliğini taşıyan tüm ürünler BLE olarak adlandırılmaktadır.  Android Wear, FitBit,Runtastic gibi giyilebilir teknolojilerin bir kısmı gerçekten  ilgi çekicidir. Bu fitness cihazları izleyici cihazlarla data ölçmektedir ve daha sonra BLE ile taşınabilir cihazlarla haberleşmektedir. Beaconlarda BLE kullanan teknolojiler arasındadır, bu nedenle BLE hakkında bilgi sahibi olmak gereklidir.                                                             Bu sunumda BLE terimleri, API gereçlerini, BLE cihazlara bağlanmayı, kolaylık ve zorluklarını,ve Android cihazlarla muhtemel kullanım alanlarını ve daha bir çok şeyi anlatacağım."
+    subtype: presentation
+    speakers: [14]
+    language: en
+    complexity: "Beginner"
+-
+    id: 011
+    title: "Android Araçları İncelemeleri"
+    description: "Android'deki performans ve kararlılık sorunları işlenecektir. Daha sonra yeni cihaz monitörünün sunduğu battery historian,traceView DDMS ve dumpsys gibi test ve analiz araçlarının üzerinden geçilecektir ve canlı bir demo yapılacaktır. Son olarak uygulamanızdaki kararlılık ve performansı artıracak bazı ipuçları ve tavsiyeler verilecektir."
+    subtype: presentation
+    speakers: [1]
+    language: en
+    complexity: "Beginner"
+-
+    id: 012
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 013
+    title: "Android Wear için Geliştirme"
+    description: "Bu oturumda Android Wear hakkında genel bir bakış verilecektir ve tasarım kurallarından bahsedilecektir. Platform yetenekleri üzerinden gidilerek bazı örnek kodlara bakarak uygulamanıza  Android Wear nasıl entegre edebilirsiniz öğreneceksiniz."
+    subtype: presentation
+    speakers: [22]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 014
+    title: "PiriBot'un Hikayesi"
+    description: "2015 yazında Android tabanlı bir telefonun kontrolünde Akdenizi geçmeye çalışacak insansız ve otonom deniz aracının hikayesi..."
+    subtype: presentation
+    speakers: [19]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 015
+    title: "Android'de Verimli Sync"
+    description: "Kullanıcılar emaillerine, kontaklarına ve notlarına her durumda, çevrimdışı olsalar bile erişmek istiyorlar. Ayrıca tüm bilgilerinin diğer tüm cihazlarına da senkronize olmasını istiyorlar. Bütün bunların da network ve batarya açısından verimli olması gerekiyor. Base uygulamasını geliştirirken Mateusz ve takım arkadaşları bu problemler ile karşılaştı. Oturum sırasında bu konular ile ilgili savaş meydanından direk olarak tavsiyeler verilecektir."
+    subtype: presentation
+    speakers: [27]
+    language: en
+    complexity: "Beginner"
+-
+    id: 016
+    title: "Google'dan  Fiziksel Web"
+    description: "Fiziksel Web, webin gücünü ortaya çıkaracak bir yaklaşımdır, istek durumunda etkileşim. İnsanlar herhangi bir akıllı cihaza gidecek-bir otobüs durağı, bir kahve makinesi,bir poster,bir oyuncak veya bir kiralık arabaya ve ilk başta bir uygulama indirmek zorunda olmayacak. Herşey bir tıklama uzakta olacak. Bu sunumda katılımcılara IOT temelleri anlatılacaktır. Fiziksel Web, Google'ın IOT'deki akıllı nesnelere önerdiği yaklaşımdır. PW beaconları ile bir canlı demo da yapılacaktır. "
+    subtype: presentation
+    speakers: [16]
+    language: en
+    complexity: "Beginner"
+    title2: "Detaylar Bekleniyor"
+    description2: ""
+    subtype2: presentation
+    speakers2: [29]
+    language2: en
+    complexity2: "Beginner"
+    id2: 017
+-
+    id: 017
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: [29]
+    language: en
+    complexity: "Beginner"
+-
+    id: 018
+    title: "STM AeroTab™ iOS – Elektronik Uçuş Çantası uygulaması ve kullanılan kütüphaneler"
+    description: "Elektronik uçuş çantası(EFB) uçuş ekibine uçuş süreçlerinde yardımcı olmak ve daha az basılı kağıt kullanılmasını sağlamak amacıyla kullanılan elektronik bilgi sistemidir. Bu sunumda STM’nin 2011 yılından beri Atlasjet ile yapılan ortak çalışma anlaşmasıyla iOS platformunda geliştirdiği EFB ve Aerotab EFB’de kullanılan kütüphanelerin nasıl yönetildiği anlatılacak; kullanılan Mapbox, PSPDFKit, AFNetworking, CocoaLumberjack, Cocoasecurity, FMDB, ZipArchive, GData XML-HTML, AKSlidecks, BLWebSocketServer, JSQMessagesViewController kütüphaneleri hakkında bilgi verilecektir."
+    subtype: presentation
+    speakers: [30,31]
+    language: en
+    complexity: "Beginner"
+    title2: "Detaylar Bekleniyor"
+    description2: ""
+    subtype2: presentation
+    speakers2: []
+    language2: en
+    complexity2: "Beginner"
+    id2: 019
+-
+    id: 019
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 020
+    title: "Temiz Kod"
+    description: "Bu oturumun konusu anlaşılabilir ve odaklanmış kodun nasıl yazılabileceğidir.Karşı örnekler ve onların rehabilite edilmiş versiyoları ile kirli ve temiz kod açıklanacaktır.Bütün kod örnekleri Java da olacaktır."
+    subtype: presentation
+    speakers: [21]
+    language: en
+    complexity: "Beginner"
+
+

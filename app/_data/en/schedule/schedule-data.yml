@@ -1,30 +1,68 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
+-
+    date: "2015-05-11"
+    dateReadable: "May 11"
+    tracks:
+        - {title: "Slots", color: "#90be4e"}
+    timeslots:
+        - {
+            startTime: "10:00",
+            endTime: "10:15",
+            sessionIds: [001]
+        }
+        - {
+            startTime: "10:15",
+            endTime: "10:35",
+            sessionIds: [002]
+        }
+        - {
+            startTime: "10:35",
+            endTime: "11:00",
+            sessionIds: [307]
+        }
+        - {
+            startTime: "11:00",
+            endTime: "11:45",
+            sessionIds: [003,004,005,006]
+        }
+        - {
+            startTime: "11:45",
+            endTime: "12:00",
+            sessionIds: [307]
+        }
+        - {
+            startTime: "12:00",
+            endTime: "12:45",
+            sessionIds: [007,008,009,010]
+        }
+        - {
+            startTime: "12:45",
+            endTime: "13:45",
+            sessionIds: [503]
+        }
+        - {
+            startTime: "13:45",
+            endTime: "14:30",
+            sessionIds: [011,012,013,014]
+        }
+        - {
+            startTime: "14:30",
+            endTime: "14:45",
+            sessionIds: [307]
+        }
+        - {
+            startTime: "14:45",
+            endTime: "15:35",
+            sessionIds: [015,016,018]
+        }
+        - {
+            startTime: "15:35",
+            endTime: "15:45",
+            sessionIds: [307]
+        }
+-
   date: "2014-10-25"
   dateReadable: "October 25"
-  tracks: 
+  tracks:
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 

@@ -331,3 +331,30 @@
     thumbnailUrl: bcjenkins.png
     rockstar: true
     social:
+-
+    id: 29
+    name: "Barış"
+    surname: "Yesugey"
+    title: "Developer Relations"
+    bio: ""
+    thumbnailUrl:
+    rockstar: false
+    social:
+-
+    id: 30
+    name: "Alperen"
+    surname: "Eraslan"
+    title: "Uzman Yazilim Muhendisi"
+    bio: "Alperen Eraslan 2 yıl tecrübeli web ve mobil uygulama geliştiricisidir ve savunma sanayi alanında 3 yıl yazılım geliştirme tecrübesine sahiptir. En çok ilgilendiği alan iOS uygulama geliştirmedir. Halen S.T.M. A.Ş. şirketinde uzman yazılım mühendisi olarak görev yapmaktadır."
+    thumbnailUrl: alperen.png
+    rockstar: false
+    social:
+-
+    id: 31
+    name: "Doruk"
+    surname: "Pancaroğlu"
+    title: "Uzman Yazilim Muhendisi"
+    bio: "Doruk Pancaroğlu 1989 yılında doğdu. 2010 yılında Sabancı Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldu. 2014 yılında TOBB ETÜ Bilgisayar Mühendisliği bölümünde yüksek lisansını bitirdi. 2012 yılından beri STM A.Ş’de Uzman Yazılım Mühendisi olarak çalışmaktadır."
+    thumbnailUrl: doruk.png
+    rockstar: false
+    social:
