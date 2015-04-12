@@ -324,4 +324,35 @@
     speakers: [0]
     language: en
     complexity: "Beginner"
-
+-
+    id: 037
+    title: "Daha İyi Bir (U)Xperience Tasarlayın"
+    description: "İyi tasarlanmış bir Android uygulaması yapmak artık yeterli değil. Yapılan tasarım yeni, heyecan verici ve eşşiz olmalıdır. Bu konuşma, iyi bir tasarımın nasıl müthiş bir hale dönüştürüleceğini gösterecektir. Tasarım becerilerinizi nasıl geliştireceğinize dair noktalar ve ipuçları verilecektir."
+    subtype: presentation
+    speakers: [7]
+    language: en
+    complexity: "Beginner"
+-
+    id: 038
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 039
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 040
+    title: "Etkili Android"
+    description: "Yazilim prensiplerini ve en iyi pratikleri hakkinda bilgilendirmek ve bunlari android gelistirme sirasinda kullanmak. Bu konusma calisma sirasinda karsilastigimiz problemler ve bu problemlerin cozumu icin kullandigimiz en iyi pratikleri ve yazilim prensiplerini gostermeyi hedefliyor."
+    subtype: presentation
+    speakers: [11]
+    language: tr
+    complexity: "Beginner"

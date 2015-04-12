@@ -324,4 +324,36 @@
     speakers: [0]
     language: en
     complexity: "Beginner"
+-
+    id: 037
+    title: "Design a better (U)Xperience"
+    description: "Making a good designed Android application is not enough anymore, it has to be fresh, exciting, and unique. This talk will show you how to change a good design to a awesome one. Giving pointers and tips on how to enhance your design skills"
+    subtype: presentation
+    speakers: [7]
+    language: en
+    complexity: "Beginner"
+-
+    id: 038
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 039
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+-
+    id: 040
+    title: "Effective Android"
+    description: "Getting a grasp of the software principles,the best practices and apply them to android development. This talk aims to show the problems that we faced in daily work and the solutions that we found as the best practices."
+    subtype: presentation
+    speakers: [11]
+    language: tr
+    complexity: "Beginner"
 
