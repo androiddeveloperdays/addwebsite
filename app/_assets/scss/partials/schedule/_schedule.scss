@@ -151,6 +151,9 @@ $small-label-width: 80px;
         @extend .blank-col;
     }
 }
+.slot-element {
+    padding: 0;
+}
 .color-line {
     height: 5px;
     position: absolute;
