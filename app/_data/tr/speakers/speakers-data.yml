@@ -421,5 +421,112 @@
     thumbnailUrl: kaan.jpg
     rockstar: true
     social:
-
+-
+    id: 39
+    name: "Semih"
+    surname: "Yağcıoğlu"
+    title: "Uzman Yazılım Mühendisi"
+    bio: "Semih, bir yazılım geliştiricidir. Sorunları çözmeyi ve işleri halletmeyi sever. Hacettepe Bilgisayar Bilimleri’nde Bilgisayarlı Görü üzerine doktora çalışmalarına devam eden Semih, aynı zamanda MITS’te mobil ve web üzerine çalışmaktadır."
+    thumbnailUrl: semih.jpg
+    rockstar: true
+    social:
+-
+    id: 40
+    name: "Murat Can"
+    surname: "Bur"
+    title: "Mobil Uygulama Geliştiricisi"
+    bio: "Android için mobil uygulamalar geliştirmektedir ve Mobiwise için harika şeyler yaratmaktadır. Blog yazmayı da sevmektedir."
+    thumbnailUrl: muratcan.jpg
+    rockstar: true
+    social:
+-
+    id: 41
+    name: "Yunus"
+    surname: "Ayyıldız"
+    title: "Bağımsız Oyun Geliştirici"
+    bio: "Yunus Ayyıldız, ODTÜ/Oyun Teknolojileri Yüksek Lisans öğrencisi, 3 seneye yakın METU-TECH ATOM bünyesinde bulunan gamebra.in adlı takımda tek kişi bağımsız oyun geliştiricisidir. Rop'dan başka daha önce bireysel çıkarttığı 'twelve' ve 'Pop to Save' adlı oyunlarının yanı sıra Kanadalı publisher olan Noodlecake ile global feature olan 'Joinz' adlı bir oyunu daha vardır."
+    thumbnailUrl: yunus.jpg
+    rockstar: true
+    social:
+-
+    id: 42
+    name: "Serdar"
+    surname: "Altan"
+    title: "Teknoloji Editörü"
+    bio: ""
+    thumbnailUrl:
+    rockstar: true
+    social:
+-
+    id: 43
+    name: "Kaan"
+    surname: "Erkoç"
+    title: "Yazılım Mühendisi"
+    bio: "Kaan Erkoç, Hacettepe Üniversitesi Elektrik-Elektronik Mühendisliği 3. sınıf öğrencisi, GDG Ankara üyesi. Nurol teknoloji a.ş' de yazılım mühendisi. Uzun süredir Android teknolojilerine, gömülü sistem tasarımlarına ve donanım seviyesinde yazılıma ilgi duymaktadır. OpenGL ve CUDA yazılım kütüphaneleriyle grafik/performanse tabanlı pek çok uygulama geliştirmiştir. Son zamanlarda sanal gerçeklik alanında çalışmalarını sürdürmektedir."
+    thumbnailUrl: kaanerkoc.jpg
+    rockstar: true
+    social:
+-
+    id: 44
+    name: "Orhun Mert"
+    surname: "Şimşek"
+    title: "CEO / Mobil Geliştirici"
+    bio: "GDG Ankara’nın eski üyelerinden biri olan Mert, 2011’den beri aktif olarak Android ile ilgileniyor. Android üzerine birçok çalışma gerçekleştirip, yine çok sayıda eğitimler/seminerler vermiştir. 2014’te yine GDG Ankara’daki ekip arkadaşlarıyla 4PPS adından bir mobil yazılım start-up’ı kurdu. Şirkette yöneticilik ve iOS geliştiricilik görevini üstlenen Mert, yine de özellikle Android konusunda konuşmaktan ve eğitim vermekten büyük keyif alıyor."
+    thumbnailUrl: orhunmert.png
+    rockstar: true
+    social:
+-
+    id: 45
+    name: "Doğukan"
+    surname: "Ergüner"
+    title: "Web Yazılım Uzmanı"
+    bio: "1988 – İzmir doğumlu olup yaklaşık 10 yıldır server-side ve client-side kod yapıları ile uğraşmaktayım. HTML, CSS, PHP, MySQL, JS konularında ileri düzeyde bilgi sahibiyim. Bunların yanı sıra, Node.js, Socket.io, CoffeeServer gibi SS Paket yapıları ve Codeigniter, CakePHP, jQuery, Bootstrap gibi sınıflar hakkında da bilgi sahibiyim. Her geçen gün internet teknolojileri ve sunucu/kullanıcı iletişimi alanlarında daha ileri noktaları araştırmaktayım."
+    thumbnailUrl: dogukan.png
+    rockstar: true
+    social:
+-
+    id: 46
+    name: "Barış"
+    surname: "Erdem"
+    title: "IT Yöneticisi"
+    bio: "Anadolu Universitesi İşletme mezunuyum. 2009 yılından beri Koza Yayın Dağıtım AŞ. de bilişim sorumlusu olarak çalışıyorum. Unity, Flash, Görsel Tasarım, web teknolojileri ilgi alanlarım arasında."
+    thumbnailUrl: bariserdem.jpg
+    rockstar: true
+    social:
+-
+    id: 47
+    name: "Özcan"
+    surname: "Akkoca"
+    title: "Yazılım Geliştirici"
+    bio: "İstanbul’ da doğdum. Karabük Üniversitesi Bilgisayar Mühendisliği 3.Sınıf Öğrencisiyim. iDB şirketinde iOS developer olarak çalıştım.3D Akademi'de oyun programlama ve modelleme eğitimi aldım. Turkcell Geleceği Yazanlar Mobil Oyun Atölyesi eğitim programına katıldım. C ve Sistem Derneğinde C ve C++ eğitim aldım.Car City Parking 3D ve Vale Parking game design tarafında görev aldım. Cocos2D-X oyun motoru ile birlikte basit uygulamalar yapmaktayım. Udemy ‘de ‘Hayalinizdeki IOS 8 Uygulamasını Swift ile Geliştirin’ eğitim setini hazırladım. Swift ile iOS platformuna uygulama geliştirmekteyim. "
+    thumbnailUrl: ozkan.jpg
+    rockstar: true
+    social:
+-
+    id: 48
+    name: "Burak"
+    surname: "Çakıl"
+    title: "Bulut Çözümleri Teknik Danışmanı"
+    bio: "Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Mezunudur. Aynı bölümde Yüksek Lisans öğrenimine devam etmektedir. 2007 yılından beri IBM' de çalışmakta olup, 2013 yılından itibaren Bulut Çözümleri Teknik Danışmanı olarak görev yapmaktadır."
+    thumbnailUrl: burakcakil.jpg
+    rockstar: true
+    social:
+-
+    id: 49
+    name: "Çiğdem"
+    surname: "Çavdaroğlu"
+    title: "Analiz ve Tasarım Lideri"
+    bio: "Çiğdem Çavdaroğlu, 2003 yılında Yıldız Teknik Üniversitesi Matematik Mühendisliği bölümünden mezun oldu. Yıldız Teknik Üniversitesi – Uzaktan Algılama ve Coğrafi Bilgi Sistemleri bölümünden 2006 yılında yüksek lisans, 2013 yılında doktora derecelerini aldı. Araştırma alanları görüntü işleme, tıbbi görüntü işleme, görüntü işleme problemlerinde özel algoritmalar, insan-bilgisayar etkileşimi ve artırılmış gerçeklik konularını kapsamaktadır. Şu anda KoçSistem’de Ar-Ge biriminde Analiz ve Tasarım Lideri olarak çalışmaktadır."
+    thumbnailUrl: cigdem.jpg
+    rockstar: true
+    social:
+-
+    id: 50
+    name: "Kerem"
+    surname: "İnceçayır"
+    title: "SOFNOD'un Kurucusu"
+    bio: "1980 yılında Ankara’da doğdu. Hacettepe Üniversitesi Hidrojeoloji Mühendisliğinden mezun olduktan sonra coğrafi bilgi sistemleri ile başlayan yazılım geliştirme süreci, 2003 yılından beri birçok konuda masaüstü ve web tabanlı sistemler için geliştirilen yazılımlarla devam etmiştir. Halen kurucusu olduğu SOFNOD şirketi ile coğrafi bilgi sistemleri, web tabanlı sistemler, mobil sistemler için yazılım projelerini yönetmektedir. Bilgi sistemleri, büyük veri, istatistiksel analiz, akıllı sistemler ve nesnelerin interneti ilgi alanları içerisindedir. 2013 yılından beri GDG Ankara üyesidir."
+    thumbnailUrl: kerem.png
+    rockstar: true
+    social:
 

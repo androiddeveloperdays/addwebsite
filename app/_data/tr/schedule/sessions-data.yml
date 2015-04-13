@@ -136,13 +136,6 @@
     speakers: [16]
     language: en
     complexity: "Beginner"
-    title2: "Detaylar Bekleniyor"
-    description2: ""
-    subtype2: presentation
-    speakers2: [29]
-    language2: en
-    complexity2: "Beginner"
-    id2: 017
 -
     id: 017
     title: "Detaylar Bekleniyor"
@@ -159,13 +152,6 @@
     speakers: [30,31]
     language: tr
     complexity: "Beginner"
-    title2: "Detaylar Bekleniyor"
-    description2: ""
-    subtype2: presentation
-    speakers2: []
-    language2: en
-    complexity2: "Beginner"
-    id2: 019
 -
     id: 019
     title: "Detaylar Bekleniyor"
@@ -246,13 +232,6 @@
     speakers: [32]
     language: en
     complexity: "Beginner"
-    title2: "Mobil Sağlık"
-    description2: "Mobil teknolojiler ile sağlık enformatiğinin entegrasyonu mhealth ya da mobil sağlık isimli araştırma disiplininin çıkmasını sağlamıştır. Bu konuşmada mobilin sağlık sektörüne katkıları ile temel fikirler,araçlar,örnek vakalardan bahsedilecektir.ODTÜ'deki Mobil Sağlık dersi ve bu derste hazırlanan projeler hakkında kısa bilgi de verilecektir."
-    subtype2: presentation
-    speakers2: [33]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 029
 -
     id: 029
     title: "Mobil Sağlık"
@@ -309,13 +288,6 @@
     speakers: []
     language: en
     complexity: "Beginner"
-    title2: "Uygulamanıza Fitness Dokunuşu Ekleyin"
-    description2: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları,cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı. Bu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
-    subtype2: presentation
-    speakers2: [0]
-    language2: en
-    complexity2: "Beginner"
-    id2: 036
 -
     id: 036
     title: "Uygulamanıza Fitness Dokunuşu Ekleyin"
@@ -380,13 +352,6 @@
     speakers: []
     language: en
     complexity: "Beginner"
-    title2: "Akıllı Bir Şekilde Startup Olun"
-    description2: "Kendi startupınızı oluşturmak inanılmaz bir yolculuktur. Turhan Oz bu sunumda en az israf ve sürekli geliştirme ile bu alanda kat ettiği gelişmeleri paylaşacaktır.  Bu sunum akıllı ilerlemeler ile başarının gerçekleşmesinin muhtemel olduğunu anlamanızı sağlayacak bir davetiyedir. "
-    subtype2: presentation
-    speakers2: [18]
-    language2: en
-    complexity2: "Beginner"
-    id2: 044
 -
     id: 044
     title: "Akıllı Bir Şekilde Startup Olun"
@@ -403,13 +368,6 @@
     speakers: [10]
     language: en
     complexity: "Beginner"
-    title2: "Maddesel Tüm Dünya"
-    description2: "Bu oturum size Lolliopa geçişimiz hakkında bilgi verecektir. Uygulama sadece Lollipop versiyonlarına uyumlu olmamalıdır,geriye dönük de uyumlu olmalıdır. Bu sunumda uyumluluk kütüphanesinin nasıl kullanılacağı, RecyclerView ve CardView  gibi konulardan bahsedilecektir. Aynı zamanda farklı API seviyelerinde aynı görüntü ve deneyimi sağlayacak bazı teknik ve deneyimlerden de bahsedilecektir. Bu konuşma animasyonlar ve Material tasarımın büyük bir kısmı ile ilgili değildir. Bu sunum bir uygulaması olup da geriye dönük uyumluluk kazandırmak isteyen geliştiricileri hedeflemektedir."
-    subtype2: presentation
-    speakers2: [13]
-    language2: en
-    complexity2: "Beginner"
-    id2: 046
 -
     id: 046
     title: "Maddesel Tüm Dünya"
@@ -466,13 +424,6 @@
     speakers: [34]
     language: tr
     complexity: "Beginner"
-    title2: "Secure Communications Using Encryption Algorithms on Mobile Platform"
-    description2: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
-    subtype2: presentation
-    speakers2: [35]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 053
 -
     id: 053
     title: "Secure Communications Using Encryption Algorithms on Mobile Platform"
@@ -489,13 +440,6 @@
     speakers: [36,37]
     language: tr
     complexity: "Beginner"
-    title2: "Android Wear'a Watch Face Geliştirme"
-    description2: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
-    subtype2: presentation
-    speakers2: [38]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 055
 -
     id: 055
     title: "Android Wear'a Watch Face Geliştirme"
@@ -512,3 +456,108 @@
     speakers: []
     language: en
     complexity: "Beginner"
+-
+    id: 057
+    title: "Yapabilirim, Fakat Yapmayacağım"
+    description: "Günümüzde her gün yeni bir teknoloji duyurulmakta. Her ne kadar bu gelişmeler harika olsa ve bir çok fırsat doğursa da, hangi teknolojiyi seçeceğimiz giderek daha zor hale gelmekte. Bu konuşmada yazılım alanında olmakta olan ve yakında olacak olan heyecan verici gelişmelerden bahsedip aynı zamanda geçmişe bakarak bir soruyu yanıtlamaya çalışacağız: Nereye doğru gidiyoruz?"
+    subtype: presentation
+    speakers: [39]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 058
+    title: "Her Android Geliştiricisinin Bilmesi Gereken Tasarım Kalıpları"
+    description: "Bu sunumda sizlere her Android geliştiricisinin bilmesi gereken tasarım örüntülerinden ve bunların neden kullanılmasının gerekli olduğundan bahsedeceğim."
+    subtype: presentation
+    speakers: [40]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 059
+    title: "Rop'un 106 Günlük Gelişim Hikayesi"
+    description: "Bu sunumda sizlere her Android geliştiricisinin bilmesi gereken tasarım örüntülerinden ve bunların neden kullanılmasının gerekli olduğundan bahsedeceğim."
+    subtype: presentation
+    speakers: [41]
+    language: tr
+    complexity: "Intermediate"
+-
+    id: 060
+    title: "Herşeyin İnterneti"
+    description: "Nesnelerin interneti kavramına genel olarak değinip, internetin nesnelerin interneti için önemini vurgulayacağım ve giyilebilir teknolojiler ve akıllı ev sistemleri gibi nesnelerin internetinin alt alanlarından bahsedeceğim. Ayrıca Türkiye'de ve dünyada nesnelerin interneti alanında gerçekleşen gelişmelerden söz edeceğim ve bu alanda nasıl ürün geliştirilebileceğini ve neler yapılabileceğini anlatacağım."
+    subtype: presentation
+    speakers: [42]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 061
+    title: "Cardboard SDK ve Unity 5.0 Kullanarak Sanal Gerçeklik Oyunu Geliştirme"
+    description: "Başlangıç düzeyinde ,temel oyun mantıklarını kullanarak sanal gerçeklik oyunu geliştirme çalıştayı."
+    subtype: presentation
+    speakers: [43]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 062
+    title: "Android Wear Çalıştayı"
+    description: "At this workshop, there will be an introduction to developing for Android Wear. Android Wear emulator and a real device will be set up for development. Then the topics - making our existing apps Android Wear compatible - and - developing Android Wear specific applications - will be discussed. There will be done a tutorial app with participants at last."
+    subtype: presentation
+    speakers: [44]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 063
+    title: "Yeni Fenomenler : Materialize, InterCooler ve Flat Üzerine Çalıştay"
+    description: "Google'ın Polymer projesi ile birlitke yeniden şekillenmeye başlayan tasarım ve yazlım mantığı arayüz tarafında materialize, backend tarafında intercoolerJS ve grafik tarafında flat ile şekilleniyor. Çarpıcı uygulama mantığı yapısıyla ilk olarak Google+'da gözler önüne serilen materialize mantığı daha sonra Adsense ve Adwords gibi google'ın en çok kullanılan uygulamalarında da kullanıldı."
+    subtype: presentation
+    speakers: [45]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 064
+    title: "Unity 2D Oyun Geliştirme Çalıştayı"
+    description: "Unity 3D ile 2D Oyun Hazırlanıp Android'e Yayınlanması"
+    subtype: presentation
+    speakers: [46]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 065
+    title: "Polymer ile Modern Web Çalıştayı"
+    description: "Web Component'in yeni özellikleri ile birlikte geliştiricilerin daha sonra tekrar kullanılabilir modüller geliştirmeleri için bir çok fırsat ortaya çıkmıştır. Bu tarz bileşenleri geliştirmek Polymer ile birlikte oldukça kolaydır. Sonuç olarak native uygulamalar ile web uygulamaları arasında sınır çizgizi oldukça incelmiştir."
+    subtype: presentation
+    speakers: [17]
+    language: en
+    complexity: "Beginner"
+-
+    id: 066
+    title: "Swift ile IOS Çalıştayı"
+    description: "Swift programlama dilinin ortaya çıkması ve gelişimi.Swift programlama dilinin özellikleri Objective- C ye göre farklılıkları.Apple watch ile  müzik uygulama yapımı "
+    subtype: presentation
+    speakers: [47]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 067
+    title: " Android ile Bulut Ortamında Mobil Uygulama Geliştirme"
+    description: "Açık kaynaklı Cloud Foundry tabanlı bir platform olan Bluemix üzerindeki mobil servisleri kullanarak Android ortamında çalışan bulut uygulamaları geliştirme üzerine uygulamalı workshop yapılacaktır."
+    subtype: workshop
+    speakers: [48]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 068
+    title: "Android Ortamında OpenCV ile Görüntü İşleme"
+    description: "Görüntü işleme uygulamalarında yüz tanıma, işaret dili tanıma, hareket yakalama - algılama ve izleme, robot teknolojileri konularına yönelik olarak birçok fonksiyon içeren OpenCV kütüphanesi 2012 yılından itibaren mobil platformları da desteklemeye başlamıştır. Bu sunumda OpenCV kütüphanesinin Android Geliştirme Ortamı'nda nasıl kurulacağı ve kullanılacağı ile ilgili bilgi verilecektir, OpenCV4Android hakkında bir tanıtım yapılacaktır. Android geliştirme ortamında, Java ve C++ dillerinin kullanılmasıyla temel görüntü işleme uygulamaları geliştirilecektir"
+    subtype: presentation
+    speakers: [49]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 069
+    title: "BLE (Bluetooth Low Energy) Teknolojisi ve Nesnelerin İnterneti Çalıştayı"
+    description: "Gelişen teknolojiler her gün yeni olanakları beraberinde getiriyor. Bugün birçok cihaz internete bağlanıp veri alışverişinde bulunabiliyor. Kendi aralarında kablosuz teknolojileri kullanarak haberleşebiliyor. Bu gelişmeler, yazılım ve donanım üreticileri için yeni olanaklar ve yeni iş alanları ortaya çıkarıyor. Cihazların birbirleri ile iletişiminde önemli bir yer tutmaya başlayan BLE’nin alt yapısı, nerelerde kullanılabileceği, nesnelerin interneti üzerindeki etkisi hem anlatılacak hem de uygulamalı olarak gösterilecektir. Özellikle yazılım geliştirenler için “Nesnelerin İnterneti ve BLE” konusunda farkındalık yaratmak hedeflenmektedir."
+    subtype: presentation
+    speakers: [50]
+    language: tr
+    complexity: "Beginner"
+

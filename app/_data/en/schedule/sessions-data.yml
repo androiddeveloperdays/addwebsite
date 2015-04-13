@@ -136,13 +136,6 @@
     speakers: [16]
     language: en
     complexity: "Beginner"
-    title2: "Waiting for Details"
-    description2: ""
-    subtype2: presentation
-    speakers2: [29]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 017
 -
     id: 017
     title: "Waiting for Details"
@@ -159,13 +152,6 @@
     speakers: [30,31]
     language: tr
     complexity: "Beginner"
-    title2: "Waiting for Details"
-    description2: ""
-    subtype2: presentation
-    speakers2: []
-    language2: en
-    complexity2: "Beginner"
-    id2: 019
 -
     id: 019
     title: "Waiting for Details"
@@ -246,13 +232,6 @@
     speakers: [32]
     language: en
     complexity: "Beginner"
-    title2: "Mobile Health"
-    description2: "Integration of mobile technologies and healthcare informatics sets the stage for innovative emerging research discipline titled as ‘mhealth’ or ‘mobile health’. This talk will include the basic ideas, tools, case studies and contributions of mobile in healthcare sector. Brief information will be given on Mobile Health course at METU and the projects prepared in the course."
-    subtype2: presentation
-    speakers2: [33]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 029
 -
     id: 029
     title: "Mobile Health"
@@ -309,13 +288,6 @@
     speakers: []
     language: en
     complexity: "Beginner"
-    title2: "Add a Touch of Fitness to Your Apps"
-    description2: "Fitness in apps used to be dominated by sports companies, device manufacturers and dedicated health tracking startups. Now with the advent of platforms like Google Fit and HealthKit, the ability to incorporate fitness elements into apps has never been simpler.In this talk we will explore how to access and use fitness data in novel ways – in apps that may not be fitness focussed – to better engage users and promote healthier lifestyles."
-    subtype2: presentation
-    speakers2: [0]
-    language2: en
-    complexity2: "Beginner"
-    id2: 036
 -
     id: 036
     title: "Add a Touch of Fitness to Your Apps"
@@ -380,13 +352,6 @@
     speakers: []
     language: en
     complexity: "Beginner"
-    title2: "Go Startup Smartly"
-    description2: "Creating your own startup is an amazing journey. Turhan Oz will describe you the progress made in this field, especially for continuous improvement with minimum waste. The talk is an invitation to make you realize that by smartly iterating, the path to succeed is more likely to happen."
-    subtype2: presentation
-    speakers2: [18]
-    language2: en
-    complexity2: "Beginner"
-    id2: 044
 -
     id: 044
     title: "Go Startup Smartly"
@@ -403,13 +368,6 @@
     speakers: [10]
     language: en
     complexity: "Beginner"
-    title2: "Material All The World"
-    description2: "This session gives you an insight of our migration to lollipop. The application shouldn't only used from Lollipop onwards. So we had to be downward compatible. I show you how to use the app-compat support library as well RecyclerView and CardView. It also contains some technics/ workarounds so we accomplish nearly the same look and feel of the application in different api levels. This talk doesn't go deep into animation, with is also a large part of Material. This session aims developers, who have already an application and for the ones, who want to create downward compatible ones."
-    subtype2: presentation
-    speakers2: [13]
-    language2: en
-    complexity2: "Beginner"
-    id2: 046
 -
     id: 046
     title: "Material All The World"
@@ -466,13 +424,6 @@
     speakers: [34]
     language: tr
     complexity: "Beginner"
-    title2: "Secure Communications Using Encryption Algorithms on Mobile Platform"
-    description2: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
-    subtype2: presentation
-    speakers2: [35]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 053
 -
     id: 053
     title: "Secure Communications Using Encryption Algorithms on Mobile Platform"
@@ -489,17 +440,10 @@
     speakers: [36,37]
     language: tr
     complexity: "Beginner"
-    title2: "Android Wear'a Watch Face Geliştirme"
-    description2: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
-    subtype2: presentation
-    speakers2: [38]
-    language2: tr
-    complexity2: "Beginner"
-    id2: 055
 -
     id: 055
-    title: "Android Wear'a Watch Face Geliştirme"
-    description: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
+    title: "Creating Watch Faces for Android Wear"
+    description: "Since Google's announcement of Android Wear in March 2014, developers are continuously working on a variety of new watch faces to make your smartwatch even more useful and pretty. Until recently, there was no official library for that, but now it's here. In this session, we'll talk about developing the Android Wear watch faces using the official library."
     subtype: presentation
     speakers: [38]
     language: tr
@@ -512,7 +456,107 @@
     speakers: []
     language: en
     complexity: "Beginner"
-
-
-
-
+-
+    id: 057
+    title: "I Can, But I Won't"
+    description: "Each day a new technology is introduced. Although most of these advancements are fascinating, and creates lots of opportunities, it is now even harder for us to choose which technology to adopt. In this talk we’ll go through some exciting stuff that’s happening or about to happen in the software industry, and by looking at the facts in the history we'll try to answer one question: Where are we heading?"
+    subtype: presentation
+    speakers: [39]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 058
+    title: "Design Patterns every Android developer should know"
+    description: "I am going to explain design patterns that every android developer should know and understand. I will try to explain why they are necessary on Android platform."
+    subtype: presentation
+    speakers: [40]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 059
+    title: "Story of Rop"
+    description: "I am going to tell Rop's 106-day Development Story, featured first week all around the world. This 106-day story will be start with inferences from my previous works. I'll talk about how innovation/creativity and aesthetics is important. In addition I will mention about 'tester satisfaction' that most indie game developers ignore."
+    subtype: presentation
+    speakers: [41]
+    language: tr
+    complexity: "Intermediate"
+-
+    id: 060
+    title: "Herşeyin İnterneti"
+    description: "Nesnelerin interneti kavramına genel olarak değinip, internetin nesnelerin interneti için önemini vurgulayacağım ve giyilebilir teknolojiler ve akıllı ev sistemleri gibi nesnelerin internetinin alt alanlarından bahsedeceğim. Ayrıca Türkiye'de ve dünyada nesnelerin interneti alanında gerçekleşen gelişmelerden söz edeceğim ve bu alanda nasıl ürün geliştirilebileceğini ve neler yapılabileceğini anlatacağım."
+    subtype: presentation
+    speakers: [42]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 061
+    title: "Developing Virtual Reality games by using CardBoard SDK and Unity 5.0"
+    description: "In this workshop, a virtual reality game will be developed by using basic game logics in introduction level."
+    subtype: presentation
+    speakers: [43]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 062
+    title: "Android Wear Workshop"
+    description: "At this workshop, there will be an introduction to developing for Android Wear. Android Wear emulator and a real device will be set up for development. Then the topics - making our existing apps Android Wear compatible - and - developing Android Wear specific applications - will be discussed. There will be done a tutorial app with participants at last."
+    subtype: presentation
+    speakers: [44]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 063
+    title: "New Phenomenons : Materialize, InterCooler and Flat Workshop"
+    description: "With Google's new project Polymer, design and development changes to materialize in UI, intercooler JS in backend and flat in graphic. Materialize firstly used in Google+ and then in Adsense and Adwords."
+    subtype: presentation
+    speakers: [45]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 064
+    title: "Unity 2D Game Development Workshop"
+    description: "Developing 2D Android game with Unity3D"
+    subtype: presentation
+    speakers: [46]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 065
+    title: "Modern Web with Polymer Workshop"
+    description: "With new features of Web Component developers have more opportunities to develop modules that can be reused in future projects. Creation of such components is extremely simple with Polymer. As a result boundary between native apps and web becomes thinner."
+    subtype: presentation
+    speakers: [17]
+    language: en
+    complexity: "Beginner"
+-
+    id: 066
+    title: "IOS Workshop with Swift"
+    description: "The emergence and development of programming languages Swift. Features of Swift and Objective- C programming language based on differences. Music application for Apple watch"
+    subtype: presentation
+    speakers: [47]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 067
+    title: "Developing Mobile App for Cloud"
+    description: "This session will be a handson workshop showing developing cloud appa for Android using Bluemix mobile services which is based on open source Cloud Foundry platform."
+    subtype: workshop
+    speakers: [48]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 068
+    title: "Image Processing with OpenCV for Android"
+    description: "OpenCV, which contains several APIs for face recognation, motion capture and robot technologies, supports mobile platforms since 2012. This talk will introduce OpenCV setup and usage in Android platform. Furthermore, OpenCV4Android will be introduced. A Basic image processing app for   Android will be developed in Java and C++."
+    subtype: presentation
+    speakers: [49]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 070
+    title: "BLE (Bluetooth Low Energy) Technology and Internet of Things Workshop"
+    description: "New technologies provides new opportunities everyday. Today so many devices can connect to the internet and send or receive tremendous amount of data. They can also communicate with each other using wireless technologies. This improvements creates many new opportunities and business areas for both software and hardware companies. BLE - which becomes a significant communication technology for devices - and its foundation, usage areas, the effects of it on IOT are going to be explained and showed with applications. The target of the workshop is to raise awareness on “IOT and BLE” especially for software developers."
+    subtype: presentation
+    speakers: [50]
+    language: tr
+    complexity: "Beginner"
