@@ -356,4 +356,163 @@
     speakers: [11]
     language: tr
     complexity: "Beginner"
+-
+    id: 041
+    title: "Connecting the Bean: the bumpy road of Bluetooth Low Energy on Android"
+    description: "Connecting smart, low energy peripherals using Bluetooth Low Energy seems easy enough; the devices and API’s are available since Android 4.3, but only until you start using those API’s you’ll encounter strange, undocumented and sometimes surprising details. In this session I’ll talk about Android BLE and the particularities of it, by taking the experience and learnings of building the unofficial SDK for the LightBlue Bean. This session will cover what BLE is, the key API’s involved and will highlight tips, tricks and issues for each API."
+    subtype: presentation
+    speakers: [12]
+    language: en
+    complexity: "Beginner"
+-
+    id: 042
+    title: "Developing Reusable Software Components Using MVP, Observer and Mediator Patterns"
+    description: "Having a layered architecture brings several benefits to software development, some of which are;1. Developers can apply unit testing on every layer separately,2. Each layer can be developed by those who are really experienced with the technologies used in each layer,3. It becomes possible to reuse components created in each layer accross different systems. It is a very common practice to employ classical three tier layered architecture to separate UI, business and data access parts from each other. However, in order to achieve true modularity and reusability, we need to create some other architecture on top of the layered architecture to handle functional aspects which are usually cross­cutting those three layers. It is possible to create such an architecture which provides a basis for a modular and reusable component based architecture, by employing model­view­presenter (MVP), observer and mediator patterns together. Indeed, some frameworks in Java EE ecosystem help us to easily realize such an architecture in our projects. MVP helps us to separate handling backend logic from UI rendering completely. Any UI event, such as button click, list select etc, is immediately translated into a corresponding business event, and is let to be circulated among other components via Observer and Mediator patterns. Those other components are able to handle business events that they are interested in, execute their functionalities, publish new business events, update UI and so on. Similar modularity can also be achieved in service layer as well. Service beans can be decleratively configured to publish business events at different steps during execution of their methods. Those other components which need to involve in those service method calls can handle those events and execute their own logic. Both event source and event target components are totally unaware of each other. They can be introduced into the system optionally, and even at run time. As a result, it becomes possible to achieve modularity and reusability both on micro and macro level in our enterprise applications."
+    subtype: presentation
+    speakers: [26]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 043
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+    title2: "Go Startup Smartly"
+    description2: "Creating your own startup is an amazing journey. Turhan Oz will describe you the progress made in this field, especially for continuous improvement with minimum waste. The talk is an invitation to make you realize that by smartly iterating, the path to succeed is more likely to happen."
+    subtype2: presentation
+    speakers2: [18]
+    language2: en
+    complexity2: "Beginner"
+    id2: 044
+-
+    id: 044
+    title: "Go Startup Smartly"
+    description: "Creating your own startup is an amazing journey. Turhan Oz will describe you the progress made in this field, especially for continuous improvement with minimum waste. The talk is an invitation to make you realize that by smartly iterating, the path to succeed is more likely to happen."
+    subtype: presentation
+    speakers: [18]
+    language: en
+    complexity: "Beginner"
+-
+    id: 045
+    title: "Gaining App Visibility That Matters"
+    description: "You've spent a lot of time in building an app that provides a better experience for users accessing your content from their android smartphones, but what if target users fail to discover your awesome app? This talk will discuss some of the latest trends and results of experiments that will help app developers to gain more visibility of their app."
+    subtype: presentation
+    speakers: [10]
+    language: en
+    complexity: "Beginner"
+    title2: "Material All The World"
+    description2: "This session gives you an insight of our migration to lollipop. The application shouldn't only used from Lollipop onwards. So we had to be downward compatible. I show you how to use the app-compat support library as well RecyclerView and CardView. It also contains some technics/ workarounds so we accomplish nearly the same look and feel of the application in different api levels. This talk doesn't go deep into animation, with is also a large part of Material. This session aims developers, who have already an application and for the ones, who want to create downward compatible ones."
+    subtype2: presentation
+    speakers2: [13]
+    language2: en
+    complexity2: "Beginner"
+    id2: 046
+-
+    id: 046
+    title: "Material All The World"
+    description: "This session gives you an insight of our migration to lollipop. The application shouldn't only used from Lollipop onwards. So we had to be downward compatible. I show you how to use the app-compat support library as well RecyclerView and CardView. It also contains some technics/ workarounds so we accomplish nearly the same look and feel of the application in different api levels. This talk doesn't go deep into animation, with is also a large part of Material. This session aims developers, who have already an application and for the ones, who want to create downward compatible ones."
+    subtype: presentation
+    speakers: [13]
+    language: en
+    complexity: "Beginner"
+-
+    id: 047
+    title: "Lambdas For Mobile"
+    description: "Waiting for details"
+    subtype: presentation
+    speakers: [20]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 048
+    title: "Deep Dive Into Android State Restoration"
+    description: "Learn about how Android saves state in general in order to be able to restore an application in the exact same state the process was prior being killed because of a low memory condition or a configuration change. In this talk we mainly focus on the Parcelable and Parcel objects and how Android uses them to save/restore some important stateful information such as the complete UI state."
+    subtype: presentation
+    speakers: [9]
+    language: en
+    complexity: "Beginner"
+-
+    id: 049
+    title: "indir.com Mobile App Contest Finalists"
+    description: "indir.com Mobile App Contest Finalists will introduce their apps"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 050
+    title: "Mobile Test Automation"
+    description: "This presentetion will be about; Why testing is important, who should test, major obstacles in mobile testing and automation, ATDD in Continuous Delivery, suggested tools and frameworks for mobile automation."
+    subtype: presentation
+    speakers: [24]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 051
+    title: "Piracy"
+    description: "Building awesome Android apps is a really really hard work that takes tons of time and dedication and also money. The worst thing that can happen to developers is that their apps get pirated and the developers that worked so hard to create them do not get honored for their hard work.This talk will show the problems that arise from pirated apps as well as which countermeasures you, as a developer, can take to make it as difficult as possible to pirate your apps."
+    subtype: presentation
+    speakers: [15]
+    language: en
+    complexity: "Beginner"
+-
+    id: 052
+    title: "Google WebRTC on Mobile"
+    description: "WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. It was released by Google in 2011 and it is becoming more famous day by day. In this talk, you can find a general view of webRTC."
+    subtype: presentation
+    speakers: [34]
+    language: tr
+    complexity: "Beginner"
+    title2: "Secure Communications Using Encryption Algorithms on Mobile Platform"
+    description2: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
+    subtype2: presentation
+    speakers2: [35]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 053
+-
+    id: 053
+    title: "Secure Communications Using Encryption Algorithms on Mobile Platform"
+    description: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
+    subtype: presentation
+    speakers: [35]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 054
+    title: "Android Continuous Delivery"
+    description: "In this session, we'd like to talk about the methods, tools, and best practises that we try to use while developing Hepsiburada.com's Android application. These practises include Functional and Unit tests, and automizing them."
+    subtype: presentation
+    speakers: [36,37]
+    language: tr
+    complexity: "Beginner"
+    title2: "Android Wear'a Watch Face Geliştirme"
+    description2: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
+    subtype2: presentation
+    speakers2: [38]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 055
+-
+    id: 055
+    title: "Android Wear'a Watch Face Geliştirme"
+    description: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
+    subtype: presentation
+    speakers: [38]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 056
+    title: "Waiting for Details"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+
+
+
 

@@ -376,4 +376,51 @@
     thumbnailUrl: haluk.jpg
     rockstar: true
     social:
+-
+    id: 34
+    name: "Büşra"
+    surname: "Deniz"
+    title: "Scrum Master&Mobile Software Developer"
+    bio: "I've been working in mobile team that develops a mobile SDK for GENBAND SPiDR WebRTC Gateway using iOS, Android and Google WebRTC library as developer and Scrum Master . I am an active member of GDG İstanbul and WomenTechMakers İstanbul communities. I love to organize and attend developer events, share knowledge and collaborate with the other people who interest new technologies, develop new ideas. I'm a big fan of Agile Methodologies, specially Scrum. I got CSM from Scrum Alliance in 2014. Now I'm trying to apply all the Scrum principles correctly in my team at Netaş, also trying to help the other design teams by attending daily standup meetings and inviting people to own scrum to present Scrum in action. I love to attend and follow technology events,conferences as attendance or speaker. DevFest Women ’14 - Istanbul, Unit Testing on Mobile Applications What is unit testing, why and how to test our code, what is most known tools/libraries for UT on iOS and Android. Mobile Days ‘14 - Ankara, Game Development via Sprite Kit What is Sprite Kit and how to develops game applications via new Apple game engine Sprite Kit I'm also trying sharing my experiences or technical post in my personal web site."
+    thumbnailUrl: busra.png
+    rockstar: true
+    social:
+-
+    id: 35
+    name: "Hüseyin"
+    surname: "Bodur"
+    title: "Research Assistant"
+    bio: "He is a research assistant at Duzce University. He earned his master’s degree in Computer Engineering from Pamukkale University. He has been an android developer for three years and a member of GDG Duzce."
+    thumbnailUrl: huseyin.jpg
+    rockstar: true
+    social:
+-
+    id: 36
+    name: "Onur"
+    surname: "Kayabaşı"
+    title: "Mobile Software Developer"
+    bio: "Onur has been developing Android applications since 2011. After developing apps for different sectors from media to shopping in mobile agencies, in 2014 he has joined to mobile application development team of Hepsiburada.com, which is the biggest online e-commerce company in Turkey ."
+    thumbnailUrl: onur.jpg
+    rockstar: true
+    social:
+-
+    id: 37
+    name: "Gökberk"
+    surname: "Ergün"
+    title: "Mobile Software Developer"
+    bio: "Graduated from Bogazici university at 2010. Worked in several software projects at Turkcell,n11,tmob as software developer. Working at Hepsiburada Android app since 2014 November."
+    thumbnailUrl: gokberk.jpg
+    rockstar: true
+    social:
+-
+    id: 38
+    name: "Kaan"
+    surname: "Mamikoglu"
+    title: "Mobil Geliştirici"
+    bio: "Mobiwise'da mobil geliştirici ve aynı zamanda Anadolu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Google Play Store ve Apple App Store'daki birçok mobil uygulamanın geliştirme ekibinde yer aldım. Google Developer Group (GDG) Eskişehir organizatörlerinden biriyim."
+    thumbnailUrl: kaan.jpg
+    rockstar: true
+    social:
+
+
 

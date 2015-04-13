@@ -376,3 +376,50 @@
     thumbnailUrl: haluk.jpg
     rockstar: true
     social:
+-
+    id: 34
+    name: "Büşra"
+    surname: "Deniz"
+    title: "Scrum Master&Mobil Yazılım Geliştiricisi"
+    bio: "I've been working in mobile team that develops a mobile SDK for GENBAND SPiDR WebRTC Gateway using iOS, Android and Google WebRTC library as developer and Scrum Master . I am an active member of GDG İstanbul and WomenTechMakers İstanbul communities. I love to organize and attend developer events, share knowledge and collaborate with the other people who interest new technologies, develop new ideas. I'm a big fan of Agile Methodologies, specially Scrum. I got CSM from Scrum Alliance in 2014. Now I'm trying to apply all the Scrum principles correctly in my team at Netaş, also trying to help the other design teams by attending daily standup meetings and inviting people to own scrum to present Scrum in action. I love to attend and follow technology events,conferences as attendance or speaker. DevFest Women ’14 - Istanbul, Unit Testing on Mobile Applications What is unit testing, why and how to test our code, what is most known tools/libraries for UT on iOS and Android. Mobile Days ‘14 - Ankara, Game Development via Sprite Kit What is Sprite Kit and how to develops game applications via new Apple game engine Sprite Kit I'm also trying sharing my experiences or technical post in my personal web site."
+    thumbnailUrl: busra.png
+    rockstar: true
+    social:
+-
+    id: 35
+    name: "Hüseyin"
+    surname: "Bodur"
+    title: "Araştırma Görevlisi"
+    bio: "1989 yılı İzmir doğumlu. İlk ve orta öğrenimi aldıktan sonra 2009 yılında Dokuz Eylül Üniversitesi Bilgisayar Programcılığı bölümünden, 2012 yılında Pamukkale Üniversitesi Bilgisayar Mühendisliği bölümünde mezun oldu. Aynı yıl Düzce Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümüne Araştırma Görevlisi olarak atandı. Halen görevine devam etmektedir. GDG Düzce topluluğu içerisinde aktif olarak çalışmaktadır."
+    thumbnailUrl: huseyin.jpg
+    rockstar: true
+    social:
+-
+    id: 36
+    name: "Onur"
+    surname: "Kayabaşı"
+    title: "Mobil Yazılım Geliştiricisi"
+    bio: "Kadir Has Üniversitesi Bilgisayar Mühendisliği mezunu olan Onur, 2011'den beri Android uygulamaları geliştirmektedir. Mobil ajanslarda medyadan alışverişe birçok sektörle ilgili çeşitli uygulamalar geliştirdikten sonra 2014 yılında Türkiye'nin en büyük online satış platformu olan Hepsiburada.com'un mobil uygulama geliştirme ekibine katılmıştır."
+    thumbnailUrl: onur.jpg
+    rockstar: true
+    social:
+-
+    id: 37
+    name: "Gökberk"
+    surname: "Ergün"
+    title: "Mobil Yazılım Geliştiricisi"
+    bio: "2010 yılında Boğaziçi Üni. Bilgisayar Müh.'den mezun oldum. Turkcell, n11, tmob'da çeşitli yazılım projelerinde yazılım geliştirici olarak görev aldım. Kasım'14 ten beri Hepsiburada Android uygulamasında çalışmaktayım. "
+    thumbnailUrl: gokberk.jpg
+    rockstar: true
+    social:
+-
+    id: 38
+    name: "Kaan"
+    surname: "Mamikoglu"
+    title: "Mobil Geliştirici"
+    bio: "Mobiwise'da mobil geliştirici ve aynı zamanda Anadolu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Google Play Store ve Apple App Store'daki birçok mobil uygulamanın geliştirme ekibinde yer aldım. Google Developer Group (GDG) Eskişehir organizatörlerinden biriyim."
+    thumbnailUrl: kaan.jpg
+    rockstar: true
+    social:
+
+

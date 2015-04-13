@@ -356,3 +356,159 @@
     speakers: [11]
     language: tr
     complexity: "Beginner"
+-
+    id: 041
+    title: "Beanleri Bağlama: Android'deki Bluetooth Low Energy Kasisli Yolu"
+    description: "Akıllı ve az enerjili cihazları BLE kullanarak bağlamak kolay görünüyor, cihazlar ve API'lar Android 4.3'den beri mevcut. Ama bunları kullanmaya başladığınızda garip,dokümante edilmemiş ve bazen süprizlerle dolu detaylar ile karşılaşacaksınız. Bu sunumda LightBlue Bean resmi olmayan SDK'sını derlerken öğrenilenler ve  tecrübeler ile Android BLE ve detaylarından bahsedilecektir. Bu sunumda BLE'nin ne olduğu, önemli API'lar ve bu API'ler ile ilgili önemli noktalar ve ipuçları paylaşılacaktır."
+    subtype: presentation
+    speakers: [12]
+    language: en
+    complexity: "Beginner"
+-
+    id: 042
+    title: "MVP, Observer ve Mediator Örüntüleri ile Yeniden Kullanılabilir Uygulama Bileşenleri Geliştirme"
+    description: "Geliştirilen uygulamaların katmanlı bir mimariye sahip olması uygulama geliştiricilere çeşitli faydalar sağlamaktadır:1. Uygulamanın bölümleri ayrı ayrı birim testlere tabi tutulabilir. 2. Her bir katmanın kendi alanında uzman kişilerce birbirlerinden bağımsız biçimde geliştirilmesi mümkün hale gelir. 3. Geliştirilen bölümlerin farklı uygulamalar da yeniden kullanılmalarının önü açılmış olur.Kurumsal uygulamalarda klasik üç katmanlı bir mimari uygulayıp UI, iş mantığı ve veri erişim şeklinde ayrı ayrı katmanlar oluşturmak yaygın bir pratik haline gelmiştir. Ancak yukarıda bahsettiğimiz faydaların tam olarak elde edilebilmesi için uygulamanın içerisindeki farklı aspectlerin birbirlerinden bağımsız biçimde ele alınması ve UI katmanındaki UI oluşturma ve render işleminin UI mantığı ve iş mantığından tamamen bağımsız hale getirilmesi için alışageldik katmanlı mimarinin de üzerinde yeni bir yapılanmaya ihtiyaç vardır. İşte MVP, Observer ve Mediator örüntülerinin birlikte kullanıldığı bir mimari ile bahsi geçen bu faydaları elde etmek mümkün hale gelmektedir. Aslında Java EE dünyasındaki bir takım teknolojiler ve framework'ler de bu örüntüler üzerine kurulu bir mimarinin hayata geçirilmesini kolaylaştırmaktadır. MVP örüntüsü ile UI oluşturma ve render işlemi ile iş mantığının birbirinden tamamen ayrılması sağlanmaktadır. UI üzerinde meydana gelen herhangi bir UI event'inin iş mantığına özgü bir event'e dönüştürülerek Mediator örüntüsü üzerinden dolaşıma sokulması sağlanmaktadır. Uygulama içerisindeki diğer bileşenler veya modüller de bu iş mantığı event'lerinden ilgilendiklerini işleyerek kendi servislerini sunmaktadırlar. MVP, Observer ve Mediator örüntülerinin birlikte kullanımı ile uygulama içerisinde mikro ve makro düzeyde modülarite sağlanmasının yanı sıra, geliştirilen ünitelerin farklı uygulamalarda yeniden kullanılmaları da mümkün olmaktadır."
+    subtype: presentation
+    speakers: [26]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 043
+    title: "Detaylar Bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
+    title2: "Akıllı Bir Şekilde Startup Olun"
+    description2: "Kendi startupınızı oluşturmak inanılmaz bir yolculuktur. Turhan Oz bu sunumda en az israf ve sürekli geliştirme ile bu alanda kat ettiği gelişmeleri paylaşacaktır.  Bu sunum akıllı ilerlemeler ile başarının gerçekleşmesinin muhtemel olduğunu anlamanızı sağlayacak bir davetiyedir. "
+    subtype2: presentation
+    speakers2: [18]
+    language2: en
+    complexity2: "Beginner"
+    id2: 044
+-
+    id: 044
+    title: "Akıllı Bir Şekilde Startup Olun"
+    description: "Kendi startupınızı oluşturmak inanılmaz bir yolculuktur. Turhan Oz bu sunumda en az israf ve sürekli geliştirme ile bu alanda kat ettiği gelişmeleri paylaşacaktır.  Bu sunum akıllı ilerlemeler ile başarının gerçekleşmesinin muhtemel olduğunu anlamanızı sağlayacak bir davetiyedir. "
+    subtype: presentation
+    speakers: [18]
+    language: en
+    complexity: "Beginner"
+-
+    id: 045
+    title: "Uygulama Görünürlüğü Kazanmak"
+    description: "Uzun süreler harcayarak kullanıcıların iyi bir deneyim ile cihazlarından içeriiğinize erişmesini sağladınız, peki ya kullanıcılar bu harika uygulamanızı keşfedemez  ve yükelemez ise? Bu sunumda uygulama geliştiricilere uygulamalarının görünür olmasını sağlayacak son trendler ve deneysel sonuçlar tartışılacaktır."
+    subtype: presentation
+    speakers: [10]
+    language: en
+    complexity: "Beginner"
+    title2: "Maddesel Tüm Dünya"
+    description2: "Bu oturum size Lolliopa geçişimiz hakkında bilgi verecektir. Uygulama sadece Lollipop versiyonlarına uyumlu olmamalıdır,geriye dönük de uyumlu olmalıdır. Bu sunumda uyumluluk kütüphanesinin nasıl kullanılacağı, RecyclerView ve CardView  gibi konulardan bahsedilecektir. Aynı zamanda farklı API seviyelerinde aynı görüntü ve deneyimi sağlayacak bazı teknik ve deneyimlerden de bahsedilecektir. Bu konuşma animasyonlar ve Material tasarımın büyük bir kısmı ile ilgili değildir. Bu sunum bir uygulaması olup da geriye dönük uyumluluk kazandırmak isteyen geliştiricileri hedeflemektedir."
+    subtype2: presentation
+    speakers2: [13]
+    language2: en
+    complexity2: "Beginner"
+    id2: 046
+-
+    id: 046
+    title: "Maddesel Tüm Dünya"
+    description: "Bu oturum size Lolliopa geçişimiz hakkında bilgi verecektir. Uygulama sadece Lollipop versiyonlarına uyumlu olmamalıdır,geriye dönük de uyumlu olmalıdır. Bu sunumda uyumluluk kütüphanesinin nasıl kullanılacağı, RecyclerView ve CardView  gibi konulardan bahsedilecektir. Aynı zamanda farklı API seviyelerinde aynı görüntü ve deneyimi sağlayacak bazı teknik ve deneyimlerden de bahsedilecektir. Bu konuşma animasyonlar ve Material tasarımın büyük bir kısmı ile ilgili değildir. Bu sunum bir uygulaması olup da geriye dönük uyumluluk kazandırmak isteyen geliştiricileri hedeflemektedir."
+    subtype: presentation
+    speakers: [13]
+    language: en
+    complexity: "Beginner"
+-
+    id: 047
+    title: "Mobil için Lambdalar"
+    description: "Detaylar bekleniyor"
+    subtype: presentation
+    speakers: [20]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 048
+    title: "Android Durum Restorasyonlarına Derin Dalış"
+    description: "Bir uygulama öldürülmeden veya konfigürasyon değişikliğine gitmeden önceki son durumuna nasıl dönebildiğini ve Android'in son durumu nasıl kayıt öğreneceksiniz. Bu konuşmada Parcelable ve Parcel objelerine ve Android'in bunları kayıt ederek son kullanıcı arayüzü durumuna nasıl döndüğü gibi konulara odaklanılacaktır."
+    subtype: presentation
+    speakers: [9]
+    language: en
+    complexity: "Beginner"
+-
+    id: 049
+    title: "indir.com Mobil Yarışma Finalistleri"
+    description: "indir.com mobil yarışma finalistleri uygulamalarını tanıtıyor"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+-
+    id: 050
+    title: "Mobil Test Otomasyonu"
+    description: "Test neden önemlidir, test kimler tarafından yapılmalıdır, mobil testing ve mobil otomasyonda karşılaşılan en önemli zorluklar nelerdir, Continuous Delivery’de ATDD, mobil otomasyon için önerilen tool ve framework ler, konularında sunum."
+    subtype: presentation
+    speakers: [24]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 051
+    title: "Korsancılık"
+    description: "Korsancılık, harika Android uygulamaları geliştirmek gerçekten tonla vakit, fedakarlık ve zaman alan çok zor bir iş. Geliştiricilerin başına gelebilecek en kötü şey uygulamalarının korsan olarak yayınlanması ve uygulamalarını geliştirmek için çok çalışan geliştiricilerin yaptıkları işten dolayı gururlanamaması."
+    subtype: presentation
+    speakers: [15]
+    language: en
+    complexity: "Beginner"
+-
+    id: 052
+    title: "Google WebRTC on Mobile"
+    description: "WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. It was released by Google in 2011 and it is becoming more famous day by day. In this talk, you can find a general view of webRTC."
+    subtype: presentation
+    speakers: [34]
+    language: tr
+    complexity: "Beginner"
+    title2: "Secure Communications Using Encryption Algorithms on Mobile Platform"
+    description2: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
+    subtype2: presentation
+    speakers2: [35]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 053
+-
+    id: 053
+    title: "Secure Communications Using Encryption Algorithms on Mobile Platform"
+    description: "Security issues have an important place in today's communication technologies. Since mutual communication must be done through secure channels that don’t allow third people to intervene, it is very important to make the security levels of these channels as high as possible. Of all security methods, the encryption algorithms have a great importance. These algorithms are ranked according to their complexity and resist by the rate of their complexity and power from the moment seized by third people who can penetrate mutual communication. In our study, we will issue which methods are used for message encryption security, how mutual messaging infrastructure is created on mobile devices with the android operating system via the internet and how to do encryption and decryption process. We will explain performance analysis of encryption algorithms on the mobile platform also discuss advantages and disadvantages to each other."
+    subtype: presentation
+    speakers: [35]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 054
+    title: "Android Sürekli Dağıtım"
+    description: "Bu konuşmamızda Hepsiburada.com Android uygulamasını geliştirirken kullandığımız yöntemler, araçlar ve uygulamaya çalıştığımız iyi pratiklerden bahsedeceğiz. Bu pratikler arasında Fonksiyonel ve Birim testlerin yazılması, bu testlerin otomatize edilmesi bulunmaktadır."
+    subtype: presentation
+    speakers: [36,37]
+    language: tr
+    complexity: "Beginner"
+    title2: "Android Wear'a Watch Face Geliştirme"
+    description2: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
+    subtype2: presentation
+    speakers2: [38]
+    language2: tr
+    complexity2: "Beginner"
+    id2: 055
+-
+    id: 055
+    title: "Android Wear'a Watch Face Geliştirme"
+    description: "Google'ın Mart 2014'te Android Wear'ı duyurmasından beri geliştiriciler akıllı saatleri daha şık ve kullanışlı hale getirmek için sürekli çeşitli Watch Face projeleri üzerine çalışıyorlar. Yakın zamana kadar resmi bir kütüphane yoktu fakat artık var. Bu sunumda, Google tarafından duyurulan resmi kütüphaneyi kullanarak Android Wear'a Watch Face geliştirme üzerine konuşacağız."
+    subtype: presentation
+    speakers: [38]
+    language: tr
+    complexity: "Beginner"
+-
+    id: 056
+    title: "Detaylar bekleniyor"
+    description: ""
+    subtype: presentation
+    speakers: []
+    language: en
+    complexity: "Beginner"
