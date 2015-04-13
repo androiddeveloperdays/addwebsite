@@ -1,88 +1,105 @@
 -
     date: "2015-05-11"
     dateReadable: "May 11"
+    parallelCount: 1
     tracks:
-        - {title: "Room A", color: "#90be4e"}
-        - {title: "Room B", color: "#90ce4e"}
-        - {title: "Room C", color: "#90de4e"}
-        - {title: "Room D", color: "#90fe4e"}
+        - {parallel: 1,title: "Salon A", color: "#90be4e"}
+        - {parallel: 1,title: "Salon B", color: "#90ce4e"}
+        - {parallel: 1,title: "Salon C", color: "#90de4e"}
+        - {parallel: 1,title: "Salon D", color: "#90fe4e"}
     timeslots:
         - {
+            parallel: 1,
             startTime: "10:00",
             endTime: "10:15",
             sessionIds: [001]
         }
         - {
+            parallel: 1,
             startTime: "10:15",
             endTime: "10:35",
             sessionIds: [002]
         }
         - {
+            parallel: 1,
             startTime: "10:35",
             endTime: "11:00",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
             sessionIds: [003,004,005,006]
         }
         - {
+            parallel: 1,
             startTime: "11:45",
             endTime: "12:00",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "12:00",
             endTime: "12:45",
             sessionIds: [007,008,009,010]
         }
         - {
+            parallel: 1,
             startTime: "12:45",
             endTime: "13:45",
             sessionIds: [503]
         }
         - {
+            parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
             sessionIds: [011,012,013,014]
         }
         - {
+            parallel: 1,
             startTime: "14:30",
             endTime: "14:45",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "14:45",
             endTime: "15:35",
-            sessionIds: [015,016,018,020]
+            sessionIds: [015,016~017,018,020]
         }
         - {
+            parallel: 1,
             startTime: "15:35",
             endTime: "15:45",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "15:45",
             endTime: "16:30",
             sessionIds: [021,022,023,024]
         }
         - {
+            parallel: 1,
             startTime: "16:30",
             endTime: "16:45",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "16:45",
             endTime: "17:30",
             sessionIds: [025,026,027,028]
         }
         - {
+            parallel: 1,
             startTime: "17:30",
             endTime: "17:40",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "17:40",
             endTime: "18:10",
             sessionIds: [030]
@@ -90,68 +107,81 @@
 -
   date: "2014-05-12"
   dateReadable: "May 12"
+  parallelCount: 1
   tracks:
-        - {title: "Room A", color: "#90be4e"}
-        - {title: "Room B", color: "#90ce4e"}
-        - {title: "Room C", color: "#90de4e"}
-        - {title: "Room D", color: "#90fe4e"}
+        - {parallel: 1,title: "Salon A", color: "#90be4e"}
+        - {parallel: 1,title: "Salon B", color: "#90ce4e"}
+        - {parallel: 1,title: "Salon C", color: "#90de4e"}
+        - {parallel: 1,title: "Salon D", color: "#90fe4e"}
   timeslots:
         - {
+            parallel: 1,
             startTime: "10:15",
             endTime: "10:45",
             sessionIds: [031]
         }
         - {
+            parallel: 1,
             startTime: "10:45",
             endTime: "11:00",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
             sessionIds: [032,033,034,035]
         }
         - {
+            parallel: 1,
             startTime: "11:45",
             endTime: "12:00",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "12:00",
             endTime: "12:45",
             sessionIds: [037,038,039,040]
         }
         - {
+            parallel: 1,
             startTime: "12:45",
             endTime: "13:45",
             sessionIds: [503]
         }
         - {
+            parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
             sessionIds: [041,042,043,045]
         }
         - {
+            parallel: 1,
             startTime: "14:30",
             endTime: "14:45",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "14:45",
             endTime: "15:30",
             sessionIds: [047,048,049,050]
         }
         - {
+            parallel: 1,
             startTime: "15:30",
             endTime: "15:45",
             sessionIds: [307]
         }
         - {
+            parallel: 1,
             startTime: "15:45",
             endTime: "16:30",
             sessionIds: [051,052,054,056]
         }
         - {
+            parallel: 1,
             startTime: "16:30",
             endTime: "16:45",
             sessionIds: [307]
