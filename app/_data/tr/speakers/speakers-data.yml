@@ -417,7 +417,7 @@
     name: "Kaan"
     surname: "Mamikoglu"
     title: "Mobil Geliştirici"
-    bio: "Mobiwise'da mobil geliştirici ve aynı zamanda Anadolu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Google Play Store ve Apple App Store'daki birçok mobil uygulamanın geliştirme ekibinde yer aldım. Google Developer Group (GDG) Eskişehir organizatörlerinden biriyim."
+    bio: "mobiwise'da mobil geliştirici ve aynı zamanda Anadolu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Google Play Store ve Apple App Store'daki birçok mobil uygulamanın geliştirme ekibinde yer aldım. Google Developer Group (GDG) Eskişehir organizatörlerinden biriyim."
     thumbnailUrl: kaan.jpg
     rockstar: true
     social:
@@ -453,8 +453,8 @@
     name: "Serdar"
     surname: "Altan"
     title: "Teknoloji Editörü"
-    bio: ""
-    thumbnailUrl:
+    bio: "Eskişehir Osmangazi Üniversitesi Matematik - Bilgisayar Bölümü öğrencisiyim. Silikon Vadisi ve Teknolo adlı teknoloji sitelerinde editörlük yapıyorum. Nesnelerin interneti, sanal gerçeklik ve artırılmış gerçeklik başta olmak üzere son teknolojiler ile ilgileniyorum. Ayrıca growth hacking konusunda çalışmalar yapıyorum."
+    thumbnailUrl: serdar.png
     rockstar: true
     social:
 -
@@ -529,4 +529,42 @@
     thumbnailUrl: kerem.png
     rockstar: true
     social:
-
+-
+    id: 51
+    name: "Burcu"
+    surname: "Türkmen"
+    title: "Mobil Yazilim Gelistirici"
+    bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldu. GDG Eskişehir topluluğunda aktif olarak görev almakta. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasında. Android uygulamaları geliştirerek başladığı kariyer hayatına, şimdilerde iOS uygulamaları da geliştirerek devam ediyor."
+    thumbnailUrl: burcu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/btrkmn"}
+        - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
+        - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
+-
+    id: 52
+    name: "Aygul"
+    surname: "Zagidullina"
+    title: "Topluluk Yönetimi ve Destek Lideri"
+    bio: "Dünyamızı teknoloji ve bilim aracılığıyla daha iyi bir hale getirmek kesinlikle en büyük tutkum. Almanya’da ve Rusya’da yer alan iki Google Geliştirici Grubu’nun topluluk yöneticisi, Google En Çok Katkıda Bulunanı, küresel Women Techmakers topluluğunun aktif bir üyesi, çevirmen, kuantum kimyacısı, klasik eğitimli müzisyen olmamın yanı sıra kitlesel açık çevrimiçi kurs ve vatandaş bilimi meraklısıyım. Çalışmadığım ve topluluğa katkı sağlamadığım zamanlarda gezmekten, spor yapmaktan, yeni diller öğrenmekten ve iyi müzik dinlemekten keyif alırım."
+    thumbnailUrl: aygul.jpg
+    rockstar: true
+    social:
+-
+    id: 53
+    name: "Mehmet Sedat"
+    surname: "Kurt"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    rockstar: true
+    social:
+-
+    id: 54
+    name: "Hüseyin"
+    surname: "Karagöz"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    rockstar: true
+    social:

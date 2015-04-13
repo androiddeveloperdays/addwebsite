@@ -453,8 +453,8 @@
     name: "Serdar"
     surname: "Altan"
     title: "Technology Editor"
-    bio: ""
-    thumbnailUrl:
+    bio: "I'm studying Maths and Computer Science at Eskişehir Osmangazi University. I'm also working at technology websites called Silikon Vadisi and Teknolo as an editor. I'm particularly interested in advanced technologies like internet of things, virtual reality and augmented reality. As well, I'm working on growth hacking."
+    thumbnailUrl: serdar.png
     rockstar: true
     social:
 -
@@ -529,4 +529,42 @@
     thumbnailUrl: kerem.png
     rockstar: true
     social:
-
+-
+    id: 51
+    name: "Burcu"
+    surname: "Türkmen"
+    title: "Mobile Software Developer"
+    bio: "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. "
+    thumbnailUrl: burcu.jpg
+    rockstar: true
+    social:
+        - {name: "twitter", link: "https://twitter.com/btrkmn"}
+        - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
+        - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
+-
+    id: 52
+    name: "Aygul"
+    surname: "Zagidullina"
+    title: "Head of Community Management & Support"
+    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
+    thumbnailUrl: aygul.jpg
+    rockstar: true
+    social:
+-
+    id: 53
+    name: "Mehmet Sedat"
+    surname: "Kurt"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    rockstar: true
+    social:
+-
+    id: 54
+    name: "Hüseyin"
+    surname: "Karagöz"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    rockstar: true
+    social:

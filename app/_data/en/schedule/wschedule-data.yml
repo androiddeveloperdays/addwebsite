@@ -1,0 +1,111 @@
+-
+    date: "2015-05-11"
+    dateReadable: "May 11"
+    parallelCount: 1
+    tracks:
+        - {parallel: 1,title: "Workshops-Room E", color: "#90ge4e"}
+    timeslots:
+        - {
+            parallel: 1,
+            startTime: "10:35",
+            endTime: "12:00",
+            sessionIds: [156]
+        }
+        - {
+            parallel: 1,
+            startTime: "12:00",
+            endTime: "12:15",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "12:15",
+            endTime: "13:15",
+            sessionIds: [146]
+        }
+        - {
+            parallel: 1,
+            startTime: "13:15",
+            endTime: "13:30",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "13:30",
+            endTime: "14:30",
+            sessionIds: [153]
+        }
+        - {
+            parallel: 1,
+            startTime: "14:30",
+            endTime: "14:45",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "14:45",
+            endTime: "16:15",
+            sessionIds: [150]
+        }
+        - {
+            parallel: 1,
+            startTime: "16:15",
+            endTime: "16:30",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "16:30",
+            endTime: "17:30",
+            sessionIds: [149]
+        }
+-
+    date: "2014-05-12"
+    dateReadable: "May 12"
+    parallelCount: 1
+    tracks:
+        - {parallel: 1,title: "Workshops-Room E", color: "#90ge4e"}
+    timeslots:
+        - {
+            parallel: 1,
+            startTime: "10:45",
+            endTime: "12:15",
+            sessionIds: [154]
+        }
+        - {
+            parallel: 1,
+            startTime: "12:15",
+            endTime: "12:30",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "12:30",
+            endTime: "13:30",
+            sessionIds: [148]
+        }
+        - {
+            parallel: 1,
+            startTime: "13:30",
+            endTime: "14:00",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "14:00",
+            endTime: "15:30",
+            sessionIds: [147]
+        }
+        - {
+            parallel: 1,
+            startTime: "15:30",
+            endTime: "15:45",
+            sessionIds: [307]
+        }
+        - {
+            parallel: 1,
+            startTime: "15:45",
+            endTime: "16:45",
+            sessionIds: [145]
+        }
+
