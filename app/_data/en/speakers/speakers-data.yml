@@ -554,17 +554,17 @@
     id: 53
     name: "Mehmet Sedat"
     surname: "Kurt"
-    title: ""
-    bio: ""
-    thumbnailUrl:
+    title: "Co-Founder at 4pps"
+    bio: "I have started to mobile developing by GDG Ankara. At the beginning, I was interested in for some curious or fun, now I feel myself as a front-end developer. After graduation from Hacettepe University Computer Engineering, me and my friends have founded the 4PPS company and for a last year we try to make mobile solutions for problems we met."
+    thumbnailUrl: sedatkurt.jpg
     rockstar: true
     social:
 -
     id: 54
     name: "Hüseyin"
     surname: "Karagöz"
-    title: ""
-    bio: ""
-    thumbnailUrl:
+    title: "Computer Engineering Student"
+    bio: "I was born in 1992, I'm in senior class at Computer Engineering in Dumlupinar University. I'm one of the organizer of Gdg Kütahya. I enjoy to be interested in software and learn something new. I'm working on Android and java to develop myself and create new apps or anything else."
+    thumbnailUrl: huseyinkaragoz.jpg
     rockstar: true
     social:

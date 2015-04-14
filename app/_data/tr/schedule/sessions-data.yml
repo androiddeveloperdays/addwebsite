@@ -459,7 +459,7 @@
 -
     id: 156
     title: "Android 101: Android'e Giriş Çalıştayı"
-    description: "Android 101: Android'e Giriş Çalıştayı"
+    description: "İki oturumdan oluşacak workshopta ilk oturum Android hakkında kısa ve ilginç bilgilerin sunulacağı sunum şeklinde gerçekleşecektir. İkinci oturumda ise aksiyona geçip Android Studio üzerinde başlangıç seviyesindeki ilk uygulamamızı geliştireceğiz."
     subtype: workshop
     speakers: [53,54]
     language: tr

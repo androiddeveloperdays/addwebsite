@@ -459,7 +459,7 @@
 -
     id: 156
     title: "Android 101: Introduction to Android Workshop"
-    description: "Android 101: Introduction to Android Workshop"
+    description: "Our workshop has two sessions. First session is a presentation which will give short and interesting infos about Android. At the second session, we will get into action and we develop our first application which is beginner level on Android Studio."
     subtype: workshop
     speakers: [53,54]
     language: tr

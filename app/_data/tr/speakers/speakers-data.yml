@@ -554,17 +554,17 @@
     id: 53
     name: "Mehmet Sedat"
     surname: "Kurt"
-    title: ""
-    bio: ""
-    thumbnailUrl:
+    title: "4pps Ortak Kurucusu"
+    bio: "Mobil uygulama geliştirme ile GDG Ankara yoluyla tanıştım. Biraz merak biraz eğlence için çıktığım bu yolda front-end geliştirici olarak işlerimi sürdürmekteyim. Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun olduktan çok kısa süre sonra arkadaşlarımla birlikte 4PPS firmasını kurduk ve son 1 yıldır önümüze çıkan problemlere mobil çözümler üretmeye çalışıyoruz."
+    thumbnailUrl: sedatkurt.jpg
     rockstar: true
     social:
 -
     id: 54
     name: "Hüseyin"
     surname: "Karagöz"
-    title: ""
-    bio: ""
-    thumbnailUrl:
+    title: "Bilgisayar Mühendisliği Öğrencisi"
+    bio: "Ocak 1992 doğumlu, Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim. GDG Kütahya ekibinin organizatörlerinden biriyim. Yazılımla ilgilenmeyi ve bu alanda yeni şeyler öğrenmeyi seviyorum. Kendimi geliştirmek ortaya yeni ürünler çıkarmak için Java ve Android üzerinde çalışmaktayım."
+    thumbnailUrl: huseyinkaragoz.jpg
     rockstar: true
     social:
