@@ -266,8 +266,8 @@
     complexity: "Beginner"
 -
     id: 132
-    title: "Lambdas For Mobile"
-    description: "Waiting for details"
+    title: "Embedded Android with Lollipop"
+    description: "Android is a custom-built embedded Linux  system that can be used for creating many innovative solutions, including but not limited to mobile applications. Android APIs, and services are the building blocks for many embedded applications.  In this talk we will go over how one can create embedded applications with Android and how it can be customized."
     subtype: presentation
     speakers: [20]
     language: tr

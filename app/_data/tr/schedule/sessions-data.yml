@@ -266,8 +266,8 @@
     complexity: "Beginner"
 -
     id: 132
-    title: "Mobil için Lambdalar"
-    description: "Detaylar bekleniyor"
+    title: "Lollipop ile Gömülü Android"
+    description: "Android isteğe göre yapılandırılmış bir gömülü Linux sistemidir ve mobil de dahil olmak üzere birçok yenilikçi çözüm oluşturmak için kullanılabilir. Birçok gömülü uygulamalar için Android APIleri ve servisleri yapı taşlarıdır. Bu konuşmada Android ile gömülü uygulamalar nasıl geliştirilir ve nasıl değiştirilir göreceğiz."
     subtype: presentation
     speakers: [20]
     language: tr
