@@ -7,6 +7,8 @@
   bio: "Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools."
   thumbnailUrl: matt-sullivan.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
 - 
@@ -18,6 +20,8 @@
   bio: "Royi Benyossef has been an Android developer since before the first Android phone existed and proceeded to work on Android based tablets and TVs long before they were launched by Google so you might say i'm an Android pioneer, as an avid Open source enthusiast i have been Organizing events as well as blogging and lecturing on Android related topics since 2008. Both of these facts have led to the fact that i am a Google developer expert since the program's inception which means that i'm not a Google employee but Google believes that i know what i'm talking about as well as how to say it."
   thumbnailUrl: royi-benyossef.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RoyiBenyossef"}
     - {name: "facebook", link: "https://www.facebook.com/Royi.Benyossef"}
@@ -30,6 +34,8 @@
   bio: "As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetising their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in sales and sales advisory positions. Müge earned her master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently."
   thumbnailUrl: muge-yilmaz.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social: 
     - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
 - 
@@ -41,6 +47,8 @@
   bio: "Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests."
   thumbnailUrl: stephan-linzner.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Googler", url: "https://google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+StephanLinzner"}
     - {name: "twitter", link: "https://twitter.com/onlythoughtwork"}
@@ -54,6 +62,8 @@
   bio: "Xavier is Developer Evangelist in Intel Software and Service Group in Paris, France. He is helping developers to improve their support for new hardware and technologies backed by Intel, with a focus on the Android NDK, 64-bit and dual-displays."
   thumbnailUrl: xavier-hallade.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+XavierHallade"}
     - {name: "twitter", link: "https://twitter.com/ph0b"}
@@ -95,6 +105,8 @@
   bio: "Besides being a recent GDE for Android, Wiebe Elsinga is also an Android Developer with a passion for UX and design. Co-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile. Basically a EntrepreNerd.\nMainly focused on the design and development of mobile applications."
   thumbnailUrl: wiebe-elsinga.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
     - {name: "twitter", link: "https://twitter.com/welsinga"}
@@ -122,6 +134,8 @@
   bio: "Cyril Mottier is Mobile Software Engineer at Capitaine Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source librairies and giving talks. His motto: Do less, but do it insanely great."
   thumbnailUrl: cyril-mottier.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
     - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
@@ -136,6 +150,8 @@
   bio: "Mr. Prajyot Mainkar is the director at Androcid Media Pvt. Ltd, an app engineering firm based out of India. He is the manager of Google's Developer Group - GAUG ( Goa Android users Group) - one of the oldest android developer community in India. Being android developer himself, he has been active in the Android community and been assisting Android developers build new, compelling and well-received apps. He has spoken at several conferences including Droidcon India, GDG DevFest, Silicon India Mobile Conference and many more."
   thumbnailUrl: prajyot-mainkar.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+prajyotmainkar"}
     - {name: "twitter", link: "https://twitter.com/prajyotm"}
@@ -161,6 +177,8 @@
   title: "Android Developer"
   bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded nearly 1.000.000 times worldwide. He runs his own company Little Robots that focuses on apps and other clever uses of the Android platform. Hugo is Google Developer Expert for Android and an organiser of The Dutch Android User Group, where Android professionals can meet and share knowledge with each other during monthly meetings."
   thumbnailUrl: hugo-visser.jpg
+  ribbon:
+        - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/botteaap"}
@@ -175,6 +193,8 @@
     bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
     thumbnailUrl: image10-150x150.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/"}
     social:
         - {name: "twitter", link: "https://twitter.com/alosdev"}
         - {name: "github", link: "https://github.com/alosdev"}
@@ -188,6 +208,8 @@
     bio: "Paresh is a mobile application developer with 5 years of apps development experience. Currently he is Senior Software Engineer at InfoStretch Solutions Pvt. Ltd, India. He has been exploring android development since Android 1.5. His passion for Google Technologies brought him to lead Google Developers Group Ahmedabad, India. He is very active in supporting Android developers community in India and worldwide be it through his tech blog “TechnoTalkative” http://www.technotalkative.com/ (published >150 articles) or through StackOverflow http://stackoverflow.com/users/379693/paresh-mayani (holder of >50,000 reputation)."
     thumbnailUrl: paresh2.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ahmedabad", url: "https://developers.google.com/groups/"}
     social:
         - {name: "twitter", link: "https://twitter.com/pareshmayani"}
         - {name: "github", link: "https://github.com/PareshMayani"}
@@ -214,6 +236,8 @@
     bio: "Andreu Ibanez is GDG Lleida Founder and lead organizer, Member of GDG Spain, Google Glass Explorer, Mentor Google Summer of Code, Founder Google Liquid Galaxy LAB, Founder Lleida Drone, and for the living Project Manager at Ponent 2002, a SMB located in Lleida, SPain, specyalized in IT R+D+i projects."
     thumbnailUrl: andreu.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Lledia", url: "https://developers.google.com/groups/"}
     social:
         - {name: "twitter", link: "https://twitter.com/andreuibanez"}
         - {name: "google-plus", link: "https://plus.google.com/113812464225961962994"}
@@ -226,6 +250,8 @@
     bio: "Oleh is a Java developer and Google Developers Group Lviv manager. Besides that he is interested in web development, design and community management."
     thumbnailUrl: oleh.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Lviv", url: "https://developers.google.com/groups/"}
     social:
         - {name: "google-plus", link: "https://www.google.com/+OlehZasadnyy"}
         - {name: "github", link: "https://github.com/ozasadnyy"}
@@ -321,6 +347,8 @@
     bio: "Mateusz works as an Android Engineer at Base CRM where he uses his android-abracadabras to make enterprise software users 10 times more productive. Apart from that he's a Google Developer Expert for Android and a GDG Kraków co-organizer."
     thumbnailUrl: mateusz.png
     rockstar: true
+    ribbon:
+      - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     social:
 -
     id: 28
@@ -335,11 +363,15 @@
     id: 29
     name: "Barış"
     surname: "Yesugey"
+    company: "Google"
     title: "Developer Relations"
-    bio: ""
-    thumbnailUrl:
+    bio: "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on developers.google.com<br><br>I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies.<br><br>By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region."
+    thumbnailUrl: BarisYesugey.jpg
     rockstar: false
-    social:
+    ribbon:
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
+    social: 
+      - {name: "linkedin", link: "https://tr.linkedin.com/in/barisyesugey"}
 -
     id: 30
     name: "Alperen"
@@ -366,6 +398,8 @@
     bio: "Mobile developer, Google Developers Group and Gamedev Community Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management. Used to work for enterprise giants like as well as for product companies and startups. Nowadays leading Unity 3D development at GetSocial. TEDx speaker."
     thumbnailUrl: vitalik.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Lviv", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 33
@@ -384,6 +418,8 @@
     bio: "I've been working in mobile team that develops a mobile SDK for GENBAND SPiDR WebRTC Gateway using iOS, Android and Google WebRTC library as developer and Scrum Master . I am an active member of GDG İstanbul and WomenTechMakers İstanbul communities. I love to organize and attend developer events, share knowledge and collaborate with the other people who interest new technologies, develop new ideas. I'm a big fan of Agile Methodologies, specially Scrum. I got CSM from Scrum Alliance in 2014. Now I'm trying to apply all the Scrum principles correctly in my team at Netaş, also trying to help the other design teams by attending daily standup meetings and inviting people to own scrum to present Scrum in action. I love to attend and follow technology events,conferences as attendance or speaker. DevFest Women ’14 - Istanbul, Unit Testing on Mobile Applications What is unit testing, why and how to test our code, what is most known tools/libraries for UT on iOS and Android. Mobile Days ‘14 - Ankara, Game Development via Sprite Kit What is Sprite Kit and how to develops game applications via new Apple game engine Sprite Kit I'm also trying sharing my experiences or technical post in my personal web site."
     thumbnailUrl: busra.png
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Istanbul", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 35
@@ -393,6 +429,8 @@
     bio: "He is a research assistant at Duzce University. He earned his master’s degree in Computer Engineering from Pamukkale University. He has been an android developer for three years and a member of GDG Duzce."
     thumbnailUrl: huseyin.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Düzce", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 36
@@ -413,6 +451,15 @@
     rockstar: true
     social:
 -
+    id: 39
+    name: "Semih"
+    surname: "Yağcıoğlu"
+    title: "Senior Software Engineer"
+    bio: "Semih is a software developer. He likes to solve problems and get things done. He is a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision and works at MITS on mobile and web."
+    thumbnailUrl: semih.jpg
+    rockstar: true
+    social:
+-
     id: 38
     name: "Kaan"
     surname: "Mamikoglu"
@@ -420,14 +467,16 @@
     bio: "I am currently a mobile developer at mobiwise and a senior in Computer Engineering major at the Anadolu University. I have developed or helped to develop some apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am also co-organizer of the Google Developer Group (GDG) Eskişehir."
     thumbnailUrl: kaan.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
 -
-    id: 39
-    name: "Semih"
-    surname: "Yağcıoğlu"
-    title: "Senior Software Engineer"
-    bio: "Semih is a software developer. He likes to solve problems and get things done. He is a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision and works at MITS on mobile and web."
-    thumbnailUrl: semih.jpg
+    id: 52
+    name: "Aygul"
+    surname: "Zagidullina"
+    title: "Head of Community Management & Support"
+    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
+    thumbnailUrl: aygul.jpg
     rockstar: true
     social:
 -
@@ -438,6 +487,8 @@
     bio: "Currently developing mobile applications for Android and creating awesome stuffs for Mobiwise. He also loves blogging"
     thumbnailUrl: muratcan.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 41
@@ -474,6 +525,8 @@
     bio: "Mert works on Android since 2011 and he loves it. He is one of the older members of GDG Ankara(Google Developer Groups) He arranged lots of seminars, workshops etc. and had been speaker at them also. He co-founded 4pps with his 3 other friends in 2014. Mert is CEO and Mobile(especially iOS) developer at 4pps but he still loves to speak about Android and other technology stuff."
     thumbnailUrl: orhunmert.png
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 45
@@ -528,6 +581,8 @@
     bio: "Born in Ankara in 1980. After graduating from Hacettepe University Hidrogeological Engineering in 2003, starting with geographical information systems (GIS) development, his software development career is going on with both desktop and web based systems development. Nowadays, with his own company SOFNOD, he manages projects for GIS, web based systems and mobile systems. His interests are information systems, big data, statistical analysis, intelligent systems and IOT. He has been a member of GDG Ankara since 2013."
     thumbnailUrl: kerem.png
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 51
@@ -537,19 +592,12 @@
     bio: "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. "
     thumbnailUrl: burcu.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
         - {name: "twitter", link: "https://twitter.com/btrkmn"}
         - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
         - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
--
-    id: 52
-    name: "Aygul"
-    surname: "Zagidullina"
-    title: "Head of Community Management & Support"
-    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
-    thumbnailUrl: aygul.jpg
-    rockstar: true
-    social:
 -
     id: 53
     name: "Mehmet Sedat"
@@ -558,6 +606,8 @@
     bio: "I have started to mobile developing by GDG Ankara. At the beginning, I was interested in for some curious or fun, now I feel myself as a front-end developer. After graduation from Hacettepe University Computer Engineering, me and my friends have founded the 4PPS company and for a last year we try to make mobile solutions for problems we met."
     thumbnailUrl: sedatkurt.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Ankara", url: "https://developers.google.com/groups/"}
     social:
 -
     id: 54
@@ -567,4 +617,6 @@
     bio: "I was born in 1992, I'm in senior class at Computer Engineering in Dumlupinar University. I'm one of the organizer of Gdg Kütahya. I enjoy to be interested in software and learn something new. I'm working on Android and java to develop myself and create new apps or anything else."
     thumbnailUrl: huseyinkaragoz.jpg
     rockstar: true
+    ribbon:
+      - {abbr: "GDG", title: "Google Developer Group Kütahya", url: "https://developers.google.com/groups/"}
     social:
