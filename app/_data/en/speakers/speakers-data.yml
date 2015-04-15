@@ -413,6 +413,15 @@
     rockstar: true
     social:
 -
+    id: 39
+    name: "Semih"
+    surname: "Yağcıoğlu"
+    title: "Senior Software Engineer"
+    bio: "Semih is a software developer. He likes to solve problems and get things done. He is a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision and works at MITS on mobile and web."
+    thumbnailUrl: semih.jpg
+    rockstar: true
+    social:
+-
     id: 38
     name: "Kaan"
     surname: "Mamikoglu"
@@ -422,12 +431,12 @@
     rockstar: true
     social:
 -
-    id: 39
-    name: "Semih"
-    surname: "Yağcıoğlu"
-    title: "Senior Software Engineer"
-    bio: "Semih is a software developer. He likes to solve problems and get things done. He is a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision and works at MITS on mobile and web."
-    thumbnailUrl: semih.jpg
+    id: 52
+    name: "Aygul"
+    surname: "Zagidullina"
+    title: "Head of Community Management & Support"
+    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
+    thumbnailUrl: aygul.jpg
     rockstar: true
     social:
 -
@@ -541,15 +550,6 @@
         - {name: "twitter", link: "https://twitter.com/btrkmn"}
         - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
         - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
--
-    id: 52
-    name: "Aygul"
-    surname: "Zagidullina"
-    title: "Head of Community Management & Support"
-    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
-    thumbnailUrl: aygul.jpg
-    rockstar: true
-    social:
 -
     id: 53
     name: "Mehmet Sedat"

@@ -413,6 +413,15 @@
     rockstar: true
     social:
 -
+    id: 39
+    name: "Semih"
+    surname: "Yağcıoğlu"
+    title: "Uzman Yazılım Mühendisi"
+    bio: "Semih, bir yazılım geliştiricidir. Sorunları çözmeyi ve işleri halletmeyi sever. Hacettepe Bilgisayar Bilimleri’nde Bilgisayarlı Görü üzerine doktora çalışmalarına devam eden Semih, aynı zamanda MITS’te mobil ve web üzerine çalışmaktadır."
+    thumbnailUrl: semih.jpg
+    rockstar: true
+    social:
+-
     id: 38
     name: "Kaan"
     surname: "Mamikoglu"
@@ -422,12 +431,12 @@
     rockstar: true
     social:
 -
-    id: 39
-    name: "Semih"
-    surname: "Yağcıoğlu"
-    title: "Uzman Yazılım Mühendisi"
-    bio: "Semih, bir yazılım geliştiricidir. Sorunları çözmeyi ve işleri halletmeyi sever. Hacettepe Bilgisayar Bilimleri’nde Bilgisayarlı Görü üzerine doktora çalışmalarına devam eden Semih, aynı zamanda MITS’te mobil ve web üzerine çalışmaktadır."
-    thumbnailUrl: semih.jpg
+    id: 52
+    name: "Aygul"
+    surname: "Zagidullina"
+    title: "Topluluk Yönetimi ve Destek Lideri"
+    bio: "Dünyamızı teknoloji ve bilim aracılığıyla daha iyi bir hale getirmek kesinlikle en büyük tutkum. Almanya’da ve Rusya’da yer alan iki Google Geliştirici Grubu’nun topluluk yöneticisi, Google En Çok Katkıda Bulunanı, küresel Women Techmakers topluluğunun aktif bir üyesi, çevirmen, kuantum kimyacısı, klasik eğitimli müzisyen olmamın yanı sıra kitlesel açık çevrimiçi kurs ve vatandaş bilimi meraklısıyım. Çalışmadığım ve topluluğa katkı sağlamadığım zamanlarda gezmekten, spor yapmaktan, yeni diller öğrenmekten ve iyi müzik dinlemekten keyif alırım."
+    thumbnailUrl: aygul.jpg
     rockstar: true
     social:
 -
@@ -541,15 +550,6 @@
         - {name: "twitter", link: "https://twitter.com/btrkmn"}
         - {name: "facebook", link: "https://www.facebook.com/btrkmn"}
         - {name: "linkedin", link: "http://tr.linkedin.com/in/btrkmn"}
--
-    id: 52
-    name: "Aygul"
-    surname: "Zagidullina"
-    title: "Topluluk Yönetimi ve Destek Lideri"
-    bio: "Dünyamızı teknoloji ve bilim aracılığıyla daha iyi bir hale getirmek kesinlikle en büyük tutkum. Almanya’da ve Rusya’da yer alan iki Google Geliştirici Grubu’nun topluluk yöneticisi, Google En Çok Katkıda Bulunanı, küresel Women Techmakers topluluğunun aktif bir üyesi, çevirmen, kuantum kimyacısı, klasik eğitimli müzisyen olmamın yanı sıra kitlesel açık çevrimiçi kurs ve vatandaş bilimi meraklısıyım. Çalışmadığım ve topluluğa katkı sağlamadığım zamanlarda gezmekten, spor yapmaktan, yeni diller öğrenmekten ve iyi müzik dinlemekten keyif alırım."
-    thumbnailUrl: aygul.jpg
-    rockstar: true
-    social:
 -
     id: 53
     name: "Mehmet Sedat"
