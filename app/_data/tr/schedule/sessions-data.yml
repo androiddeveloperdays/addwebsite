@@ -35,7 +35,7 @@
 -
     id: 103
     title: "Android Test Yenilikleri"
-    description: "Gradle'daki Unit Test desteği, yeni Android Test Support kütüphanesi, Espresso 2.1, JUnit4 ...2015'te herkes test hakkında konuşuyor! Yenilikleri ve Google gelenleri gözden geçireceğiz.Mutlu testler!"
+    description: "Gradle'daki Unit Test desteği, yeni Android Test Support kütüphanesi, Espresso 2.1, JUnit4 ... 2015'te herkes test hakkında konuşuyor! Yenilikleri ve Google'dan gelenleri gözden geçireceğiz. Mutlu testler!"
     subtype: presentation
     speakers: [3]
     language: en
@@ -43,7 +43,7 @@
 -
     id: 104
     title: "Neden Java EE Bir Topluluğa ve Açık Kaynağa İhtiyaç Duyar?"
-    description: "Daha önce hiç endüstri standardı olan Java EE ‘nin gerçekte ne anlama geldiğini araştırmışmıydınız? Gerçek şu ki , gerçekten çok az sayıda insan Java ve Java EE’nin nasıl yönetildiğini, uzun ve kısa dönemde kendi profesyonel hayatlarına  nasıl  yansınıdığını  biliyor. Bu bölümde seyircilere Java ve Java  EE gibi açık standartları ve bunların nasıl yönetildiğinin tanıtımı hedeflenecektir.Ayrıca  açık standartın gerçekten ne anlama geldiği ve bunlara neden ve nasıl katıkıda bulunmanız gerektiği tartışılacaktır."
+    description: "Daha önce hiç endüstri standardı olan Java EE ‘nin gerçekte ne anlama geldiğini araştırmış mıydınız? Gerçek şu ki, gerçekten çok az sayıda insan Java ve Java EE’nin nasıl yönetildiğini, uzun ve kısa dönemde kendi profesyonel hayatlarına nasıl yansınıdığını biliyor. Bu oturumun hedefi seyircilere Java ve Java EE gibi açık standartları ve bunların nasıl yönetildiğini anlatmaktır. Ayrıca açık standartın gerçekten ne anlama geldiği ve bunlara neden ve nasıl katıkıda bulunmanız gerektiği tartışılacaktır."
     subtype: presentation
     speakers: [8]
     language: en
@@ -51,7 +51,7 @@
 -
     id: 105
     title: "Google AdMob ile Uygulamanızı Analiz  Edin,Tanıtın ve Gelir Elde Edin"
-    description: "AdMob kullanarak nasıl iyi bir uygulama işi geliştirir ve para kazanırsınız? Mobil uygulamalardan gelir elde etmeye genel bir bakış:Geliştir,Dağıt,Gelir Elde Et. Büyüyen ve kaliteli bir gelir etme. Kullanıcıları Google Analytics ile analiz etme ve fırsatları değerlendirme. Google Mobil Reklamların sunduğu son fırsatlar ve dengeleme. "
+    description: "AdMob kullanarak nasıl iyi bir uygulama işi geliştirir ve para kazanırsınız? Mobil uygulamalardan gelir elde etmeye genel bir bakış:Geliştir,Dağıt,Gelir Elde Et. Büyüyen ve kaliteli bir gelir etme. Kullanıcıları Google Analytics ile analiz etme ve fırsatları değerlendirme. Google Mobil Reklamların sunduğu son fırsatlar ve dengeleme."
     subtype: presentation
     speakers: [2]
     language: tr
@@ -59,7 +59,7 @@
 -
     id: 106
     title: "Mobil Güvenlik: Şifrelere Ölüm"
-    description: "Kullanıcı doğrulaması mobil ve web uygulamalarında çok yaygındır. Temel bir kullanıcı doğrulama geliştirmek geliştiriciler için kolay bir işlemdir fakat bir çok problemle birlikte gelmektedir. Kullanıcı deneyimini bozan tekrar şifre girmelek, benzersiz bir şifre oluşturmak veya kişisel bilgilerin girilerek yeni hesap oluşturmak gibi işlemler gerektirebilir. Bu sunumda güvenlik açıkları ve şifrelerin UX etkileri tartışılacaktır ve Tim daha kullanıcı dostu bir akış yaratabilmek için farklı neler var belirtecektir. OAuth,OpenID Connect ve hatta donanımsal tekniklerden Bluetooth Low Energy hakkında bilgi verilecektir. Kullanıcı hesaplarının oluşturulması ve kayıt edilmesi gibi konuları önemseyen kişiler için bu konuşma ilgi çekici olacaktır."
+    description: "Kullanıcı doğrulaması mobil ve web uygulamalarında çok yaygındır. Temel bir kullanıcı doğrulama geliştirmek geliştiriciler için kolay bir işlemdir fakat bir çok problemle birlikte gelmektedir. Fakat bu kolay kullanım, (tekrar) şifre girme, yeni bir şifre oluşturmayla uğraşma veya yeni bir hesap oluştururken kişisel bilgilerin tuhaf bir klavye ile girilmeye çalışmak gibi kullanıcı deneyimini kötü etkileyen durumlar oluşturmaktadır.\nBu sunumda güvenlik açıkları ve şifrelerin UX etkileri tartışılacaktır ve Tim daha kullanıcı dostu bir akış yaratabilmek için farklı yöntemlerden bahsedecektir. OAuth, OpenID Connect ve hatta Bluetooth Low Energy gibi donanımsal tekniklerin açıklandığı bu konuşma, kullanıcı hesaplarının oluşturulması ve kayıt edilmesi gibi konuları önemseyen kişiler için ilgi çekici olacaktır."
     subtype: presentation
     speakers: [5]
     language: en
@@ -67,7 +67,7 @@
 -
     id: 107
     title: "CyanogenMod Çalıştayı - Kendi Android İşletim Sisteminizi Derleyin"
-    description: "Kendi başınıza tecrübeniz olmasa bile CyanogenMod tabanlı Android işletim sisteminizi derleyin. Android Lollipop versiyonunu HTC,Sony,LG gibi bir çok cihaza uygun derlemenizi sağlayacak işlemler adım adım anlatılacaktır. Geliştirme ortamının hazırlanması, Android kaynak kodu ile senkronize olunması,Android derleme sistemine genel bakış ve işletim sistemini kendinizin nasıl derleyeceği gibi konuları öğrenceksiniz. Tek ihtiyacınız olan SSH destekli laptopunuzu ve heyecanınızı getirmeniz!"
+    description: "CyanogenMod tabanlı Android işletim sisteminizi derlemeyi öğrenin. Herhangi bir deneyim gerekmiyor. Android Lollipop versiyonunu HTC, Sony, LG gibi bir çok popüler cihaza uygun derlemenizi sağlayacak işlemler adım adım anlatılacaktır. Geliştirme ortamının hazırlanması, Android kaynak kodu ile senkronize olunması, Android derleme sistemine genel bakış ve işletim sistemini kendinizin nasıl derleyeceği gibi konuları öğrenceksiniz. Tek ihtiyacınız olan SSH destekli bir laptopunuzu ve heyecan getirmek!"
     subtype: workshop
     speakers: [6]
     language: en
@@ -75,7 +75,7 @@
 -
     id: 108
     title: "Android için BLE Geliştirmeye Giriş"
-    description: "Giyilebilir teknolojilerde, Bluetooth Low Energy özelliğini taşıyan tüm ürünler BLE olarak adlandırılmaktadır.  Android Wear, FitBit,Runtastic gibi giyilebilir teknolojilerin bir kısmı gerçekten  ilgi çekicidir. Bu fitness cihazları izleyici cihazlarla data ölçmektedir ve daha sonra BLE ile taşınabilir cihazlarla haberleşmektedir. Beaconlarda BLE kullanan teknolojiler arasındadır, bu nedenle BLE hakkında bilgi sahibi olmak gereklidir.                                                             Bu sunumda BLE terimleri, API gereçlerini, BLE cihazlara bağlanmayı, kolaylık ve zorluklarını,ve Android cihazlarla muhtemel kullanım alanlarını ve daha bir çok şeyi anlatacağım."
+    description: "En son giyilebilir teknoloji ürünleri BLE olarak da adlandırılan Bluetooth Low Energy özelliği taşımaktadır. Android Wear, FitBit, Runtastic gibi giyilebilir teknoloji ürünlerinin bazıları gerçekten ilgi çekici işler yapmaktadır. Bu fitness cihazları izleyici cihazlarla data ölçmektedir ve daha sonra BLE ile taşınabilir cihazlarla haberleşmektedir. Beacon ise BLE kullanan bir başka havalı teknolojidir. Bu nedenle BLE hakkında bilgi sahibi olmak gereklidir.\nBu sunumda BLE API'lerinde kullanılan terimleri, BLE cihazlara bağlanmayı, problemleri/zorlukları, imkanları ve Android cihazlarla muhtemel kullanım alanlarını ve daha bir çok şeyi anlatacağım."
     subtype: presentation
     speakers: [14]
     language: en
@@ -83,7 +83,7 @@
 -
     id: 109
     title: "Android Araçları İncelemeleri"
-    description: "Android'deki performans ve kararlılık sorunları işlenecektir. Daha sonra yeni cihaz monitörünün sunduğu battery historian,traceView DDMS ve dumpsys gibi test ve analiz araçlarının üzerinden geçilecektir ve canlı bir demo yapılacaktır. Son olarak uygulamanızdaki kararlılık ve performansı artıracak bazı ipuçları ve tavsiyeler verilecektir."
+    description: "Bu sunumda Android'deki çokça yaşanan performans ve kararlılık sorunları işlenecektir. Daha sonra yeni cihaz monitörünün sunduğu battery historian, traceView, DDMS ve dumpsys gibi test ve analiz araçlarının üzerinden geçilecektir. Daha sonra demo bir uygulama ile canlı bir demo yapılacaktır. Son olarak uygulamanızdaki kararlılık ve performansı artıracak bazı ipuçları ve tavsiyeler verilecektir."
     subtype: presentation
     speakers: [1]
     language: en
@@ -106,8 +106,8 @@
     complexity: "Beginner"
 -
     id: 112
-    title: "Android'de Verimli Sync"
-    description: "Kullanıcılar emaillerine, kontaklarına ve notlarına her durumda, çevrimdışı olsalar bile erişmek istiyorlar. Ayrıca tüm bilgilerinin diğer tüm cihazlarına da senkronize olmasını istiyorlar. Bütün bunların da network ve batarya açısından verimli olması gerekiyor. Base uygulamasını geliştirirken Mateusz ve takım arkadaşları bu problemler ile karşılaştı. Oturum sırasında bu konular ile ilgili savaş meydanından direk olarak tavsiyeler verilecektir."
+    title: "Android'de Verimli Senkronizasyon"
+    description: "Kullanıcılar epostalarına, rehberine ve notlarına her durumda, çevrimdışı olsalar bile erişmek istiyorlar. Ayrıca tüm bilgilerinin diğer tüm cihazlarına da senkronize olmasını istiyorlar. Anında. Açıkçası bütün bunların da network ve batarya açısından verimli olması gerekiyor. Base uygulamasını geliştirirken Mateusz ve takım arkadaşları bu problemler ile karşılaştı. Oturum sırasında savaş meydanından direk olarak tavsiyeler verilecektir."
     subtype: presentation
     speakers: [27]
     language: en
@@ -115,7 +115,7 @@
 -
     id: 113
     title: "Google'dan  Fiziksel Web"
-    description: "Fiziksel Web, webin gücünü ortaya çıkaracak bir yaklaşımdır, istek durumunda etkileşim. İnsanlar herhangi bir akıllı cihaza gidecek-bir otobüs durağı, bir kahve makinesi,bir poster,bir oyuncak veya bir kiralık arabaya ve ilk başta bir uygulama indirmek zorunda olmayacak. Herşey bir tıklama uzakta olacak. Bu sunumda katılımcılara IOT temelleri anlatılacaktır. Fiziksel Web, Google'ın IOT'deki akıllı nesnelere önerdiği yaklaşımdır. PW beaconları ile bir canlı demo da yapılacaktır. "
+    description: "Fiziksel Web, webin öz süpergücünü (anlık etkileşim) ortaya çıkaracak bir yaklaşımdır. İnsanlar herhangi bir akıllı cihaza gidebilmeli - bir otobüs durağı, bir kahve makinesi, bir poster, bir oyuncak veya bir kiralık arabaya - ve bir uygulama indirmek zorunda olmamalıdır. Herşey sadece bir tıklama kolaylığında olmalı. Bu sunumda katılımcılara Internet of Things temelleri ve birkaç etkileyici istatistik anlatılacaktır. Fiziksel Web, Google'ın Internet of Things'deki akıllı nesnelere önerdiği yaklaşımdır. PW beaconları ile bir canlı demo da yapılacaktır."
     subtype: presentation
     speakers: [16]
     language: en
@@ -131,15 +131,15 @@
 -
     id: 115
     title: "Temiz Kod"
-    description: "Bu oturumun konusu anlaşılabilir ve odaklanmış kodun nasıl yazılabileceğidir.Karşı örnekler ve onların rehabilite edilmiş versiyoları ile kirli ve temiz kod açıklanacaktır.Bütün kod örnekleri Java da olacaktır."
+    description: "Bu oturumun konusu anlaşılabilir ve odaklanmış kodun nasıl yazılabileceğidir. Karşı örnekler ve onların düzeltilmiş versiyoları ile kirli ve temiz kodlar açıklanacaktır. Bütün kod örnekleri Java ile olacaktır."
     subtype: presentation
     speakers: [21]
     language: tr
     complexity: "Beginner"
 -
     id: 116
-    title: "Markete Giden Yolda Mobil Güvenliği Önemsemek"
-    description: "Android giderek ihtiyacı artan bir toplumda özellik bakımından zengin uygulamalar geliştirmek için tasarlandı. Uygulamalar hızla markete giderken güvenlik önlemleri önem kazandı. Hewlett-Packard'ın yaptığı mobil güvenlik ile ilgili çalışmaları da baz alarak, bu konuşmada mobil güvenlik hatalarından bahsedilecek ve mobil geliştirme sürecinde güvenlik nasıl sağlanabilir bahsedilecektir."
+    title: "Pazara Açılma Dünyasında Mobil Güvenliği Önemsemek"
+    description: "Android giderek daha da talepkar olan mobil insanlar için zengin uygulamalar geliştirmek için tasarlandı. Uygulamalar hızlıca markete koyulurken, Android platformunun getirdiği güç ve esneklik yüzünden aslında gerekli olan güvenlik önlemlerine göz yumuluyor. Hewlett-Packard'ın yaptığı azımsanamayacak mobil güvenlik ile ilgili çalışmaları da baz alarak, bu konuşmada mobil güvenlik hatalarından bahsedilecek ve mobil geliştirme sürecinde güvenlik nasıl sağlanabilir bahsedilecektir."
     subtype: presentation
     speakers: [28]
     language: en
@@ -155,7 +155,7 @@
 -
     id: 118
     title: "VR Teknolojileri"
-    description: "Son zamanlarda oyun endüstrisinde sanal gerçeklik oldkça popüler bir hale geldi. Aynı zamanda pazarlamada da güçlü bir araç halini aldı. Sanal gerçeklik, son yıllarda ortaya çıkmasına ragmen nasıl bu kadar hızlı popüler oldu.  Sanal gerçeklik donanımlarını son kullanıcıya bu kadar ucuz bir şekilde sağlanabilmesini sağlayan teknoloji gelişim nedir? Bu teknolojinin altında yatan nedir? Çözülmesi gereken zorluklar nelerdir? Pazarlama aracı olarak nasıl kullanıldı? Geleceke ne bekliyoruz? Bu soruların bir kısmının cevabını Sanal Gerçeklik Teknolojisi oturumunda bulabilirsiniz. Geliştiriciler için  SDK ve detaylı açıklamaları bulabilirsiniz."
+    description: "Son zamanlarda oyun endüstrisinde sanal gerçeklik oldukça popüler bir hale geldi. Aynı zamanda pazarlamada da güçlü bir araç halini aldı. Sanal gerçeklik, son yıllarda ortaya çıkmasına rağmen nasıl bu kadar hızlı popüler oldu. Sanal gerçeklik donanımlarını son kullanıcıya bu kadar ucuz bir şekilde sağlanabilmesini sağlayan teknolojik gelişim nedir? Bu teknolojinin altında yatan nedir? Çözülmesi gereken zorluklar nelerdir? Pazarlama aracı olarak nasıl kullanıldı? Gelecekte ne bekliyoruz? Bu soruların bir kısmının cevabını Sanal Gerçeklik Teknolojisi oturumunda bulabilirsiniz. Geliştiriciler için SDK ve donanımlar hakkında detaylı açıklamalar verilecektir."
     subtype: presentation
     speakers: [25]
     language: en
@@ -163,7 +163,7 @@
 -
     id: 119
     title: "4 Milyon Unity Geliştiricisine Android Kütüphanen ile Ulaş"
-    description: "%45 pazar payı ile Unity dünyadaki en popüler oyun motoru. Asset Store'da zengin C# ve JavaScript API'lerinin ön plana çıktığı, çok sayıda assetler ve kütüphaneler bulunuyor. Asset Store, assetleri paylaşabildiğiniz veya satış yapabildiğiniz açık bir platform. Konuşma sırasında neden kendi Android kütüphenenize veya Unity geliştiricilerine açık SDK' ya sahip olmanızın tam zamanı olduğunu tartışacağız. Unity API, JNI ve biraz sihir kullanarak C# ile nasıl kullanırsınız. Taşırken karşılaşabileceğiniz problemler. Ve son olarak ama en önemlisi yaptığınız işi Unity Asset Store' da nasıl yayınlarsınız."
+    description: "%45 pazar payı ile Unity dünyadaki en popüler oyun motoru. Asset Store'da zengin C# ve JavaScript API'lerinin ön plana çıktığı, çok sayıda assetler ve kütüphaneler bulunuyor. Asset Store, assetleri paylaşabildiğiniz veya satış yapabildiğiniz açık bir platform.\nKonuşma sırasında neden kendi Android kütüphenenize veya Unity geliştiricilerine açık SDK' ya sahip olmanızın tam zamanı olduğunu tartışacağız. Unity API, JNI ve biraz sihir kullanarak C# ile nasıl kullanırsınız. Uygulamanızı port ederken karşılaşabileceğiniz problemler. Ve son olarak yaptığınız işi Unity Asset Store' da nasıl yayınlayacağınızı konuşayacağız."
     subtype: presentation
     speakers: [32]
     language: en
@@ -195,7 +195,7 @@
 -
     id: 123
     title: "Android NDK"
-    description: "asm/C/C++ kodunu Android uygulamaları ve kütüphaneleri ile entegre etmekte kullanılmaktadır. Android Studio ile NDK tabanlı kütüphaneleri nasıl kullanacağınızı öğrenin. Yeni Android Runtime (ART) daki hangi değişikliklerin entegrayonunuzu bozabileceğini ve 64-bit mimarilerin avantajlarınından yararlanmak için ne yapmak gerektiğini keşfedin. "
+    description: "asm/C/C++ kodunu Android uygulamaları ve kütüphaneleri ile entegre etmekte kullanılmaktadır. Android Studio ile NDK tabanlı kütüphaneleri nasıl kullanacağınızı öğrenin. Yeni Android Runtime (ART) daki hangi değişikliklerin entegrasyonunuzu bozabileceğini ve 64-bit mimarilerin avantajlarınından yararlanmak için ne yapmak gerektiğini keşfedin."
     subtype: presentation
     speakers: [4]
     language: en
@@ -203,7 +203,7 @@
 -
     id: 124
     title: "Uygulamanıza Fitness Dokunuşu Ekleyin"
-    description: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları,cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı. Bu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
+    description: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları, cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı.\nBu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
     subtype: presentation
     speakers: [0]
     language: en
@@ -211,7 +211,7 @@
 -
     id: 125
     title: "Daha İyi Bir (U)Xperience Tasarlayın"
-    description: "İyi tasarlanmış bir Android uygulaması yapmak artık yeterli değil. Yapılan tasarım yeni, heyecan verici ve eşşiz olmalıdır. Bu konuşma, iyi bir tasarımın nasıl müthiş bir hale dönüştürüleceğini gösterecektir. Tasarım becerilerinizi nasıl geliştireceğinize dair noktalar ve ipuçları verilecektir."
+    description: "İyi tasarlanmış bir Android uygulaması yapmak artık yeterli değil. Yapılan tasarım yeni, heyecan verici ve eşşiz olmalıdır.\nBu konuşma, iyi bir tasarımın nasıl müthiş bir hale dönüştürüleceğini gösterecektir. Tasarım becerilerinizi nasıl geliştireceğinize dair noktalar ve ipuçları verilecektir."
     subtype: presentation
     speakers: [7]
     language: en
@@ -219,15 +219,15 @@
 -
     id: 126
     title: "Etkili Android"
-    description: "Yazilim prensiplerini ve en iyi pratikleri hakkinda bilgilendirmek ve bunlari android gelistirme sirasinda kullanmak. Bu konusma calisma sirasinda karsilastigimiz problemler ve bu problemlerin cozumu icin kullandigimiz en iyi pratikleri ve yazilim prensiplerini gostermeyi hedefliyor."
+    description: "Yazilim prensiplerini ve en iyi pratikleri hakkinda bilgilendirmek ve bunlari Android gelistirme sirasinda kullanmak. Bu konusma kendi calışmalarımız sirasinda karsilastigimiz problemler ve bu problemlerin cozumu icin kullandigimiz en iyi pratikleri ve yazilim prensiplerini gostermeyi hedefliyor."
     subtype: presentation
     speakers: [11]
     language: tr
     complexity: "Beginner"
 -
     id: 127
-    title: "Beanleri Bağlama: Android'deki Bluetooth Low Energy Kasisli Yolu"
-    description: "Akıllı ve az enerjili cihazları BLE kullanarak bağlamak kolay görünüyor, cihazlar ve API'lar Android 4.3'den beri mevcut. Ama bunları kullanmaya başladığınızda garip,dokümante edilmemiş ve bazen süprizlerle dolu detaylar ile karşılaşacaksınız. Bu sunumda LightBlue Bean resmi olmayan SDK'sını derlerken öğrenilenler ve  tecrübeler ile Android BLE ve detaylarından bahsedilecektir. Bu sunumda BLE'nin ne olduğu, önemli API'lar ve bu API'ler ile ilgili önemli noktalar ve ipuçları paylaşılacaktır."
+    title: "Bean'leri Bağlama: Android'deki Bluetooth Low Energy Kasisli Yolu"
+    description: "Akıllı ve az enerjili cihazları BLE kullanarak bağlamak kolay görünüyor, cihazlar ve API'lar Android 4.3'den beri mevcut. Ama bunları kullanmaya başladığınızda garip, dokümante edilmemiş ve bazen süprizlerle dolu detaylar ile karşılaşacaksınız. Bu sunumda LightBlue Bean resmi olmayan SDK'sını derlerken öğrenilenler ve  tecrübeler ile Android BLE ve detaylarından bahsedilecektir.\nBu sunumda BLE'nin ne olduğu, önemli API'lar ve bu API'ler ile ilgili önemli noktalar ve ipuçları paylaşılacaktır."
     subtype: presentation
     speakers: [12]
     language: en
@@ -243,7 +243,7 @@
 -
     id: 129
     title: "Akıllı Bir Şekilde Startup Olun"
-    description: "Kendi startupınızı oluşturmak inanılmaz bir yolculuktur. Turhan Oz bu sunumda en az israf ve sürekli geliştirme ile bu alanda kat ettiği gelişmeleri paylaşacaktır.  Bu sunum akıllı ilerlemeler ile başarının gerçekleşmesinin muhtemel olduğunu anlamanızı sağlayacak bir davetiyedir. "
+    description: "Kendi startupınızı oluşturmak inanılmaz bir yolculuktur. Turhan Oz bu sunumda en az israf ve sürekli geliştirme ile bu alanda kat ettiği gelişmeleri paylaşacaktır.  Bu sunum akıllı ilerlemeler ile başarının gerçekleşmesinin muhtemel olduğunu anlamanızı sağlayacak bir davetiyedir."
     subtype: presentation
     speakers: [18]
     language: en
@@ -251,15 +251,15 @@
 -
     id: 130
     title: "Uygulama Görünürlüğü Kazanmak"
-    description: "Uzun süreler harcayarak kullanıcıların iyi bir deneyim ile cihazlarından içeriiğinize erişmesini sağladınız, peki ya kullanıcılar bu harika uygulamanızı keşfedemez  ve yükelemez ise? Bu sunumda uygulama geliştiricilere uygulamalarının görünür olmasını sağlayacak son trendler ve deneysel sonuçlar tartışılacaktır."
+    description: "Uzun süreler harcayarak kullanıcıların iyi bir deneyim ile cihazlarından içeriğinize erişmesini sağladınız bir uygulama yazdınız. Peki ya hedeflediğiniz kullanıcılar bu harika uygulamanızı keşfedemezse? Bu sunumda uygulama geliştiricilere uygulamalarının daha görünür olmasını sağlayacak son trendler ve deneysel sonuçlar tartışılacaktır."
     subtype: presentation
     speakers: [10]
     language: en
     complexity: "Beginner"
 -
     id: 131
-    title: "Maddesel Tüm Dünya"
-    description: "Bu oturum size Lolliopa geçişimiz hakkında bilgi verecektir. Uygulama sadece Lollipop versiyonlarına uyumlu olmamalıdır,geriye dönük de uyumlu olmalıdır. Bu sunumda uyumluluk kütüphanesinin nasıl kullanılacağı, RecyclerView ve CardView  gibi konulardan bahsedilecektir. Aynı zamanda farklı API seviyelerinde aynı görüntü ve deneyimi sağlayacak bazı teknik ve deneyimlerden de bahsedilecektir. Bu konuşma animasyonlar ve Material tasarımın büyük bir kısmı ile ilgili değildir. Bu sunum bir uygulaması olup da geriye dönük uyumluluk kazandırmak isteyen geliştiricileri hedeflemektedir."
+    title: "Tüm Dünyayı Material Yap"
+    description: "Bu oturum bizim Lollipop'a geçişimiz hakkında bilgi verecektir. Uygulama sadece Lollipop versiyonlarına uyumlu olmamalıdır, geriye dönük de uyumlu olmalıdır. Bu sunumda support kütüphanesinin yanında RecyclerView ve CardView nasıl kullanılacağından bahsedilecektir. Aynı zamanda farklı API seviyelerinde aynı görüntü ve deneyimi sağlamak için uyguladığımız bazı teknik ve çözümlerden de bahsedilecektir. Bu konuşmada Material tasarımın büyük bir kısmını oluşturan animasyonlardan bahsedilmeyecek. Bu sunum zaten bir uygulaması olup da geriye dönük uyumluluk kazandırara Material tasarım yapmak isteyen geliştiricileri hedeflemektedir."
     subtype: presentation
     speakers: [13]
     language: en
@@ -274,8 +274,8 @@
     complexity: "Beginner"
 -
     id: 133
-    title: "Android Durum Restorasyonlarına Derin Dalış"
-    description: "Bir uygulama öldürülmeden veya konfigürasyon değişikliğine gitmeden önceki son durumuna nasıl dönebildiğini ve Android'in son durumu nasıl kayıt öğreneceksiniz. Bu konuşmada Parcelable ve Parcel objelerine ve Android'in bunları kayıt ederek son kullanıcı arayüzü durumuna nasıl döndüğü gibi konulara odaklanılacaktır."
+    title: "Android State Restoration'a Derin Dalış"
+    description: "Bir uygulama düşük hafıza veya konfigürasyon değişikliği nedeniyle kapatıldığında tam olarak son kaldığı duruma dönebilmesi için Android'in uygulamanın son halini nasıl kayıt ettiğini öğrenin. Bu konuşmada Parcelable ve Parcel objelerine ve Android'in bunları kayıt edip geri getirerek son kullanıcı arayüzü durumuna nasıl döndüğü gibi konulara odaklanılacaktır."
     subtype: presentation
     speakers: [9]
     language: en
@@ -299,7 +299,7 @@
 -
     id: 136
     title: "Korsancılık"
-    description: "Korsancılık, harika Android uygulamaları geliştirmek gerçekten tonla vakit, fedakarlık ve zaman alan çok zor bir iş. Geliştiricilerin başına gelebilecek en kötü şey uygulamalarının korsan olarak yayınlanması ve uygulamalarını geliştirmek için çok çalışan geliştiricilerin yaptıkları işten dolayı gururlanamaması."
+    description: "Harika Android uygulamaları geliştirmek gerçekten tonla vakit, fedakarlık ve ayrıca para gerektiran çok zor bir iş. Geliştiricilerin başına gelebilecek en kötü şey uygulamalarının korsan olarak yayınlanması ve bu uygulamaları yazmak için çok fazla vakit ve emek harcayan geliştiricilerin yeterince itibar görmemesi.\nBu konuşmada korsan uygulamaların yarattığı problemleri göreceğiz. Ayrıca geliştiriciler olarak, uygulamalarınızı korsana karşı olabildiğince koruyabilmeniz için yapmanız gerekenleri inceleyeceğiz."
     subtype: presentation
     speakers: [15]
     language: en
@@ -355,7 +355,7 @@
 -
     id: 143
     title: "Rop'un 106 Günlük Gelişim Hikayesi"
-    description: "Bu sunumda sizlere her Android geliştiricisinin bilmesi gereken tasarım örüntülerinden ve bunların neden kullanılmasının gerekli olduğundan bahsedeceğim."
+    description: "-"
     subtype: presentation
     speakers: [41]
     language: tr
