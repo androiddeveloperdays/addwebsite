@@ -261,7 +261,7 @@
     name: "Turhan"
     surname: "Oz"
     title: "Girişimci ve Geliştirici"
-    bio: "Turhan OZ (@TurhanOz),Paris'te bulunan seri bir girişimci ve geliştiricidir. Bütün gücünü insanlara bir değer oluşturan B2B ve B2C uygulamaları geliştirmeye harcamaktadır. Geliştirmeyi ciddiye alan insanların yapacağı gibi kendini geliştirmek için sürekli yeni teknolojileri öğrenmektedir. IoT çağına inanmaktadır ve zaman ve boşluğa karşı koyacak birbirine bağlı cihazlar oluşturmaktadır."
+    bio: "Turhan OZ (@TurhanOz), Paris'te bulunan seri bir girişimci ve geliştiricidir. Bütün gücünü insanlara bir değer oluşturan B2B ve B2C uygulamaları geliştirmeye harcamaktadır. Geliştirmeyi ciddiye alan insanların yapacağı gibi kendini geliştirmek için sürekli yeni teknolojileri öğrenmektedir. IoT çağına inanmaktadır ve zaman ve boşluğa karşı koyacak birbirine bağlı cihazlar oluşturmaktadır."
     thumbnailUrl: turhan.jpeg
     rockstar: true
     social:
@@ -284,6 +284,38 @@
     thumbnailUrl: naci.jpeg
     rockstar: true
     social:
+-
+  id: 55
+  name: "Murat"
+  surname: "Yener"
+  company: "Intel"
+  title: "Android Developer"
+  bio: "Murat Yener bir code geek'i, open source destekçisi, Android alanında Google Developer Expert'ü ve Java Şampiyonu. Android Geliştirici olarak Intel'de çalışıyor. Wiley yayınlarından Professional Java EE Design Patterns kitabının yazarı. Java, web, JavaEE, and OSGi uygulamalarında geniş kapsamlı tecrübe yanında, mentörlük ve eğitmenlik yapmaktadır. Eclipse geliştiricisi ve Eclipse Libra projesine ilk katkı sağlayan kişilerdendir.\n\nMurat 2009'dan beri etkinlikler düzenleyerek ve katılarak GDG Istanbul kullanıcı grubunun liderliğini yapmaktadır. Ayrıca JavaOne, EclipseCon ve Devoxx gibi konferanslarda düzenli olarak sunum yapmaktadır."
+  thumbnailUrl: MuratYener.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+MuratYener"}
+    - {name: "twitter", link: "https://twitter.com/yenerm"}
+    - {name: "github", link: "https://github.com/yenerm"}
+    - {name: "site", link: "http://www.devchronicles.com/"}
+
+-
+  id: 56
+  name: "Said Tahsin"
+  surname: "Dane"
+  title: "Android Developer"
+  company: "VNGRS"
+  bio: "Android alanında Google Developer Expert. UX'e çok önem veren bir Android Geliştirici. GDG Istanbul organizatörlerinden. Google Glass Explorer. Hackathon'lara bayılır."
+  thumbnailUrl: SaidTahsinDane.jpg
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
+    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
+    - {name: "github", link: "https://github.com/tasomaniac"}
+    - {name: "site", link: "http://www.tasomaniac.com"}
 -
     id: 21
     name: "Akın"
