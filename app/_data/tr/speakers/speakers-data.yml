@@ -652,3 +652,12 @@
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Kütahya", url: "https://developers.google.com/groups/"}
     social:
+-
+    id: 57
+    name: "Ismael"
+    surname: "Velasco"
+    company: "Philips Smart TV"
+    title: "İş Geliştirme Müdürü"
+    bio: "Ismael Velasco, Madrid Complutense Üniversitesi İngilizce Bölümü mezunu. 2001 yılından beri görsel-işitsel içeriklerin dijital dağıtımı ve korunması gibi farklı girişim alanlarında proje yöneticisi ve takım liderliği gibi görevlerde yer almıştır. 2009 yılında Smart TV uygulamaları da dahil olmak üzere Avrupa’daki ilk seç-izle (VOD) girişimleri üzerinde çalışmaya başlamıştır.  Valesco, 2011’in kasım ayından beri, Güney Avrupa Philips Smart TV İş Geliştirme Müdürü olarak görev almakta olup, uygulama ve platform içeriği satın almaları ve ticari işbirliklerinden sorumludur."
+    thumbnailUrl: IsmaelVelasco.jpg
+    social:

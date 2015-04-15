@@ -651,3 +651,12 @@
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Kütahya", url: "https://developers.google.com/groups/"}
     social:
+-
+    id: 57
+    name: "Ismael"
+    surname: "Velasco"
+    company: "Philips Smart TV"
+    title: "Business Development Manager"
+    bio: "Ismael Velasco is a graduate of the English Studies Department of the Complutense University in Madrid. Since 2001 he has been working on different initiatives related to digital distribution and protection of audio-visual content, as project manager and team leader.  In 2009 he started working on some of the first European initiatives on VOD including development of Smart TV applications. Since 2011, he has served as the Business Development Manager for Philips Smart TV in Southern Europe at TP Vision.  His main responsibilities include the acquisition of apps and content for the platform and managing commercial relationships with partners."
+    thumbnailUrl: IsmaelVelasco.jpg
+    social:
