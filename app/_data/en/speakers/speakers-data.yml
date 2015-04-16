@@ -490,6 +490,9 @@
     thumbnailUrl: semih.jpg
     rockstar: true
     social:
+        - {name: "site", link: "http://www.semihyagcioglu.com"}
+        - {name: "twitter", link: "https://twitter.com/semihyagcioglu"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/semih"}
 -
     id: 38
     name: "Kaan"
