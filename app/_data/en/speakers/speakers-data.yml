@@ -672,3 +672,21 @@
     bio: "Over his 20+ years of successful career in software development, Victor has built his share of enterprise solutions, primarily with Java-based technology stack. Victor has joined the passionate family of Android developers fairly early in the game, shipping his first app for the Android Donut release. An experienced hands-on architect and educator, Victor now combines his skills as a Samsung Developer Evangelist, connecting the world of Samsung mobile B2B APIs with the worldwide developers community. Back in his hometown Vancouver, Victor commutes to work exclusively on his bike, 50km a day, rain or shine."
     thumbnailUrl: victor.png
     social:
+-
+    id: 59
+    name: "Mustafa"
+    surname: "Kasap"
+    company: "Microsoft"
+    title: "Azure App Development Technology Manager"
+    bio: "Mustafa Kasap, who is dealing with computer technologies for a long time, has involved in many academic and commercial projects during his undergraduate study. He earned his first Ph.D in 2008 on Mathematicical Modeling and Simulation in Turkey and compeleted his second Ph.D on computer graphics in Switzerland. As a guest researcher, he continued his academic researches in Singapore for a while,and then he joined to Microsoft family in 2012. Since 2013, he is working as Azure App Development Technology Manager."
+    thumbnailUrl: mustafakasap2.jpg
+    social:
+-
+    id: 60
+    name: "Cavit"
+    surname: "Yantaç"
+    company: "Microsoft"
+    title: "DPE Lead"
+    bio: ""
+    thumbnailUrl:
+    social:

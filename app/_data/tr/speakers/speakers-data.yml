@@ -673,3 +673,21 @@
     bio: "Yazılım geliştirmede geçen 20+ yıldan sonra Victor,genellikle Java tabanlı olan kendi kurumsal çözümler paylaşımını kurdu. Android geliştiricilerinin arasına baya erken bir zamanda , Android'in Donut sürümünde uygulama geliştirerek girdi. Victor sahada olan bir mimar ve eğitimci olarak, dünyadaki geliştirici topluluklarını Samsung mobil B2B APIleri ile tanıştıran Samsung Geliştirici Misyoneri olarak görevine devam etmektedir.  Memleketi olan Vancouver'da,işine her gün kar kış demeden bisiklet ile gidip gelmektedir ve hergün 50km sürmektedir."
     thumbnailUrl: victor.png
     social:
+-
+    id: 59
+    name: "Mustafa"
+    surname: "Kasap"
+    company: "Microsoft"
+    title: "Azure Uygulama Geliştirme Teknolojileri Yöneticisi"
+    bio: "Uzun yıllar bilgisayar teknolojileri ile yakından ilgilenen Mustafa Kasap, üniversite lisans yıllarında bilimsel ve ticari birçok projede yer almıştır. 2008 yılında ilk Ph.D. unvanını Matematik Modelleme ve Simülasyon üzerine Türkiye’de alıp, 2011 yılında bilgisayar grafikleri üzerine ikinci doktorasını İsviçre’de tamamlamıştır. Misafir araştırmacı olacak bir süre Singapur’da akademik çalışmalar yürüten Mustafa Kasap, 2012 yılında Microsoft Türkiye ailesine katılmış, 2013 yılından beri Microsoft Türkiye Azure (Bulut) Uygulama Geliştirme Teknolojileri yöneticisi olarak çalışmaktadır."
+    thumbnailUrl: mustafakasap2.jpg
+    social:
+-
+    id: 60
+    name: "Cavit"
+    surname: "Yantaç"
+    company: "Microsoft"
+    title: "Microsoft Türkiye Yazılım Geliştirme Platformundan Sorumlu Genel Müdür Yardımcısı"
+    bio: ""
+    thumbnailUrl:
+    social:

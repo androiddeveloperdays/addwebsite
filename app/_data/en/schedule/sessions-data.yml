@@ -189,7 +189,7 @@
     title: "Microsoft Keynote-Room A-B"
     description: "Microsoft Keynote-Room A-B"
     subtype: presentation
-    speakers: []
+    speakers: [60]
     language: tr
     complexity: "Beginner"
 -
@@ -476,5 +476,12 @@
     description: "Android is a great and terrific OS. Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great opensource libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries below will be covered with example code, advantages, disadvantages, internals and when to use them.<br>Doc: Butterknife<br>Sneezy: Dagger<br>Bashful: Volley/OkHttp<br>Sleepy: GreenBus/Otto<br>Dopey: GreenDao/OrmLite<br>Happy: Priority-JobQueue<br>Grumpy: Retrofit"
     subtype: presentation
     speakers: [55,56]
+    language: tr
+-
+    id: 159
+    title: "Big Data and IoT Solutions"
+    description: ""
+    subtype: presentation
+    speakers: [59]
     language: tr
 
