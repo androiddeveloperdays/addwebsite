@@ -658,8 +658,17 @@
     id: 57
     name: "Ismael"
     surname: "Velasco"
-    company: "Philips Smart TV"
+    company: "Philips"
     title: "Business Development Manager"
     bio: "Ismael Velasco is a graduate of the English Studies Department of the Complutense University in Madrid. Since 2001 he has been working on different initiatives related to digital distribution and protection of audio-visual content, as project manager and team leader.  In 2009 he started working on some of the first European initiatives on VOD including development of Smart TV applications. Since 2011, he has served as the Business Development Manager for Philips Smart TV in Southern Europe at TP Vision.  His main responsibilities include the acquisition of apps and content for the platform and managing commercial relationships with partners."
     thumbnailUrl: IsmaelVelasco.jpg
+    social:
+-
+    id: 58
+    name: "Victor"
+    surname: "Okunev"
+    company: "Samsung"
+    title: "Samsung Developer Evangelist"
+    bio: "Over his 20+ years of successful career in software development, Victor has built his share of enterprise solutions, primarily with Java-based technology stack. Victor has joined the passionate family of Android developers fairly early in the game, shipping his first app for the Android Donut release. An experienced hands-on architect and educator, Victor now combines his skills as a Samsung Developer Evangelist, connecting the world of Samsung mobile B2B APIs with the worldwide developers community. Back in his hometown Vancouver, Victor commutes to work exclusively on his bike, 50km a day, rain or shine."
+    thumbnailUrl: victor.png
     social:
