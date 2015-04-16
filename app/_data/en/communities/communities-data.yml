@@ -20,3 +20,4 @@
     - {name: "Gediz IEEE", description: "Gediz IEEE", link: "https://www.facebook.com/ieeegediz", imageUrl: "gediz.png"}
     - {name: "Kadin Yazilimci", description: "Kadin Yazilimci", link: "http://www.kadinyazilimci.com/", imageUrl: "kadinyazilimci.png"}
     - {name: "Yıldırım Beyazıt Üniversitesi Bilim ve Teknoloji Kulübü", description: "Yıldırım Beyazıt Üniversitesi Bilim ve Teknoloji Kulübü", link: "http://www.ybubiltek.org/", imageUrl: "yildirim.png"}
+    - {name: "Bilkent IEEE", description: "Bilkent IEEE", link: "http://ieee.bilkent.edu.tr/", imageUrl: "bilkentieee.png"}
