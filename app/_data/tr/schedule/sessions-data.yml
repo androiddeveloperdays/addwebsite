@@ -502,7 +502,7 @@
 -
     id: 162
     title: "Python-kivy ile Mobil Uygulama Geliştirme"
-    description: ""
+    description: "Kivy, python dilinde geliştirilmiş bir framework. Python dilinde, kolay bir şekilde arayüz tasarımı yapmak ve etkileşimli uygulamalar geliştirmek icin son derece elverişli. Python severler için, uygulama çıkartmanın en güzel yolu. Ayrıca bu uygulama, platformlardan bağımsız çalışıyor. Bu konuşmada, Android işin kivy framework kullanmanın Android SDK'ya karşı avantajlarını ve dezavantajlarını ele alacağım.<br>- Neden böyle bir projeye baslandı?<br>- Kivy ile geliştirilen bir Android uygulamasının, Android cihazlar üzerindeki performansı nedir?<br>- Bu framework ile Android cihazlarda neler yapılabılır? Bu cihazlarda ne tür davranışlar sergilerler?<br>- Hangi durumlarda kullanmalısınız?<br>- Nereden baslamalı?<br>- Kendi uygulamamı kivy ile geliştiriken ne gibi zorluklarla karşılaştım? Nasıl çözüme ulaştım?<br>Uygulamamın linki: https://play.google.com/store/apps/details?id=com.baymustache.bazaar"
     subtype: presentation
     speakers: [63]
     language: tr
