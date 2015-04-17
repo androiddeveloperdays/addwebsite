@@ -484,4 +484,32 @@
     subtype: presentation
     speakers: [59]
     language: tr
+-
+    id: 160
+    title: "Why am I Supposed to be a Programmer?"
+    description: "Turkey's internet/media market needs qualified programmers.Because of this, all companies look for programmers.So, why am I supposed to be a programmer? For a better career? To make more money? For fun?"
+    subtype: presentation
+    speakers: [61]
+    language: tr
+-
+    id: 161
+    title: "General Mobile"
+    description: ""
+    subtype: presentation
+    speakers: [62]
+    language: tr
+-
+    id: 162
+    title: "Mobile App Development with Python-kivy"
+    description: "This talk basically will be about mobile application programming with python language with the help of kivy framework. For python fans, it makes relasing app quick and platform free. My aim is to talk about its advantages and disadvantages compared to Android sdk.<br>- Why has such project been started?<br>- What is the rate of performance of an app developed by kivy?<br>- How compatible with android devices? What characteristic does it show on these devices?<br>- In which case, should we use it?<br>- Where to start?<br>- What kind of obstacles did I face while developing my app with kivy? How did I solve it?<br>My App URL on google play: https://play.google.com/store/apps/details?id=com.baymustache.bazaar"
+    subtype: presentation
+    speakers: [63]
+    language: tr
+-
+    id: 163
+    title: "Using Second Hand Smart Phones in House Security"
+    description: ""
+    subtype: presentation
+    speakers: [64]
+    language: tr
 

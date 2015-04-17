@@ -690,3 +690,39 @@
     bio: ""
     thumbnailUrl:
     social:
+-
+    id: 61
+    name: "Hasan"
+    surname: "Yaşar"
+    company: "indir.com"
+    title: "Cofounder"
+    bio: "He accomplished Istanbul Kultur University, Computer engineering department.He shares his experiences with other entrepreneurs by writing articles about entrepreneurship on his own blog.Since 1999, Yaşar who had developed web projects, is still managing www.oyna.com and www.indir.com projects as managing  partner of 'İmza İnternet Teknolojileri'."
+    thumbnailUrl: hasanyasar.jpg
+    social:
+-
+    id: 62
+    name: "Muzaffer"
+    surname: "Gölcü"
+    company: "General Mobile"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    social:
+-
+    id: 63
+    name: "Sefa Şahin"
+    surname: "Koç"
+    company: "Tübitak"
+    title: "Software Engineer"
+    bio: ""
+    thumbnailUrl: sefasahin.png
+    social:
+-
+    id: 64
+    name: "Yakut"
+    surname: "Özcan"
+    company: "Uşak Üniversitesi"
+    title: "Student"
+    bio: ""
+    thumbnailUrl: yakut.jpg
+    social:

@@ -485,3 +485,31 @@
     subtype: presentation
     speakers: [59]
     language: tr
+-
+    id: 160
+    title: "Neden Yazılımcı Olmalıyım?"
+    description: "Türkiye'de ciddi olarak yetişmiş yazılımcı ihtiyacı var. Bu nedenle firmaların hepsi yazılımcı arıyor. Peki neden yazılımcı olmalıyım? Daha iyi bir kariyer için mi? Daha iyi para kazanmak için mi? Zevkli olduğu için mi?"
+    subtype: presentation
+    speakers: [61]
+    language: tr
+-
+    id: 161
+    title: "General Mobile"
+    description: ""
+    subtype: presentation
+    speakers: [62]
+    language: tr
+-
+    id: 162
+    title: "Python-kivy ile Mobil Uygulama Geliştirme"
+    description: ""
+    subtype: presentation
+    speakers: [63]
+    language: tr
+-
+    id: 163
+    title: "Eski Akıllı Telefonların Ev Güvenliğinde Kullanılması"
+    description: "Eski akıllı telefonların Arduino veya Arduinoya geren kalmadan üzerinde ki donanımları gerekli yazılım geliştirmeleri ile akıllı ev teknolojilerine adapte edilmesinin yanında evlerin güvenliğinin sağlanmasını amaçlayan yazılım ve bir kaç ufak proje örnekleri."
+    subtype: presentation
+    speakers: [64]
+    language: tr

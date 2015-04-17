@@ -691,3 +691,39 @@
     bio: ""
     thumbnailUrl:
     social:
+-
+    id: 61
+    name: "Hasan"
+    surname: "Yaşar"
+    company: "indir.com"
+    title: "Yönetici Ortak"
+    bio: "İstanbul Kültür Üniversitesi Bilgisayar Mühendisliği Bölümü'nü bitirdi. Kendi blogunda girişimcilik konularında yazılar paylaşarak tecrübelerini diğer girişimcilere aktarıyor. 1999 yılından bu yana internet projeleri geliştiren Yaşar, halen İmza İnternet Teknolojileri firmasının kurucu ortağı olarak indir.com ve oyna.com projelerini yönetiyor."
+    thumbnailUrl: hasanyasar.jpg
+    social:
+-
+    id: 62
+    name: "Muzaffer"
+    surname: "Gölcü"
+    company: "General Mobile"
+    title: ""
+    bio: ""
+    thumbnailUrl:
+    social:
+-
+    id: 63
+    name: "Sefa Şahin"
+    surname: "Koç"
+    company: "Tübitak"
+    title: "Yazılım Mühendisi"
+    bio: ""
+    thumbnailUrl: sefasahin.png
+    social:
+-
+    id: 64
+    name: "Yakut"
+    surname: "Özcan"
+    company: "Uşak Üniversitesi"
+    title: "Öğrenci"
+    bio: "Uşak Üniversitesi Bilgisayar Prog. okuyorum 2 senedir Android, 1 Senedir de Arduino üzerine çalışıyorum. Bilgisayar ve Elektronik merakım hiç bitmeyecek gibi görünüyor :) Heyecanlıyım, konuşamam ama yazabilirim :) Kişisel Blogum: http://goo.gl/gg42oF"
+    thumbnailUrl: yakut.jpg
+    social:
