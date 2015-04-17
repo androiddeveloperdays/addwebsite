@@ -91,7 +91,7 @@
 -
     id: 110
     title: "Android Wear için Geliştirme"
-    description: "Bu oturumda Android Wear hakkında genel bir bakış verilecektir ve tasarım kurallarından bahsedilecektir. Platform yetenekleri üzerinden gidilerek bazı örnek kodlara bakarak uygulamanıza  Android Wear nasıl entegre edebilirsiniz öğreneceksiniz."
+    description: "Android Wear geliştirme prensiplerinin, kod örnekleri ile işleneceği bu oturumda, Wear için temel tasarım yaklaşımları ve platform özellikleri işlenip, hali hazırdaki uygulamalara Wear entegrasyonu ile ilgili önerilerin üzerinden geçilecektir."
     subtype: presentation
     speakers: [22]
     language: tr
