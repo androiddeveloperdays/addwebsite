@@ -7,7 +7,6 @@
     - {parallel: 1,title: "Salon B", color: "#90ce4e"}
     - {parallel: 1,title: "Salon C", color: "#90de4e"}
     - {parallel: 1,title: "Salon D", color: "#90fe4e"}
-    - {parallel: 2,title: "Çalıştaylar-Salon E", color: "#90ge4e"}
   timeslots:
         - {
             parallel: 1,
@@ -31,7 +30,7 @@
             parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
-            sessionIds: [103,104,505,105]
+            sessionIds: [103,104,158,105]
         }
         - {
             parallel: 1,
@@ -55,7 +54,7 @@
             parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
-            sessionIds: [109,505,110,111]
+            sessionIds: [109,505,138~140,111]
         }
         - {
             parallel: 1,
@@ -67,7 +66,7 @@
             parallel: 1,
             startTime: "14:45",
             endTime: "15:35",
-            sessionIds: [112,113~505,134,115]
+            sessionIds: [113~505,505,110,115]
         }
         - {
             parallel: 1,
@@ -79,7 +78,7 @@
             parallel: 1,
             startTime: "15:45",
             endTime: "16:30",
-            sessionIds: [505,505,505,117]
+            sessionIds: [112,116,160~505,117]
         }
         - {
             parallel: 1,
@@ -91,7 +90,7 @@
             parallel: 1,
             startTime: "16:45",
             endTime: "17:30",
-            sessionIds: [118,116,505,119~120]
+            sessionIds: [118,119~505,162~142,141~120]
         }
         - {
             parallel: 1,
@@ -104,30 +103,6 @@
             startTime: "17:40",
             endTime: "18:10",
             sessionIds: [121]
-        }
-        - {
-            parallel: 2,
-            startTime: "10:35",
-            endTime: "12:00",
-            sessionIds: [156]
-        }
-        - {
-            parallel: 2,
-            startTime: "12:00",
-            endTime: "12:15",
-            sessionIds: [307]
-        }
-        - {
-            parallel: 2,
-            startTime: "12:15",
-            endTime: "13:15",
-            sessionIds: [146]
-        }
-        - {
-            parallel: 2,
-            startTime: "13:15",
-            endTime: "13:30",
-            sessionIds: [307]
         }
 -
   date: "2014-05-12"
@@ -155,7 +130,7 @@
             parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
-            sessionIds: [123,505,505,114~124]
+            sessionIds: [123,157,505,114~144]
         }
         - {
             parallel: 1,
@@ -167,7 +142,7 @@
             parallel: 1,
             startTime: "12:00",
             endTime: "12:45",
-            sessionIds: [125,505,505,126]
+            sessionIds: [125,129~124,151,137~505]
         }
         - {
             parallel: 1,
@@ -179,7 +154,7 @@
             parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
-            sessionIds: [127,128,505~129,130~131]
+            sessionIds: [127,128,505,130~131]
         }
         - {
             parallel: 1,
@@ -203,7 +178,7 @@
             parallel: 1,
             startTime: "15:45",
             endTime: "16:30",
-            sessionIds: [136,137~138,139~140,505]
+            sessionIds: [136,126,134,139~152]
         }
         - {
             parallel: 1,
@@ -214,6 +189,6 @@
         - {
             parallel: 1,
             startTime: "16:45",
-            endTime: "17:30",
-            sessionIds: [505~143,155~152,141~144,142]
+            endTime: "17:05",
+            sessionIds: [163,143,155,505]
         }

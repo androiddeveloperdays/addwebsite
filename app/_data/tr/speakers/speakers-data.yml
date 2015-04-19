@@ -446,13 +446,17 @@
     id: 34
     name: "Büşra"
     surname: "Deniz"
-    title: "Scrum Master&Mobil Yazılım Geliştiricisi"
-    bio: "I've been working in mobile team that develops a mobile SDK for GENBAND SPiDR WebRTC Gateway using iOS, Android and Google WebRTC library as developer and Scrum Master . I am an active member of GDG İstanbul and WomenTechMakers İstanbul communities. I love to organize and attend developer events, share knowledge and collaborate with the other people who interest new technologies, develop new ideas. I'm a big fan of Agile Methodologies, specially Scrum. I got CSM from Scrum Alliance in 2014. Now I'm trying to apply all the Scrum principles correctly in my team at Netaş, also trying to help the other design teams by attending daily standup meetings and inviting people to own scrum to present Scrum in action. I love to attend and follow technology events,conferences as attendance or speaker. DevFest Women ’14 - Istanbul, Unit Testing on Mobile Applications What is unit testing, why and how to test our code, what is most known tools/libraries for UT on iOS and Android. Mobile Days ‘14 - Ankara, Game Development via Sprite Kit What is Sprite Kit and how to develops game applications via new Apple game engine Sprite Kit I'm also trying sharing my experiences or technical post in my personal web site."
+    title: "Scrum Master - Mobil Geliştirici"
+    company: "Netaş"
+    bio: "Netaş’ın mobil takımında Scrum Master ve mobil geliştirici olarak çalışmaktadır. Şuan aktif olarak rol aldığı projede Google WebRTC ile görüntülü ve sesli konuşma yapılmasını sağlayan iOS ve Android kütüphaneleri geliştirmektedir.  Buna ek olarak hali hazırda Boğaziçi Üniversitesi Yazılım Mühendisliği bölümünde yüksek lisans  yaparken, GDG ve WomenTechMakers İstanbul topluluklarında da aktif olarak yer almaktadır. Yazılım geliştirme süreçlerine özellikle birim test ve test otomasyonu konularına ilgi duymaktadır."
     thumbnailUrl: busra.png
     rockstar: true
     ribbon:
       - {abbr: "GDG", title: "Google Developer Group Istanbul", url: "https://developers.google.com/groups/"}
     social:
+        - {name: "site", link: "http://www.busradeniz.com"}
+        - {name: "linkedin", link: "https://tr.linkedin.com/in/busradeniz"}
+        - {name: "twitter", link: "https://twitter.com/busradeniz"}
 -
     id: 35
     name: "Hüseyin"

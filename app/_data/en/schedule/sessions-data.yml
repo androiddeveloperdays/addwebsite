@@ -508,7 +508,7 @@
 -
     id: 163
     title: "Using Second Hand Smart Phones in House Security"
-    description: ""
+    description: "Second Hand smart phones with gsm support and with the development of necessary software through sensors on them with Arduino, beside they are adapted to smart home Technologies, the software and a few Project examples aiming to provide security of houses."
     subtype: presentation
     speakers: [64]
     language: tr

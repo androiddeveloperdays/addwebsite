@@ -306,8 +306,8 @@
     complexity: "Beginner"
 -
     id: 137
-    title: "Google WebRTC on Mobile"
-    description: "WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. It was released by Google in 2011 and it is becoming more famous day by day. In this talk, you can find a general view of webRTC."
+    title: "Mobilde WebRTC"
+    description: "WebRTC Google tarafından desteklenen temel amacı tarayıcılar üzerinde herhangi bir eklenti yüklemeksizin sesli ve görüntülü konuşma yapmanızı sağlayan açık kaynak projedir. Her ne kadar tarayıcılar göz önünde bulundurularak tasarlanmış olsa da mobil dünyada da günden güne önemi artmaktadır. WebRTC kullanarak kendi uygulamalarınıza peer-to-peer görüntülü konuşma özelliğini ekleyebilirsiniz. Sunumda WebRTC protokolüne genel bir bakış ve özellikle iOS ve Android platformalarına native olarak nasıl edilebileceği konularına değinilecektir."
     subtype: presentation
     speakers: [34]
     language: tr
