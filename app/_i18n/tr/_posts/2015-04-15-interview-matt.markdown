@@ -4,7 +4,7 @@ title: "Matt Sullivan ile Ropörtaj"
 date:   2015-04-15 09:00:00
 isStaticPost: false
 ---
-Next interview is done with Matt Sullivan by Aygul Zagidullina. Thank you very much Aygul for the interviews :)
+Sıradaki ropörtajımız Matt ile. Aygul Zagidullina'ya ropörtajlar için teşekkür ederiz :)
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/people/matt-sullivan.jpg" style="max-width: 300px"/>
 

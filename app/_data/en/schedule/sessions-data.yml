@@ -178,10 +178,10 @@
     complexity: "Beginner"
 -
     id: 121
-    title: "GDG Panel-Room C"
-    description: "GDG Panel"
+    title: "GDG Unconference-Room C"
+    description: "GDG Unconference"
     subtype: presentation
-    speakers: []
+    speakers: [29]
     language: tr
     complexity: "Beginner"
 -
@@ -512,4 +512,10 @@
     subtype: presentation
     speakers: [64]
     language: tr
-
+-
+    id: 164
+    title: "Gift Draws - in All Rooms"
+    description: "During sessions, attendees will be provided session codes. Attendees will submit these codes during sessions using their smart phones. There will be a draw at the end of the event and winners will be announced. Attendees should be present in this session and have a registration card in order to get the gift."
+    subtype: presentation
+    speakers: []
+    language: tr

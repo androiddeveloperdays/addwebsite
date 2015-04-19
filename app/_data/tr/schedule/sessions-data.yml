@@ -178,10 +178,10 @@
     complexity: "Beginner"
 -
     id: 121
-    title: "GDG Paneli-Salon C"
-    description: "GDG Paneli"
+    title: "GDG Unconference-Salon C"
+    description: "GDG Unconference"
     subtype: presentation
-    speakers: []
+    speakers: [29]
     language: tr
     complexity: "Beginner"
 -
@@ -512,4 +512,11 @@
     description: "Eski akıllı telefonların Arduino veya Arduinoya geren kalmadan üzerinde ki donanımları gerekli yazılım geliştirmeleri ile akıllı ev teknolojilerine adapte edilmesinin yanında evlerin güvenliğinin sağlanmasını amaçlayan yazılım ve bir kaç ufak proje örnekleri."
     subtype: presentation
     speakers: [64]
+    language: tr
+-
+    id: 164
+    title: "Hediye Çekilişleri - Tüm Salonlarda"
+    description: "Oturumlar sırasında katılımcılara kodlar verilecektir. Katılımcılar bu kodları katıldıkları oturumlar sırasında ADD uygulaması ile sisteme göndereceklerdir. Etkinlik sonundaki hediye çekilişi oturumunda çekilişler yapılacak ve kazananlar duyurulacaktır. Katılımcıların hediyeyi alabilmeleri için hediye çekilişi sırasında orada bulunmaları ve etkinliğe kayıt olmuş ve giriş kartlarını almış olmaları gerekmektedir."
+    subtype: presentation
+    speakers: []
     language: tr

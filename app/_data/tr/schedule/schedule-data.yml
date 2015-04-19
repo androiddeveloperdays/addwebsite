@@ -192,3 +192,9 @@
             endTime: "17:05",
             sessionIds: [163,143,155,505]
         }
+        - {
+            parallel: 1,
+            startTime: "17:05",
+            endTime: "17:30",
+            sessionIds: [164]
+        }
