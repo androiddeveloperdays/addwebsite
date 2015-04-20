@@ -1,6 +1,11 @@
 links:
  - {permalink: "/", text: "Ana Sayfa"}
  - {permalink: "/blog/", text: "Blog"}
+ -
+    subText: "Program"
+    links:
+        - {permalink: "/schedule/", text: "Sunumlar"}
+        - {permalink: "/workshop-schedule/", text: "Çalıştaylar"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/add-hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Ulaşım"}

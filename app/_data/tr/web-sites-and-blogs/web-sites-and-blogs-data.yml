@@ -40,4 +40,14 @@
     - {name: "Andropedi", description: "", link: "http://www.andropedi.com", imageUrl: "andropedi.png"}
     - {name: "Siberoloji", description: "", link: "http://www.siberoloji.com", imageUrl: "siberologo.jpg"}
     - {name: "Omer Er Yilmaz", description: "", link: "http://www.omereryilmaz.com", imageUrl: "omereryilmazcom.png"}
-
+    - {name: "Bahattin Cinic", description: "", link: "http://www.bahattincinic.com", imageUrl: "bahattinciniccom.png"}
+    - {name: "Emre Supcin", description: "", link: "http://www.emresupcin.com", imageUrl: "emresupcincom.jpg"}
+    - {name: "Gsm Kenti", description: "", link: "http://www.gsmkenti.com", imageUrl: "gsmkenticom.jpg"}
+    - {name: "Kagan Kaya", description: "", link: "http://www.kagankaya.com.tr", imageUrl: "kagankayacomtr.png"}
+    - {name: "Teknoloji Gunlugu", description: "", link: "http://www.mccoy35.com", imageUrl: "mccoy35com.png"}
+    - {name: "Mustafa Alniak", description: "", link: "http://www.mustafaalniak.net", imageUrl: "mustafaalniaknet.jpg"}
+    - {name: "Omer Bozalan", description: "", link: "http://www.omerbozalan.com", imageUrl: "omerbozalancom.png"}
+    - {name: "Pazarlama Turkiye", description: "", link: "http://www.pazarlamaturkiye.com", imageUrl: "pazarlamaturkiyecom.jpg"}
+    - {name: "Ramiz Tayfur", description: "", link: "http://www.ramiztayfur.com", imageUrl: "ramiztayfurcom.jpg"}
+    - {name: "Teknofeed", description: "", link: "http://www.teknofeed.com", imageUrl: "teknofeedcom.png"}
+    - {name: "Volkan Atabey", description: "", link: "http://www.volkanatabey.com.tr", imageUrl: "volkanatabeycomtr.png"}

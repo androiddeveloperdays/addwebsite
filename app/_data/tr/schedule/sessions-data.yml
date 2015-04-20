@@ -516,7 +516,7 @@
 -
     id: 164
     title: "Hediye Çekilişleri - Tüm Salonlarda"
-    description: "Oturumlar sırasında katılımcılara kodlar verilecektir. Katılımcılar bu kodları katıldıkları oturumlar sırasında ADD uygulaması ile sisteme göndereceklerdir. Etkinlik sonundaki hediye çekilişi oturumunda çekilişler yapılacak ve kazananlar duyurulacaktır. Katılımcıların hediyeyi alabilmeleri için hediye çekilişi sırasında orada bulunmaları ve etkinliğe kayıt olmuş ve giriş kartlarını almış olmaları gerekmektedir."
+    description: "Oturumlar sırasında katılımcılara kodlar verilecektir. Katılımcılar bu kodları katıldıkları oturumlar sırasında ADD uygulaması ile sisteme göndereceklerdir. Etkinlik sonundaki hediye çekilişi oturumunda çekilişler yapılacak ve kazananlar duyurulacaktır. Katılımcıların hediyeyi alabilmeleri için hediye çekilişi sırasında orada bulunmaları ve etkinliğe kayıt olmuş ve giriş kartlarını almış olmaları gerekmektedir. Hediyeler yakında duyurulacak. Sitemizi ve sosyal medyamızı takip edin."
     subtype: presentation
     speakers: []
     language: tr

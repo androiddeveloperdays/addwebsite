@@ -1,6 +1,11 @@
 links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ -
+    subText: "Schedule"
+    links:
+        - {permalink: "/schedule/", text: "Talks"}
+        - {permalink: "/workshop-schedule/", text: "Workshops"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/add-hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Venue"}

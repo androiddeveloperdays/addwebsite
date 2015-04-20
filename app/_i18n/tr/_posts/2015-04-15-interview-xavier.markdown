@@ -25,9 +25,10 @@ Sıradaki ropörtajımız Xavier ile. Aygul Zagidullina'ya ropörtajlar için te
 
 **Xavier:** NDK kullanmak için birçok sebep var: Platformlar arası kod paylaşımı, yıllarca geliştirilmiş sağlam C/C++ kütüphanelerinin kullanılabilmesi,performans ihtiyacı olan uygulamalarda daha iyi performans için… Doğrudan ihtiyacınız olmasa bile NDK hakkında bilgi sahibi olmanız önemli: En iyi uygulamalara baktığınızda en azından yarısı NDK ile geliştirilmiş bileşenlere sahiptir. Native kütüphaneler ile çalışırken geliştiricileri daha dikkatli olması gerekir. Bir çok geliştiricilerin temel NDK bilgisi olsa yapmayacağı bir çok büyük hatalar yaptıklarını gördüm.
 
-** Intel'de Geliştirici İlişkileri Takımındasınız. Geliştirici Misyoneri olarak iş hayatında en gurur duyduğunuz ve sizi etkileyen şey nedir?**
+**Intel'de Geliştirici İlişkileri Takımındasınız. Geliştirici Misyoneri olarak iş hayatında en gurur duyduğunuz ve sizi etkileyen şey nedir?**
 
 **Xavier:** Takıma ilk girdiğimde 2012 yılıydı ve markette Intel işlemcisi olan Android cihazlar sadece Google TVlerdi ve Google TV OS Anroid’in sadeleştirilmiş bir haliydi. Piyasaya ilk çıkan cihazlar 2012 ortasında çıktı ve belli bir süre Intel işlemci kullanan Orange San Diego ‘dan Samsung Galaxy Tab 3 10.1’a tüm cihazların özelliklerini hatırlıyordum. Geçen sene bu sayılar inanılmaz arttı ve şimdilere 200’den fazla cihazda Intel var. Google Nexus Player ve Nokia N1 bunlar arasında. Ve dahası da geliyor. Bu başarının oluşmasına sebep olan ve benden de çok çalışan insanların olduğu bu takımın bir parçası olmak ve bunda rol almak beni gururlandırıyor.
 
 **ADD’de sabırsızlıkla beklediğiniz şey nedir?**
+
 **Xavier:** ADD gibi etkinlikler harika oluyor çünkü bir çok konuda yeni başlayandan uzmana farklı insan var. Bu insanların farklı arkaplanları ve yetenekleri var. Ve hepsinin amacı da daha iyi uygulamalar ve servisler geliştirmek. Ben de diğer geliştiriciler ve konuşmacılar ile karşılaşmak ve ilgi çekici ve bazen zihin açıcı konuşmalar yapmak için can atıyorum.
