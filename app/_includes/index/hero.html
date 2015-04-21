@@ -29,6 +29,22 @@
                 </div>
                 {% endif %}
             {% endfor %}
+            {% for partner in site.data.[site.lang].app.app-data %}
+                {% if partner.showHero %}
+                <div class="col-xs-6 col-sm-4">
+                    <h6>{{ partner.group }}</h6>
+                    <ul class="list-inline">
+                        {% for element in partner.elements %}
+                        <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                            <a href="{{ element.link }}" target="_blank">
+                                <img src="{{ site.baseurl_root }}/img/app/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            {% endfor %}
         </div>
         <a href="#about" class="explore">
             <svg class="icon icon-arrow-down" viewBox="0 0 32 32">

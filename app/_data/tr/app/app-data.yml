@@ -1,0 +1,8 @@
+-
+  group: "Mobil Uygulamalar"
+  showHero: true
+  showIndex: true
+  elements:
+    - {name: "Android", description: "Android", link: "https://play.google.com/store/apps/details?id=co.fourapps.add", imageUrl: "play_market.png"}
+    - {name: "iOS", description: "iOS", link: "#", imageUrl: "ios_market.png"}
+    - {name: "4pps", description: "4pps", link: "http://www.4pps.co", imageUrl: "developed_by_4pps.png"}
