@@ -616,7 +616,7 @@
     name: "Kerem"
     surname: "İnceçayır"
     title: "Founder of SOFNOD"
-    bio: "Born in Ankara in 1980. After graduating from Hacettepe University Hidrogeological Engineering in 2003, starting with geographical information systems (GIS) development, his software development career is going on with both desktop and web based systems development. Nowadays, with his own company SOFNOD, he manages projects for GIS, web based systems and mobile systems. His interests are information systems, big data, statistical analysis, intelligent systems and IOT. He has been a member of GDG Ankara since 2013."
+    bio: "Born in Ankara in 1980. After graduating from Hacettepe University Hydrogeological Engineering in 2003, starting with geographical information systems (GIS) development, his software development career is going on with both desktop and web based systems development. Nowadays, with his own company SOFNOD, he manages projects for GIS, web based systems and mobile systems. His interests are information systems, big data, statistical analysis, intelligent systems and IOT. He has been a member of GDG Ankara since 2013."
     thumbnailUrl: kerem.png
     rockstar: true
     ribbon:
@@ -674,7 +674,7 @@
     company: "Samsung"
     title: "Samsung Developer Evangelist"
     bio: "Over his 20+ years of successful career in software development, Victor has built his share of enterprise solutions, primarily with Java-based technology stack. Victor has joined the passionate family of Android developers fairly early in the game, shipping his first app for the Android Donut release. An experienced hands-on architect and educator, Victor now combines his skills as a Samsung Developer Evangelist, connecting the world of Samsung mobile B2B APIs with the worldwide developers community. Back in his hometown Vancouver, Victor commutes to work exclusively on his bike, 50km a day, rain or shine."
-    thumbnailUrl: victor.png
+    thumbnailUrl: victor.jpg
     social:
 -
     id: 59
@@ -690,9 +690,9 @@
     name: "Cavit"
     surname: "Yantaç"
     company: "Microsoft"
-    title: "DPE Lead"
-    bio: ""
-    thumbnailUrl:
+    title: "Deputy General Manager and Developer and Platform Evangelism Lead"
+    bio: "Cavit Yantaç is Deputy General Manager and Developer and Platform Evangelism Lead for Microsoft Turkey. In his current role, he leads Microsoft Turkey’s activities among Developers, Students, Academia, Startups and IT Professionals as well as partnering with companies and individuals to create next generation innovative solutions, leveraging emerging technology. Cavit Yantaç has been with Microsoft for 9 years, in the first 6 years of which he was responsible for managing a team that provides technology solutions to enterprises. Before Microsoft, he worked for Nexum Bogazici, a German-Turkish consulting, IT and interactive design company, and completed consulting projects in Turkey, Europe and the US. Cavit holds a degree of MBA from University of Georgia and a BA degree from Bogazici University, Turkey."
+    thumbnailUrl: cavit.jpg
     social:
 -
     id: 61
@@ -730,3 +730,23 @@
     bio: "I’am student at Usak University Computer Programming Program, I’ working about Android for 2 years and arduino for 1 year. My curiosity about Computers and Electronics seems to be never end.I'm excited, I can not speak, but I can write blog posts."
     thumbnailUrl: yakut.jpg
     social:
+-
+    id: 65
+    name: "Paweł"
+    surname: "Głowacki"
+    company: "Embarcadero Technologies"
+    title: "Senior Software Consultant and EMEA Technical Lead"
+    bio: "Paweł Głowacki is Senior Software Consultant and EMEA Technical Lead for Delphi, RAD Studio and All-Access for Embarcadero Technologies. Previously, Paweł spent over 7 years working as a senior consultant and trainer within Borland Education Services and CodeGear. As well as working with Embarcadero customers across the region, he also represents Embarcadero internationally as a conference and seminar speaker. He is passionate about software programming and technology.He has always impressed with technical excellency of Object Pascal compiler and Delphi Integrated Development Environment. In 2001 Pawel’s dream came true, he have moved from Poland to the Netherlands and joined Borland Software Corporation, the makers of Delphi, as consultant and trainer. PaweI never stopped enjoying Object Pascal and Delphi. He is currently working as EMEA Technical Lead for Developer Tools at Embarcadero, the home of Object Pascal, Delphi, C++Builder, RAD Studio, data modelling and database tools."
+    thumbnailUrl: pawel.jpg
+    social:
+-
+    id: 66
+    name: "Onur"
+    surname: "Koç"
+    company: "Microsoft"
+    title: "Director Cloud and Compete MS Turkey"
+    bio: "Onur Koc joined Microsoft Turkey team 1 year ago. Onur's Microsoft career started 14 years ago. His first job was to manage the service team in Microsoft Saudi office. Then he joined to SWAT team at  Microsoft Headquarter in Seattle. He flighted 500000 km in a year for managing several international client projects. Later he joined the product development department in Seattle and managed several teams in Microsoft's strategic solutions like HPC, Windows Server, Azure, Xbox One. Currently he is working as Director Cloud and Compete MS Turkey. He thinks that software development is the closest job to magician and works for world wide solutions to happen in Turkey."
+    thumbnailUrl: onurkoc.jpg
+    social:
+        - {name: "twitter", link: "https://twitter.com/CloudTransform"}
+        - {name: "linkedin", link: "https://www.linkedin.com/pub/onur-koc/0/776/73a"}

@@ -51,3 +51,6 @@
     - {name: "Ramiz Tayfur", description: "", link: "http://www.ramiztayfur.com", imageUrl: "ramiztayfurcom.jpg"}
     - {name: "Teknofeed", description: "", link: "http://www.teknofeed.com", imageUrl: "teknofeedcom.png"}
     - {name: "Volkan Atabey", description: "", link: "http://www.volkanatabey.com.tr", imageUrl: "volkanatabeycomtr.png"}
+    - {name: "Yakut Ozcan", description: "", link: "http://yakutozcan.blogspot.com.tr", imageUrl: "yakutozcanblogspotcomtr.png"}
+    - {name: "Mekya", description: "", link: "http://www.mekya.com/", imageUrl: "mekya.png"}
+    - {name: "Burak Aydin", description: "", link: "http://www.burakaydin.net.tr/", imageUrl: "burakaydin.png"}

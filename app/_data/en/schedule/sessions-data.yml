@@ -519,3 +519,38 @@
     subtype: presentation
     speakers: []
     language: tr
+-
+    id: 165
+    title: "Developing robust mobile enterprise solutions with Samsung B2B SDKs"
+    description: "As the demand for mobile enterprise solutions grows, new challenges in privacy, manageability, and security also emerge. Samsung mobile devices are equipped with a suite of mature out-of-the-box B2B APIs. Learn how to unleash the power of these APIs to build a new generation of mobile enterprise solutions with Samsung B2B SDKs."
+    subtype: presentation
+    speakers: [58]
+    language: en
+-
+    id: 166
+    title: "Getting started with Samsung B2B SDKs"
+    description: "Learn some practical tips that will help you get going with Samsung B2B SDKs in no time. We’ll show you where to get the SDKs and how to start coding your way into the boundless opportunities of mobile enterprise solutions."
+    subtype: workshop
+    speakers: [58]
+    language: en
+-
+    id: 167
+    title: "Code Once Fast, Deploy 100% Native Fast Applications to Android and iOS"
+    description: "In this talk,Pawel will show you how to develop once using C++ or Object Pascal and create native and fast applications where native apps provide high user experience on Embarcadero platform. He will also show attendees how to do the same development after the talk by themself."
+    subtype: presentation
+    speakers: [65]
+    language: en
+-
+    id: 168
+    title: "Why 100% Native mobile applications Rapid Application Development platforms are Very Important for Turkish Developers?"
+    description: "Fast development platforms are emerging in the worls. The fast development platforms are why important for Turkish developers to create apps for the world wide and how fast development platforms provide solutions for developers to solve user problems? How Embarcadero helps developers to go to Silicon Valley. He will also give a message to the attendees. Message is that dont provide latest technologies to users, provide them usable products created by latest technologies. Key to success is here."
+    subtype: presentation
+    speakers: [65]
+    language: en
+-
+    id: 169
+    title: "Microsoft for Android World"
+    description: ""
+    subtype: presentation
+    speakers: [66]
+    language: tr

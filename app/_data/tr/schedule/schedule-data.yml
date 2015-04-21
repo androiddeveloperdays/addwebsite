@@ -3,10 +3,10 @@
   dateReadable: "11 Mayıs"
   parallelCount: 1
   tracks:
-    - {parallel: 1,title: "Salon A", color: "#90be4e"}
-    - {parallel: 1,title: "Salon B", color: "#90ce4e"}
-    - {parallel: 1,title: "Salon C", color: "#90de4e"}
-    - {parallel: 1,title: "Salon D", color: "#90fe4e"}
+        - {parallel: 1,title: "Salon A", color: "#90be4e"}
+        - {parallel: 1,title: "Salon B", color: "#90ce4e"}
+        - {parallel: 1,title: "Salon C", color: "#90de4e"}
+        - {parallel: 1,title: "Salon D", color: "#90fe4e"}
   timeslots:
         - {
             parallel: 1,
@@ -54,7 +54,7 @@
             parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
-            sessionIds: [109,505,138~140,111]
+            sessionIds: [109,165,167,111]
         }
         - {
             parallel: 1,
@@ -66,7 +66,7 @@
             parallel: 1,
             startTime: "14:45",
             endTime: "15:35",
-            sessionIds: [113~505,505,110,115]
+            sessionIds: [113~505,169,110,115]
         }
         - {
             parallel: 1,
@@ -90,7 +90,7 @@
             parallel: 1,
             startTime: "16:45",
             endTime: "17:30",
-            sessionIds: [118,119~505,162~142,141~120]
+            sessionIds: [118,119~168,162~142,141~120]
         }
         - {
             parallel: 1,
@@ -130,7 +130,7 @@
             parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
-            sessionIds: [123,157,505,114~144]
+            sessionIds: [123,157,166,114~144]
         }
         - {
             parallel: 1,
@@ -154,7 +154,7 @@
             parallel: 1,
             startTime: "13:45",
             endTime: "14:30",
-            sessionIds: [127,128,505,130~131]
+            sessionIds: [127,128,159,130~131]
         }
         - {
             parallel: 1,
@@ -166,7 +166,7 @@
             parallel: 1,
             startTime: "14:45",
             endTime: "15:30",
-            sessionIds: [132,133,505,135]
+            sessionIds: [132,133,138~140,135]
         }
         - {
             parallel: 1,

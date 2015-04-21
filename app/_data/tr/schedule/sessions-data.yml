@@ -520,3 +520,38 @@
     subtype: presentation
     speakers: []
     language: tr
+-
+    id: 165
+    title: "Samsung B2B SDKları ile Sağlam Mobil Kurumsal Çözümler Geliştirin"
+    description: "Mobil kurumsal çözümler büyüdükçe gizlilik,yönetilebilirlik ve güvenlik ile ilgili yeni zorluklar karşımıza çıkmaktadır. Samsung cihazlar olgun B2B APIleri ile birlikte üretilmektedir. Bu APIlerin gücünü kullanarak yeni nesil mobil kurumsal çözümleri nasıl geliştireceğinizi öğreneceksiniz."
+    subtype: presentation
+    speakers: [58]
+    language: en
+-
+    id: 166
+    title: "Samsung B2B SDKlarına Giriş"
+    description: "Samsung B2B SDKlarını hızlıca kullanmaya başlayacak bazı ipuçlarını öğreneceksiniz. SDKları nereden alacağınız ve mobil kurumsal çözümler için sınırsız fırsatları nasıl kodlayacağınızı öğreneceksiniz."
+    subtype: workshop
+    speakers: [58]
+    language: en
+-
+    id: 167
+    title: "Bir Kere Hızlıca Kodla, 100% Native (yerel) Hızlı Çalışan Uygulamaları Android ve iOS’a Konuşlandır"
+    description: "Bu seminerde Embarcadero İngilitere ofisten gelen Pawel Glowacki, sizlere hızlı bir şekilde tek bir kaynak kod yazmak suretiyle (ister C++ ister Obje Pascal) 100% native olarak çok hızlı çalışan ve native (yerel) uygulaların sağladığı yüksek kullanıcı deneyimli uygulamalar geliştirmenizi sağlayacak Embarcadero platformunu örnek uygulama geliştirerek mobil cihazlara konuşkandırmak suretiyle tanıtacak ve katılımcıların da kolaylıkla bunu nasıl kendilerinin seminerden sonra yapabileceklerini gösterecek."
+    subtype: presentation
+    speakers: [65]
+    language: en
+-
+    id: 168
+    title: "100% Native mobil uygulama geliştirmek için Hızlı Yazılım Geliştirme Platformları Türk Geliştiriciler için Neden Çok Önemli?"
+    description: "Mobil uygulama geliştirme için hızlı geliştirme platformları tüm dünyada çok büyük gelişme göstermektedir. Türk Geliştiricilerin sadece Türkiye’ye yönelik değil, ama tüm Dünya’ya yönelik uygulamalar geliştirmelerinin önünü açacak hızlı yazılım geliştirme platformları neden önemli, uygulama geliştirmekten öteye geçerek son kullanıcı problemlerinin çözümünde hızlı yazılım geliştirme platformları Türk Geliştiriciler için nasıl fırsat sağlayacaktır. Amerika’da Silikon Vadisi’nde Türk Geliştiricilerin daha yoğun bir şekilde yer alması için nasıl fayda sağlar. Bu vizyoner seminerde katılımcıların çok önemli bir mesaj verilecek. Bu mesaj teknoloji uygulamalarını son kullanıcya sunmayın, kullanılabilir ürünleri teknolojiden fayda sağlayarak sunun. Dünya da başarının anahtarı burada."
+    subtype: presentation
+    speakers: [65]
+    language: en
+-
+    id: 169
+    title: "Android Dünyası için Microsoft"
+    description: ""
+    subtype: presentation
+    speakers: [66]
+    language: tr

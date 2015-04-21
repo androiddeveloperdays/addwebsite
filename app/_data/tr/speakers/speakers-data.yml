@@ -675,7 +675,7 @@
     company: "Samsung"
     title: "Samsung Geliştirici Misyoneri"
     bio: "Yazılım geliştirmede geçen 20+ yıldan sonra Victor,genellikle Java tabanlı olan kendi kurumsal çözümler paylaşımını kurdu. Android geliştiricilerinin arasına baya erken bir zamanda , Android'in Donut sürümünde uygulama geliştirerek girdi. Victor sahada olan bir mimar ve eğitimci olarak, dünyadaki geliştirici topluluklarını Samsung mobil B2B APIleri ile tanıştıran Samsung Geliştirici Misyoneri olarak görevine devam etmektedir.  Memleketi olan Vancouver'da,işine her gün kar kış demeden bisiklet ile gidip gelmektedir ve hergün 50km sürmektedir."
-    thumbnailUrl: victor.png
+    thumbnailUrl: victor.jpg
     social:
 -
     id: 59
@@ -691,9 +691,9 @@
     name: "Cavit"
     surname: "Yantaç"
     company: "Microsoft"
-    title: "Microsoft Türkiye Yazılım Geliştirme Platformundan Sorumlu Genel Müdür Yardımcısı"
-    bio: ""
-    thumbnailUrl:
+    title: "Yazılım Geliştirme Teknolojileri Genel Müdür Yardımcısı"
+    bio: "Cavit Yantaç, Microsoft Türkiye’de Yazılım Geliştirme Teknolojileri Genel Müdür Yardımcısı olarak çalışmaktadır. Yazılım Geliştirme Teknolojileri bölümü, uygulama geliştiriciler, öğrenciler, eğitim kurumları ve girişimciler ile çalışarak, mobil yazılım, bulut bilişim gibi konularda Microsoft teknolojilerini kullanmalarını desteklemektedir. Cavit Yantaç, 9 yılı aşkın süredir Microsoft Türkiye bünyesinde çalışmaktadır ve mevcut rolünden önce, Türkiye’nin önde gelen büyük kurumlarının Teknoloji ihtiyaçlarını çözümleyen Teknoloji Çözümleri Grubu’nu yönetmiştir. Cavit Yantaç, Microsoft’a katılmadan önce Nexum Boğaziçi firmasında danışmanlık ve yöneticilik yapmıştır; kendisi University of Georgia’dan MBA ve Boğaziçi Üniversitesi’den İşletme Bölümleri mezunudur."
+    thumbnailUrl: cavit.jpg
     social:
 -
     id: 61
@@ -731,3 +731,23 @@
     bio: "Uşak Üniversitesi Bilgisayar Prog. okuyorum 2 senedir Android, 1 Senedir de Arduino üzerine çalışıyorum. Bilgisayar ve Elektronik merakım hiç bitmeyecek gibi görünüyor :) Heyecanlıyım, konuşamam ama yazabilirim :) Kişisel Blogum: http://goo.gl/gg42oF"
     thumbnailUrl: yakut.jpg
     social:
+-
+    id: 65
+    name: "Paweł"
+    surname: "Głowacki"
+    company: "Embarcadero Technologies"
+    title: "Kıdemli Teknoloji Danışmanı"
+    bio: "Pawel Glowacki Kıdemli Teknoloji Danışmanı ve EMEA için Delphi,RAD Studio ve All-Access for Embarcadero Technologies lideridir.Öncesinde 7 yıl boyunca kıdemli danışman ve eğitmen olarak Borland Eğitim Servisleri ve CodeGear'da çalıştı. Bölgede Embarcadero müşterileri ile çalıştığı gibi, aynı zamanda uluslararası konferans ve seminerlerde Embarcadero'yu konuşmacı olarak temsil etmektedir. Programlama ve teknolojileri çok sevmektedir. Object Pascal compiler ve Delphi Integrated Development Environment'ın teknik olarak üstün olmalarından çok etkilenmiştir. 2001'de hayali gerçek olmuş ve Polonya'dan Hollanda'ya taşınarak Borland'da yani Delphi'in yaratıcılarında çalışmaya başlamıştır. Object Pascal ve Delphi sevmeyi hiç bırakmamıştır. Şu an Embarcadero'da EMEA Geliştirici Araçları Teknik Lideri olarak çalışmaktadır. Bu çalıştığı yer Object Pascal,Delphi,C++Builder, RAD Studio, veri modelleme ve veritabanı araçlarının evidir. "
+    thumbnailUrl: pawel.jpg
+    social:
+-
+    id: 66
+    name: "Onur"
+    surname: "Koç"
+    company: "Microsoft"
+    title: "Microsoft Türkiye Genel Müdür Yardımcısı"
+    bio: "Onur Koç Microsoft Turkiye ekibine 1 yıl önce katıldı. Onur’un Microsoft kariyeri 14 yıl önce başladı, ilk görevi yeni kurulmakta olan Microsoft Saudi ofisinde servis ekibini yönetmek oldu. Onur daha sonra Seattle daki Microsoft anamerkezde oluşturulan SWAT ekibine katıldı. Yılda 500.000 km uçarak Microsoft’un birçok uluslarası müşterilerinde önemli projeleri yönetti. Onur daha sonra yine Seattle anamerkezdeki Microsoft ürün geliştirme bölümüne geçti ve Microsoft’un HPC, Windows Server, Azure, Xbox One gibi birçok stratejik çözümlerinde ürün geliştirme ekiplerini yönetti. Onur şu anda Microsoft Türkiye’de bulut teknolojilerinden sorumlu genel müdür yardımcısı olarak çalışmakta. Onur dünyada sihirbazlığa en yakın meslek yazılım geliştirme olduğunu düşünmekte ve Türkiye den dünya çapında (kamu veya özel sektör) çözümlerin hayata geçmesi için çalışmaktadır."
+    thumbnailUrl: onurkoc.jpg
+    social:
+    - {name: "twitter", link: "https://twitter.com/CloudTransform"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/onur-koc/0/776/73a"}
