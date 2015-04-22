@@ -23,3 +23,4 @@
     - {name: "Bilkent IEEE", description: "Bilkent IEEE", link: "http://ieee.bilkent.edu.tr/", imageUrl: "bilkentieee.png"}
     - {name: "Koc Universitesi IEEE", description: "Koc Universitesi IEEE", link: "https://www.facebook.com/kocieee", imageUrl: "kocieee.png"}
     - {name: "Ankara IEEE", description: "Ankara IEEE", link: "http://www.auieee.com/", imageUrl: "ankaraieee.jpg"}
+    - {name: "ERU ACM", description: "ERU ACM", link: "http://eru.acm.org/", imageUrl: "eruacm.png"}

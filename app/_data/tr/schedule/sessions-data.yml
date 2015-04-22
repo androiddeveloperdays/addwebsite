@@ -536,15 +536,15 @@
     language: en
 -
     id: 167
-    title: "Bir Kere Hızlıca Kodla, 100% Native (yerel) Hızlı Çalışan Uygulamaları Android ve iOS’a Konuşlandır"
-    description: "Bu seminerde Embarcadero İngilitere ofisten gelen Pawel Glowacki, sizlere hızlı bir şekilde tek bir kaynak kod yazmak suretiyle (ister C++ ister Obje Pascal) 100% native olarak çok hızlı çalışan ve native (yerel) uygulaların sağladığı yüksek kullanıcı deneyimli uygulamalar geliştirmenizi sağlayacak Embarcadero platformunu örnek uygulama geliştirerek mobil cihazlara konuşkandırmak suretiyle tanıtacak ve katılımcıların da kolaylıkla bunu nasıl kendilerinin seminerden sonra yapabileceklerini gösterecek."
+    title: "Farklı Cihazlara Uygulamaları Hızlı Geliştir"
+    description: "Bu demo ağırlıklı oturumda Pawel size aynı koddan birden fazla cihaza native olarak derlenmiş uygulamaları Android,IOS,Mac ve Windows için nasıl geliştirirsiniz gösterecek."
     subtype: presentation
     speakers: [65]
     language: en
 -
     id: 168
-    title: "100% Native mobil uygulama geliştirmek için Hızlı Yazılım Geliştirme Platformları Türk Geliştiriciler için Neden Çok Önemli?"
-    description: "Mobil uygulama geliştirme için hızlı geliştirme platformları tüm dünyada çok büyük gelişme göstermektedir. Türk Geliştiricilerin sadece Türkiye’ye yönelik değil, ama tüm Dünya’ya yönelik uygulamalar geliştirmelerinin önünü açacak hızlı yazılım geliştirme platformları neden önemli, uygulama geliştirmekten öteye geçerek son kullanıcı problemlerinin çözümünde hızlı yazılım geliştirme platformları Türk Geliştiriciler için nasıl fırsat sağlayacaktır. Amerika’da Silikon Vadisi’nde Türk Geliştiricilerin daha yoğun bir şekilde yer alması için nasıl fayda sağlar. Bu vizyoner seminerde katılımcıların çok önemli bir mesaj verilecek. Bu mesaj teknoloji uygulamalarını son kullanıcya sunmayın, kullanılabilir ürünleri teknolojiden fayda sağlayarak sunun. Dünya da başarının anahtarı burada."
+    title: "Appmethod ve Beaconlar ile Yakınlık Farkında Uygulama Geliştir"
+    description: "Beaconlar mobil uygulama geliştirmedeki bir sonraki en önemli şeydir. Bu oturumda Appmethod ile yakınlığın farkında olan native IOS ve Android uygulamalarını nasıl kolayca geliştiririz göreceğiz."
     subtype: presentation
     speakers: [65]
     language: en

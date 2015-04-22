@@ -535,15 +535,15 @@
     language: en
 -
     id: 167
-    title: "Code Once Fast, Deploy 100% Native Fast Applications to Android and iOS"
-    description: "In this talk,Pawel will show you how to develop once using C++ or Object Pascal and create native and fast applications where native apps provide high user experience on Embarcadero platform. He will also show attendees how to do the same development after the talk by themself."
+    title: "Develop Fast Multi Device Apps Fast"
+    description: "In this demo-oriented session Paweł is going to show how you can quickly build natively compiled, multi-device apps from the same codebase for iOS, Android, Windows and Mac."
     subtype: presentation
     speakers: [65]
     language: en
 -
     id: 168
-    title: "Why 100% Native mobile applications Rapid Application Development platforms are Very Important for Turkish Developers?"
-    description: "Fast development platforms are emerging in the worls. The fast development platforms are why important for Turkish developers to create apps for the world wide and how fast development platforms provide solutions for developers to solve user problems? How Embarcadero helps developers to go to Silicon Valley. He will also give a message to the attendees. Message is that dont provide latest technologies to users, provide them usable products created by latest technologies. Key to success is here."
+    title: "Building proximity aware apps with Appmethod and beacons"
+    description: "Beacons are the next big thing in mobile app development. In this session we are going to see how easy it is to use Appmethod for adding proximity-awareness to your native, mobile Android and iOS apps."
     subtype: presentation
     speakers: [65]
     language: en
