@@ -555,3 +555,17 @@
     subtype: presentation
     speakers: [66]
     language: tr
+-
+    id: 170
+    title: "IBM MobileFirst Platform Analytics ile uygulama performansınızı güçlendirin"
+    description: ""
+    subtype: presentation
+    speakers: [68]
+    language: tr
+-
+    id: 171
+    title: "Hadi ATEITH'e Gidelim"
+    description: "Alexander Technological Institute öğrencileri için araba paylaşım uygulaması."
+    subtype: presentation
+    speakers: [67]
+    language: en

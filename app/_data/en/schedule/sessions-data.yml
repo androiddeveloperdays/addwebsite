@@ -554,3 +554,17 @@
     subtype: presentation
     speakers: [66]
     language: tr
+-
+    id: 170
+    title: "Power up App Performance with IBM MobileFirst Platform Analytics"
+    description: ""
+    subtype: presentation
+    speakers: [68]
+    language: tr
+-
+    id: 171
+    title: "Let's go to ATEITH"
+    description: "Car-sharing app for students of the Alexander Technological Institute"
+    subtype: presentation
+    speakers: [67]
+    language: en
