@@ -741,7 +741,7 @@
 -
     id: 67
     name: "Fotis"
-    surname: "Tsalambounis"
+    surname: "Tsalampounis"
     company: "Alexander Technological Institute"
     ribbon:
         - {abbr: "GDG", title: "GDG Thessaloniki", url: "https://developers.google.com/groups/"}
