@@ -24,3 +24,5 @@
     - {name: "Koc Universitesi IEEE", description: "Koc Universitesi IEEE", link: "https://www.facebook.com/kocieee", imageUrl: "kocieee.png"}
     - {name: "Ankara IEEE", description: "Ankara IEEE", link: "http://www.auieee.com/", imageUrl: "ankaraieee.jpg"}
     - {name: "ERU ACM", description: "ERU ACM", link: "http://eru.acm.org/", imageUrl: "eruacm.png"}
+    - {name: "KTUCEC", description: "KTUCEC", link: "https://www.facebook.com/ktucec", imageUrl: "ktucec.png"}
+    - {name: "DPU IEEE", description: "DPU IEEE", link: "https://www.facebook.com/ieeedpu", imageUrl: "dpuieee.jpg"}

@@ -186,8 +186,8 @@
     complexity: "Beginner"
 -
     id: 122
-    title: "Microsoft Açılış Konuşması-Salon A-B"
-    description: "Microsoft Açılış Konuşması-Salon A-B"
+    title: "Microsoft Açılış Konuşması-Salon A-B : Nereye Gidiyoruz?"
+    description: "Son 30 yılda bilişim endüstrisi, Microsoft’un da aralarında bulunduğu pek çok dev kurum yarattı, tüm dünyada insanların hayatını önemli ölçüde değiştirdi. Özellikle son 10 yılda, mobil bilişimin, hayatımızın tüm alanlarına girmesi, çevremizdeki cihazların ve veriye erişim imkanlarının artması nedeniyle yepyeni firmalar ortaya çıktı. Şimdi ise, önümüzde yepyeni bir dönem, yepyeni imkanlar ve fırsatlar önümüzde belirmeye başladı. Dünyada varolan bilgisayar sayısı 1 milyarı biraz aşarken, internete bağlı mobil cihazların sayısının önümüzdeki dönemde 10 milyarı aşması bekleniyor; internete bağlı cihazların sayısının ise 50 milyarı aşması bekleniyor. Giyilebilir teknolojiler, büyük veri projeleri, mobilite ve sosyal ağlar, hep beraberce akıllı şehircilik, sağlık, güvenlik ve savunma sanayilerini derinden etkiliyor. Büyük veri ve nesnelerin interneti dünyasındaki gelişmeleri izlemek yetmiyor, bu gelişmeleri nasıl yönlendirebileceğimizi de değerlendirmek gerekiyor."
     subtype: presentation
     speakers: [60]
     language: tr
@@ -480,8 +480,8 @@
     language: tr
 -
     id: 159
-    title: "Büyük veri ve IoT Çözümleri"
-    description: ""
+    title: "Android uygulamaları için Microsoft Azure bulut servisleri"
+    description: "Microsoft Azure (Microsoft’un bulut platformu) servislerini kullanan Android, iOS, Windows uygulamaları geliştirebileceğinizi biliyor muydunuz? Hatta açık kaynak C/C++, Java, Python, Rubby vs. gibi SDK’larımızı kullanarak bu servislere erişebileceğinizi? Bu bolümde sizlere Microsoft Azure servislerini kullanan bir Android uygulamasının bastan sona geliştirilme surecini anlatacağız."
     subtype: presentation
     speakers: [59]
     language: tr
@@ -550,8 +550,8 @@
     language: en
 -
     id: 169
-    title: "Android Dünyası için Microsoft"
-    description: ""
+    title: "Microsoft’un Evrensel Bulut Platformu"
+    description: "Microsoft yazılım geliştiricilerin hayatını sağladığı evrensel bulut platformu ve yazılım geliştirme araçları ile kolaylaştırıyor. Yazılım geliştiriciler Microsoft Azure bulut platformunda Android/iOS/Windows platfomları için, Microsoft veya Açık Kaynak teknolojilerini kullanarak servisler ve uygulamalar geliştirebiliyorlar. Office 365; Android/iOS/Windows platformlarında çalışan en popüler productivity suite oldu. Ve artık yazılım geliştiriciler Microsoft yazılım geliştirme araçlarını kullanarak bu 3 platformda çalışan gerçek evrensel mobil uygulamalar yaratabilecekler."
     subtype: presentation
     speakers: [66]
     language: tr

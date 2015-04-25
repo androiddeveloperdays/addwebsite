@@ -186,8 +186,8 @@
     complexity: "Beginner"
 -
     id: 122
-    title: "Microsoft Keynote-Room A-B"
-    description: "Microsoft Keynote-Room A-B"
+    title: "Microsoft Keynote-Room A-B: Quo Vadis? Opportunities Ahead"
+    description: "Last 30 years saw the emergence of companies like Microsoft, following the dawn of personal computing. In the last 10 years, we saw a second generation of innovation in the form of mobile computing. Now, ahead of us lies a new set of opportunities, which will probably create many new and large companies throughout the world. The number of connected PC’s is more than 1 billion; number of mobile and connected devices will surpass 10 billion soon. However, the total number of connected devices will probably exceed 50 billion by the turn of the new decade, and we will see many, many new success stories here. Wearables, big data projects, mobility, social and cloud all provide endless opportunities for aspiring developers and startups in smart cities, health, security, defense, etc. Following the trends in this new era will not suffice, we will need to “LEAD” in this new world to emerge as successful developers."
     subtype: presentation
     speakers: [60]
     language: tr
@@ -479,8 +479,8 @@
     language: tr
 -
     id: 159
-    title: "Big Data and IoT Solutions"
-    description: ""
+    title: "Microsoft Azure cloud services for Android Applications"
+    description: "Do you know that you can develop Android, iOS, Windows applications that use Microsoft Azure (Microsoft’s cloud platform) services? Even developing applications in C/C++, Java, Python, Rubby etc.  by using our open source SDKs? In this session we will introduce the development stages of an Android application from scratch that uses Microsoft Cloud services."
     subtype: presentation
     speakers: [59]
     language: tr
@@ -549,8 +549,8 @@
     language: en
 -
     id: 169
-    title: "Microsoft for Android World"
-    description: ""
+    title: "Microsoft’s Universal Cloud Platform"
+    description: "In this session we will cover how Microsoft makes developers life’s easier by providing universal cloud platform and universal app development tools.  You can build services and apps on Microsoft Azure for any platform Android/iOS/Windows using any technologies Microsoft or Open Source. O365 is becoming the most popular cloud base productivity suite on Android/iOS/Windows. And finally you can now build truly universal mobile apps for all 3 platform using our development tools."
     subtype: presentation
     speakers: [66]
     language: tr
