@@ -113,19 +113,6 @@
     - {name: "github", link: "https://github.com/welsinga"}
     - {name: "linkedin", link: "https://nl.linkedin.com/in/welsinga"}
 - 
-  id: 8
-  name: "Markus"
-  surname: "Eisele"
-  company: "Red Hat"
-  title: "Geliştirici Savunucusu"
-  bio: "Markus Eisele, Red Hat'de Geliştirici Savunucusu olarak çalışmaktadır ve JBoss Middleware konusuna odaklanmıştır.14 yıldan fazla bir zamandır değişik sağlayıcılardan Java EE sunucuları ile çalışmaktadır ve dünyanın değişik yerlerinde Java EE konuları üzerine konferanslarda sunumlar yapmaktadır. Kendisi baş danışman olarak değişik müşteriler ile  Java EE uygulamaları ve çözümleri üzerine çalışmıştır. Ayrıca üretken bir blogcu,yazar ve Java EE konuları üzerine değişik kitaplarda teknik editördür. German DOAG e.V. aktif üyelerindendir ve iJUG e.V. temsilcidir. Toplulukta Java Şampiyonu olarak bilinmektedir."
-  thumbnailUrl: markus-eisele.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MarkusEisele"}
-    - {name: "twitter", link: "https://twitter.com/myfear"}
-    - {name: "github", link: "https://github.com/myfear"}
-- 
   id: 9
   name: "Cyril"
   surname: "Mottier"

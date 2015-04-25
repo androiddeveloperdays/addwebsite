@@ -30,7 +30,7 @@
             parallel: 1,
             startTime: "11:00",
             endTime: "11:45",
-            sessionIds: [103,104,158,105]
+            sessionIds: [103,113,158,105]
         }
         - {
             parallel: 1,
@@ -66,7 +66,7 @@
             parallel: 1,
             startTime: "14:45",
             endTime: "15:35",
-            sessionIds: [113~505,169,110,115]
+            sessionIds: [505,169,110,115]
         }
         - {
             parallel: 1,
