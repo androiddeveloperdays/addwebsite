@@ -258,6 +258,7 @@
     name: "Mustafa"
     surname: "Tan"
     title: "General Manager"
+    company: "OBSS"
     bio: "Graduated from ITU Industrial Engineering. Primarily in the IT world, including Finance and Telecom, he took place in various enterprise software development project since 2000. He has been General Manager of OBSS Mobile as co-founder since 2012 and manager of OBSS Robotics that is founded in 2015."
     thumbnailUrl: mtan.png
     rockstar: true
@@ -267,6 +268,7 @@
     name: "Naci"
     surname: "Dai"
     title: "Chief Scientist and Founder"
+    company: "eteration"
     bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics, Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
     thumbnailUrl: naci.jpeg
     rockstar: true
@@ -317,6 +319,7 @@
     name: "Can"
     surname: "Elmas"
     title: "Software Development Manager"
+    company: "Monitise"
     bio: "Can Elmas is the Software Development Manager at Monitise, based out of Istanbul. Since starting his tenure as an intern 6 years ago at Pozitron (acquired in 2014 by Monitise), Can now heads the Istanbul-based Android and Windows development team – over 25 engineers recruited from the top universities in Turkey. Under Can’s leadership, this team has led cutting-innovation for a myriad of mobile banking, payments and commerce solutions. In addition to overseeing the development process, Can advises the team on Android standards and best practices, while providing personal mentorship. Can led the Monitise team responsible for launching Turkey’s first mobile developer bootcamp, CodeCamp Istanbul, in 2014. Throughout the 1.5 week CodeCamp program, Can facilitated a rigorous courseload of subjects spanning topics across Android design and development best practices, garnering attention from leading media including Hurriyet and Webrazzi. Through this and other initiatives outside of the office, including roles as a speaker at Android Developer Days, teacher for Galarasaray’s Computer Engineering curriculum, and lecturer at various Google-related workshops, Can has had a tremendous impact on the upskilling of developers across Turkey’s Android ecosystem as both a lecturer as well as a hands-on mentor. After graduating from Saint-Joseph French High School, Can completed his Bachelor’s Degree in Software Engineering at the prestigious Galatasaray University."
     thumbnailUrl: canelmas.jpg
     rockstar: true
@@ -345,6 +348,7 @@
     id: 25
     name: "Redi"
     surname: "Gokaj"
+    company: "Codemodeon"
     title: "Co-Founder, Innovation and Technology Director at Codemodeon"
     bio: "Previously, Redi has been working in a wide range of software products. He is an experienced professional on airline software, e-commerce, mobile applications, cloud-computing and interactive game development. Now he is Co-Founder, Innovation and Technology Director at Codemodeon. He gets to design and produce interactive games. His mission is to produce great experiences that entertain people. Mainly he is focused on Virtual Reality applications that nowadays are becoming very popular."
     thumbnailUrl: redi.jpg
@@ -355,6 +359,7 @@
     name: "Kenan"
     surname: "Sevindik"
     title: "Consultant"
+    company: "Harezmi"
     bio: "Kenan Sevindik is specialized on architecting and developing enterprise applications using various Java technologies for more than 15 years. His experience with Java dates back to 1998 in which he started developing Java applets for online education programs. He has been working with various enterprise Java frameworks, such as Spring Application Framework, Spring Security Framework, Hibernate Persistence Framework since their early days. Currently he develops enterprise software, gives trainings, mentoring and consultancy services about Java, OOP, AOP, Spring, Spring Security and Hibernate all over the world. He is regularly invited to give public speeches about his experiences in various conferences and organizations. He is also co-author of 'Beginning Spring' book, which was published by Wiley Publishing in February 2015. He has bachelor degree in Computer Engineering. You can reach at his technical writings from http://blog.harezmi.com.tr."
     thumbnailUrl: kenansevindik.png
     rockstar: true
@@ -374,6 +379,7 @@
     id: 28
     name: "Bruce C "
     surname: "Jenkins"
+    company: "HP"
     title: "AppSec Program Strategist"
     bio: "Bruce C Jenkins leads HP Fortify’s security program and works regularly with customers on Software Security Assurance (SSA) program design, measurement and reporting.  Since 2007 he has been building SSA solutions and collecting data on security assessments across all industry sectors.  Bruce is a 28-year US Air Force veteran with experience in managing development and operations, and he has held CISO-, CSO- and CIO-equivalent positions.  Bruce is a CISSP, CSSLP and CISM, and he holds a BS in computer science and MS in management science."
     thumbnailUrl: bcjenkins.png
@@ -406,7 +412,7 @@
     id: 31
     name: "Doruk"
     surname: "Pancaroğlu"
-    company: "ThoughtWorks"
+    company: "STM"
     title: "Expert Software Developer"
     bio: "Doruk Pancaroğlu is born in 1989. He graduated from Sabanci University in 2010, majoring in Computer Engineering. In 2014, he completed his graduate studies at TOBB ETU, again majoring in Computer Engineering. He is working as an Expert Software Engineer at STM A.S. since 2012."
     thumbnailUrl: doruk.png
@@ -417,6 +423,7 @@
     name: "Vitaliy"
     surname: "Zasadnyy"
     title: "Senior Unity 3D Developer"
+    company: "GetSocial"
     bio: "Mobile developer, Google Developers Group and Gamedev Community Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management. Used to work for enterprise giants like as well as for product companies and startups. Nowadays leading Unity 3D development at GetSocial. TEDx speaker."
     thumbnailUrl: vitalik.jpg
     rockstar: true
@@ -428,6 +435,7 @@
     name: "Haluk"
     surname: "Altunel"
     title: "Dr. Program Manager"
+    company: "Softtech"
     bio: "Program Manager at Softtech and Part Time Faculty at METU Informatics Institute."
     thumbnailUrl: haluk.jpg
     rockstar: true
@@ -463,6 +471,7 @@
     name: "Onur"
     surname: "Kayabaşı"
     title: "Mobile Software Developer"
+    company: "Hepsiburada"
     bio: "Onur has been developing Android applications since 2011. After developing apps for different sectors from media to shopping in mobile agencies, in 2014 he has joined to mobile application development team of Hepsiburada.com, which is the biggest online e-commerce company in Turkey ."
     thumbnailUrl: onur.jpg
     rockstar: true
@@ -472,6 +481,7 @@
     name: "Gökberk"
     surname: "Ergün"
     title: "Mobile Software Developer"
+    company: "Hepsiburada"
     bio: "Graduated from Bogazici university at 2010. Worked in several software projects at Turkcell,n11,tmob as software developer. Working at Hepsiburada Android app since 2014 November."
     thumbnailUrl: gokberk.jpg
     rockstar: true
@@ -481,6 +491,7 @@
     name: "Semih"
     surname: "Yağcıoğlu"
     title: "Senior Software Engineer"
+    company: "MITS"
     bio: "Semih is a software developer. He likes to solve problems and get things done. He is a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision and works at MITS on mobile and web."
     thumbnailUrl: semih.jpg
     rockstar: true
@@ -493,6 +504,7 @@
     name: "Kaan"
     surname: "Mamikoglu"
     title: "Mobile Developer"
+    company: "mobiwise"
     bio: "I am currently a mobile developer at mobiwise and a senior in Computer Engineering major at the Anadolu University. I have developed or helped to develop some apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am also co-organizer of the Google Developer Group (GDG) Eskişehir."
     thumbnailUrl: kaan.jpg
     rockstar: true
@@ -513,7 +525,8 @@
     name: "Murat Can"
     surname: "Bur"
     title: "Mobile Developer"
-    bio: "Currently developing mobile applications for Android and creating awesome stuffs for Mobiwise. He also loves blogging"
+    company: "mobiwise"
+    bio: "Currently developing mobile applications for Android and creating awesome stuffs for mobiwise. He also loves blogging"
     thumbnailUrl: muratcan.jpg
     rockstar: true
     ribbon:
@@ -524,6 +537,7 @@
     name: "Yunus"
     surname: "Ayyıldız"
     title: "Indie Game Developer"
+    company: "gamebra.in"
     bio: "I was born in 1986 in Trabzon, Turkey. Now I’m living in Ankara. I graduated at Middle East Technical University where I am currently pursuing my MBA in Game Technologies. I’ve been developing games for about three years now and I am publishing them under the name gamebra.in."
     thumbnailUrl: yunus.jpg
     rockstar: true
@@ -551,6 +565,7 @@
     name: "Orhun Mert"
     surname: "Şimşek"
     title: "CEO / Mobile Developer"
+    company: "4pps"
     bio: "Mert works on Android since 2011 and he loves it. He is one of the older members of GDG Ankara(Google Developer Groups) He arranged lots of seminars, workshops etc. and had been speaker at them also. He co-founded 4pps with his 3 other friends in 2014. Mert is CEO and Mobile(especially iOS) developer at 4pps but he still loves to speak about Android and other technology stuff."
     thumbnailUrl: orhunmert.png
     rockstar: true
@@ -571,6 +586,7 @@
     name: "Barış"
     surname: "Erdem"
     title: "IT Manager"
+    company: "Koza"
     bio: "Anadolu University Business Administration degree. Koza Publishing Inc. since 2009. I also work as an IT Manager. Unity, Flash, Visual Design, Web technologies among my interests."
     thumbnailUrl: bariserdem.jpg
     rockstar: true
@@ -589,6 +605,7 @@
     name: "Burak"
     surname: "Çakıl"
     title: "Cloud Solutions Consultant"
+    company: "IBM"
     bio: " Graduated from Yıldız Technical University Computer Engineering department.Continues to MSc in same department. Working at IBM since 2007 and since 2013 he is Cloud Solutions Consultant."
     thumbnailUrl: burakcakil.jpg
     rockstar: true
@@ -597,6 +614,7 @@
     id: 49
     name: "Çiğdem"
     surname: "Çavdaroğlu"
+    company: "KoçSistem"
     title: "Analysis and Design Leader"
     bio: "Çiğdem Çavdaroğlu graduated from Yıldız Technical University, Mathematics Engineering Department in  2003. She received her M.Sc. degree and Ph.D. degree from Yıldız Technical University in Remote Sensing and Geographic Information Systems in 2006 and 2013. Her research interests include image processing, medical image processing, special algorithms about image processing problems, human-computer interaction and augmented reality. Currently she is working as R&D Analysis and Design Leader at KoçSistem."
     thumbnailUrl: cigdem.jpg
@@ -607,6 +625,7 @@
     name: "Kerem"
     surname: "İnceçayır"
     title: "Founder of SOFNOD"
+    company: "SOFNOD"
     bio: "Born in Ankara in 1980. After graduating from Hacettepe University Hydrogeological Engineering in 2003, starting with geographical information systems (GIS) development, his software development career is going on with both desktop and web based systems development. Nowadays, with his own company SOFNOD, he manages projects for GIS, web based systems and mobile systems. His interests are information systems, big data, statistical analysis, intelligent systems and IOT. He has been a member of GDG Ankara since 2013."
     thumbnailUrl: kerem.png
     rockstar: true
@@ -632,6 +651,7 @@
     name: "Mehmet Sedat"
     surname: "Kurt"
     title: "Co-Founder at 4pps"
+    company: "4pps"
     bio: "I have started to mobile developing by GDG Ankara. At the beginning, I was interested in for some curious or fun, now I feel myself as a front-end developer. After graduation from Hacettepe University Computer Engineering, me and my friends have founded the 4PPS company and for a last year we try to make mobile solutions for problems we met."
     thumbnailUrl: sedatkurt.jpg
     rockstar: true

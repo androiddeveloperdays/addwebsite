@@ -258,6 +258,7 @@
     name: "Mustafa"
     surname: "Tan"
     title: "Genel Müdür"
+    company: "OBSS"
     bio: "İTÜ Endüstri Mühendisliği mezunu. 2000 yılından bu yana başta Finans ve Telekom olmak üzere IT dünyasındaki çeşitli kurumsal yazılım geliştirme projelerinde yer aldı. 2008 yılından itibaren ise Apple ile başlayan akıllı telefon dünyasına girerek native mobil uygulama geliştirme projelerinde yer almaya başladı. 2012 yılından bu yana da kurucu ortak olarak OBSS Mobile’ın Genel Müdürlüğünü ve 2015'in başında kurulan OBSS Robotics'in de yöneticiliğini yapıyor."
     thumbnailUrl: mtan.png
     rockstar: true
@@ -266,6 +267,7 @@
     id: 20
     name: "Naci"
     surname: "Dai"
+    company: "eteration"
     title: "Baş Bilim Adamı ve Kurucu"
     bio: "Naci Eteration A.Ş’nin kurucusu ve baş bilim adamıdır. Kendisi hem mentör hem de eğitimcidir. Naci ObjectLearn kurucusudur ve 2000 yılında Açık Kaynak kodlu olan ve JavaEE geliştirme için kullanılan ObjectWeb Lomboz™ ‘u yazmıştır. Açık kaynaklara aktif katkıda bulunmaktadır, özellikle ObjectWeb Consortium ve Eclipse Foundation. Eteration’dan önce BEA Systems Inc. ve The Object People’de profesyonel servislerde yönetici müdür olarak çalışmıştır. Carleton University, Ottawa, Canada’dan doktora derecesini güçlü bir tabanla Applied Engineering and Computational Physics’den almıştır. Sabancı Üniversitesinde fakülte üyesi olarak nesne teknolojileri,web geliştirme ve dağıtık hesaplama konularında ders vermektedir. Eteration, ObjectWeb Consortium ve Eclispe Web Tools Platform Project (WTP), Proje yönetim komitesi üyesidir. Naci WTP PMC üyesidir ve ObjectWeb’i temsil etmektedir ve Eclipse Java Standart Araçları alt projesine liderlik yapmaktadır. Eteration ayrıca WTP projesine araçlar,geliştirici kaynakları ve sunucu altyapısı sağlamaktadır. Eclipse Community Education Project (ECESIS projesine de kaynak eğitimi araçları ve derslerle ilgili materyaller sağlamaktadır."
     thumbnailUrl: naci.jpeg
@@ -317,6 +319,7 @@
     id: 22
     name: "Can"
     surname: "Elmas"
+    company: "Monitise"
     title: "Yazılım Geliştirme Yöneticisi"
     bio: "Can Elmas Monitise’da Yazılım Geliştirme Yöneticisidir.2014 senesinde Monitise tarafından satın alınan Pozitron’da 7 sene önce stajyer olarak iş hayatına başlayan Can, şu an şirketin 25 kişilik Android ve Windows Phone yazılım ekiplerini yönetmekte ve bu ekibiyle mobil bankacılık, mobil ödemeler ve mobile ticaret çözümleri geliştirmektedir. Can teknoloji geliştirme sürecini planlamanın yanı sıra ekibine Android alanındaki başarılı geliştirme örnekleri konusunda da yol göstermektedir.Can Monitise’ın 2014 yılında lanse ettiği CodeCamp İstanbul projesini yürüterek, Türkiye’nin ilk yazılım geliştiricilerine yönelik Android bootcamp’inin hayata geçmesine katkıda bulunmuştur. Hürriyet ve Webrazzi gibi öncü medya organlarının da yakından takip ettiği bu etkinlik çerçevesinde, Can ve ekibi 1.5 hafta boyunca en iyi geliştirme ve tasarım prensiplerini katılımcılara yoğun bir program altında sunmuştur. Ofis dışınca Can, Galatasaray Üniversitesi’nde konuk öğretmen, Android Developer Days ve Google’un geliştirici etkinliklerinde de konuşmacı olarak deneyimlerini Android alanındaki meraklılar ile paylaşmaktadır. Can, Saint-Joseph Fransız Lisesi’nden mezun olduktan sonra Galatasaray Üniversitesi’nde Bilgisayar Mühendisliği lisans öğrenimini tamamlamıştır."
     thumbnailUrl: canelmas.jpg
@@ -346,6 +349,7 @@
     id: 25
     name: "Redi"
     surname: "Gokaj"
+    company: "Codemodeon"
     title: "Kurucu Ortak, Codemodeon'da Yenilik ve Teknoloji Direktörü"
     bio: "Redi, ilk başlarda birçok yazılım ürünlerinde çalışmıştır. Havayolu yazılımları,e-ticaret, mobil uygulamalar,bulut bilişim ve interaktif oyun geliştirme gibi konularda tecrübeli bir profesyoneldir. Şimdi Codemodeon'da Kurucu Ortak, Yenilik ve Teknoloji Direktörüdür. İnteraktif oyunlar tasarlayıp üretmektedir. Görevi insanları eğlendiren müthiş deneyimler üretmektir. Bugünlerde genel olarak popülerleşen Sanal Gerçeklik uygulamalarına yönelmiştir."
     thumbnailUrl: redi.jpg
@@ -355,6 +359,7 @@
     id: 26
     name: "Kenan"
     surname: "Sevindik"
+    company: "Harezmi"
     title: "Danışman"
     bio: "Kenan Sevindik farklı Java teknolojilerini kullanarak kurumsal uygulama geliştirme konusunda 15 yıldan fazla bir deneyime sahiptir. Java ile tanışıklığı 1998 yılına kadar uzanmaktadır. Java ile çalışmaya o dönemde uzaktan eğitim programları için geliştirdiği Java applet'ları ile başlamıştır. Spring Application Framework, Spring Security Framework, Hibernate Persistence Framework gibi çeşitli kurumsal Java teknoloji ve frameworkleri ile ilk çıktıkları dönemden bu yana çalışmalarını sürdürmektedir. Hali hazırda, kurumsal yazılım geliştirme faaliyetlerine devam etmenin yanında, Java, OOP, Tasarım Örüntüleri, AOP, Spring, Spring Security, Hibernate gibi konularda eğitim ve danışmanlık hizmetleri de vermektedir. Teknoloji içerikli seminerlerde ve organizasyonlarda konuşmacı olarak yer almaktadır. 2015 Şubat ayında Wiley Publishing tarafından yayımlanan “Beginning Spring” isimli kitabın yazarlarındandır. Bilgisayar Mühendisliği diplomasına sahip olan Kenan Sevindik'in teknik içerikli paylaşımlarına http://blog.harezmi.com.tr adresinden ulaşabilirsiniz."
     thumbnailUrl: kenansevindik.png
@@ -375,6 +380,7 @@
     id: 28
     name: "Bruce C "
     surname: "Jenkins"
+    company: "HP"
     title: "AppSec Program Strategist"
     bio: "Bruce C Jenkins HP Fortify güvenlik programına liderlik etmektedir ve müşterilerle sık sık Yazılım Güvenlik Güvencesi (YGG) program tasarımı,ölçümü ve raporlaması üzerine çalışmaktadır. 2007'den beri YGG çözümleri oluşturmaktadır ve birçok endüstri sektörü için güvenlik ölçüm verileri toplamaktadır. Bruce 28 yıllık geliştirmeyi ve operasyonları yöneten US Hava Kuvvetleri emektarıdır ve CISO-, CSO- and CIO-dengi pozisyonlarda bulunmuştur. Bruce bir CISSP, CSSLP ve CISM'dır, ve Bilgisayar Bilimleri mezunu ve yönetim bilimi Yüksek lisansı sahibidir."
     thumbnailUrl: bcjenkins.png
@@ -417,6 +423,7 @@
     id: 32
     name: "Vitaliy"
     surname: "Zasadnyy"
+    company: "GetSocial"
     title: "Kıdemli Unity 3D Geliştiricisi"
     bio: "Vitaliy bir mobil yazılım geliştirici olup GDG Lviv ve GameDev Community Lviv kurucuları arasındadır. Oyun geliştirme, Android, iOS, Google AppEngine ve topluluk yönetimi konularına ilgilidir. EPAM gibi kurumsal firmalarda çalıştığı gibi NRavo gibi yeni kurulan firmalarda da çalışmıştır. Son zamanlarda Unity 3D’ye odaklanmış bir ekibin başındadır ve aynı zamanda TEDx konuşmacısıdır."
     thumbnailUrl: vitalik.jpg
@@ -428,6 +435,7 @@
     id: 33
     name: "Haluk"
     surname: "Altunel"
+    company: "Softtech"
     title: "Dr. Program Yöneticisi"
     bio: "Softtech'te Program Yöneticisi ve ODTÜ Enformatik Enstitüsünde Yarı Zamanlı Fakülte Üyesi."
     thumbnailUrl: haluk.jpg
@@ -463,6 +471,7 @@
     id: 36
     name: "Onur"
     surname: "Kayabaşı"
+    company: "Hepsiburada"
     title: "Mobil Yazılım Geliştiricisi"
     bio: "Kadir Has Üniversitesi Bilgisayar Mühendisliği mezunu olan Onur, 2011'den beri Android uygulamaları geliştirmektedir. Mobil ajanslarda medyadan alışverişe birçok sektörle ilgili çeşitli uygulamalar geliştirdikten sonra 2014 yılında Türkiye'nin en büyük online satış platformu olan Hepsiburada.com'un mobil uygulama geliştirme ekibine katılmıştır."
     thumbnailUrl: onur.jpg
@@ -472,6 +481,7 @@
     id: 37
     name: "Gökberk"
     surname: "Ergün"
+    company: "Hepsiburada"
     title: "Mobil Yazılım Geliştiricisi"
     bio: "2010 yılında Boğaziçi Üni. Bilgisayar Müh.'den mezun oldum. Turkcell, n11, tmob'da çeşitli yazılım projelerinde yazılım geliştirici olarak görev aldım. Kasım'14 ten beri Hepsiburada Android uygulamasında çalışmaktayım. "
     thumbnailUrl: gokberk.jpg
@@ -481,6 +491,7 @@
     id: 39
     name: "Semih"
     surname: "Yağcıoğlu"
+    company: "MITS"
     title: "Uzman Yazılım Mühendisi"
     bio: "Semih, bir yazılım geliştiricidir. Sorunları çözmeyi ve işleri halletmeyi sever. Hacettepe Bilgisayar Bilimleri’nde Bilgisayarlı Görü üzerine doktora çalışmalarına devam eden Semih, aynı zamanda MITS’te mobil ve web üzerine çalışmaktadır."
     thumbnailUrl: semih.jpg
@@ -493,6 +504,7 @@
     id: 38
     name: "Kaan"
     surname: "Mamikoglu"
+    company: "mobiwise"
     title: "Mobil Geliştirici"
     bio: "mobiwise'da mobil geliştirici ve aynı zamanda Anadolu Üniversitesi Bilgisayar Mühendisliği bölümü son sınıf öğrencisiyim. Google Play Store ve Apple App Store'daki birçok mobil uygulamanın geliştirme ekibinde yer aldım. Google Developer Group (GDG) Eskişehir organizatörlerinden biriyim."
     thumbnailUrl: kaan.jpg
@@ -513,6 +525,7 @@
     id: 40
     name: "Murat Can"
     surname: "Bur"
+    company: "mobiwise"
     title: "Mobil Uygulama Geliştiricisi"
     bio: "Android için mobil uygulamalar geliştirmektedir ve Mobiwise için harika şeyler yaratmaktadır. Blog yazmayı da sevmektedir."
     thumbnailUrl: muratcan.jpg
@@ -524,6 +537,7 @@
     id: 41
     name: "Yunus"
     surname: "Ayyıldız"
+    company: "gamebra.in"
     title: "Bağımsız Oyun Geliştirici"
     bio: "Yunus Ayyıldız, ODTÜ/Oyun Teknolojileri Yüksek Lisans öğrencisi, 3 seneye yakın METU-TECH ATOM bünyesinde bulunan gamebra.in adlı takımda tek kişi bağımsız oyun geliştiricisidir. Rop'dan başka daha önce bireysel çıkarttığı 'twelve' ve 'Pop to Save' adlı oyunlarının yanı sıra Kanadalı publisher olan Noodlecake ile global feature olan 'Joinz' adlı bir oyunu daha vardır."
     thumbnailUrl: yunus.jpg
@@ -551,6 +565,7 @@
     id: 44
     name: "Orhun Mert"
     surname: "Şimşek"
+    company: "4pps"
     title: "CEO / Mobil Geliştirici"
     bio: "GDG Ankara’nın eski üyelerinden biri olan Mert, 2011’den beri aktif olarak Android ile ilgileniyor. Android üzerine birçok çalışma gerçekleştirip, yine çok sayıda eğitimler/seminerler vermiştir. 2014’te yine GDG Ankara’daki ekip arkadaşlarıyla 4PPS adından bir mobil yazılım start-up’ı kurdu. Şirkette yöneticilik ve iOS geliştiricilik görevini üstlenen Mert, yine de özellikle Android konusunda konuşmaktan ve eğitim vermekten büyük keyif alıyor."
     thumbnailUrl: orhunmert.png
@@ -571,6 +586,7 @@
     id: 46
     name: "Barış"
     surname: "Erdem"
+    company: "Koza"
     title: "IT Yöneticisi"
     bio: "Anadolu Universitesi İşletme mezunuyum. 2009 yılından beri Koza Yayın Dağıtım AŞ. de bilişim sorumlusu olarak çalışıyorum. Unity, Flash, Görsel Tasarım, web teknolojileri ilgi alanlarım arasında."
     thumbnailUrl: bariserdem.jpg
@@ -589,6 +605,7 @@
     id: 48
     name: "Burak"
     surname: "Çakıl"
+    company: "IBM"
     title: "Bulut Çözümleri Teknik Danışmanı"
     bio: "Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Mezunudur. Aynı bölümde Yüksek Lisans öğrenimine devam etmektedir. 2007 yılından beri IBM' de çalışmakta olup, 2013 yılından itibaren Bulut Çözümleri Teknik Danışmanı olarak görev yapmaktadır."
     thumbnailUrl: burakcakil.jpg
@@ -598,6 +615,7 @@
     id: 49
     name: "Çiğdem"
     surname: "Çavdaroğlu"
+    company: "KoçSistem"
     title: "Analiz ve Tasarım Lideri"
     bio: "Çiğdem Çavdaroğlu, 2003 yılında Yıldız Teknik Üniversitesi Matematik Mühendisliği bölümünden mezun oldu. Yıldız Teknik Üniversitesi – Uzaktan Algılama ve Coğrafi Bilgi Sistemleri bölümünden 2006 yılında yüksek lisans, 2013 yılında doktora derecelerini aldı. Araştırma alanları görüntü işleme, tıbbi görüntü işleme, görüntü işleme problemlerinde özel algoritmalar, insan-bilgisayar etkileşimi ve artırılmış gerçeklik konularını kapsamaktadır. Şu anda KoçSistem’de Ar-Ge biriminde Analiz ve Tasarım Lideri olarak çalışmaktadır."
     thumbnailUrl: cigdem.jpg
@@ -607,6 +625,7 @@
     id: 50
     name: "Kerem"
     surname: "İnceçayır"
+    company: "SOFNOD"
     title: "SOFNOD'un Kurucusu"
     bio: "1980 yılında Ankara’da doğdu. Hacettepe Üniversitesi Hidrojeoloji Mühendisliğinden mezun olduktan sonra coğrafi bilgi sistemleri ile başlayan yazılım geliştirme süreci, 2003 yılından beri birçok konuda masaüstü ve web tabanlı sistemler için geliştirilen yazılımlarla devam etmiştir. Halen kurucusu olduğu SOFNOD şirketi ile coğrafi bilgi sistemleri, web tabanlı sistemler, mobil sistemler için yazılım projelerini yönetmektedir. Bilgi sistemleri, büyük veri, istatistiksel analiz, akıllı sistemler ve nesnelerin interneti ilgi alanları içerisindedir. 2013 yılından beri GDG Ankara üyesidir."
     thumbnailUrl: kerem.png
@@ -632,6 +651,7 @@
     id: 53
     name: "Mehmet Sedat"
     surname: "Kurt"
+    company: "4pps"
     title: "4pps Ortak Kurucusu"
     bio: "Mobil uygulama geliştirme ile GDG Ankara yoluyla tanıştım. Biraz merak biraz eğlence için çıktığım bu yolda front-end geliştirici olarak işlerimi sürdürmekteyim. Hacettepe Üniversitesi Bilgisayar Mühendisliğinden mezun olduktan çok kısa süre sonra arkadaşlarımla birlikte 4PPS firmasını kurduk ve son 1 yıldır önümüze çıkan problemlere mobil çözümler üretmeye çalışıyoruz."
     thumbnailUrl: sedatkurt.jpg

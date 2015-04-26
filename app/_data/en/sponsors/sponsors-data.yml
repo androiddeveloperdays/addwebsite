@@ -27,6 +27,7 @@
     - {name: "Robotistan", description: "", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
     - {name: "Mobillium", description: "", link: "http://www.mobillium.com/", imageUrl: "mobilium.png"}
     - {name: "Makey", description: "", link: "http://makey.com.tr/", imageUrl: "makey.jpg"}
+    - {name: "Koza", description: "", link: "http://www.kozayayin.com.tr/", imageUrl: "koza.png"}
 -
   group: "Book Sponsors"
   elements: 
@@ -71,6 +72,7 @@
     - {name: "teknosektör", description: "teknosektör", link: "http://teknosektor.com/", imageUrl: "teknosektor.png"}
     - {name: "Teknolo", description: "Teknolo", link: "http://www.teknolo.com/", imageUrl: "teknolo.png"}
     - {name: "Webmasto", description: "Webmasto", link: "http://www.webmasto.com/", imageUrl: "webmasto.png"}
+    - {name: "SonLvL", description: "SonLvL", link: "http://www.sonlvl.com/", imageUrl: "sonlvl.png"}
 - 
   group: "Digital Media Sponsors"
   elements: 
