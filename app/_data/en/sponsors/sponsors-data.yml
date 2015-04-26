@@ -29,6 +29,11 @@
     - {name: "Makey", description: "", link: "http://makey.com.tr/", imageUrl: "makey.jpg"}
     - {name: "Koza", description: "", link: "http://www.kozayayin.com.tr/", imageUrl: "koza.png"}
 -
+  group: "With Support of"
+  elements:
+    - {name: "ODTU Teknokent", description: "ODTU Teknokent", link: "http://www.odtuteknokent.com.tr/", imageUrl: "odtu_teknokent.png"}
+
+-
   group: "Book Sponsors"
   elements: 
     - {name: "Abaküs Kitap", description: "Abaküs Kitap", link: "http://www.abakuskitap.com/tr", imageUrl: "abakus.jpg"}
