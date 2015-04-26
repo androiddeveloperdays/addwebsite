@@ -326,6 +326,7 @@
     name: "Selim"
     surname: "Ekizoğlu"
     title: "Software Developer"
+    company: "ThoughtWorks"
     bio: "Selim Ekizoglu began his career creating browser based 3D worlds in 2008. In 2010, he joined a Palo Alto based startup where he initially became a full stack developer and gained experience in web and mobile platforms. In 2014 he joined Thoughtworks Turkey where he is focusing on continuous deployment and devops."
     thumbnailUrl: selimekizoglu.jpg
     rockstar: true
@@ -334,6 +335,7 @@
     id: 24
     name: "Alper"
     surname: "Mermer"
+    company: "ThoughtWorks"
     title: "Senior QA Consultant"
     bio: "Graduating from Hacettepe University Computer Science and Engineering, Alper Mermer has been testing in both Turkish and International companies for more than 7 years. Having experience in all the levels of testing life cycles in TELCO, Finance and E-Commerce sectors, he is now a Senior QA Consultant at THoughtWorks Turkey."
     thumbnailUrl: alpermermer.jpg
@@ -394,6 +396,7 @@
     id: 30
     name: "Alperen"
     surname: "Eraslan"
+    company: "STM"
     title: "Expert Software Developer"
     bio: "Alperen Eraslan is a mobile and web application developer with 2 years of app development experience and 3 years of experience in software development in defense industry. His main focus area is iOS application development. Currently he is an expert software engineer at S.T.M. A.Ş."
     thumbnailUrl: alperen.png
@@ -403,6 +406,7 @@
     id: 31
     name: "Doruk"
     surname: "Pancaroğlu"
+    company: "ThoughtWorks"
     title: "Expert Software Developer"
     bio: "Doruk Pancaroğlu is born in 1989. He graduated from Sabanci University in 2010, majoring in Computer Engineering. In 2014, he completed his graduate studies at TOBB ETU, again majoring in Computer Engineering. He is working as an Expert Software Engineer at STM A.S. since 2012."
     thumbnailUrl: doruk.png
