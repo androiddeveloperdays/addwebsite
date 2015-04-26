@@ -568,3 +568,10 @@
     subtype: presentation
     speakers: [67]
     language: en
+-
+    id: 172
+    title: "Importance of micro-interactions"
+    description: "Importance of micro-interactions"
+    subtype: presentation
+    speakers: [29]
+    language: en

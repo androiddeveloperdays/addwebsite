@@ -569,3 +569,10 @@
     subtype: presentation
     speakers: [67]
     language: en
+-
+    id: 172
+    title: "Uygulamalarda Geri Bildirimin Önemi"
+    description: "Uygulamalarda Geri Bildirimin Önemi"
+    subtype: presentation
+    speakers: [29]
+    language: en

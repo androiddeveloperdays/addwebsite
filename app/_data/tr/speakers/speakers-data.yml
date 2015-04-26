@@ -384,9 +384,9 @@
     surname: "Yesugey"
     company: "Google"
     title: "Developer Relations"
-    bio: ""
+    bio: "Yeni teknolojileri seven bir mühendis olarak aynı hisleri paylaşan diğer geliştiricileri birbirine bağlamağı çok seviyorum. Takımım developer.android.com'daki teknik ve zengin içeriğin arkasında. Üçüncü parti geliştiricilerin ihtiyaçlarını Google içerisinde savunuyorum ve aynı zamanda dış dünyada Google teknolojileri için misyonerlik yapıyorum. Son teknolojileri hakkında yazan,konuşan ve öğretmeyi seven geliştiriciler ve partnerler ile görüşmeyi tanışmayı seviyorum. Uygulamalarında ve işlerinde Google platformlarını kullanan üçüncü parti geliştiriciler ile yakından çalışıyorum ve MENA bölgesindeki geliştirici topluluklarını destekliyor ve büyütüyorum."
     thumbnailUrl: BarisYesugey.jpg
-    rockstar: false
+    rockstar: true
     ribbon:
       - {abbr: "Google", title: "Googler", url: "https://google.com"}
     social: 

@@ -385,7 +385,7 @@
     title: "Developer Relations"
     bio: "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on developers.google.com<br><br>I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies.<br><br>By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region."
     thumbnailUrl: BarisYesugey.jpg
-    rockstar: false
+    rockstar: true
     ribbon:
       - {abbr: "Google", title: "Googler", url: "https://google.com"}
     social: 
