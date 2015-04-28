@@ -473,8 +473,8 @@
     language: en
 -
     id: 158
-    title: "Android and the Seven Dwarfs"
-    description: "Android is a great and terrific OS. Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great opensource libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries below will be covered with example code, advantages, disadvantages, internals and when to use them.<br>Doc: Butterknife<br>Sneezy: Dagger<br>Bashful: Volley/OkHttp<br>Sleepy: GreenBus/Otto<br>Dopey: GreenDao/OrmLite<br>Happy: Priority-JobQueue<br>Grumpy: Retrofit"
+    title: "Android ve Yedi Cüceler"
+    description: "Android harika ve felaket bir işletim sistemi. Java tabanlı programlama ortamı hızlı ve kolay öğrenme sağlamakla birlikte bir sürü problemi de beraberinde getiriyor.Android ile gelen httpclient sorunlu ve eski kalmış. Java'nın programlama modeli UI dışı işler için thread kullanımına teşvik etmiyor. Anonymous inner class kullanımı kötü bir koda sebep oluyor ve liste bu şekilde devam ediyor. Aşağıdaki kütüphaneler kod örnekleri,avantaj ve dezavantajları ve ne zaman kullanılması gibi bilgilerle anlatılacaktır:<br>Doc: Butterknife<br>Sneezy: Dagger<br>Bashful: Volley/OkHttp<br>Sleepy: GreenBus/Otto<br>Dopey: GreenDao/OrmLite<br>Happy: Priority-JobQueue<br>Grumpy: Retrofit"
     subtype: presentation
     speakers: [55,56]
     language: tr
