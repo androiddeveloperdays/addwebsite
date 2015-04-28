@@ -558,7 +558,7 @@
 -
     id: 170
     title: "IBM MobileFirst Platform Analytics ile uygulama performansınızı güçlendirin"
-    description: ""
+    description: "IBM MobileFirst Operational Analytics ile uygulamanızdan, adaptörlerinizden, cihazlarınızdan ve loglarınızdan topladığınız verilerle uygulamanızın zayıf yanlarını tespit ederek, uygulamanızı sağlamlaştırın! "
     subtype: presentation
     speakers: [68]
     language: tr
@@ -576,3 +576,17 @@
     subtype: presentation
     speakers: [29]
     language: en
+-
+    id: 173
+    title: "Ankara’da Girişimcilik Eko-Sistemi"
+    description: "Ankara’da girişimcilikle ilgili eko-sistemi, destekler, ihtiyaçlar ve Ankara Kalkınma Ajansı’nın rolü."
+    subtype: presentation
+    speakers: [69]
+    language: tr
+-
+    id: 174
+    title: "REST API Tasarım - Uygulama Pratikleri"
+    description: "REST Api, yalnızca isimlerin URL yapınıza konulması ile ilgili değildir. Güvenlik, yetkilendirme, kaynaklar, sorgular, sayfalama, HTTP önbelleği düşünmeniz gereken diğer boyutlar. Bu oturumda hem bir Backend geliştirici hem de Android geliştirici olarak deneyimlerimi paylaşacağım."
+    subtype: presentation
+    speakers: [70]
+    language: tr

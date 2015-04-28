@@ -779,6 +779,24 @@
     surname: "Meriç"
     company: "IBM"
     title: "Teknik Danışman"
-    bio: ""
-    thumbnailUrl:
+    bio: "Hatice Meriç, lisansını Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünde tamamladı. 2010-2012 yılları arasında, IBM  Yazılım bölümünde IT Uzmanı olarak, çeşitli telekomünikasyon firmalarında proje bazlı çalıştı. Devamında ise IBM Innovation Center bünyesinde Teknik Danışman olarak başladığı görevini hala devam ettirmektedir. Uzmanlık alanları: Bulut bilişim, Mobil uygulama geliştirme ve Nesnelerin Interneti. "
+    thumbnailUrl: hatice.jpg
+    social:
+-
+    id: 69
+    name: "İbrahim"
+    surname: "Erkan"
+    company: "Ankara Kalkınma Ajansı"
+    title: "Koordinatör"
+    bio: "Lisans ve lisans üstü çalışmalarımı istatistik alanında tamamladım. İstatistiksel modelleme, kalite kontrol, altı sigma, istatistiksel yazılım ve algoritma geliştirme, endüstriyel verilerin analizi ve biyoenformatik alanları üzerine akademik ve uygulamalı çalışmalar yaptım. 2003 – 2007 yılları arasında Orta Doğu Teknik Üniversitesi’nde araştırma görevlisi olarak çalıştıktan sonra özel sektöre geçtim. Uzman istatistikçi olarak, Türkiye’nin önde gelen sanayi kuruluşlarına istatistiksel kalite eğitimleri ve istatistiksel kalite danışmanlığı verdim. Aynı zamanda akademik ve teknik yazılımların satış operasyonlarını yönettim. 2010 yılında Ankara Kalkınma Ajansı’na katıldıktan sonra bilim, teknoloji ve yenilik yoluyla bölgesel kalkınmanın sağlanmasına yönelik çalışmalar yapmaya başladım. Ajans Ankara’da özellikle girişimciliğin ve girişimcilik eko-sisteminin  gelişmesini amaçlamaktadır. Bu kapsamda teknolojik alanlara öncelik verilmiştir. Ben de Ajans’ta yatırım destek ve tanıtım hizmetleri vermekteyim. Şimdiki ana odak noktam, katma değeri yüksek sektörlerde girişimciliğin gelişmesine ve Ankara’ya bu alanda yapılacak doğrudan yatırımların artmasına katkı sağlamaktır."
+    thumbnailUrl: ie.jpg
+    social:
+-
+    id: 70
+    name: "Burak"
+    surname: "Aydın"
+    company: "4pps"
+    title: "CEO"
+    bio: "Burak 4pps mobil yazılım şirketinin kurucu ortaklarından biri. Son iki yıldır backend ve android geliştirici olarak çalışıyor. Inovatif ürünler geliştirmek amacıyla quadcopterler, arduino, raspberry pi ve ble cihazlarıyla ilgileniyor. Meraklı, Kahve sever, bisikletçi."
+    thumbnailUrl: burakaydin.jpg
     social:

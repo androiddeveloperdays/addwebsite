@@ -557,7 +557,7 @@
 -
     id: 170
     title: "Power up App Performance with IBM MobileFirst Platform Analytics"
-    description: ""
+    description: "IBM MobileFirst Operational Analytics collects data about applications, adapters, devices, and logs to give a high-level view of the client interaction with the IBM MobileFirst Platform Server and to enable problem detection."
     subtype: presentation
     speakers: [68]
     language: tr
@@ -575,3 +575,17 @@
     subtype: presentation
     speakers: [29]
     language: en
+-
+    id: 173
+    title: "Entrepreneurship Ecosystem in Ankara"
+    description: "Entrepreneurship Ecosystem in Ankara,supports,needs and role of Ankara Development Agency."
+    subtype: presentation
+    speakers: [69]
+    language: tr
+-
+    id: 174
+    title: "REST API Design - Best Practices"
+    description: "REST Api isn't only about putting nouns in your URL structure. You have to think about security, authorization, resources, queries, pagination, HTTP Caching. In this presentation we will discuss these topics and I will share my experiences as a Backend Developer and also Android Developer."
+    subtype: presentation
+    speakers: [70]
+    language: tr

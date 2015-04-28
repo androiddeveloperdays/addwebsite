@@ -778,6 +778,24 @@
     surname: "Meriç"
     company: "IBM"
     title: "Technical Consultant"
-    bio: ""
-    thumbnailUrl:
+    bio: "Hatice Meriç has a Bachelor of Science degree in Computer Engineering from Yildiz Technical University. In 2010-2012, she was working as an IT Specialist in IBM Turkey Software Services for various telecommunication projects. She has been working as Technical Consultant in IBM Istanbul Innovation Center since 2012. Areas of expertise: Cloud, Mobile and IoT."
+    thumbnailUrl: hatice.jpg
+    social:
+-
+    id: 69
+    name: "İbrahim"
+    surname: "Erkan"
+    company: "Ankara Kalkınma Ajansı"
+    title: "Coordinator"
+    bio: "I studied statistics during my BSc and PhD and got involved in many different areas such as statistical modeling, quality control, six sigma, statistical software and algorithm development, industrial data analysis and bioinformatics. I worked as a research assistant in the Middle East Technical University from 2003 to 2007 and switched to the private sector. As a statistical expert, I provided statistical quality trainings as well as statistical quality consultancy to many reputable Turkish companies. I also managed sales operations of academic and technical software products in the same company. Having joined Ankara Development Agency in 2010, I started working on regional development by means of science, innovation and technology. The Agency specifically aims the development of entrepreneurship in Ankara. As the Coordinator of Investment Support Expert at the Agency, my roles are to contribute to the development of entrepreneurship in Ankara city as well as to the promotion of inward investments."
+    thumbnailUrl: ie.jpg
+    social:
+-
+    id: 70
+    name: "Burak"
+    surname: "Aydın"
+    company: "4pps"
+    title: "CEO"
+    bio: "I am one of the founder of 4pps mobile development company. I work as backend and android developer for two years. I also try some hacks on quadcopters, arduino, raspberry pi and ble devices for create innovative products. Deep in curiosity, coffee lover, cycler."
+    thumbnailUrl: burakaydin.jpg
     social:
