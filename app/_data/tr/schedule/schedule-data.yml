@@ -48,7 +48,7 @@
             parallel: 1,
             startTime: "12:45",
             endTime: "13:45",
-            sessionIds: [503]
+            sessionIds: [175,503]
         }
         - {
             parallel: 1,
@@ -148,7 +148,7 @@
             parallel: 1,
             startTime: "12:45",
             endTime: "13:45",
-            sessionIds: [503]
+            sessionIds: [175,503]
         }
         - {
             parallel: 1,
@@ -160,7 +160,7 @@
             parallel: 1,
             startTime: "14:30",
             endTime: "14:45",
-            sessionIds: [307]
+            sessionIds: [176,307]
         }
         - {
             parallel: 1,

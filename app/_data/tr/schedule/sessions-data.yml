@@ -532,7 +532,7 @@
     title: "Samsung B2B SDKlarına Giriş"
     description: "Samsung B2B SDKlarını hızlıca kullanmaya başlayacak bazı ipuçlarını öğreneceksiniz. SDKları nereden alacağınız ve mobil kurumsal çözümler için sınırsız fırsatları nasıl kodlayacağınızı öğreneceksiniz."
     subtype: workshop
-    speakers: [58]
+    speakers: [71]
     language: en
 -
     id: 167
@@ -589,4 +589,18 @@
     description: "REST Api, yalnızca isimlerin URL yapınıza konulması ile ilgili değildir. Güvenlik, yetkilendirme, kaynaklar, sorgular, sayfalama, HTTP önbelleği düşünmeniz gereken diğer boyutlar. Bu oturumda hem bir Backend geliştirici hem de Android geliştirici olarak deneyimlerimi paylaşacağım."
     subtype: presentation
     speakers: [70]
+    language: tr
+-
+    id: 175
+    title: "Hayalini Anlat Sunumları - A Salonu"
+    description: "Yaklaşık 10 konuşmacı hayalini kısa sunumlarla dinleyicilerle paylaşacak."
+    subtype: presentation
+    speakers:
+    language: tr
+-
+    id: 176
+    title: "Hayalini Anlat Ödül Töreni - A Salonu"
+    description: "En iyi hayal sunumuna ödül verilecektir."
+    subtype: presentation
+    speakers:
     language: tr

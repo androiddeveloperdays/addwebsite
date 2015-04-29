@@ -589,3 +589,17 @@
     subtype: presentation
     speakers: [70]
     language: tr
+-
+    id: 175
+    title: "Dream Talks - Room A"
+    description: "Nearly 10 speakers will share their dreams with attendees in small presentations."
+    subtype: presentation
+    speakers:
+    language: tr
+-
+    id: 176
+    title: "Dream Talks Winners - Room A"
+    description: "Dream Talk winner will be announced and will be given prize."
+    subtype: presentation
+    speakers:
+    language: tr
