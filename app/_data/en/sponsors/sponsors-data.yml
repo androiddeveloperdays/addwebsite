@@ -85,7 +85,11 @@
   group: "Digital Media Sponsors"
   elements: 
     - {name: "Girişim Haber", description: "Girişimcilik ekosistemimiz ile ilgili tüm gelişmeleri takip edebileceğiniz Girişim odaklı haber kaynağı. Takibe alın, takipte kalın...", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg"}
-- 
+-
+  group: "Digital Communication Sponsors"
+  elements:
+    - {name: "İzlesene", description: "İzlesene", link: "http://www.izlesene.com/", imageUrl: "izlesene.png"}
+-
   group: "Youth and Communication Sponsors"
   elements: 
     - {name: "Üniaktivite", description: "Üniaktivite, Türkiye’nin en popüler üniversite kampüsü. Üniaktivite’de gençlik etkinlikleri ve üniversite kulüplerini takip edebilir, kariyerine yön verecek bir çok haberi bulabilir, sana ulaşmak isteyen markalara kolayca ulaşabilirsin. Ayrıca sevdiğin kategorilerdeki blog yazılarını okuyabilir, yazar olarak kendini gösterebilir, bir çok yeni arkadaşlıklar kurabilirsin.", link: "http://uniaktivite.com/", imageUrl: "uniaktivite.png"}
