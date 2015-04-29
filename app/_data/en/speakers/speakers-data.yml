@@ -799,3 +799,12 @@
     bio: "I am one of the founder of 4pps mobile development company. I work as backend and android developer for two years. I also try some hacks on quadcopters, arduino, raspberry pi and ble devices for create innovative products. Deep in curiosity, coffee lover, cycler."
     thumbnailUrl: burakaydin.jpg
     social:
+-
+    id: 71
+    name: "Murat"
+    surname: "Gök"
+    company: "Samsung"
+    title: "Mobile Solutions Manager"
+    bio: "Murat Gök graduated from Yildiz Technical University, Electonics and Communication Engineering department and completed MBA at Maltepe University. He is working in Samsung Electronics Turkey, Enterprise Business Team as Mobile Solutions Manager."
+    thumbnailUrl: muratgok.jpg
+    social:

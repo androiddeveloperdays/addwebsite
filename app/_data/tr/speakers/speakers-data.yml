@@ -800,3 +800,12 @@
     bio: "Burak 4pps mobil yazılım şirketinin kurucu ortaklarından biri. Son iki yıldır backend ve android geliştirici olarak çalışıyor. Inovatif ürünler geliştirmek amacıyla quadcopterler, arduino, raspberry pi ve ble cihazlarıyla ilgileniyor. Meraklı, Kahve sever, bisikletçi."
     thumbnailUrl: burakaydin.jpg
     social:
+-
+    id: 71
+    name: "Murat"
+    surname: "Gök"
+    company: "Samsung"
+    title: "Mobil Çözümler Yöneticisi"
+    bio: "Murat Gök Yıldız Teknik Üniversitesi Elektronik ve İletişim Mühendisliği bölümü ve Maltepe Üniversitesi MBA bölümü mezunudur. Samsung Elektronics Türkiye'de Kurumsal İş Takımında Mobil Çözümler Yöneticisi olarak çalışmaktadır."
+    thumbnailUrl: muratgok.jpg
+    social:
