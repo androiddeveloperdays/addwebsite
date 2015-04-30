@@ -26,11 +26,12 @@
     - {name: "Reeder", description: "Reeder", link: "http://www.reeder.com.tr/", imageUrl: "reeder.png"}
     - {name: "4pps", description: "4pps", link: "http://4pps.co/", imageUrl: "4pps.png"}
     - {name: "HP", description: "HP", link: "http://www8.hp.com/tr/tr/home.html", imageUrl: "hp.jpg"}
-    - {name: "", description: "", link: "", imageUrl: "lookvrlogo.png"}
+    - {name: "", description: "", link: "http://look-vr.com/", imageUrl: "lookvrlogo.png"}
     - {name: "Robotistan", description: "", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
     - {name: "Mobillium", description: "", link: "http://www.mobillium.com/", imageUrl: "mobilium.png"}
     - {name: "Makey", description: "", link: "http://makey.com.tr/", imageUrl: "makey.jpg"}
     - {name: "Koza", description: "", link: "http://www.kozayayin.com.tr/", imageUrl: "koza.png"}
+    - {name: "Mobiwise", description: "", link: "http://mobiwise.co/", imageUrl: "mobiwise.png"}
 -
   group: "With Support of"
   elements:
@@ -61,6 +62,7 @@
     - {name: "BT Yaşam", description: "Bilgi Teknolojileri, İnternet, Güvenllik, Donanım, Yazılım", link: "http://www.btyasam.com/", imageUrl: "btyasam.png"}
     - {name: "Detail Haber", description: "Detail Haber", link: "http://www.detailhaber.com/", imageUrl: "detail.png"}
     - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chip.png"}
+    - {name: "AndroidPIT", description: "AndroidPIT", link: "https://www.androidpit.com.tr/", imageUrl: "androidpit.png"}
 - 
   group: "Entertainment Sponsors"
   elements: 
