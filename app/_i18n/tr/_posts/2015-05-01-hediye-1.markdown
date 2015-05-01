@@ -21,10 +21,11 @@ TV'lerden birisi Philips Standında bir yarışma ile verilecektir. Diğer TV is
 
 #### Akıllı Telefonlar ve Tabletler, Toplam 12 Cihaz ve 1x Philips TV
 
-| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/samsungs6.png" style="max-width: 200px"/> | <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/generalmobile.jpg" style="max-width: 200px"/> | <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/reeder.jpg" style="max-width: 200px"/> | <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/philips.jpeg" style="max-width: 200px"/> |
-
-
-1x General Mobile Discovery Air,1x General Mobile Discovery 2,4x General Mobile Discovery 2 mini,1x Reeder A7iM Quad,1x Reeder A8i 32 GB,1x Reeder A10iQ,1x Reeder A7i,1x Reeder P8 , 1x Samsung Galaxy S6 or S6 Edge,1x PhilipsTV.
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/samsungs6.png" style="max-width: 200px"/> |     Samsung Galaxy S6 or S6 Edge |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/philips.jpeg" style="max-width: 200px"/> |    Philips TV model 49PUS7909 |
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/p8.jpg" style="max-width: 200px"/> | Reeder P8 |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7i.jpg" style="max-width: 200px"/>| Reeder A7i |
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a10iq.jpg" style="max-width: 200px"/> | Reeder A10iQ| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a8i32gb.jpg" style="max-width: 200px"/> | Reeder A8i 32 GB|
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7im_quadcore_4.jpg" style="max-width: 200px"/> |Reeder A7iM Quad|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2mini.jpg" style="max-width: 200px"/> |4x General Mobile Discovery 2 mini|
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2.jpg" style="max-width: 200px"/> |General Mobile Discovery 2|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discoveryair.jpg" style="max-width: 200px"/> |General Mobile Discovery Air|
 
 Her oturumda bir kod duyurulacak ve bu kodu ADD 15 uygulaması üzerinden girebileceksiniz. İki gün boyunca ne kadar çok oturuma katılırsanız hediye kazanma ihtimaliniz o kadar artacaktır.  Hediyeler ikinci günün sonunda verilecektir. Teşekkürler Samsung,Philips,General Mobile ve Reeder!
 
@@ -45,5 +46,7 @@ Kitaplar konferans boyunca oturumlarda ve standt alanı içerisinde küçük yar
 #### 20x 50TL Robotistan Hediye Çeki
 
 Hediye çekleri konferans boyunca standt alanı içerisinde küçük yarışmalarda verilecektir. Teşekkürler Robotistan!
+
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/robotistan.png" style="max-width: 300px"/>
 
 #### Eşantiyonlar: Katılımcılar kayıt masasından çanta, not defteri ve kalem alabilirler. 
