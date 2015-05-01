@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft Android Uygulamalarını Ödüllendiriyor"
 date:   2015-04-29 09:00:00
-isStaticPost: false
+isStaticPost: true
 ---
 
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/fbflyer.jpg" style="max-width: 600px"/>
