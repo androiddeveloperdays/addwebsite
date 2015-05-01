@@ -25,7 +25,7 @@ TV'lerden birisi Philips Standında bir yarışma ile verilecektir. Diğer TV is
 | <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/p8.jpg" style="max-width: 200px"/> | Reeder P8 |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7i.jpg" style="max-width: 200px"/>| Reeder A7i |
 | <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a10iq.jpg" style="max-width: 200px"/> | Reeder A10iQ| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a8i32gb.jpg" style="max-width: 200px"/> | Reeder A8i 32 GB|
 |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7im_quadcore_4.jpg" style="max-width: 200px"/> |Reeder A7iM Quad|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2mini.jpg" style="max-width: 200px"/> |4x General Mobile Discovery 2 mini|
-|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2.jpg" style="max-width: 200px"/> |General Mobile Discovery 2|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discoveryair.jpg" style="max-width: 200px"/> |General Mobile Discovery Air|
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2.png" style="max-width: 200px"/> |General Mobile Discovery 2|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discoveryair.jpg" style="max-width: 200px"/> |General Mobile Discovery Air|
 
 Her oturumda bir kod duyurulacak ve bu kodu ADD 15 uygulaması üzerinden girebileceksiniz. İki gün boyunca ne kadar çok oturuma katılırsanız hediye kazanma ihtimaliniz o kadar artacaktır.  Hediyeler ikinci günün sonunda verilecektir. Teşekkürler Samsung,Philips,General Mobile ve Reeder!
 
