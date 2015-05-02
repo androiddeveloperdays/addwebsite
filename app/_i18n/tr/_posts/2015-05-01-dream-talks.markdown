@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hayalini Anlat Yarışması"
-date:   2015-05-02 09:00:00
+date:   2015-05-01 09:00:00
 isStaticPost: false
 ---
 <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/dream2.jpg" style="max-width: 300px"/>
