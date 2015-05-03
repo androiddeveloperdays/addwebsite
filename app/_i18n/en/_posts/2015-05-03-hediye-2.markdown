@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Gifts for attendees:Smart Phones,Books – Episode 2-"
+date:   2015-05-03 09:00:00
+isStaticPost: false
+---
+
+It is a pleasure for us to announce Episode 2 for the gifts for attendees. Gifts are planned to be given away in  “Gift Draws” session on second day unless specified explicity. Here is what you need to do in order to win a gift.
+
+* You need to [register to ADD](http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607) to have chance to get these gifts.
+* Get your badge on event day.
+* Attend to sessions and send session codes that will be given during the session using event [mobile app](https://play.google.com/store/apps/details?id=co.fourapps.add).
+* Attend to Gift Draws session on the second day of the event.
+
+#### Here is the second part of gifts:
+
+#### 4x Samsung Galaxy S6 or S6 Edge
+
+Attent to Google Keynote,Microsoft Keynote,Samsung Talk and Workshop, get the session code and send it through event app. Get a chance to win a Samsung Galaxy S6 or S6 Edge.
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/samsungs6.png" style="max-width: 300px"/>
+
+#### 40x Seckin Publishing Books
+
+Books will be given away during the conference in sessions and some small contests in booth space.Thank you Seckin Publishing!
+
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/seckin1.jpg" style="max-width: 200px"/>|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/seckin2.jpg" style="max-width: 200px"/>|
+
+#### 8x Smashing Magazine Books
+
+Books will be given away during the conference in sessions and some small contests in booth space.Thank you Smashing Magazine!
+
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/smashing.png" style="max-width: 200px"/>
+
+#### 300x 1 Month PcNet Membership
+
+Membership will be given away during the conference in some small contests in booth space.Thank you PcNet!
