@@ -347,16 +347,6 @@
     rockstar: true
     social:
 -
-    id: 25
-    name: "Redi"
-    surname: "Gokaj"
-    company: "Codemodeon"
-    title: "Kurucu Ortak, Codemodeon'da Yenilik ve Teknoloji Direktörü"
-    bio: "Redi, ilk başlarda birçok yazılım ürünlerinde çalışmıştır. Havayolu yazılımları,e-ticaret, mobil uygulamalar,bulut bilişim ve interaktif oyun geliştirme gibi konularda tecrübeli bir profesyoneldir. Şimdi Codemodeon'da Kurucu Ortak, Yenilik ve Teknoloji Direktörüdür. İnteraktif oyunlar tasarlayıp üretmektedir. Görevi insanları eğlendiren müthiş deneyimler üretmektir. Bugünlerde genel olarak popülerleşen Sanal Gerçeklik uygulamalarına yönelmiştir."
-    thumbnailUrl: redi.jpg
-    rockstar: true
-    social:
--
     id: 26
     name: "Kenan"
     surname: "Sevindik"
@@ -715,15 +705,6 @@
     title: "Yönetici Ortak"
     bio: "İstanbul Kültür Üniversitesi Bilgisayar Mühendisliği Bölümü'nü bitirdi. Kendi blogunda girişimcilik konularında yazılar paylaşarak tecrübelerini diğer girişimcilere aktarıyor. 1999 yılından bu yana internet projeleri geliştiren Yaşar, halen İmza İnternet Teknolojileri firmasının kurucu ortağı olarak indir.com ve oyna.com projelerini yönetiyor."
     thumbnailUrl: hasanyasar.jpg
-    social:
--
-    id: 62
-    name: "Muzaffer"
-    surname: "Gölcü"
-    company: "General Mobile"
-    title: ""
-    bio: ""
-    thumbnailUrl:
     social:
 -
     id: 63

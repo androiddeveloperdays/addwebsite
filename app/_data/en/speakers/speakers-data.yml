@@ -346,16 +346,6 @@
     rockstar: true
     social:
 -
-    id: 25
-    name: "Redi"
-    surname: "Gokaj"
-    company: "Codemodeon"
-    title: "Co-Founder, Innovation and Technology Director at Codemodeon"
-    bio: "Previously, Redi has been working in a wide range of software products. He is an experienced professional on airline software, e-commerce, mobile applications, cloud-computing and interactive game development. Now he is Co-Founder, Innovation and Technology Director at Codemodeon. He gets to design and produce interactive games. His mission is to produce great experiences that entertain people. Mainly he is focused on Virtual Reality applications that nowadays are becoming very popular."
-    thumbnailUrl: redi.jpg
-    rockstar: true
-    social:
--
     id: 26
     name: "Kenan"
     surname: "Sevindik"
@@ -714,15 +704,6 @@
     title: "Cofounder"
     bio: "He accomplished Istanbul Kultur University, Computer engineering department.He shares his experiences with other entrepreneurs by writing articles about entrepreneurship on his own blog.Since 1999, Yaşar who had developed web projects, is still managing www.oyna.com and www.indir.com projects as managing  partner of 'İmza İnternet Teknolojileri'."
     thumbnailUrl: hasanyasar.jpg
-    social:
--
-    id: 62
-    name: "Muzaffer"
-    surname: "Gölcü"
-    company: "General Mobile"
-    title: ""
-    bio: ""
-    thumbnailUrl:
     social:
 -
     id: 63
