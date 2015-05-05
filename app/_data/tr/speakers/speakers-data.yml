@@ -201,6 +201,8 @@
         - {name: "twitter", link: "https://twitter.com/pareshmayani"}
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
+        - {name: "site", link: "http://www.technotalkative.com/"}
+        - {name: "stackoverflow", link: "http://stackoverflow.com/users/379693/paresh-mayani"}
 -
     id: 15
     name: "Martin"
@@ -808,4 +810,13 @@
     title: "Mobil Çözümler Yöneticisi"
     bio: "Murat Gök Yıldız Teknik Üniversitesi Elektronik ve İletişim Mühendisliği bölümü ve Maltepe Üniversitesi MBA bölümü mezunudur. Samsung Elektronics Türkiye'de Kurumsal İş Takımında Mobil Çözümler Yöneticisi olarak çalışmaktadır."
     thumbnailUrl: muratgok.jpg
+    social:
+-
+    id: 72
+    name: "Yağız"
+    surname: "Hatay"
+    company: "Codemodeon"
+    title: "Ortak Kurucu & Yonetici"
+    bio: "Yağız, İstanbul’da ikamet eden bilgisayar mühendisi olup aynı zamanda oyun geliştirme ve interaktif konularında çalışan CodeModeOn firmasının kurucularındandır. Zorlu işler onu motive eder. Kodun tasarımla buluştuğu yerde onu bulabilirsiniz. Görselliği zengin ve interaktif uygulamalar geliştirme konusunda oldukça heveslidir."
+    thumbnailUrl: YagizFoto-291x300.png
     social:

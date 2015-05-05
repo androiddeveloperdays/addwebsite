@@ -201,6 +201,8 @@
         - {name: "twitter", link: "https://twitter.com/pareshmayani"}
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
+        - {name: "site", link: "http://www.technotalkative.com/"}
+        - {name: "stackoverflow", link: "http://stackoverflow.com/users/379693/paresh-mayani"}
 -
     id: 15
     name: "Martin"
@@ -807,4 +809,13 @@
     title: "Mobile Solutions Manager"
     bio: "Murat Gök graduated from Yildiz Technical University, Electonics and Communication Engineering department and completed MBA at Maltepe University. He is working in Samsung Electronics Turkey, Enterprise Business Team as Mobile Solutions Manager."
     thumbnailUrl: muratgok.jpg
+    social:
+-
+    id: 72
+    name: "Yağız"
+    surname: "Hatay"
+    company: "Codemodeon"
+    title: "Co-founder & Managing Director"
+    bio: "Yağız is a computer engineer who lives in Istanbul and works on game development and interactive subjects. He is co-founder of Codemodeon. Challenging things motivates him. You can find him where code meets with the design. He likes developing high visuality interactive apps too much."
+    thumbnailUrl: YagizFoto-291x300.png
     social:
