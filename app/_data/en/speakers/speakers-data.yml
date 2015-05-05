@@ -192,7 +192,7 @@
     surname: "Mayani"
     company: "InfoStretch Solutions"
     title: "Senior Software Engineer"
-    bio: "Paresh is a mobile application developer with 5 years of apps development experience. Currently he is Senior Software Engineer at InfoStretch Solutions Pvt. Ltd, India. He has been exploring android development since Android 1.5. His passion for Google Technologies brought him to lead Google Developers Group Ahmedabad, India. He is very active in supporting Android developers community in India and worldwide be it through his tech blog “TechnoTalkative” http://www.technotalkative.com/ (published >150 articles) or through StackOverflow http://stackoverflow.com/users/379693/paresh-mayani (holder of >50,000 reputation)."
+    bio: "Paresh is a mobile application developer with 5 years of apps development experience. Currently he is Senior Software Engineer at InfoStretch Solutions Pvt. Ltd, India. He has been exploring android development since Android 1.5. His passion for Google Technologies brought him to lead Google Developers Group Ahmedabad, India. He is very active in supporting Android developers community in India and worldwide be it through his tech blog <a href='http://www.technotalkative.com/'>TechnoTalkative</a> (published >150 articles) or through <a href='http://stackoverflow.com/users/379693/paresh-mayani'>StackOverFlow</a> (holder of >50,000 reputation)."
     thumbnailUrl: paresh2.jpg
     rockstar: true
     ribbon:
@@ -202,7 +202,6 @@
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
         - {name: "site", link: "http://www.technotalkative.com/"}
-        - {name: "stackoverflow", link: "http://stackoverflow.com/users/379693/paresh-mayani"}
 -
     id: 15
     name: "Martin"

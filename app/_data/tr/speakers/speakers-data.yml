@@ -192,7 +192,7 @@
     surname: "Mayani"
     company: "InfoStretch Solutions"
     title: "Kıdemli Yazılım Mühendisi"
-    bio: "Paresh 5 yıllık uygulama geliştirme tecrübesi olan mobil uygulama geliştiricisidir. Şu an InfoStretch Solutions Pvt. Ltd, Hindistan, şirketinde uzman yazılım geliştiricidir. Android 1.5 versiyonundan beri Android üzerinde geliştirme yapma ile ilgili araştırmalar yapıyor. Google teknolojilerine olan hayranılı onu GDG Ahmedabad’in liderliğine götürdü. Hindistandaki android geliştiricilerini destekleme konusunda çok aktif olan Paresh, “TechnoTalkative” http://www.technotalkative.com/ (150'den fazla makale) adlı blogunda ve StackOverFlow’da http://stackoverflow.com/users/379693/paresh-mayani (50000'den fazla puan ile) Dünya’daki geliştiricilere de yardımcı olmaya çalışıyor."
+    bio: "Paresh 5 yıllık uygulama geliştirme tecrübesi olan mobil uygulama geliştiricisidir. Şu an InfoStretch Solutions Pvt. Ltd, Hindistan, şirketinde uzman yazılım geliştiricidir. Android 1.5 versiyonundan beri Android üzerinde geliştirme yapma ile ilgili araştırmalar yapıyor. Google teknolojilerine olan hayranılı onu GDG Ahmedabad’in liderliğine götürdü. Hindistandaki android geliştiricilerini destekleme konusunda çok aktif olan Paresh, <a href='http://www.technotalkative.com/'>TechnoTalkative</a> (150'den fazla makale) adlı blogunda ve <a href='http://stackoverflow.com/users/379693/paresh-mayani'>StackOverFlow’da</a> (50000'den fazla puan ile) Dünya’daki geliştiricilere de yardımcı olmaya çalışıyor."
     thumbnailUrl: paresh2.jpg
     rockstar: true
     ribbon:
@@ -202,7 +202,6 @@
         - {name: "github", link: "https://github.com/PareshMayani"}
         - {name: "linkedin", link: "https://www.linkedin.com/in/pareshmayani"}
         - {name: "site", link: "http://www.technotalkative.com/"}
-        - {name: "stackoverflow", link: "http://stackoverflow.com/users/379693/paresh-mayani"}
 -
     id: 15
     name: "Martin"
