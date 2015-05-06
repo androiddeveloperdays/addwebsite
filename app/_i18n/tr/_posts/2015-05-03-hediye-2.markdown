@@ -34,3 +34,7 @@ Kitaplar konferans boyunca oturumlarda ve standt alanı içerisinde küçük yar
 #### 300x 1 Aylık PcNet Aboneliği
 
 Üyelikler konferans boyunca standt alanı içerisinde küçük yarışmalarda verilecektir. Teşekkürler PcNet!
+
+#### Fiziksel Web Beaconları
+
+Andreu Ibanez'in oturumunda soru cevap kısmında ilgi çekici soru soranlara fiziksel web beaconları verilecektir.
