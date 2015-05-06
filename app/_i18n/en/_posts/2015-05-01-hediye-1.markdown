@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Gifts for attendees:Smart Phones, Tablets, Books and Swags – Episode 1-"
+date:   2015-05-01 09:00:00
+isStaticPost: false
+---
+
+It is a pleasure for us to announce these gifts for attendees. There will a second post about gifts in ADD. Gifts are planned to be given away in  “Gift Draws” session on second day unless specified explicity. Here is what you need to do in order to win a gift.
+
+* You need to [register to ADD](http://www.eventbrite.com/e/android-developer-days-2015-registration-14846274607) to have chance to get these gifts.
+* Get your badge on event day.
+* Attend to sessions and send session codes that will be given during the session using event [mobile app](https://play.google.com/store/apps/details?id=co.fourapps.add).
+* Attend to Gift Draws session on the second day of the event.
+
+#### Here is the first part of gifts:
+
+#### 2x Philips TV model 49PUS7909
+
+One of the TV will be given in a competition.Go to Philips booth space during the event. And one of the TVs will be given during Gift Draws. Thanks to Philips!
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/philips.jpeg" style="max-width: 600px"/>
+
+#### Smart Phones and Tablets, Totally 12 Devices and 1x Philips TV
+
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/samsungs6.png" style="max-width: 200px"/> |     Samsung Galaxy S6 or S6 Edge |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/philips.jpeg" style="max-width: 200px"/> |    Philips TV model 49PUS7909 |
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/p8.jpg" style="max-width: 200px"/> | Reeder P8 |<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7i.jpg" style="max-width: 200px"/>| Reeder A7i |
+| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a10iq.jpg" style="max-width: 200px"/> | Reeder A10iQ| <img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a8i32gb.jpg" style="max-width: 200px"/> | Reeder A8i 32 GB|
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/a7im_quadcore_4.jpg" style="max-width: 200px"/> |Reeder A7iM Quad|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2mini.jpg" style="max-width: 200px"/> |4x General Mobile Discovery 2 mini|
+|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discovery2.png" style="max-width: 200px"/> |General Mobile Discovery 2|<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/discoveryair.jpg" style="max-width: 200px"/> |General Mobile Discovery Air|
+
+There will be a code that is announced in each session that you can enter in ADD 15 app. The more sessions you attend during two days, the more chance you have, to get one of these devices.  Gifts will be given at then end of second day. Thank you so much Samsung,Philips,General Mobile and Reeder for supporting ADD in various channels.
+
+#### 30 x 100TL Rekmob Ad Coupon
+
+Ad Coupons will be delivered from Rekmob booth space. Thanks to Rekmob!
+
+#### 10 x 3 Month Free Vidobu.com Membership
+
+You can win the Vidobu.com Membership by playing games on the GDG booth space. Thank you Vidobu.com!
+
+#### 50x Abakus Books
+
+Books will be given away during the conference in sessions and some small contests in booth space.Thank you Abakus!
+
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/abakuskitap.jpg" style="max-width: 200px"/>
+
+#### 20x 50TL Robotistan Gift Card
+
+Gift Cards will be given away during the conference in some small contests in booth space.Thank you Robotistan!
+
+<img class="img-responsive" src="{{ site.baseurl_root }}/img/posts/robotistan.png" style="max-width: 300px"/>
+
+#### Swags: Attendees can get a bag, notebook and pencil from registration desk.
