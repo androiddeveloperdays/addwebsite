@@ -190,7 +190,7 @@
             parallel: 1,
             startTime: "16:45",
             endTime: "17:05",
-            sessionIds: [171,143,155,163]
+            sessionIds: [171,143,177,163]
         }
         - {
             parallel: 1,

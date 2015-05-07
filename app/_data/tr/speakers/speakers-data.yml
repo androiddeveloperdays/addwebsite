@@ -504,15 +504,6 @@
       - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
 -
-    id: 52
-    name: "Aygul"
-    surname: "Zagidullina"
-    title: "Topluluk Yönetimi ve Destek Lideri"
-    bio: "Dünyamızı teknoloji ve bilim aracılığıyla daha iyi bir hale getirmek kesinlikle en büyük tutkum. Almanya’da ve Rusya’da yer alan iki Google Geliştirici Grubu’nun topluluk yöneticisi, Google En Çok Katkıda Bulunanı, küresel Women Techmakers topluluğunun aktif bir üyesi, çevirmen, kuantum kimyacısı, klasik eğitimli müzisyen olmamın yanı sıra kitlesel açık çevrimiçi kurs ve vatandaş bilimi meraklısıyım. Çalışmadığım ve topluluğa katkı sağlamadığım zamanlarda gezmekten, spor yapmaktan, yeni diller öğrenmekten ve iyi müzik dinlemekten keyif alırım."
-    thumbnailUrl: aygul.jpg
-    rockstar: true
-    social:
--
     id: 40
     name: "Murat Can"
     surname: "Bur"
@@ -799,4 +790,13 @@
     title: "Ortak Kurucu & Yonetici"
     bio: "Yağız, İstanbul’da ikamet eden bilgisayar mühendisi olup aynı zamanda oyun geliştirme ve interaktif konularında çalışan CodeModeOn firmasının kurucularındandır. Zorlu işler onu motive eder. Kodun tasarımla buluştuğu yerde onu bulabilirsiniz. Görselliği zengin ve interaktif uygulamalar geliştirme konusunda oldukça heveslidir."
     thumbnailUrl: YagizFoto-291x300.png
+    social:
+-
+    id: 73
+    name: "Yasin"
+    surname: "Çetiner"
+    company: "Volt"
+    title: "Android Geliştiricisi"
+    bio: "YTÜ Bilgisayar Mühendisliği bölümü mezunuyum. 4 yılı aşkın sürede çeşitli yazılım şirketlerinde web ve mobil uygulamalar üzerine calıştim. Web Development ile başladığım kariyerime Android, Windows Phone ve Windows Store uygulamaları geliştirerek devam ettim. Yaklaşık 1 yıldır Volt'ta android developer olarak çalışıyorum."
+    thumbnailUrl: yasin.jpg
     social:

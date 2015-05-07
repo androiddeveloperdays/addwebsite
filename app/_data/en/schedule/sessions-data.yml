@@ -603,3 +603,10 @@
     subtype: presentation
     speakers:
     language: tr
+-
+    id: 177
+    title: "Map-based Application Development "
+    description: "The map interface of location-based applications not only provides an interactive user experience but is also improving ease of use. In this presentation, we will be looking into the details of map integration and possible solutions to potential problems that we may face. "
+    subtype: presentation
+    speakers: [73]
+    language: tr

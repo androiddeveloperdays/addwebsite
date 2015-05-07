@@ -503,15 +503,6 @@
       - {abbr: "GDG", title: "Google Developer Group Eskişehir", url: "https://developers.google.com/groups/"}
     social:
 -
-    id: 52
-    name: "Aygul"
-    surname: "Zagidullina"
-    title: "Head of Community Management & Support"
-    bio: "I'm absolutely passionate about making our world a better place through technology and science. I'm community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC), active member of the global Women Techmakers (WTM) community, translator, quantum chemist, classically trained musician as well as MOOC and citizen science enthusiast. When not working or contributing to the community, I enjoy traveling, fitness, learning new languages, and listening to good music."
-    thumbnailUrl: aygul.jpg
-    rockstar: true
-    social:
--
     id: 40
     name: "Murat Can"
     surname: "Bur"
@@ -798,4 +789,13 @@
     title: "Co-founder & Managing Director"
     bio: "Yağız is a computer engineer who lives in Istanbul and works on game development and interactive subjects. He is co-founder of Codemodeon. Challenging things motivates him. You can find him where code meets with the design. He likes developing high visuality interactive apps too much."
     thumbnailUrl: YagizFoto-291x300.png
+    social:
+-
+    id: 73
+    name: "Yasin"
+    surname: "Çetiner"
+    company: "Volt"
+    title: "Android Developer"
+    bio: "I graduated from Yıldız Technical University with a degree in Computer Engineering. I have been working in programming on web and mobile apps for over 4 years. I started my career with web development but have continued with Android, Windows Phone and Windows Store Application development. I joined Volt as Android Developer this past year."
+    thumbnailUrl: yasin.jpg
     social:

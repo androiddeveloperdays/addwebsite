@@ -64,3 +64,4 @@
     - {name: "123 Oyun", description: "", link: "http://www.123oyun.com/", imageUrl: "123.jpg"}
     - {name: "Firatcan Sahin", description: "", link: "http://www.f-sanat.com/", imageUrl: "firatcan.png"}
     - {name: "IDR Solutions", description: "", link: "https://www.idrsolutions.com/", imageUrl: "idr.png"}
+    - {name: "Tekno360", description: "", link: "http://tekno360.com/", imageUrl: "tekno360.png"}

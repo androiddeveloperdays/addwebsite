@@ -604,3 +604,10 @@
     subtype: presentation
     speakers:
     language: tr
+-
+    id: 177
+    title: "Harita Tabanlı Uygulama Geliştirme"
+    description: "Konum bazlı uygulamalarda harita arayüzü interaktif bir deneyimin yanısıra kullanım kolaylığını üst seviyelere taşımakta. Bu sunumda harita entegrasyonun detaylarına girerek karşılaşabileceğimiz problemleri ve çözümlerini ele alacağız. "
+    subtype: presentation
+    speakers: [73]
+    language: tr
