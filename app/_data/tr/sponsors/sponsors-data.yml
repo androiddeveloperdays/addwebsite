@@ -34,6 +34,7 @@
     - {name: "Mobiwise", description: "", link: "http://mobiwise.co/", imageUrl: "mobiwise.png"}
 -
   group: "Destekleri ile"
+  showIndex: true
   elements:
     - {name: "ODTU Teknokent", description: "ODTU Teknokent", link: "http://www.odtuteknokent.com.tr/", imageUrl: "odtu_teknokent.png"}
 -

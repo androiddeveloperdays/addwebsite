@@ -9,3 +9,4 @@
     - {name: "Sanal Yazılım", description: "", link: "http://sanal.mobi/", imageUrl: "sanal.png"}
     - {name: "Tütev", description: "", link: "http://www.tutev.org.tr/", imageUrl: "tutev.png"}
     - {name: "Agile Turkey", description: "", link: "http://www.agileturkey.org/", imageUrl: "agileturkey.jpg"}
+    - {name: "ODTU Teknokent", description: "ODTU Teknokent", link: "http://www.odtuteknokent.com.tr/", imageUrl: "odtu_teknokent.png"}
