@@ -34,12 +34,12 @@
     complexity: "Beginner"
 -
     id: 103
-    title: "Android Test Yenilikleri"
-    description: "Gradle'daki Unit Test desteği, yeni Android Test Support kütüphanesi, Espresso 2.1, JUnit4 ... 2015'te herkes test hakkında konuşuyor! Yenilikleri ve Google'dan gelenleri gözden geçireceğiz. Mutlu testler!"
+    title: "Google Play Services 7.x Yenilikleri"
+    description: "Google Play Servisleri popüler Google servislerini cihaz desteklerini düşünmeden yeni APIleri kullanmanızı sağlar. Bu oturumda en son Google Play Servislerindeki problemler ve özelliklerden bahsedeceğiz, bu satede daha iyi uygulamalar geliştireceğiz!"
     subtype: presentation
     speakers: [3]
     language: en
-    complexity: "Intermediate"
+    complexity: "Beginner"
 -
     id: 104
     title: "Neden Java EE Bir Topluluğa ve Açık Kaynağa İhtiyaç Duyar?"

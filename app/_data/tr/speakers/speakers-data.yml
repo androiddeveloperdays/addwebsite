@@ -40,20 +40,20 @@
     - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
 - 
   id: 3
-  name: "Stephan"
-  surname: "Linzner"
-  company: "Google"
-  title: "Kıdemli Android Platfromu Geliştirici Mühendisi"
-  bio: "Stephan Linzner Google’da Kıdemli Android Platfromu Geliştirici Mühendisi olarak çalışmaktadır. Tecrübeli bir yazılım mühendisi olarak Android Platformunda 6 seneden fazla çalışmıştır. Android Destek Test Kütüphanesinin geliştiricisidir ve Espresso’ya da katkıda bulunmaktadır. Görevi Android geliştiricilerine testler ile kaliteli uygulamalar geliştirmelerinde yardımcı olmaktır."
-  thumbnailUrl: stephan-linzner.jpg
+  name: "Sergey"
+  surname: "Tsybrovskyi"
+  company: "eKreative"
+  title: "Android Geliştirici"
+  bio: "Cheb olarak da bilinir.GDG Cherkasy kurucusu ve 3 yıllık Android geliştiricisidir. Android, Oyun Üretimi,App Engine ve DIY konularına ilgilidir. Bilgisini yerel topluluklar ile ücretsiz android dersleri üzerinden paylaşmayı sevmektedir (Geekhub ve Android Study Jam)"
+  thumbnailUrl: cheb.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Google", title: "Googler", url: "https://google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+StephanLinzner"}
-    - {name: "twitter", link: "https://twitter.com/onlythoughtwork"}
-    - {name: "facebook", link: "https://www.facebook.com/stephan.linzner"}
-- 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+SergeyTsybrovskyi"}
+    - {name: "twitter", link: "TW: https://twitter.com/chebTS"}
+    - {name: "facebook", link: "https://www.facebook.com/bond.aga"}
+-
   id: 4
   name: "Xavier"
   surname: "Hallade"

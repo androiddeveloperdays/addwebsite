@@ -40,19 +40,19 @@
     - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
 - 
   id: 3
-  name: "Stephan"
-  surname: "Linzner"
-  company: "Google"
-  title: "Senior Developer Platform Engineer Android"
-  bio: "Stephan Linzner is Senior Developer Platform Engineer Android at Google. He is an experienced Software Engineer, which has been working on the Android platform for more than 6 years. He is the creator of the Android Support Test library, contributor to Espresso. His mission is to help Android developers to build better quality apps by driven by tests."
-  thumbnailUrl: stephan-linzner.jpg
+  name: "Sergey"
+  surname: "Tsybrovskyi"
+  company: "eKreative"
+  title: "Android Developer"
+  bio: "Also well­known as Cheb. GDG Cherkasy founder and Android developer with 3­year experience. Interested in Android, Game Production, App Engine, DIY. Cheb likes to share his knowledge with local community on free android courses (GeekHub and Android Study Jam)"
+  thumbnailUrl: cheb.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Google", title: "Googler", url: "https://google.com"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+StephanLinzner"}
-    - {name: "twitter", link: "https://twitter.com/onlythoughtwork"}
-    - {name: "facebook", link: "https://www.facebook.com/stephan.linzner"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+SergeyTsybrovskyi"}
+    - {name: "twitter", link: "TW: https://twitter.com/chebTS"}
+    - {name: "facebook", link: "https://www.facebook.com/bond.aga"}
 - 
   id: 4
   name: "Xavier"
