@@ -201,14 +201,6 @@
     language: en
     complexity: "Beginner"
 -
-    id: 124
-    title: "Uygulamanıza Fitness Dokunuşu Ekleyin"
-    description: "Şu ana kadar fitness uygulamaları genel olarak spor firmaları, cihaz üreticileri ve sağlık takibi yapan startuplar tarafından domine edilmiştir. Google Fit ve HealthKit gibi platformların çıkması ile birlikte fitness bileşenlerinin uygulamalara eklenmesi hiç bu kadar basit olmamıştı.\nBu sunumda fitness verilerine  (uygulamanız sağlık uygulaması olmasa bile) nasıl ulaşıp kullanabileceğinizi ve kullanıcılara nasıl daha sağlıklı bir yaşam tarzı sunabileceğinizi keşfedeceksiniz."
-    subtype: presentation
-    speakers: [0]
-    language: en
-    complexity: "Beginner"
--
     id: 125
     title: "Daha İyi Bir (U)Xperience Tasarlayın"
     description: "İyi tasarlanmış bir Android uygulaması yapmak artık yeterli değil. Yapılan tasarım yeni, heyecan verici ve eşşiz olmalıdır.\nBu konuşma, iyi bir tasarımın nasıl müthiş bir hale dönüştürüleceğini gösterecektir. Tasarım becerilerinizi nasıl geliştireceğinize dair noktalar ve ipuçları verilecektir."

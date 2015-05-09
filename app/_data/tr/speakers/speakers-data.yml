@@ -1,17 +1,4 @@
 - 
-  id: 0
-  name: "Matt"
-  surname: "Sullivan"
-  company: "Google"
-  title: "Geliştirici Savunucusu"
-  bio: "Matt Sullivan, Google’da geliştirici savunucusu olarak insanlara sağlık ve fitness uygulamaları geliştirmelerinde yardımcı olmaktadır. Google Fit, Android, Wear, Glass ve diğer teknolojileri kullanarak kullanıcıların ilgisini çekmek ve sağlıklı kalmalarını sağlamak için yeni yollar bulmayı çok seviyor. Önceki hayatında bir çok farklı alanda çalıştı.Bunlar arasında sinema ve tiyatro yazılımları, bioinformatik ve çevrimiçi işbirliği araçları yer almaktadır."
-  thumbnailUrl: matt-sullivan.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "Google", title: "Googler", url: "https://google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
-- 
   id: 1
   name: "Royi"
   surname: "Benyossef"

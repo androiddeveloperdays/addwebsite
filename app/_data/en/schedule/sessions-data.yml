@@ -201,14 +201,6 @@
     language: en
     complexity: "Beginner"
 -
-    id: 124
-    title: "Add a Touch of Fitness to Your Apps"
-    description: "Fitness in apps used to be dominated by sports companies, device manufacturers and dedicated health tracking startups. Now with the advent of platforms like Google Fit and HealthKit, the ability to incorporate fitness elements into apps has never been simpler.In this talk we will explore how to access and use fitness data in novel ways – in apps that may not be fitness focussed – to better engage users and promote healthier lifestyles."
-    subtype: presentation
-    speakers: [0]
-    language: en
-    complexity: "Beginner"
--
     id: 125
     title: "Design a better (U)Xperience"
     description: "Making a good designed Android application is not enough anymore, it has to be fresh, exciting, and unique. This talk will show you how to change a good design to a awesome one. Giving pointers and tips on how to enhance your design skills"

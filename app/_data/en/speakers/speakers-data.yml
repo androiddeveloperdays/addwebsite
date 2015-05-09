@@ -1,17 +1,4 @@
 - 
-  id: 0
-  name: "Matt"
-  surname: "Sullivan"
-  company: "Google"
-  title: "Developer advocate"
-  bio: "Matt Sullivan is a developer advocate at Google where he helps people design and build cool health and fitness apps. He’s a big fan of conjuring up new ways to engage with users and motivate them to stay healthy using technologies like Google Fit, Android, Wear, Glass and many others to create novel fitness experiences. In previous lives he’s worked in varied fields such as cinema and theatrical software, bioinformatics and online collaboration tools."
-  thumbnailUrl: matt-sullivan.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "Google", title: "Googler", url: "https://google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MattSullivan"}
-- 
   id: 1
   name: "Royi"
   surname: "Benyossef"
