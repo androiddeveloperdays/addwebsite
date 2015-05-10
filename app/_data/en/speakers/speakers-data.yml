@@ -770,3 +770,4 @@
     bio: "Aycan Aracı, game designer, organizer, member of GDG İstanbul. A volunteer to develop game industry in Turkey. Working @ Peak Games"
     thumbnailUrl: im.jpg
     social:
+        - {name: "twitter", link: "https://twitter.com/thinksimpler"}

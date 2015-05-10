@@ -771,3 +771,4 @@
     bio: "Aycan Aracı, oyun tasarımıcısı, GDG İstanbul üyesi. Türkiye' de oyun sektörünü geliştirmeye çalışan bir gönüllü. Peak Games' de çalışıyor."
     thumbnailUrl: im.jpg
     social:
+        - {name: "twitter", link: "https://twitter.com/thinksimpler"}
