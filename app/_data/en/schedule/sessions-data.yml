@@ -57,14 +57,6 @@
     language: tr
     complexity: "Beginner"
 -
-    id: 106
-    title: "Mobile Security: Death to Passwords"
-    description: "User authentication in mobile and web applications is a very common and integral use case. Implementing basic authentication is an easy solution for developers but comes with several pitfalls that impair user experience like (re-)entering passwords, the need to create a new unique password or even just the input of personal data on a flaky keyboard while registering a new account.In this talk the security flaws and UX implications of passwords will be discussed and Tim will highlight which different techniques exist that are able to offer a more mobile friendly flow. Highlighting authorization and authentication techniques like OAuth, OpenID Connect and even hardware features like Bluetooth Low Energy this talk will be interesting for anyone who's facing a situation where creating and storing user accounts matters."
-    subtype: presentation
-    speakers: [5]
-    language: en
-    complexity: "Beginner"
--
     id: 107
     title: "CyanogenMod Workshop - Building your own Android OS"
     description: "Learn to build the CyanogenMod based Android OS on your own - no experience required. A step by step guide will be provided to build Lollipop for some of the most popular devices from HTC, LG, Sony and more. Learn how to setup a build environment, sync the Android source, an overview of the Android build system and how to compile the OS for yourself. All you need to bring is an SSH capable laptop and enthusiasm! "
@@ -601,4 +593,11 @@
     description: "The map interface of location-based applications not only provides an interactive user experience but is also improving ease of use. In this presentation, we will be looking into the details of map integration and possible solutions to potential problems that we may face. "
     subtype: presentation
     speakers: [73]
+    language: tr
+-
+    id: 178
+    title: "Android Custom Views"
+    description: "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class. In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance. I will also talk about how to apply Material Design in Custom Views with the support of older platform versions. If you want to be beyond the limits of ordinary, open to innovation and suprise your users, this talk is for you."
+    subtype: presentation
+    speakers: [56]
     language: tr

@@ -57,14 +57,6 @@
     language: tr
     complexity: "Beginner"
 -
-    id: 106
-    title: "Mobil Güvenlik: Şifrelere Ölüm"
-    description: "Kullanıcı doğrulaması mobil ve web uygulamalarında çok yaygındır. Temel bir kullanıcı doğrulama geliştirmek geliştiriciler için kolay bir işlemdir fakat bir çok problemle birlikte gelmektedir. Fakat bu kolay kullanım, (tekrar) şifre girme, yeni bir şifre oluşturmayla uğraşma veya yeni bir hesap oluştururken kişisel bilgilerin tuhaf bir klavye ile girilmeye çalışmak gibi kullanıcı deneyimini kötü etkileyen durumlar oluşturmaktadır.\nBu sunumda güvenlik açıkları ve şifrelerin UX etkileri tartışılacaktır ve Tim daha kullanıcı dostu bir akış yaratabilmek için farklı yöntemlerden bahsedecektir. OAuth, OpenID Connect ve hatta Bluetooth Low Energy gibi donanımsal tekniklerin açıklandığı bu konuşma, kullanıcı hesaplarının oluşturulması ve kayıt edilmesi gibi konuları önemseyen kişiler için ilgi çekici olacaktır."
-    subtype: presentation
-    speakers: [5]
-    language: en
-    complexity: "Beginner"
--
     id: 107
     title: "CyanogenMod Çalıştayı - Kendi Android İşletim Sisteminizi Derleyin"
     description: "CyanogenMod tabanlı Android işletim sisteminizi derlemeyi öğrenin. Herhangi bir deneyim gerekmiyor. Android Lollipop versiyonunu HTC, Sony, LG gibi bir çok popüler cihaza uygun derlemenizi sağlayacak işlemler adım adım anlatılacaktır. Geliştirme ortamının hazırlanması, Android kaynak kodu ile senkronize olunması, Android derleme sistemine genel bakış ve işletim sistemini kendinizin nasıl derleyeceği gibi konuları öğrenceksiniz. Tek ihtiyacınız olan SSH destekli bir laptopunuzu ve heyecan getirmek!"
@@ -602,4 +594,11 @@
     description: "Konum bazlı uygulamalarda harita arayüzü interaktif bir deneyimin yanısıra kullanım kolaylığını üst seviyelere taşımakta. Bu sunumda harita entegrasyonun detaylarına girerek karşılaşabileceğimiz problemleri ve çözümlerini ele alacağız. "
     subtype: presentation
     speakers: [73]
+    language: tr
+-
+    id: 178
+    title: "Android Custom Views"
+    description: "Android Framework'ünde birçok widget var. Bu widget'ler kullanarak uygulama geliştirebilirsiniz ama daha iyi uygulamalar için yeterli değiller. Bu sorunu çözmek için alternatif methodlar var ama! Bunu View sınıfını anlayarak ve extend ederek yapabilirsiniz. Bu sunumda bazı Custom View örnekleri verilecektir. Bazıları imkansız şeyleri yapmanızı sağlayacak bazıları da performansı artıracak. Ayrıca Material Tasarımı custom view'lara uygulayarak ve eski platform versiyonlarını da desteklemeyi göstereceğim. Limitlerin dışına çıkmak ve kullanıcılarınızı şaşırtmak istiyorsanız bu konuşma size göre."
+    subtype: presentation
+    speakers: [56]
     language: tr

@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "Royi"
   surname: "Benyossef"
@@ -56,20 +56,6 @@
     - {name: "twitter", link: "https://twitter.com/ph0b"}
     - {name: "github", link: "https://github.com/ph0b"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/xavierhallade/en"}
-- 
-  id: 5
-  name: "Tim"
-  surname: "Messerschmidt"
-  company: "PayPal"
-  title: "Head of Developer Advocacy"
-  bio: "As a long time mobile and web developer, Tim Messerschmidt channels his knowledge and experience as Braintree's Head of Developer Relation. He is passionate about startups and served as mentor at multiple incubators and accelerators.\nPrior to joining PayPal, Tim worked with Neofonie Mobile and Samsung focusing on several mobile projects. In his spare time, he leads and creates training classes in all sorts of developer-oriented topics, contributes to Open Source projects and is one of the authors of the Mobile Developer’s Guide to the Galaxy. In addition, he authored numerous articles published in print magazines."
-  thumbnailUrl: tim-messerschmidt.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+TimMesserschmidt"}
-    - {name: "twitter", link: "https://twitter.com/seraandroid"}
-    - {name: "github", link: "https://github.com/SeraphimSerapis"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/timmesserschmidt/en"}
 - 
   id: 6
   name: "Abhisek"
@@ -507,7 +493,7 @@
     surname: "Ayyıldız"
     title: "Indie Game Developer"
     company: "gamebra.in"
-    bio: "I was born in 1986 in Trabzon, Turkey. Now I’m living in Ankara. I graduated at Middle East Technical University where I am currently pursuing my MBA in Game Technologies. I’ve been developing games for about three years now and I am publishing them under the name gamebra.in."
+    bio: "I was born in 1986 in Trabzon, Turkey. Now I’m living in Ankara. I graduated at Middle East Technical University where I am currently pursuing my Ms. in Game Technologies. I’ve been developing games for about three years now and I am publishing them under the name gamebra.in."
     thumbnailUrl: yunus.jpg
     rockstar: true
     social:
@@ -785,4 +771,13 @@
     title: "Android Developer"
     bio: "I graduated from Yıldız Technical University with a degree in Computer Engineering. I have been working in programming on web and mobile apps for over 4 years. I started my career with web development but have continued with Android, Windows Phone and Windows Store Application development. I joined Volt as Android Developer this past year."
     thumbnailUrl: yasin.jpg
+    social:
+-
+    id: 74
+    name: "Aycan"
+    surname: "Aracı"
+    company: "Peak Games"
+    title: "QA Speacialist"
+    bio: "Graduated from Computer Education and Instructional Technology – METU. Worked as a game designer – Pixofun. Now, working as QA specialist at Peak Games."
+    thumbnailUrl: aycan.jpg
     social:
