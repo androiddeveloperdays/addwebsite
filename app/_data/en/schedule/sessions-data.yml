@@ -315,7 +315,7 @@
 -
     id: 141
     title: "I Can, But I Won't"
-    description: "Each day a new technology is introduced. Although most of these advancements are fascinating, and creates lots of opportunities, it is now even harder for us to choose which technology to adopt. In this talk we’ll go through some exciting stuff that’s happening or about to happen in the software industry, and by looking at the facts in the history we'll try to answer one question: Where are we heading?"
+    description: "Each day a new technology is introduced. Although most of these advancements are fascinating, and create lots of opportunities, it is now even harder for us to choose which technology to adopt. In this talk we’ll look at this problem from a developer's perspective and try to answer one question, how to adopt a new technology?"
     subtype: presentation
     speakers: [39]
     language: tr

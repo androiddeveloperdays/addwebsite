@@ -315,7 +315,7 @@
 -
     id: 141
     title: "Yapabilirim, Fakat Yapmayacağım"
-    description: "Günümüzde her gün yeni bir teknoloji duyurulmakta. Her ne kadar bu gelişmeler harika olsa ve bir çok fırsat doğursa da, hangi teknolojiyi seçeceğimiz giderek daha zor hale gelmekte. Bu konuşmada yazılım alanında olmakta olan ve yakında olacak olan heyecan verici gelişmelerden bahsedip aynı zamanda geçmişe bakarak bir soruyu yanıtlamaya çalışacağız: Nereye doğru gidiyoruz?"
+    description: "Günümüzde her gün yeni bir teknoloji duyurulmakta. Her ne kadar bu gelişmeler harika olsa ve bir çok fırsat doğursa da, hangi teknolojiyi seçeceğimiz giderek daha zor hale gelmekte. Bu konuşmada bir yazılımcının gözünden bu probleme bakarak bir soruyu yanıtlamaya çalışacağız, yeni bir teknolojiyi nasıl benimsemeliyiz?"
     subtype: presentation
     speakers: [39]
     language: tr

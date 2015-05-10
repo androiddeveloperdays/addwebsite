@@ -83,6 +83,7 @@
     - {name: "Teknolo", description: "Teknolo", link: "http://www.teknolo.com/", imageUrl: "teknolo.png"}
     - {name: "Webmasto", description: "Webmasto", link: "http://www.webmasto.com/", imageUrl: "webmasto.png"}
     - {name: "SonLvL", description: "SonLvL", link: "http://www.sonlvl.com/", imageUrl: "sonlvl.png"}
+    - {name: "Arabica Coffee", description: "Arabica Coffee", link: "http://www.arabicacoffee.com.tr/", imageUrl: "arabica.png"}
 - 
   group: "Dijital Medya Sponsorları"
   elements: 
