@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Katılımcılar için hediyeler. Telefonlar, Tabletler, Kitaplar ve Eşantiyonlar -Bölüm 1-"
-date:   2015-05-01 09:00:00
+date:   2015-05-10 09:00:00
 isStaticPost: false
 ---
 
