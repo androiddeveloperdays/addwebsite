@@ -97,14 +97,6 @@
     language: tr
     complexity: "Beginner"
 -
-    id: 112
-    title: "Android'de Verimli Senkronizasyon"
-    description: "Kullanıcılar epostalarına, rehberine ve notlarına her durumda, çevrimdışı olsalar bile erişmek istiyorlar. Ayrıca tüm bilgilerinin diğer tüm cihazlarına da senkronize olmasını istiyorlar. Anında. Açıkçası bütün bunların da network ve batarya açısından verimli olması gerekiyor. Base uygulamasını geliştirirken Mateusz ve takım arkadaşları bu problemler ile karşılaştı. Oturum sırasında savaş meydanından direk olarak tavsiyeler verilecektir."
-    subtype: presentation
-    speakers: [27]
-    language: en
-    complexity: "Beginner"
--
     id: 113
     title: "Google'dan  Fiziksel Web"
     description: "Fiziksel Web, webin öz süpergücünü (anlık etkileşim) ortaya çıkaracak bir yaklaşımdır. İnsanlar herhangi bir akıllı cihaza gidebilmeli - bir otobüs durağı, bir kahve makinesi, bir poster, bir oyuncak veya bir kiralık arabaya - ve bir uygulama indirmek zorunda olmamalıdır. Herşey sadece bir tıklama kolaylığında olmalı. Bu sunumda katılımcılara Internet of Things temelleri ve birkaç etkileyici istatistik anlatılacaktır. Fiziksel Web, Google'ın Internet of Things'deki akıllı nesnelere önerdiği yaklaşımdır. PW beaconları ile bir canlı demo da yapılacaktır."
@@ -601,4 +593,11 @@
     description: "Android Framework'ünde birçok widget var. Bu widget'ler kullanarak uygulama geliştirebilirsiniz ama daha iyi uygulamalar için yeterli değiller. Bu sorunu çözmek için alternatif methodlar var ama! Bunu View sınıfını anlayarak ve extend ederek yapabilirsiniz. Bu sunumda bazı Custom View örnekleri verilecektir. Bazıları imkansız şeyleri yapmanızı sağlayacak bazıları da performansı artıracak. Ayrıca Material Tasarımı custom view'lara uygulayarak ve eski platform versiyonlarını da desteklemeyi göstereceğim. Limitlerin dışına çıkmak ve kullanıcılarınızı şaşırtmak istiyorsanız bu konuşma size göre."
     subtype: presentation
     speakers: [56]
+    language: tr
+-
+    id: 179
+    title: "Oyun Tasarımlarının Arkasındaki Psikolojiyi Anlamak"
+    description: "Bu konuşmada, oyun tasarımı hakkında konuşacağız. Oyuncu çeşitlerini analiz edip, daha sonra da oyun mekaniklerinin oyunlara duyguları kullanarak nasıl uygulandığını göreceğiz. Sizlere de yanımda bu olayları daha iyi anlamak için 3 tane oyun örneği getirdim."
+    subtype: presentation
+    speakers: [74]
     language: tr

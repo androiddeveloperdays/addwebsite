@@ -97,14 +97,6 @@
     language: tr
     complexity: "Beginner"
 -
-    id: 112
-    title: "Efficient sync on Android"
-    description: "Your users want their emails, contacts and notes being available all the time, even if they are offline. On the other hand, they want all their data synced across all their devices. Instantly. Obviously – all of this needs to be battery and network efficient. While developing the Base app, Mateusz and his teammates had to face those problems. During this session he’ll give you some advices directly from the battlefield."
-    subtype: presentation
-    speakers: [27]
-    language: en
-    complexity: "Beginner"
--
     id: 113
     title: "The Physical Web by Google"
     description: "The Physical Web is an approach to unleash the core superpower of the web: interaction on demand. People should be able to walk up to any smart device - a vending machine, a poster, a toy, a bus stop, a rental car - and not have to download an app first. Everything should be just a tap away. The talk will introduce to the audience to the basics of the Internet of Things and some of the impressively growing stadistics, going after to the core of the speech: The Physical Web, the approach Google is proposing for the Smartobjects in the Internet of Things. A live demo with PW beacons will be issued."
@@ -600,4 +592,11 @@
     description: "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class. In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance. I will also talk about how to apply Material Design in Custom Views with the support of older platform versions. If you want to be beyond the limits of ordinary, open to innovation and suprise your users, this talk is for you."
     subtype: presentation
     speakers: [56]
+    language: tr
+-
+    id: 179
+    title: "Understanding the Psychology Behind Game Design"
+    description: "In this session, we will talk about game design. We analyze player types and then you will see that how game design mechanics implement with emotional frameworks for these players. I bring 3 case studies (game) to show you."
+    subtype: presentation
+    speakers: [74]
     language: tr

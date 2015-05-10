@@ -329,17 +329,6 @@
     rockstar: true
     social:
 -
-    id: 27
-    name: "Mateusz"
-    surname: "Herych"
-    title: "Android Engineer"
-    bio: "Mateusz works as an Android Engineer at Base CRM where he uses his android-abracadabras to make enterprise software users 10 times more productive. Apart from that he's a Google Developer Expert for Android and a GDG Kraków co-organizer."
-    thumbnailUrl: mateusz.png
-    rockstar: true
-    ribbon:
-      - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    social:
--
     id: 28
     name: "Bruce C "
     surname: "Jenkins"
@@ -778,6 +767,6 @@
     surname: "Aracı"
     company: "Peak Games"
     title: "QA Speacialist"
-    bio: "Graduated from Computer Education and Instructional Technology – METU. Worked as a game designer – Pixofun. Now, working as QA specialist at Peak Games."
-    thumbnailUrl: aycan.jpg
+    bio: "Aycan Aracı, game designer, organizer, member of GDG İstanbul. A volunteer to develop game industry in Turkey. Working @ Peak Games"
+    thumbnailUrl: im.jpg
     social:

@@ -78,7 +78,7 @@
             parallel: 1,
             startTime: "15:45",
             endTime: "16:30",
-            sessionIds: [112,116,160~174,117]
+            sessionIds: [179,116,160~174,117]
         }
         - {
             parallel: 1,
