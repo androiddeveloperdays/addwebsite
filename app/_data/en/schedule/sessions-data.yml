@@ -379,7 +379,7 @@
 -
     id: 149
     title: "Modern Web with Polymer Workshop"
-    description: "With new features of Web Component developers have more opportunities to develop modules that can be reused in future projects. Creation of such components is extremely simple with Polymer. As a result boundary between native apps and web becomes thinner."
+    description: "With new features of Web Component developers have more opportunities to develop modules that can be reused in future projects. Creation of such components is extremely simple with Polymer. As a result boundary between native apps and web becomes thinner.<br><br>To get ready, please clone this repostory: <a href='https://github.com/ozasadnyy/polymer-workshop' target='_blank'>https://github.com/ozasadnyy/polymer-workshop</a>"
     subtype: workshop
     speakers: [17]
     language: en

@@ -379,7 +379,7 @@
 -
     id: 149
     title: "Polymer ile Modern Web Çalıştayı"
-    description: "Web Component'in yeni özellikleri ile birlikte geliştiricilerin daha sonra tekrar kullanılabilir modüller geliştirmeleri için bir çok fırsat ortaya çıkmıştır. Bu tarz bileşenleri geliştirmek Polymer ile birlikte oldukça kolaydır. Sonuç olarak native uygulamalar ile web uygulamaları arasında sınır çizgizi oldukça incelmiştir."
+    description: "Web Component'in yeni özellikleri ile birlikte geliştiricilerin daha sonra tekrar kullanılabilir modüller geliştirmeleri için bir çok fırsat ortaya çıkmıştır. Bu tarz bileşenleri geliştirmek Polymer ile birlikte oldukça kolaydır. Sonuç olarak native uygulamalar ile web uygulamaları arasında sınır çizgizi oldukça incelmiştir. <br><br>To get ready, please clone this repostory: <a href='https://github.com/ozasadnyy/polymer-workshop' target='_blank'>https://github.com/ozasadnyy/polymer-workshop</a>"
     subtype: workshop
     speakers: [17]
     language: en
