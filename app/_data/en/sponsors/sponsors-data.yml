@@ -68,7 +68,12 @@
   group: "Entertainment Sponsors"
   elements: 
     - {name: "Codemodeon", description: "Innovative Digital Works", link: "http://www.codemodeon.com/", imageUrl: "codemodeon.png"}
-- 
+-
+  group: "Live Streaming Sponsors"
+  elements:
+    - {name: "Butterfly TV", description: "", link: "https://play.google.com/store/apps/details?id=com.butterfly", imageUrl: "butterfly.png"}
+
+-
   group: "Promotion Sponsors"
   elements: 
     - {name: "Vidobu", description: "Alanında uzman eğitmenlerin anlatımı ile istediğin konuyu öğren ve sertifikasını al.", link: "http://www.vidobu.com/", imageUrl: "vidobu.png"}
