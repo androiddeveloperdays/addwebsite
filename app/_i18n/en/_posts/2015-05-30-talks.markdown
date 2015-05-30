@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Video and Presentation Files of ADD 2015"
+date:   2015-05-30 09:00:00
+isStaticPost: false
+---
+
+Videos and presentation files of the talks are ready! Videos are recorded with the support of [Butterfly TV](https://play.google.com/store/apps/details?id=com.butterfly). Butterfly TV is a live streaming app in public beta stage for Android. Butterfly TV team developed project called Butterfly PI(Butterfly TV +Raspberry PI) by which you can live stream your events with a cost effective solution. Butterfly PI is developed by our community members in a short time to record  and live stream sessions in ADD. Some videos are missing or damaged because of technical problems, sorry for that and enjoy the rest of the videos!
+
+How to watch videos?
+
+Go to event schedule through upper menu of the ADD Website. Click the session that you want to watch videos. Click "View Video" for the video or click "View Presentation" for the presentation file of the event.
+
+Or you can download the [Butterfly TV](https://play.google.com/store/apps/details?id=com.butterfly) Android app and click the Video Links as told above and open the video link with Butterfly TV Android App.
+
+
+        
+

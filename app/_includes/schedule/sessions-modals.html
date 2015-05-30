@@ -18,15 +18,13 @@
 						{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						{% endif %}
-						{% if session.video %}
-						<div class="theme-video embed-responsive embed-responsive-16by9">
-						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
-						</div>
-						{% endif %}
 						<p class="theme-description">{{ session.description }}</p>
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
+                        {% if session.video %}
+                        <a class="theme-presentation" href="{{ session.video }}" title="Video" target="_blank">View Video</a>
+                        {% endif %}
 						<hr>
 						<div class="people-details">
 							{% for speaker in site.data.[site.lang].speakers.speakers-data %}

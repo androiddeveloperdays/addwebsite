@@ -24,6 +24,7 @@
     speakers: []
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi50911431175236380"
 -
     id: 102
     title: "Google-Açılış Konuşması-Salon A-B"
@@ -32,6 +33,7 @@
     speakers: [29]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi76761431191803947"
 -
     id: 103
     title: "Google Play Services 7.x Yenilikleri"
@@ -40,6 +42,7 @@
     speakers: [3]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi66661431178319712"
 -
     id: 104
     title: "Neden Java EE Bir Topluluğa ve Açık Kaynağa İhtiyaç Duyar?"
@@ -64,6 +67,7 @@
     speakers: [6]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi35301431120663272"
 -
     id: 108
     title: "Android için BLE Geliştirmeye Giriş"
@@ -72,6 +76,8 @@
     speakers: [14]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi19361431120950204"
+    presentation: "https://speakerdeck.com/pareshmayani/getting-started-with-android-ble"
 -
     id: 109
     title: "Android Araçları İncelemeleri"
@@ -80,6 +86,8 @@
     speakers: [1]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi42561431188175942"
+    presentation: "https://docs.google.com/presentation/d/1KvmanfQH6itl0K4rn1XcXX60l7B6dCmoqstZvv8nOm0/edit?usp=sharing"
 -
     id: 110
     title: "Android Wear için Geliştirme"
@@ -88,6 +96,7 @@
     speakers: [22]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi86591431130304500"
 -
     id: 111
     title: "PiriBot'un Hikayesi"
@@ -96,6 +105,7 @@
     speakers: [19]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi93751431123035903"
 -
     id: 113
     title: "Google'dan  Fiziksel Web"
@@ -104,6 +114,8 @@
     speakers: [16]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi19131431263330771"
+    presentation: "https://docs.google.com/presentation/d/1GgsjvHupgiamtHCDlqfNvgq7AuuGAjxJwRiBErC3MsU/edit?usp=sharing"
 -
     id: 114
     title: "STM AeroTab™ iOS – Elektronik Uçuş Çantası uygulaması ve kullanılan kütüphaneler"
@@ -112,6 +124,7 @@
     speakers: [30,31]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi29121431199718455"
 -
     id: 115
     title: "Temiz Kod"
@@ -120,6 +133,7 @@
     speakers: [21]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi77121431126652017"
 -
     id: 116
     title: "Pazara Açılma Dünyasında Mobil Güvenliği Önemsemek"
@@ -128,6 +142,7 @@
     speakers: [28]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi69141431277764151"
 -
     id: 117
     title: "Mobil Platformlarda Sürekli Dağıtım Nasıl Yapılır"
@@ -136,6 +151,7 @@
     speakers: [23]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi67381431130625830"
 -
     id: 118
     title: "VR Teknolojileri"
@@ -144,6 +160,7 @@
     speakers: [72]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi12001431199289559"
 -
     id: 119
     title: "4 Milyon Unity Geliştiricisine Android Kütüphanen ile Ulaş"
@@ -152,6 +169,8 @@
     speakers: [32]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi21371431281378228"
+    presentation: "http://v.zasadnyy.com/slides/reach-4-million-unity-developers-with-your-android-library.pdf"
 -
     id: 120
     title: "Mobil Sağlık"
@@ -176,6 +195,7 @@
     speakers: [60]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi42491431261562991"
 -
     id: 123
     title: "Android NDK"
@@ -184,6 +204,8 @@
     speakers: [4]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi79441431264871935"
+    presenation: "http://www.slideshare.net/ph0b/using-the-android-native-development-kit-ndk"
 -
     id: 125
     title: "Daha İyi Bir (U)Xperience Tasarlayın"
@@ -192,6 +214,7 @@
     speakers: [7]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi57201431181980438"
 -
     id: 126
     title: "Etkili Android"
@@ -200,6 +223,8 @@
     speakers: [11]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi15541431363963343"
+    presentation: "https://speakerdeck.com/orhanobut/effective-android"
 -
     id: 127
     title: "Bean'leri Bağlama: Android'deki Bluetooth Low Energy Kasisli Yolu"
@@ -208,6 +233,8 @@
     speakers: [12]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi42601431274776108"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMMG4tMTA2LUtDRjg/view?usp=sharing"
 -
     id: 128
     title: "MVP, Observer ve Mediator Örüntüleri ile Yeniden Kullanılabilir Uygulama Bileşenleri Geliştirme"
@@ -216,6 +243,7 @@
     speakers: [26]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi26761431356872724"
 -
     id: 129
     title: "Akıllı Bir Şekilde Startup Olun"
@@ -232,6 +260,7 @@
     speakers: [10]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi46731431209723971"
 -
     id: 131
     title: "Tüm Dünyayı Material Yap"
@@ -240,6 +269,8 @@
     speakers: [13]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi46731431209723971"
+    presentation: "https://speakerdeck.com/alosdev/material-all-the-world-android-developer-days-2015"
 -
     id: 132
     title: "Lollipop ile Gömülü Android"
@@ -248,6 +279,7 @@
     speakers: [20]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi60401431278412264"
 -
     id: 133
     title: "Android State Restoration'a Derin Dalış"
@@ -256,6 +288,8 @@
     speakers: [9]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi54001431360508278"
+    presentation: "https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration"
 -
     id: 134
     title: "indir.com Mobil Yarışma Finalistleri"
@@ -264,6 +298,8 @@
     speakers: []
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi35241431220477083"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMTVUwYWdGUkdVME5ILURValhVTV9Qb2I0VlVB/view?usp=sharing"
 -
     id: 135
     title: "Mobil Test Otomasyonu"
@@ -272,6 +308,7 @@
     speakers: [24]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi84601431213331392"
 -
     id: 136
     title: "Korsancılık"
@@ -280,6 +317,8 @@
     speakers: [15]
     language: en
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi49391431281879247"
+    presentation: "https://drive.google.com/open?id=1mWyhuAqkvj-DmoDJSMsomgTgc99sy-PESCJL2-_PzfU&authuser=0"
 -
     id: 137
     title: "Mobilde WebRTC"
@@ -296,6 +335,7 @@
     speakers: [35]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi35451431216961578"
 -
     id: 139
     title: "Android Sürekli Dağıtım"
@@ -304,6 +344,8 @@
     speakers: [36,37]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi73851431216805023"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMRUpDSFcyUUs3UHlrUkMwWFF1NFNicGcyNVZ3/view?usp=sharing"
 -
     id: 140
     title: "Android Wear'a Watch Face Geliştirme"
@@ -312,6 +354,8 @@
     speakers: [38]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi35451431216961578"
+    presentation: "https://docs.google.com/presentation/d/11-PZGdXYGHx4ae3tCVC_qZRDl_K4P0zLHlIYDSRqM4Q/edit?usp=sharing"
 -
     id: 141
     title: "Yapabilirim, Fakat Yapmayacağım"
@@ -320,6 +364,8 @@
     speakers: [39]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi78511431134225695"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMWnNsdjhrMmJQLTM4R3lWdlE0WlhwUmhKYy1n/view?usp=sharing"
 -
     id: 142
     title: "Her Android Geliştiricisinin Bilmesi Gereken Tasarım Kalıpları"
@@ -328,6 +374,7 @@
     speakers: [40]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi17891431137848409"
 -
     id: 143
     title: "Rop'un 106 Günlük Gelişim Hikayesi"
@@ -336,6 +383,7 @@
     speakers: [41]
     language: tr
     complexity: "Intermediate"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi55121431367575600"
 -
     id: 144
     title: "Herşeyin İnterneti"
@@ -344,6 +392,7 @@
     speakers: [42]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi29121431199718455"
 -
     id: 145
     title: "Cardboard SDK ve Unity 5.0 Kullanarak Sanal Gerçeklik Oyunu Geliştirme"
@@ -360,6 +409,7 @@
     speakers: [44]
     language: tr
     complexity: "Beginner"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMRnNmZFZfQ3lGUlE/view?usp=sharing"
 -
     id: 147
     title: "Yeni Fenomenler : Materialize, InterCooler ve Flat Üzerine Çalıştay"
@@ -384,6 +434,7 @@
     speakers: [17]
     language: en
     complexity: "Beginner"
+    presentation: "https://docs.google.com/presentation/d/1kGBOjar-3_Y0nIpJVYpkd7Cun6TN-U9PFLT1b_7fjaU/pub?start=false&loop=false&delayms=3000&slide=id.p"
 -
     id: 150
     title: "Swift ile IOS Çalıştayı"
@@ -392,6 +443,7 @@
     speakers: [47]
     language: tr
     complexity: "Beginner"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMWF9Nbnd3REFFOUU/view?usp=sharing"
 -
     id: 151
     title: " Android ile Bulut Ortamında Mobil Uygulama Geliştirme"
@@ -408,6 +460,8 @@
     speakers: [49]
     language: tr
     complexity: "Beginner"
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi73851431216805023"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMSHZvLWhTQTA4UkYwY0w1SUNYTEpIVy1tR09Z/view?usp=sharing"
 -
     id: 153
     title: "BLE (Bluetooth Low Energy) Teknolojisi ve Nesnelerin İnterneti Çalıştayı"
@@ -447,6 +501,7 @@
     subtype: presentation
     speakers: [57]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi35381431346930430"
 -
     id: 158
     title: "Android ve Yedi Cüceler"
@@ -454,6 +509,8 @@
     subtype: presentation
     speakers: [55,56]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi53531431119566899"
+    presentation: "http://www.slideshare.net/mobile/yenerm/android-and-the-seven-dwarfs"
 -
     id: 159
     title: "Android uygulamaları için Microsoft Azure bulut servisleri"
@@ -461,6 +518,7 @@
     subtype: presentation
     speakers: [59]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi60291431213339432"
 -
     id: 160
     title: "Neden Yazılımcı Olmalıyım?"
@@ -468,6 +526,8 @@
     subtype: presentation
     speakers: [61]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi44461431134246344"
+    presentation: "https://drive.google.com/file/d/0B0hgGtBdLOBMRlFzTnJGWVVHTzdWQTlxWXYtOVFxQUlUbnVN/view?usp=sharing"
 -
     id: 161
     title: "General Mobile"
@@ -482,6 +542,8 @@
     subtype: presentation
     speakers: [63]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi17891431137848409"
+    presenation: "https://drive.google.com/file/d/0B0hgGtBdLOBMeTBfVWJfSlhjMHpfTTBFTUpySlRnOUlpN0pn/view?usp=sharing"
 -
     id: 163
     title: "Eski Akıllı Telefonların Ev Güvenliğinde Kullanılması"
@@ -489,6 +551,7 @@
     subtype: presentation
     speakers: [64]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi91371431220414219"
 -
     id: 164
     title: "Hediye Çekilişleri - Tüm Salonlarda"
@@ -496,6 +559,7 @@
     subtype: presentation
     speakers: []
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi90371431287393583"
 -
     id: 165
     title: "Samsung B2B SDKları ile Sağlam Mobil Kurumsal Çözümler Geliştirin"
@@ -503,6 +567,7 @@
     subtype: presentation
     speakers: [58]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi19531431270238232"
 -
     id: 166
     title: "Samsung B2B SDKlarına Giriş"
@@ -510,6 +575,7 @@
     subtype: workshop
     speakers: [71]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi66621431203363309"
 -
     id: 167
     title: "Farklı Cihazlara Uygulamaları Hızlı Geliştir"
@@ -517,6 +583,7 @@
     subtype: presentation
     speakers: [65]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi25781431126677614"
 -
     id: 168
     title: "Appmethod ve Beaconlar ile Yakınlık Farkında Uygulama Geliştir"
@@ -524,6 +591,7 @@
     subtype: presentation
     speakers: [65]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi21371431281378228"
 -
     id: 169
     title: "Microsoft’un Evrensel Bulut Platformu"
@@ -531,6 +599,7 @@
     subtype: presentation
     speakers: [66]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi90851431273872811"
 -
     id: 170
     title: "IBM MobileFirst Platform Analytics ile uygulama performansınızı güçlendirin"
@@ -538,6 +607,7 @@
     subtype: presentation
     speakers: [68]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi52301431264301308"
 -
     id: 171
     title: "Hadi ATEITH'e Gidelim"
@@ -545,6 +615,8 @@
     subtype: presentation
     speakers: [67]
     language: en
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi96151431285492581"
+    presenation: "https://goo.gl/aFWHNA"
 -
     id: 172
     title: "Uygulamalarda Geri Bildirimin Önemi"
@@ -566,6 +638,7 @@
     subtype: presentation
     speakers: [70]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi44461431134246344"
 -
     id: 175
     title: "Hayalini Anlat Sunumları - A Salonu"
@@ -587,6 +660,7 @@
     subtype: presentation
     speakers: [73]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi52441431224095316"
 -
     id: 178
     title: "Android Custom Views"
@@ -594,6 +668,7 @@
     subtype: presentation
     speakers: [56]
     language: tr
+    presentation: "bit.ly/CustomViewsADD"
 -
     id: 179
     title: "Oyun Tasarımlarının Arkasındaki Psikolojiyi Anlamak"
@@ -601,3 +676,4 @@
     subtype: presentation
     speakers: [74]
     language: tr
+    video: "http://www.butterflytv.net/player.html?videoId=from_pi5891431195680698"

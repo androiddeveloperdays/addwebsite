@@ -1,0 +1,18 @@
+---
+layout: post
+title: "AGG 2015 Videoları ve Sunum Dosyaları"
+date:   2015-05-30 09:00:00
+isStaticPost: false
+---
+
+Konuşmaların videoları ve sunum dosyaları hazır! Videolar [Butterfly TV](https://play.google.com/store/apps/details?id=com.butterfly) desteği ile kayıt edildi. Butterfly TV Android için beta aşamasında olan bir canlı yayın uygulamasıdır. Butterfly TV ekibi Butterfly PI(Butterfly TV +Raspberry PI) isimli projeyi etkinliklerinizi ekonomik bir şekilde canlı yayınlayabilmeniz için geliştirdi. Butterfly PI topluluk üyelerimiz tarafından kısa sürede AGG'nin canlı yayınlanıp kayıt edilmesi için geliştirildi. Teknik problemler sebebi ile bazı videolar eksik veya hasarlı olabilir,bunun için kusura bakmayın ve diğer videoların keyfini çıkarın!
+
+Videoları nasıl izlersiniz?
+
+AGG web sitesinin üst menüsünden etkinklik programını gidiniz. Videosunu izlemek istediğiniz oturumu tıklayınız. Açılan pencerede video için "View Video", sunum dosyası için "View Presentation" linkine tıklayınız.
+
+Veya [Butterfly TV](https://play.google.com/store/apps/details?id=com.butterfly) uygulamasını indirin ve yukarıda anlatılan linkleri tıklayarak Butterfly TV Android uygulaması ile açarak izleyin.
+
+
+        
+
